@@ -90,6 +90,17 @@ Pour chaque finaliste :
 - **Des boutiques récentes arrivent-elles à se placer ?** Si oui, le marché absorbe encore. Si les nouveaux entrants échouent malgré une forte demande, étudier ceux qui ont réussi (angle, timing, offre) plutôt que de répliquer ce qui ne marche plus.
 - **Où le concurrent déçoit-il ?** Lire ses avis clients : les plaintes récurrentes sont l'endroit exact où se construit un angle différenciant (procédure complète : `Knowledge/Customer_Research_SOP.md`).
 
+## Étape 3 bis — Le check conformité (5 min, et il est éliminatoire)
+
+À faire **au moment du choix du produit**, jamais plus tard. C'est le seul risque de toute la chaîne qui soit **irréversible** : un SAV débordé se rattrape, un stock se recommande — des colis déjà expédiés non conformes, non. Une marque peut mourir de ça avec un ROAS à 4.
+
+Pour chaque finaliste :
+- **La catégorie est-elle réglementée ?** Les plus sensibles : cosmétique, alimentaire et compléments, électrique et électronique, jouet et puériculture, tout ce qui touche à la santé.
+- **Quelles mentions sont obligatoires** sur le produit et l'emballage dans les pays visés (composition, avertissements, marquage de conformité, coordonnées du responsable de la mise sur le marché) ?
+- **Dans quelle langue** l'étiquetage doit-il être fourni ?
+
+Si un finaliste tombe dans une catégorie lourdement réglementée et que la réponse n'est pas claire → **il sort de la shortlist pour un premier lancement.** Ce n'est pas de la prudence excessive : c'est le seul poste où l'erreur ne se corrige pas.
+
 ## Étape 4 — Décision et calcul avant test
 
 Sur le gagnant, **avant** de dépenser un euro :

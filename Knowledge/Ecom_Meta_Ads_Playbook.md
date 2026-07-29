@@ -491,7 +491,7 @@ L'agent est le fondement opérationnel : produit, qualité, délais, packaging, 
 
 C'est à ce stade que le sourcing devient un avantage compétitif réel — et ce qui transforme une boutique qui tourne en business qui dure.
 
-## 8. Le back-end — 5 à 10 % de marge nette
+## 8. Le back-end — ce qui décide si on garde l'argent gagné
 
 Six briques, souvent traitées comme de l'intendance alors qu'elles pèsent directement sur la marge :
 
@@ -500,6 +500,48 @@ Six briques, souvent traitées comme de l'intendance alors qu'elles pèsent dire
 Ensemble, elles représentent couramment **5 à 10 % de marge nette**. Un concurrent qui les optimise et pas nous finit par nous sortir du marché — ou, dans le meilleur des cas, nous empêche de profiter pleinement d'un océan bleu qu'on aurait pu prendre seul.
 
 **Le principe :** ne rien négliger, et surtout **ne pas s'en occuper seulement quand ça va mal**. C'est un jeu de constance, de leviers et d'optimisation continue — pas de réaction.
+
+> **Le front rapporte de l'argent. Le back décide si on le garde, et si on dure.**
+
+### Scaler le CA, c'est scaler l'entreprise entière
+
+Les indicateurs de pilotage (ROAS, marge nette, AOV, CPA) sont nécessaires — et insuffisants. Multiplier les campagnes multiplie mécaniquement tout le reste :
+
+| Ce qui augmente | Ce qui explose derrière |
+|---|---|
+| Plus de commandes | Logistique, stock, délais |
+| Plus de clients | Volume de SAV |
+| Plus de cash | Besoin de structuration financière |
+| Plus de visibilité | Exposition réglementaire |
+| Plus d'équipe | Charge de management |
+
+### Étude de cas — la configuration parfaite qui a détruit une marque
+
+Situation de départ idéale : produit nouveau, petite taille, grosse marge, achat récurrent évident, aucun concurrent sur les gros marchés anglophones, angles marketing simples. Résultat : **ROAS de 3 à 4, jusqu'à 60 % de marge nette.** Sur le papier, le scaling coulait de source.
+
+Trois failles, toutes dans le back :
+
+1. **Logistique sous-estimée** — pas de vrai pilotage du stock. Ruptures imprévues, délais non tenus, pression sur l'agent, livraisons décalées pour des centaines de clients. Un seul oubli logistique fait tomber la promesse client.
+2. **SAV non anticipé** — le volume de mails explose, le support n'a pas été renforcé. Réponses tardives ou bâclées, clients mécontents, confiance rompue. Plus le feu dure, moins il s'éteint.
+3. **Conformité légale négligée** — découverte en plein scaling : le produit exigeait des mentions légales précises sur le packaging dans plusieurs pays. **Des centaines de colis déjà expédiés étaient non conformes.** Irrattrapable.
+
+**Et la décision qui a tout achevé : continuer à scaler malgré les alertes.** Lancer des campagnes pendant que le back s'effondrait — l'illusion d'un business performant.
+
+**Résultat final : site suspendu, processeur de paiement bloqué, litiges en cascade, remboursements massifs, marque détruite.** Pas à cause du produit. Pas à cause du ROAS.
+
+### La checklist avant de scaler
+
+À passer **avant** chaque montée en budget significative :
+
+- [ ] Mon produit est-il **légal dans chaque pays ciblé** — y compris les mentions obligatoires sur le packaging et l'étiquetage ?
+- [ ] Mon **stock** est-il piloté en temps réel, avec un seuil d'alerte ?
+- [ ] Mon **SAV** peut-il encaisser le volume que je m'apprête à générer ?
+- [ ] Mes **outils** sont-ils automatisés et mes équipes prêtes ?
+- [ ] Mon **niveau de scaling est-il aligné avec ma supply** ?
+
+> Si la réponse est non : **on ne scale pas un business, on scale un problème.**
+
+**Note BOS — la conformité est le point aveugle systématique.** C'est le seul de la liste qui soit irréversible : un SAV débordé se rattrape, un stock se recommande, des colis non conformes déjà expédiés, non. À traiter **avant** la première commande fournisseur, pas au moment du scaling : mentions obligatoires par pays, normes applicables à la catégorie (cosmétique, alimentaire, électrique, jouet, dispositif médical — les plus réglementées), langue de l'étiquetage, garanties légales, mentions du vendeur. Quand un entrepreneur choisit un produit, BOS doit poser la question de la catégorie réglementée **au moment du choix**, pas plus tard.
 
 ## 9. Déléguer
 
