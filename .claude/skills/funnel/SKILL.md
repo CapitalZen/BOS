@@ -74,11 +74,22 @@ Pour l'étape retenue :
 
 BOS rédige **2-3 variantes** testables pour **un** changement principal (ex. headline seulement).
 
+**Si e-commerce** — leviers spécifiques et détails dans `Knowledge/Ecom_Meta_Ads_Playbook.md` §6 :
+
+- **L'AOV avant le taux de conversion.** Faire passer un panier de 30 à 60 € double la marge au même coût d'acquisition. Bundles en volume (1+1, 2+1 offert — « offert » déclenche un sentiment de gain plus fort qu'un pourcentage équivalent), cadeau physique ou e-book, seuils de livraison gratuite.
+- **Le panier** : barre de progression vers un avantage, bumps avant paiement, badges de réassurance en haut et sous le bouton. Urgence uniquement si elle est réelle — une fausse rareté est une pratique trompeuse et le premier motif de litiges.
+- **Les upsells post-achat** : même produit à prix réduit (consommables) ou complémentaire évident. Source d'idées gratuite : la section « fréquemment achetés ensemble » d'Amazon sur le produit.
+- **Cartographier avant d'optimiser** : un outil de heatmap/session replay (Microsoft Clarity, gratuit) montre où les visiteurs décrochent. Le drop-off réel dicte quoi tester — pas l'intuition.
+
 ### Phase 6 — Implémenter avec l'IA (BOS)
 
 - Réécriture des blocs prioritaires.
 - Proposition de structure alternative (wireframe textuel).
 - Si pertinent : plan de test A/B sur une variable — hypothèse, variante A/B, métrique de succès, durée minimale.
+
+**Rigueur d'un A/B test :** deux versions affichées **simultanément** au même trafic (jamais « avant/après » sur deux semaines — CPM, saisonnalité et jours fériés faussent tout). Volume minimum réel avant conclusion (~500 conversions par variante en e-commerce) ; significativité à partir d'un score Z de 1,96 (95 %). En dessous du volume, ne pas tester : optimiser sur la base des drop-offs observés.
+
+**La métrique de décision, c'est la marge nette par visiteur** — pas le taux de conversion, pas le CA par visiteur. Une variante qui convertit moins mais vend des paniers plus rentables gagne. Toujours recalculer le COGS moyen pondéré par la répartition réelle des offres avant de trancher.
 
 ### Phase 7 — Mesurer et itérer
 

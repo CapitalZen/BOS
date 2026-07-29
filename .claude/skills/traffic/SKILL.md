@@ -93,6 +93,15 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 - Allocation budget (test vs scale, règles de couper/scale).
 - Cadre de test créatif (hypothèse → variation → KPI → décision).
 
+**Si e-commerce sur Meta Ads** — méthode détaillée : `Knowledge/Ecom_Meta_Ads_Playbook.md`.
+
+- **Vérifier la trésorerie AVANT tout.** En dessous d'environ 3 000 € disponibles, ne pas lancer de Meta Ads : en e-commerce on avance le cash (pub, produit, livraison) avant d'encaisser, et un lancement sous-capitalisé échoue sur la trésorerie, pas sur la méthode. Le dire d'emblée et proposer l'alternative (constituer la trésorerie, ou un modèle sans avance de cash) plutôt que de laisser brûler 2 000 €.
+- **Calculer ROAS BE et ROAS Target avant le premier euro dépensé**, sur un COGS et un prix **moyens pondérés** par bundle — jamais sur le bundle 1x seul. Recalcul à 50 ventes, puis toutes les 2 semaines.
+- **Setup de testing** : CBO, 100 €/jour, 1 adset broad, objectif ACHAT, 10-15 créatives.
+- **Règles de décision** : sous le BE → couper ou refaire les créas ; entre BE et Target → maintenir ; au-dessus du Target → monter les paliers (100 → 200 → 300 → 500 → 700 → 1 000 → 1 500 €) toutes les 24-48 h en lisant les 3-4 derniers jours. Ne jamais couper sur une métrique isolée : CPM ou CPC élevés ne disent rien seuls, seul compte ce que rapporte l'euro investi.
+- **Funnel de créatives** : natives et TOFU pour les audiences froides, vidéos/statics MOFU, statics BOFU. Ne produire que du BOFU épuise l'audience.
+- **Garde-fous à énoncer** (détail en fin de playbook) : pas de réutilisation des vidéos concurrentes — on analyse l'angle et on produit sa propre version ; pas de faux témoignage ni de fausse urgence dans les natives ; ne jamais désactiver le calcul de TVA de Shopify.
+
 #### Si le canal = SEO
 
 Méthode complète : `Knowledge/SEO_Content_Playbook.md`. Séquence :
