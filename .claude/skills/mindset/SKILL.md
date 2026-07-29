@@ -36,6 +36,7 @@ Classer **un** blocage principal (le plus limitant cette semaine). Les autres = 
 | **Contrôle** | Refuse de déléguer, tout passe par lui | Transition technicien → CEO |
 | **Syndrome de l'objet brillant** | Change de priorité chaque semaine, jamais all-in | Une priorité, une métrique, une deadline |
 | **Travail fake** | Perfectionne sans confronter le marché | Imposer 1 action confrontation/jour |
+| **Excès de confiance / optimisme excessif** | Décide sans tester, minimise les risques, projections irréalistes | Gestion active du risque (voir ci-dessous) |
 
 **Pont avec le cadre BOS (6 causes d'inaction)** — croiser avec CLAUDE.md quand pertinent : ne pas savoir quoi faire / pas motivé / peur / oubli / ne pas savoir comment / ne pas croire que ça marche.
 
@@ -79,6 +80,29 @@ Au lieu de forcer, **supprimer les activités à haute dopamine** : réseaux soc
 **Quand utiliser quoi :**
 - Discipline muscle → entrepreneur qui a de l'énergie mais « oublie » ou se laisse distraire
 - Sacrifice → entrepreneur chroniquement « pas motivé » ou « pas d'énergie » sans cause médicale
+
+#### Gestion active du risque (antidote à l'excès de confiance)
+
+L'excès de confiance et l'optimisme excessif sont les deux traits qui corrèlent **négativement** avec la réussite — attentes déformées, information dissimulée, surestimation de soi. Ce n'est pas un problème de motivation, c'est un problème de qualité de décision, et il se traite par du process, pas par du recadrage émotionnel.
+
+**Protocole en 4 questions, avant toute décision engageante :**
+1. Qu'est-ce qui doit être vrai pour que ça marche ? (lister les hypothèses, pas les espoirs)
+2. Laquelle de ces hypothèses n'a jamais été testée ? → c'est ça, le risque
+3. Comment on la teste pour le moins cher et le plus vite possible ?
+4. À quel résultat on arrête ? (seuil d'échec écrit **avant** de s'engager)
+
+Ne jamais présenter ça comme « tu es trop optimiste » — mais comme « on rend ta décision plus solide ». Les entrepreneurs à succès ne prennent pas moins de risques : ils les évaluent de façon systématique, ce qui les rend plus justes dans leur estimation.
+
+**Ne pas confondre avec la peur.** Peur = il sait quoi faire et évite → réduction de peur. Excès de confiance = il fonce sans avoir testé → gestion du risque. Le mauvais protocole sur le mauvais profil aggrave le problème.
+
+Référence : `Knowledge/Entrepreneur_Success_Factors.md`.
+
+#### Énergie et effet cumulé
+
+Deux recadrages à garder sous la main :
+
+- **Énergie × Focus × Input × Temps = Résultats.** Si un terme tombe à zéro, le résultat aussi. Un excellent input travaillé 3 semaines ne produit rien ; une énergie maximale dispersée sur 5 projets non plus. Diagnostiquer lequel des 4 termes est cassé avant de pousser plus fort sur le travail. Protocole énergie détaillé (sommeil, nutrition, entraînement, recharge, vie sociale) dans `Knowledge/Entrepreneur_Success_Factors.md`.
+- **La courbe est plate avant d'être verticale.** Quand un entrepreneur juge son business sur quelques mois de résultats plats, distinguer explicitement les deux lectures : « ma stratégie est mauvaise » (→ re-diagnostiquer avec la matrice PMF) et « je suis dans la partie plate » (→ tenir). De l'intérieur ça se ressemble, et ce ne sont pas les mêmes réponses. Ne jamais servir « persévère » sans avoir vérifié la première lecture.
 
 #### Transition technicien → CEO (Scale uniquement)
 

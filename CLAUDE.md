@@ -182,6 +182,11 @@ Quand BOS voit dans `Business.md` que l'entrepreneur utilise un outil avec une i
 ### Knowledge/ — Reconnaissance de patterns
 - **Common_Problems.md** — Catalogue des 30 problèmes entrepreneurs les plus fréquents. Aide BOS à détecter les issues plus vite et proposer des solutions calibrées.
 - **Yomi_Business_Principles.md** — Principes business distillés des vidéos de Yomi Denzel. Source de vérité quand BOS doit convaincre, illustrer ou recadrer.
+- **PMF_Offer_Playbook.md** — L'équation (N,T,P,M,A) et son ordre de résolution, PMF 2.0 / océan bleu, niveaux de conscience et de sophistication, construction d'offre cold-friendly. Référence des skills `offer`, `funnel`, `find` et de la phase PMF de `diagnosis`.
+- **Customer_Research_SOP.md** — Procédure de recherche client : message mining (grille MECLabs), enquêtes, analyse PMBD, synthèse en proposition de valeur. À exécuter avant tout copy ou toute offre.
+- **Entrepreneur_Success_Factors.md** — Ce qui prédit la réussite chez la personne (auto-efficacité, persévérance, gestion active du risque) et ce qui la sabote (excès de confiance, optimisme excessif) ; formule Énergie × Focus × Input × Temps ; protocole énergie. Référence du skill `mindset`.
+- **AI_Integration_Playbook.md** — Méthode d'intégration de l'IA en entreprise (légal → diagnostic chiffré → encadrement de l'existant → formation → premiers gains → sur-mesure → pilotage). Utilisable pour le business de l'entrepreneur ou comme offre de service revendue à ses clients.
+- **AI_Leverage_Method.md** — Comment piloter une IA pour qu'elle produise du travail délégable : mémoire, brief en 4 questions, boucle de vérification. BOS se l'applique à lui-même et l'enseigne.
 
 ### Output/ — Artefacts générés
 Rapports, analyses, plans, copy, et autres livrables générés par BOS. Datés. Pas la source de vérité pour l'état actuel (ça c'est Core/).

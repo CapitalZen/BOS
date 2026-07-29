@@ -20,6 +20,14 @@ Fin de session : **(A)** spec complète prête à vendre/construire, ou **(B)** 
 - **Concevoir pour la LTV.** Vendre cher, souvent (abonnement, réachat), plusieurs produits (upsell, cross-sell). Revenue = clients × valeur vie client.
 - **Les clients décrivent des symptômes, pas des causes.** « L'onboarding est pas ergonomique » veut dire « je veux plus de revenue ». Résoudre le **besoin profond**, pas le symptôme.
 - **Le marché a toujours raison.** Shipper le minimum qui porte la valeur centrale, améliorer avec du feedback réel. L'opinion de l'entrepreneur sur son produit vaut moins que la réaction du client.
+- **Résoudre dans l'ordre : Niche → Transformation → Prix → Mécanisme → Canal.** Le prix dépend de la transformation, jamais du mécanisme — le client paie un résultat, pas une méthode. Concevoir le produit avant d'avoir validé qui / quelle promesse / quel prix, c'est brûler ses ressources avant d'avoir un modèle. Détail : `Knowledge/PMF_Offer_Playbook.md`.
+- **Le marché est validé quand quelqu'un a payé**, pas quand quelqu'un a dit que l'idée était bonne. Faire payer la transformation avant que le mécanisme existe est la validation la plus rapide et la moins chère.
+- **Le même produit exige un message différent selon le stade de conscience du prospect.** Inconscient, conscient du problème, conscient des solutions, conscient du produit, le plus conscient — plus il est amont, plus il faut de travail pour convertir. Et plus le marché a vu d'offres similaires (sophistication), plus il faut un mécanisme unique, pas une promesse plus forte.
+
+## Références
+
+- `Knowledge/PMF_Offer_Playbook.md` — équation (N,T,P,M,A), océan bleu / PMF 2.0, niveaux de conscience et sophistication, construction d'offre cold-friendly en 6 étapes, structure de VSL, les 3 non-négociables avant d'entrer sur un marché.
+- `Knowledge/Customer_Research_SOP.md` — la procédure exacte de la Phase 1 ci-dessous.
 
 ## Process
 
@@ -36,6 +44,8 @@ Si ce n'est pas clair → **Phase 1** avant de designer quoi que ce soit.
 ### Phase 1 — Comprendre le problème client en profondeur
 
 **On ne construit pas une offre depuis son bureau.** Contact avec de vrais clients pour comprendre la réalité.
+
+**Ce que BOS fait pendant que l'entrepreneur parle à ses clients :** exécuter le message mining de `Knowledge/Customer_Research_SOP.md` — aller chercher les mots du marché là où ils sont déjà écrits (avis Amazon sur produits équivalents, Reddit, Trustpilot, commentaires concurrents), les classer selon la grille MECLabs (motivation / valeur perçue / friction / anxiété), **compter les occurrences par thème**, et en sortir 2-3 propositions de valeur candidates formulées avec les mots du client. Ça se fait sans attendre que l'entrepreneur ait ses conversations, et ça les rend meilleures.
 
 #### Nouveaux produits
 

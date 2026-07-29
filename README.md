@@ -50,7 +50,12 @@ BOS/
 │   └── Journal.md         ← Log quotidien des avancées
 ├── Knowledge/             ← Reconnaissance de patterns
 │   ├── Common_Problems.md ← 30 problèmes entrepreneurs les plus fréquents
-│   └── Yomi_Business_Principles.md ← Principes business (source de vérité)
+│   ├── Yomi_Business_Principles.md ← Principes business (source de vérité)
+│   ├── PMF_Offer_Playbook.md ← Équation (N,T,P,M,A), océan bleu, niveaux de conscience
+│   ├── Customer_Research_SOP.md ← Message mining, enquêtes, proposition de valeur
+│   ├── Entrepreneur_Success_Factors.md ← Ce qui prédit la réussite (et ce qui la sabote)
+│   ├── AI_Integration_Playbook.md ← Intégrer l'IA en entreprise (méthode + cadre légal)
+│   └── AI_Leverage_Method.md ← Piloter une IA : mémoire, brief, vérification
 ├── .claude/skills/        ← 10 skills spécialisés
 │   ├── onboard/           ← Premier setup (~15 min)
 │   ├── find/              ← Choisir le bon business / valider / pivoter

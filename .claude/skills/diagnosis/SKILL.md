@@ -60,7 +60,9 @@ Basé sur les données collectées + Core/ files :
 
 ### Phase 3 — Diagnostic PMF (si Phase 2 = PMF)
 
-Arbre de décision, appliquer **dans l'ordre**. Stop à la première dimension qui explique « pas de ventes consistantes ».
+**Q0 — Le marché est-il validé ?** Avant l'arbre ci-dessous, vérifier la chaîne (N, T, P) : l'entrepreneur peut-il nommer sa niche (groupe défini, problème spécifique, circonstances spécifiques), la transformation promise, et le prix — et **quelqu'un a-t-il déjà payé** ? Si non, le problème n'est ni le trafic ni le funnel : c'est le marché. Router vers `offer`, en attaquant N → T → P avant tout travail sur le mécanisme ou le canal. Référence : `Knowledge/PMF_Offer_Playbook.md`, sections 1-2.
+
+Ensuite, arbre de décision, appliquer **dans l'ordre**. Stop à la première dimension qui explique « pas de ventes consistantes ».
 
 **Q1 — Volume : combien de gens voient l'offre ?**
 Comparer au volume nécessaire (taux de conversion standard). Dizaines de contacts ne prouvent rien — il faut des centaines.
