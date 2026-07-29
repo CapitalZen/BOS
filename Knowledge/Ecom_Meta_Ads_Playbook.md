@@ -489,6 +489,24 @@ L'agent est le fondement opérationnel : produit, qualité, délais, packaging, 
 | 0-10 commandes/jour | Agents spécialisés petits volumes — les agents privés chinois ne s'intéressent pas encore à ce niveau |
 | > 10 commandes/jour | **Agent privé chinois** : négociation du COGS au volume (chaque euro gagné améliore directement le ROAS), stocks tampons, packaging brandé, contrôle qualité renforcé |
 
+### Où trouver un agent — les 7 canaux, avec leurs pièges
+
+Trouver un agent est simple en soi ; c'est pourtant l'un des blocages les plus fréquents. La recherche se fait en deux temps : **trouver des candidats**, puis **les évaluer**. Voici les canaux, du plus fiable au plus exigeant en qualification.
+
+| Canal | Ce que ça vaut | Le piège |
+|---|---|---|
+| **Recommandation directe** | Le plus fiable. Retour d'expérience réel, gros gain de temps sur la qualification | Une relation longue donne des conditions négociées (prix, paiement, flexibilité). **Ne pas s'attendre aux mêmes conditions** que celui qui recommande |
+| **Plateformes de freelance** (Fiverr, Upwork) | Interface structurée, avis, historique. Bon pour un premier test à petit budget ou un besoin très spécialisé | Beaucoup ne sont **pas physiquement en Chine** — intermédiaires qui sous-traitent à leur tour. Il existe des « agents e-commerce » en France qui sous-traitent à un agent chinois. Vérifier la présence terrain |
+| **Alibaba / 1688** (messagerie interne) | Rapide pour obtenir un prix ou démarrer un échange | Dans la majorité des cas : **trading companies déguisées** ou commerciaux. Peu de visibilité sur qui gère quoi, communication générique. Les commerciaux intégrés à une usine sont utiles — mais **ce ne sont pas des agents logistiques** : ils vendent les produits de leur usine, ils ne gèrent ni expéditions ni consolidation |
+| **Communautés** (Discord, Skool) | Agents déjà testés par des membres, retours d'expérience accessibles | Tout le monde a « le meilleur agent de l'année ». Et **celui qui partage un contact a souvent un intérêt commercial** à le faire |
+| **Événements physiques** (salons, Canton Fair, meetups) | Rien ne remplace le contact direct : on juge le professionnalisme en quelques minutes, on compare plusieurs profils, on teste la réactivité | L'interlocuteur du salon n'est pas toujours celui avec qui on travaillera ensuite — commerciaux temporaires, relation déléguée après la foire. Et il faut pouvoir s'y rendre |
+| **Groupes Facebook** | Volume d'agents important. Poster sa situation suffit à être contacté | Aucun filtre : la qualification est entièrement à faire, et le ratio bruit/signal est élevé |
+| **Recherche directe** (Google, LinkedIn) | Sous-estimé. Les bons mots-clés (« sourcing agent China », « agent Shenzhen », « dropshipping agent ») font remonter des profils discrets et compétents. LinkedIn donne accès à des structures plus corporate, absentes des canaux classiques | Demande du temps et un process de qualification sérieux. Mais c'est là qu'on trouve des profils plus professionnels que ceux qui sont trop exposés ailleurs |
+
+**Le fil rouge des sept canaux :** la question n'est jamais « où le trouver » mais **« qui gère réellement mes commandes »**. Un agent qui ne peut pas dire précisément où sont ses entrepôts, qui manipule ses colis, et comment il gère un litige, est un intermédiaire de plus dans la chaîne — donc une marge de plus et un contrôle de moins.
+
+**Ce que BOS fait sur cette étape :** rédiger le message de premier contact, la liste des questions de qualification (présence terrain, entrepôts, délais de traitement, gestion des litiges, conditions de paiement, capacité de contrôle qualité), et la grille de comparaison des devis. L'entrepreneur envoie les messages et juge la réactivité — qui est en soi l'un des meilleurs signaux.
+
 C'est à ce stade que le sourcing devient un avantage compétitif réel — et ce qui transforme une boutique qui tourne en business qui dure.
 
 ## 8. Le back-end — ce qui décide si on garde l'argent gagné
