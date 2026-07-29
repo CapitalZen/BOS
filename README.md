@@ -56,6 +56,7 @@ BOS/
 │   ├── Entrepreneur_Success_Factors.md ← Ce qui prédit la réussite (et ce qui la sabote)
 │   ├── Ecom_Meta_Ads_Playbook.md ← E-commerce : produit, Meta Ads, créatives, CRO, sourcing
 │   ├── SEO_Content_Playbook.md ← Méthode SEO de contenu complète (mots-clés → cadence)
+│   ├── Recruiting_Playbook.md ← Attirer, filtrer et intégrer d'excellents profils
 │   ├── AI_Integration_Playbook.md ← Intégrer l'IA en entreprise (méthode + cadre légal)
 │   └── AI_Leverage_Method.md ← Piloter une IA : mémoire, brief, vérification
 ├── .claude/skills/        ← 10 skills spécialisés

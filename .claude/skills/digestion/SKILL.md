@@ -117,13 +117,25 @@ BOS produit le document ; validation entrepreneur avant sourcing.
 
 Pour chaque plateforme : instructions de post/recherche, nombre de candidats cibles, calendrier. **Templates d'outreach :** 2-3 messages personnalisés que l'entrepreneur peut envoyer.
 
+**Ne jamais s'en tenir à l'annonce.** Les meilleures recrues viennent rarement d'une candidature spontanée — elles viennent d'une recommandation, d'un message direct, ou de quelqu'un qui suivait le projet depuis des mois. À activer en parallèle systématiquement : post sur le compte personnel du fondateur, communautés du secteur, recommandations internes, approche directe de profils déjà en poste, et **la question aux gens de confiance : « Qui est la meilleure personne que tu connaisses sur ce sujet ? »**
+
+**Tenir une liste permanente de profils intéressants**, alimentée hors période de recrutement. Recruter uniquement dans l'urgence, c'est choisir dans un vivier qu'on n'a pas construit.
+
+**L'attractivité se construit avant le poste** — voir `Knowledge/Recruiting_Playbook.md`. Un candidat qui découvre la boîte par une annonce froide ne ressent rien ; un candidat qui suit le fondateur depuis six mois arrive à moitié convaincu. Si l'entrepreneur produit déjà du contenu, l'orienter pour qu'il documente aussi ce qu'il construit (avancées, coulisses, décisions, équipe) : ça sert l'acquisition **et** le vivier.
+
 #### 2.5 — Entretiens structurés
 
 **Tour 1 — Screening (15 min, async ou call)** — Filtrer les mauvais fit ; 3-4 questions de base ; dispo/conditions ; une question culture.
 
 **Tour 2 — Deep dive (30-45 min, call)** — Scorecard : pour chaque résultat attendu, « Donne-moi un exemple concret où tu as [résultat similaire] — contexte, actions, résultat ? » ; pour chaque compétence, scénario ; « Qu'est-ce qui n'a pas marché avant ? » ; « Pourquoi nous / ce projet ? »
 
-**Tour 3 — Test rémunéré** — Tâche réaliste (2-4h), livrables et deadline clairs, **payé**, évaluation vs scorecard. BOS rédige le test adapté au rôle.
+**Tour 3 — Test rémunéré** — Tâche réaliste (2-4h), livrables et deadline clairs, **payé**, évaluation vs scorecard. BOS rédige le test adapté au rôle. Le livrable compte, **la structure du raisonnement compte plus** : est-ce que la personne hiérarchise, simplifie, et apporte ce que l'interne n'avait pas ?
+
+**Tour 4 (postes clés)** — Faire rencontrer un second interlocuteur (associé, manager, personne de confiance). Le fondateur a envie que ça marche ; un deuxième regard corrige ce biais.
+
+**Deux règles de fond :**
+- **Ne pas vendre que du rêve.** Exposer la pression, le niveau d'exigence, la vitesse attendue. Le but n'est pas de convaincre tout le monde — c'est de faire fuir vite ceux qui ne colleront pas.
+- **La question de clôture, après chaque échange : « Est-ce que cette personne va retirer des problèmes de mon quotidien, ou en ajouter ? »** C'est souvent le meilleur filtre disponible.
 
 #### 2.6 — Matrice d'évaluation
 
