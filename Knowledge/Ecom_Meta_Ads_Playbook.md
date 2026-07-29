@@ -258,6 +258,19 @@ Objectif : **dépenser le moins possible pour obtenir le maximum de signaux.** O
 
 **Paliers de scaling :** 100 → 200 → 300 → 400 → 500 → 700 → 1 000 → 1 500 €, puis +500 ou +1 000 € selon les performances. On augmente **toutes les 24-48 h**, en analysant les **3-4 derniers jours**.
 
+### Deuxième école de media buying (ABO, budget par adset)
+
+Une approche différente, également répandue chez des praticiens qui scalent. À connaître : ce n'est pas une contradiction, ce sont deux réglages du même moteur.
+
+- **1 à 2 campagnes maximum**, par produit et par pays. Au-delà, on fragmente l'apprentissage de l'algorithme.
+- Tester **en ABO ou en CBO**, avec **1 à 4 créatives par adset** (contre 10-15 dans une CBO unique). Certains préfèrent nettement l'ABO : le budget par adset garantit que chaque créative reçoit de la diffusion, au lieu de laisser l'algorithme tout donner à deux d'entre elles.
+- **Règle de kill fondée sur l'AOV, pas sur une durée :** laisser dépenser **au moins une fois l'AOV** avant de tuer un adset — davantage s'il contient plusieurs créatives. On ne juge jamais une créative sur 20 € de dépense quand le panier moyen est à 60 €.
+- **Métriques de décision :** coût par ajout au panier, ROAS, CPA. Si c'est « correct », laisser tourner jusqu'à **deux fois l'AOV**. Si le ROAS ou le CPA sont mauvais → couper. Sinon → scaler.
+- **Scaler agressivement quand le ROAS atteint ou dépasse 2 × ROAS BE.** À ce niveau la marge absorbe la hausse de CPA que provoque l'augmentation de budget.
+- **Structure de scaling :** créer une **seconde campagne CBO** contenant toutes les créatives gagnantes, reprises **par leur post ID** (elles conservent ainsi likes, commentaires et partages — la preuve sociale accumulée fait baisser le CPM). ⚠️ **Ne pas tuer la gagnante dans la campagne de testing**, et continuer à scaler celle-ci aussi.
+
+**Ce qui est commun aux deux écoles — et qui compte plus que le choix ABO/CBO :** le budget se pilote au ROAS BE et au ROAS Target, on juge sur une dépense proportionnelle à l'AOV et non sur une impression, on alimente en créatives neuves en continu, et on ne perturbe jamais ce qui fonctionne déjà.
+
 **Lire les métriques correctement — l'erreur la plus fréquente.** Ne jamais couper sur une métrique isolée. Un CPM élevé peut signifier que Meta achète du trafic de meilleure qualité ; un CPC élevé n'a aucune importance si ceux qui cliquent achètent. La seule question : **est-ce que chaque euro investi rapporte assez ?**
 - *Signal « on coupe » :* CPC très élevé (~4 €), CTR très faible, 0 ajout au panier → aucune traction.
 - *Signal « on laisse tourner » :* pas encore rentable, mais excellents CTR, CPC bas, coût par ajout au panier bas → il y a de la traction, le problème est ailleurs (offre, page, prix) → optimiser la boutique.
@@ -306,6 +319,48 @@ Formats : post au ton naturel, note personnelle, échange de messages, témoigna
 
 Natives et contenus TOFU pour alimenter le système en audiences froides → vidéos et statics MOFU pour éduquer → statics BOFU pour convertir les hésitants. Par-dessus : du **volume**. Tester beaucoup, lire la data, couper, itérer.
 
+### Les deux équations de la créative
+
+```
+Succès = Quantité × Qualité × Diversité × Analyse
+Créative = Format × Concept × Angle marketing × Avatar ciblé × Assets visuels
+```
+
+La première dit qu'un seul terme à zéro annule tout : beaucoup de créas médiocres ne produisent rien, quelques excellentes créas sans diversité s'épuisent, et du volume sans analyse ne fait que dépenser. La seconde donne la **combinatoire** : cinq variables, donc des dizaines de variations possibles à partir d'un même produit. C'est de là que vient le volume — pas d'une inspiration nouvelle à chaque fois.
+
+**Le préalable non négociable :** la market research. Étudier le produit, les problèmes, les audiences **avant** de produire quoi que ce soit (procédure : `Customer_Research_SOP.md`). Sans elle, on produit du volume au hasard.
+
+### Par où commencer : la stratégie de media mix
+
+**Bombarder en statics d'abord.** C'est le format le plus rapide, le moins cher et le plus intensif à produire — on prend la température du format sur sa marque. Si les statics fonctionnent, c'est le levier le plus rentable qui existe : avec une bonne market research, la montée peut être très rapide.
+
+**Si les statics ne prennent pas, basculer massivement sur la vidéo.** Travailler avec les rushes disponibles et multiplier les variations de **hook** et d'**after-hook** — c'est là que se joue l'essentiel de la performance. Faire varier : audiences visées, pain points, visuels, et **concepts** (split screen, humour, marketing négatif — ce qu'il ne faut *pas* faire).
+
+**Quand ça fonctionne, acheter du contenu** pour ne pas tourner en rond, tout en continuant à collecter en continu.
+
+### UGC : demander du B-roll, pas du facecam
+
+Point contre-intuitif et très rentable : quand on commande de l'UGC, demander **principalement du B-roll** plutôt que du facecam. Raison : le B-roll se recombine à l'infini dans des montages différents, alors qu'un facecam est figé avec son script. **Le mashup est le concept le plus scalable parce qu'il permet le volume.**
+
+Où sourcer : plateformes spécialisées (Youdji, Influee, Backstage, Billo), marketplaces généralistes (Fiverr, Upwork), agences — ou directement sur TikTok et Instagram pour dénicher des créateurs à prix compétitif, ce qui marche particulièrement bien quand la niche demande du contenu brut et authentique pour une audience jeune.
+
+**Quand un créateur est excellent, passer sur un contrat de volume.** Ça l'arrange, et le coût unitaire de l'UGC baisse nettement.
+
+**Sur les formats plus produits** (podcasts, micro-trottoirs, créas studio, créas entrepôt) : excellents pour **diversifier**, et la diversification compte. Mais ce n'est pas une base solide — parce que ce n'est ni rapide ni reproductible en volume. La base, c'est le mashup : actionnable, rapide, fiable, et scalable.
+
+### Les 3i — inspiration, itération, idéation
+
+Le curseur bouge avec la maturité du compte :
+
+| Stade | Répartition | Ce qu'on fait |
+|---|---|---|
+| **Début** | Inspiration : reprendre ce qui fonctionne déjà (le top 1 % visible, celui qui a de l'engagement et des impressions) | Puis **~70 % idéation / 30 % itération** — on cherche ses formats, ses concepts, ses angles, ses visuels |
+| **Maturité** | **~70 % itération / 30 % idéation** | On connaît le produit et ses audiences, on décline ce qui marche — sans jamais couper l'idéation, car une nouvelle poche d'audience est ce qui permet de scaler plus haut ou de stabiliser à gros budget |
+
+**Même logique de survivant que pour les funnels :** les publicités visibles avec de l'engagement sont celles qui ont survécu. Des milliers n'ont jamais dépassé 300 € de dépense et ont disparu. Commencer par s'inspirer du top 1 %, puis faire des mashups de ces gagnantes pour tester plus fort. *(Rappel : on reprend la structure — hook, angle, rythme, argument — pas les fichiers d'autrui, cf. Réserves.)*
+
+**Quand la traction arrive (break-even ou rentable), les créatives deviennent le plus gros levier du business.**
+
 ## 5. La boutique Shopify
 
 **Principe directeur : le site est le prolongement direct de la publicité.** Même histoire, même ton, même énergie. Un prospect qui arrive sur une page qui casse cette dynamique, c'est une vente perdue.
@@ -334,7 +389,38 @@ Le SMS est lu en moyenne dans les 3 minutes. Canal peu saturé, à activer une f
 
 ## 6. CRO — optimisation de la conversion
 
-Le CRO est le levier le plus direct pour améliorer la rentabilité **sans toucher aux campagnes**.
+Le CRO est le levier le plus direct pour améliorer la rentabilité **sans toucher aux campagnes**. Il devient le **deuxième levier du business** dès qu'on atteint un volume significatif (~120-150 ventes/jour), et il compte bien avant ça.
+
+### Pourquoi le CRO est une arme concurrentielle, pas une optimisation cosmétique
+
+Deux boutiques, **les mêmes créatives**. L'une transforme 1 € en 2 €, l'autre transforme 1 € en 3 €. Ce qui arrive ensuite :
+
+- Le concurrent **te sort du scaling** : quand les CPA montent, il reste rentable et pas toi
+- Il **réinvestit son surplus en contenu** — donc il n'a jamais de fatigue publicitaire, toi si
+- Il **survit à une réserve ou un gel** de processeur de paiement, toi non
+- Il **recrute de meilleurs profils** avec l'argent en plus
+
+Ce n'est pas un petit plus : c'est ce qui décide qui reste sur le marché.
+
+**Le CRO est incrémental.** +3 %, +5 %, +2 %, +1 % — cumulés, ils rendent une boutique très difficile à concurrencer. Aucun de ces gains n'est spectaculaire isolément, et c'est exactement pour ça que la plupart ne les font jamais.
+
+### Les priorités, dans l'ordre
+
+**L'above the fold** (ce qui est visible sans scroller) concentre l'essentiel du gain :
+- **Le meilleur prix**, arbitré sur le **profit par visiteur**, pas sur le taux de conversion
+- **Le meilleur bundle**
+- **Le carrousel d'images le plus performant**
+- **Le meilleur titre produit**
+
+**Puis le panier :** avec ou sans assurance/protection de commande, les meilleurs bumps, l'intérêt d'une étape pre-purchase.
+
+**Puis :** post-achat, pages de collection, contenu, copywriting.
+
+### La boucle
+
+> **Formuler des hypothèses → prioriser → tester → analyser → implémenter ou non → recommencer.**
+
+**Pourquoi un vrai A/B test plutôt qu'un simple changement observé ?** Parce qu'un gain de +5 % est **invisible à l'œil nu**. Il est noyé dans les fluctuations entre les jours, la fatigue publicitaire, les cycles de la semaine, l'arrivée de nouvelles créatives gagnantes et les tests en cours. Sans mesure simultanée sur le même trafic, on attribue au changement ce qui vient du bruit — et on prend des décisions à l'envers. On veut de la donnée dure et de la significativité statistique, pas une impression.
 
 ### Landing pages
 
@@ -405,7 +491,28 @@ L'agent est le fondement opérationnel : produit, qualité, délais, packaging, 
 
 C'est à ce stade que le sourcing devient un avantage compétitif réel — et ce qui transforme une boutique qui tourne en business qui dure.
 
-## 8. Répartition BOS / entrepreneur
+## 8. Le back-end — 5 à 10 % de marge nette
+
+Six briques, souvent traitées comme de l'intendance alors qu'elles pèsent directement sur la marge :
+
+**Email · SMS · produit · logistique · SAV · assets**
+
+Ensemble, elles représentent couramment **5 à 10 % de marge nette**. Un concurrent qui les optimise et pas nous finit par nous sortir du marché — ou, dans le meilleur des cas, nous empêche de profiter pleinement d'un océan bleu qu'on aurait pu prendre seul.
+
+**Le principe :** ne rien négliger, et surtout **ne pas s'en occuper seulement quand ça va mal**. C'est un jeu de constance, de leviers et d'optimisation continue — pas de réaction.
+
+## 9. Déléguer
+
+Faire tourner une grosse boutique seul n'est pas impossible — c'est la direction du burnout, de l'inconstance, et du blocage sur les leviers qu'on ne maîtrise pas. Personne n'est expert partout en même temps.
+
+- **Travailler avec des gens qui veulent sincèrement la réussite du projet**, pas avec des prestataires pour qui on est un numéro.
+- **Ne pas surpayer, mais ne pas sous-payer non plus.** Une personne sérieuse qui apporte une expertise réelle et de l'énergie a un prix, et c'est normal. Sous-payer, c'est acheter de la rotation et de la médiocrité.
+- **Garder une structure simple.** Les grosses structures se construisent sur des années, pas sur des semaines.
+- **Rester skin in the game.** Un business a besoin de son fondateur pleinement présent pour percer. Personne ne voudra la réussite du projet plus que celui à qui il appartient.
+
+*(Méthode complète de recrutement : `Knowledge/Recruiting_Playbook.md`.)*
+
+## 10. Répartition BOS / entrepreneur
 
 | Tâche | Qui |
 |---|---|
