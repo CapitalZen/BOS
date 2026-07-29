@@ -44,6 +44,21 @@ Recommandé au lancement (Facebook, Instagram, Messenger, WhatsApp) pour quatre 
 
 TikTok, Google et Pinterest Ads ont leur place — **en phase de scaling, pas au lancement.** On maîtrise un canal avant d'en ouvrir un deuxième.
 
+### La séquence de démarrage — repartir de zéro proprement
+
+L'ordre des opérations, quand on n'a rien. Chaque étape dépend de la précédente ; en sauter une, c'est se retrouver à deviner à l'étape d'après.
+
+1. **Ne pas chercher un produit au hasard** parce qu'on le trouve intéressant. C'est le point de départ le plus coûteux : l'avis de l'entrepreneur sur un produit ne vaut rien face à la data du marché.
+2. **Partir des boutiques qui dépensent déjà.** Repérer les produits qui tournent depuis plusieurs mois : les marchés, les créas, et surtout **le spend**. Le budget qu'un concurrent maintient est la seule validation gratuite qui existe.
+3. **Veille concurrentielle sur le produit retenu.** Qui le vend, où, combien ils dépensent — et surtout : **reste-t-il de la place sur d'autres marchés ?** C'est souvent là qu'est l'opportunité réelle plutôt que dans une bagarre frontale.
+4. **Construire le site.** Ne pas réinventer la roue : regarder ce que les concurrents font bien, et bâtir quelque chose de propre autour du produit.
+5. **Les créas, même logique.** Aller chercher les meilleures ads qui tournent déjà, analyser **hooks, angles, scripts, formats** — puis lancer beaucoup de variations pour avoir assez de data (voir §4 pour la production, et les Réserves pour ce qu'on ne réutilise pas tel quel).
+6. **Tester → analyser → scaler ce qui marche → couper ce qui ne marche pas.** Sans état d'âme, sur les règles de décision du §3.
+
+> **Le vrai risque n'est pas de se tromper de produit, c'est de partir dans tous les sens.** Il n'y a pas de hack magique. Il y a une méthode, et elle se juge à l'application, pas à la lecture.
+
+**Point BOS :** sur cette séquence, les étapes 2, 3, 4 et 5 sont majoritairement du travail que BOS fait — recherche, analyse concurrentielle, structure de site, angles et scripts. L'entrepreneur apporte le budget, les décisions et l'exécution opérationnelle. C'est l'argument à lui donner : *« La partie qui prend des semaines aux autres, on la fait ensemble en quelques heures. »*
+
 ### Le chemin 0 → 1M avec peu de budget — les 11 questions
 
 Le parcours entier tient dans une liste de questions à résoudre, puis à **appliquer en masse**. Ce n'est pas un chemin compliqué : c'est une question de répétition. Ce qui décide, c'est **la gestion du cash-flow** — le reste n'est qu'affaire de temps et de nombre de cycles.
