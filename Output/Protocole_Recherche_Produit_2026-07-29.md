@@ -37,6 +37,24 @@ Trois raisons, aucune n'est un défaut personnel :
 
 **Sortie de l'étape 1 :** une liste brute de 10 produits, avec pour chacun le nom de la boutique, le lien Ad Library, le nombre d'annonces actives et la date de la plus ancienne annonce.
 
+### Le filtre qui change tout : ne regarder que ceux qui ont tes armes
+
+Quand tu es dans l'Ad Library, tu vas croiser deux types de boutiques :
+- **Des marques installées** avec du budget, de l'antériorité, une équipe. Leurs résultats ne sont pas reproductibles avec ta trésorerie — les regarder t'induit en erreur.
+- **Des boutiques e-commerce indépendantes** qui jouent avec les mêmes armes que toi.
+
+**Comment les distinguer en 10 secondes :** ouvre le site de la boutique et repère les mécaniques typiques du e-commerce indépendant — sélecteur de bundle (« achetez-en 2, économisez X »), widget d'avis clients, guide des tailles, pop-up d'inscription email/SMS, barre de progression vers la livraison gratuite. Si tu vois cette signature, tu es sur une boutique comparable à la tienne. **C'est celle-là qu'il faut étudier.**
+
+### L'analyse rétro saisonnière (l'étape que presque personne ne fait)
+
+Les produits, même evergreen, ont des cycles. Un produit qui a explosé en septembre l'an dernier a de bonnes chances de recommencer.
+
+**Version gratuite, faisable maintenant :** TikTok Creative Center donne les top ads par pays, par secteur et par période — remonte sur les mêmes mois des années précédentes. Google Trends confirme la saisonnalité d'une catégorie sur 5 ans, gratuitement.
+
+**Version payante (~50-100 €/mois : AdSpy, TrendTrack, Kalodata, Pipiads) :** filtrer sur le même mois de l'année précédente + les 2 mois suivants, avec un seuil d'engagement, puis remonter sur 5 ans, marché par marché. On cherche des **patterns récurrents**, pas un produit à copier.
+
+**Ma recommandation vu ta trésorerie :** commence gratuit. Un abonnement de veille est un bon investissement — mais il entre en concurrence directe avec ton budget publicitaire, et c'est le budget publicitaire qui produit les données. Un mois d'outil se prend **au moment où tu es prêt à lancer**, pas trois mois avant.
+
 ## Étape 2 — Scoring (15 min pour les 10)
 
 Note chaque candidat sur les 4 critères. **Un critère à 0 est éliminatoire, quel que soit le total.**
@@ -47,6 +65,17 @@ Note chaque candidat sur les 4 critères. **Un critère à 0 est éliminatoire, 
 | **Demande croissante** | Annonces stables ou en baisse | Croissance visible depuis < 2 mois | Croissance forte et continue depuis 2-3 mois |
 | **Time-to-market** | Produit installé depuis > 1 an, courbe plate | Produit récent mais signal faible | Explosion < 3 mois, ou saisonnalité qui se répète |
 | **Contenu disponible** | Rien n'existe, tout à produire | Quelques vidéos exploitables comme référence | Beaucoup de contenu organique sur le produit |
+
+**Critères de viabilité — vérifiés sur les finalistes uniquement, mais éliminatoires :**
+
+| Critère | Seuil |
+|---|---|
+| **AOV atteignable** | ≥ 35 € par commande (bundle compris) |
+| **ROAS BE visé** | < 1,5 |
+| **Evergreen** | Demande toute l'année, pas un pic unique |
+| **Produit léger** | Recommandé — le poids pèse sur le coût logistique et les délais |
+| **TAM large** | Assez de monde pour absorber le scaling |
+| **Récurrence / consommable** | Bonus fort, pas obligatoire |
 
 **Bonus — les 5 raisons d'achat.** Compter combien le produit en coche : résout un problème · facilite la vie · fait gagner de l'argent · élève le statut · réunit une communauté.
 **0 raison cochée = élimination immédiate**, quel que soit le score. Chaque raison cochée est un angle de test différent, donc un actif.

@@ -142,6 +142,53 @@ Deux leviers d'amélioration : **négocier le COGS au volume** (à ~200 commande
 
 **4. Contenu disponible en volume.** Plus il existe de contenu autour du produit, moins la production coûte. Une créative UGC de qualité coûte 50 à 300 € ; pour scaler il en faut des dizaines. Sur un produit sans contenu existant, on peut dépenser 3 000 à 5 000 € en production avant d'avoir validé quoi que ce soit.
 
+### Grille produit étendue (viser une boutique stable à gros volume)
+
+Les 4 critères précédents sont le socle. Pour viser une boutique qui tient dans la durée plutôt qu'un coup, le produit doit cocher un maximum de cases supplémentaires :
+
+| Critère | Seuil / attendu |
+|---|---|
+| **Evergreen** | Demande présente toute l'année, pas un pic unique |
+| **ROAS BE** | **< 1,5** — en dessous de ce seuil, la marge absorbe les hausses de CPM au scaling |
+| **Qualité réelle** | Prérequis de la rétention et du taux de litige |
+| **TAM large** | Marché adressable assez grand pour absorber le scaling |
+| **AOV minimum** | **≥ 35 €** par commande (+20 % environ sur le marché US) |
+| **Contenu déjà disponible en masse** | Réduit le coût de production créative à presque zéro |
+| **Bundle / upsell / cross-sell performant** | Facultatif mais décisif sur l'AOV |
+| **Récurrence** | Facultatif — un consommable ou un abonnement change l'économie du business |
+| **Produit léger** | Recommandé — le poids pèse sur le coût logistique et les délais |
+
+### Sourcing : chercher ceux qui ont les mêmes armes que soi
+
+**Les produits evergreen ont eux aussi des cycles**, micro et macro. L'enjeu n'est pas seulement « quel produit marche », mais **« qu'est-ce qui marche le mieux ce mois-ci et le mois prochain »** — pour démarrer dans les meilleures conditions.
+
+**1. Le présent — qui chiffre en ce moment.**
+Sur un outil de veille : sites avec au moins ~20 k de trafic (à pondérer par l'AOV) et au moins ~30 annonces actives. Regarder les impressions sur les 30 derniers jours en Europe : qui scale ?
+
+**Le filtre le plus malin du lot — l'empreinte applicative.** Filtrer sur les applications typiques du e-commerce indépendant (apps de bundle, avis clients, guide des tailles, email/SMS marketing). On isole ainsi les boutiques qui jouent **avec les mêmes armes que soi**, et on écarte les grosses marques installées dont les résultats ne sont pas reproductibles avec un petit budget.
+
+**2. Le côté TikTok.** Outils spécialisés (Kalodata, Fastmoss, Pipiads). Intérêt double : ce sont souvent des produits avec énormément de contenu disponible, et parfois **jamais encore poussés sur Meta** — ce qui laisse un canal entier à prendre.
+
+**3. Le passé — l'analyse rétro saisonnière.** C'est la partie que presque personne ne fait.
+Sur un outil d'archive publicitaire : filtrer sur **le même mois de l'année précédente** (et les deux mois qui suivent), avec un seuil d'engagement (ex. ≥ 1 000 likes). Puis remonter ainsi sur les **5 dernières années**, marché par marché.
+On ne cherche pas un produit à copier : on cherche **des patterns, des tendances récurrentes, des problèmes qui reviennent chaque année à la même période**. Prendre le temps de scroller, d'analyser le produit, le funnel, les créatives en profondeur.
+
+**Sortie :** tout produit qui coche les critères à vue d'œil entre dans une liste brute, puis on applique la grille complète pour en faire une shortlist. Chaque produit de la shortlist est bon — on les teste **un par un**, jamais en parallèle.
+
+### Le cimetière de funnels — pourquoi s'inspirer n'est pas de la paresse
+
+Concept central, et probablement le meilleur argument contre l'obsession de l'originalité chez un débutant.
+
+**Un funnel est une montre suisse.** Créatives, offre, page produit, upsells, panier, post-achat, séquence email : chaque pièce compte, et la rentabilité est fragile. Changer un élément peut faire basculer l'ensemble.
+
+**Ce qu'on voit avec les filtres ci-dessus, ce sont les funnels *survivants*.** Derrière eux, il y a des milliers de funnels qu'on ne voit pas — ceux qui n'ont pas fonctionné ces dernières années. Un cimetière invisible. Le biais du survivant joue ici **en notre faveur** : les filtres de dépense et de durée éliminent mécaniquement ce qui n'a pas tenu.
+
+> Avec peu de trésorerie, on n'a pas les armes pour être pionnier. Reproduire la structure d'un funnel qui a survécu, c'est réduire le risque — pas manquer d'ambition.
+
+**Concrètement :** page produit simple, inspirée du concurrent qui scale, avec les mêmes mécaniques d'upsell et de cross-sell. On teste ensuite ses propres angles par-dessus une base qui a déjà prouvé qu'elle convertit.
+
+⚠️ **La ligne à ne pas franchir** (voir Réserves) : on reproduit **la structure et les mécaniques** — l'ordre des sections, le type d'upsell, la logique de bundle, la construction de l'offre. On ne reprend **pas** les assets d'autrui : images, vidéos, textes, avis clients. La structure n'appartient à personne ; le contenu appartient à son auteur.
+
 ### Choisir son marché
 
 - **Big 5 anglophones** (US, UK, CA, AU) : volumes énormes, concurrence féroce, CPM 3 à 4× la France. Profils expérimentés, 15 000 à 20 000 € minimum pour tester sérieusement.
