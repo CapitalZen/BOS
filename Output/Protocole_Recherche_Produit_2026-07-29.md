@@ -23,7 +23,29 @@ Trois raisons, aucune n'est un défaut personnel :
 
 ## Étape 1 — Sourcing des candidats (60 min)
 
-**Ce qu'on cherche : des boutiques dont la dépense publicitaire est en croissance sur les dernières semaines.** Pas des produits « intéressants ». Le signal, c'est l'argent que quelqu'un d'autre met déjà.
+**On ne cherche pas un produit. On cherche des marques — et on en déduit les produits.**
+
+Le produit miracle n'existe pas. Les meilleurs produits sont déjà vendus par d'autres, et c'est exactement le bon signal : demande prouvée, marché validé, angles éprouvés. Ce qui se cherche, c'est **où s'insérer**.
+
+### Le point le plus important : viser le bon niveau
+
+L'erreur qui fait échouer 90 % des copies : prendre une grosse marque installée depuis deux ans, refaire son site, reprendre ses pubs. **Elle est niveau 100. Tu démarres niveau 1.** Elle a des mois de confiance accumulée, une communauté, une stratégie optimisée. Tu ne peux pas jouer dans cette cour au premier jour.
+
+> **Ta cible, c'est le niveau 10 :** une marque lancée il y a **3 à 6 mois** qui fait déjà du volume et scale fort. Elle prouve qu'il y a du momentum **et** qu'il reste de la place. Et elle te montre ce qui marche **maintenant** — pas ce qui marchait il y a deux ans avec d'autres coûts publicitaires.
+
+### La procédure
+
+1. **Constituer une liste de 50 marques** dans un tableur : nom, lien, visiteurs/mois estimés, nombre d'annonces actives, date de lancement.
+   *Sources gratuites :* veille Instagram et TikTok (fil entraîné volontairement en interagissant avec des pubs produits pendant 2-3 jours), Meta Ad Library filtrée par pays, TikTok Creative Center. Les extensions gratuites de certains outils de veille donnent une estimation de trafic sans abonnement.
+2. **Filtre 1 — trafic :** ne garder que les marques à **plus de ~40 k visiteurs/mois**. La marque est en place, elle génère du trafic constant, donc elle a compris comment vendre son produit.
+3. **Filtre 2 — annonces actives :** au moins **30**. Elle teste des angles et cherche à scaler. *(Une marque qui fait tourner les mêmes 5 pubs depuis des semaines stagne ou meurt doucement — on passe.)*
+4. **Tri décisif — par date de lancement**, de la plus récente à la plus ancienne. **Garder les 10 plus récentes** qui passent les deux filtres.
+
+**Comment repérer les boutiques comparables à la tienne** (et écarter les grosses marques dont les résultats ne sont pas reproductibles) : ouvre le site et cherche la signature du e-commerce indépendant — sélecteur de bundle, widget d'avis, guide des tailles, pop-up email/SMS, barre de progression vers la livraison gratuite.
+
+⚠️ **Ce qu'on n'utilise pas :** les listes « top 10 produits gagnants 2026 » des blogs et sites d'outils. Vues par des dizaines de milliers de personnes, aucune donnée de dépense, produits déjà surexploités.
+
+**Sortie de l'étape 1 :** 10 marques récentes, en croissance, avec pour chacune le lien du site, le lien Ad Library, le trafic estimé, le nombre d'annonces actives et la date de lancement.
 
 **Sources gratuites, dans l'ordre d'efficacité :**
 
@@ -82,6 +104,18 @@ Note chaque candidat sur les 4 critères. **Un critère à 0 est éliminatoire, 
 
 **Seuil de passage : 6/8 minimum, aucun 0, au moins 2 raisons d'achat.**
 
+## Étape 2 bis — L'analyse en profondeur (BOS la fait)
+
+Sur les marques retenues, il y a un travail d'analyse qui prend **2 à 3 heures par marque** à quelqu'un qui le fait à la main. **C'est exactement ce que je fais à ta place**, à partir des liens que tu me donnes :
+
+- **Le site** — storytelling, présentation du produit, bénéfices mis en avant, ton du copy, structure tarifaire (prix, bundles, upsells), estimation du panier moyen
+- **Les publicités les plus dépensées** — angles exploités (problème, bénéfice, ou résultat final ?), formats (témoignage, UGC, démonstration), et surtout **celles qui tournent depuis le plus longtemps** : ce sont elles qui performent
+- **Les commentaires sous les pubs — la mine d'or.** Questions, amis identifiés, expériences partagées, objections récurrentes. On y lit en temps réel ce qui intéresse l'audience et ce qui la freine
+- **La carte du marché** — concurrents directs, gros acteurs, nouveaux entrants, angles déjà saturés, espaces libres
+- **La demande de fond** — tendance des mots-clés du produit sur plusieurs années, requêtes associées, répartition géographique (elle donne des angles et des marchés secondaires)
+
+**Ce que ça produit, au-delà d'un produit :** la compréhension du marché, les angles qui fonctionnent déjà, les objections à traiter, et les segments que personne n'exploite. C'est de là que sort **ton** angle — pas d'une copie.
+
 ## Étape 3 — Vérification concurrentielle (20 min sur les 2-3 finalistes)
 
 Pour chaque finaliste :
@@ -113,8 +147,9 @@ Sur le gagnant, **avant** de dépenser un euro :
 
 | Étape | Qui |
 |---|---|
-| 1 — Sourcing dans l'Ad Library | **Toi** (accès depuis ton navigateur), ~60 min. Tu me colles les liens et les captures |
+| 1 — Sourcing : 50 marques → filtres → 10 plus récentes | **Toi** (accès depuis ton navigateur), ~60 min. Tu me colles les liens |
 | 2 — Scoring des 10 candidats | **BOS** — je remplis la grille et je justifie chaque note |
+| 2 bis — Analyse en profondeur (site, pubs, commentaires, marché, demande) | **BOS** — 2-3 h de travail par marque, faites en parallèle |
 | 3 — Vérification concurrentielle et lecture des avis | **BOS** — analyse des marchés couverts, des plaintes clients, des angles disponibles |
 | 4 — Calculs COGS/ROAS et go/no-go | **BOS** calcule, **tu** décides |
 | Après : angles, scripts de créas, structure de boutique, copy, flows email | **BOS** |

@@ -175,6 +175,41 @@ On ne cherche pas un produit à copier : on cherche **des patterns, des tendance
 
 **Sortie :** tout produit qui coche les critères à vue d'œil entre dans une liste brute, puis on applique la grille complète pour en faire une shortlist. Chaque produit de la shortlist est bon — on les teste **un par un**, jamais en parallèle.
 
+### Partir d'une marque, pas d'un produit — et viser le bon niveau
+
+**Le produit miracle n'existe pas.** On peut faire de gros chiffres sur des marchés saturés avec des produits banals — ce qui compte, c'est **la façon dont on s'insère**. On ne trouvera pas un produit révolutionnaire page 47 d'un annuaire de fournisseurs : les meilleurs produits sont **déjà vendus**, et c'est justement le bon signal — demande prouvée, marché validé, angles marketing éprouvés.
+
+**L'erreur qui rend le copiage inefficace : viser le niveau 100.** Beaucoup repèrent une grosse marque installée depuis deux ans, refont son site à l'identique, reprennent ses pubs — et s'étonnent que ça ne décolle pas. Cette marque a construit sa confiance sur des mois, optimisé sa stratégie, développé une communauté. **Elle est niveau 100, on démarre niveau 1.** On ne joue pas dans la même cour au premier jour.
+
+> **La cible juste : les marques niveau 10.** Récentes (3-6 mois), déjà en train de scaler fort, avec un positionnement qui résonne — mais qui n'ont pas encore verrouillé leur marché. Elles prouvent qu'il y a du momentum **et** qu'il reste de la place. Et elles montrent ce qui fonctionne **maintenant**, pas ce qui fonctionnait il y a deux ans avec d'autres coûts publicitaires.
+
+**Construire sa base de marques :**
+1. Lister **au moins 50 marques** e-commerce (tableur : nom, lien, visiteurs/mois, annonces actives, date de lancement)
+2. Ne garder que celles à **> 40 k visiteurs/mois** — la marque est en place et génère du trafic constant, donc elle a compris comment vendre son produit
+3. Et à **au moins 30 annonces actives** — elle teste des angles et cherche à scaler
+4. **Trier par date de lancement**, de la plus récente à la plus ancienne, et **garder les 10 plus récentes** qui passent les deux filtres
+
+**Analyser chacune en profondeur** (compter 2-3 h par marque, c'est ce temps-là qui fait la différence) :
+- **Le site** — storytelling, présentation du produit, bénéfices mis en avant, ton du copy, structure tarifaire (prix, bundles, upsells), et une estimation du panier moyen
+- **Les publicités les plus dépensées** — angles exploités (problème ? bénéfice ? résultat final ?), formats (témoignage, UGC, démonstration). **Les pubs qui tournent depuis des semaines sont celles qui performent** : ce sont elles qui portent l'information
+- **Les commentaires sous les pubs — une mine d'or.** Questions posées, amis identifiés, expériences partagées : on y lit en temps réel ce qui intéresse l'audience et **quelles objections reviennent**
+- **La cartographie du marché** — concurrents directs, gros acteurs, nouveaux entrants, angles déjà saturés, espaces libres
+- **La demande globale** — courbe de tendance sur les mots-clés du produit (en hausse, stable, en chute), plus les requêtes associées et la répartition géographique, qui donnent des angles et des marchés
+
+**Les 5 critères de validation finale :**
+
+| # | Critère | Seuil |
+|---|---|---|
+| 1 | **Panier moyen** | **> 40 €** — en dessous, pas assez de respiration pour absorber le coût d'acquisition et tester des angles |
+| 2 | **Encombrement** | Produit expédiable en colis standard. Le volumineux tue soit la conversion (frais répercutés) soit la marge (frais absorbés) |
+| 3 | **Scaling visible** | **30-50 annonces actives.** Une marque qui fait tourner les mêmes 5 pubs depuis des semaines stagne ou meurt doucement |
+| 4 | **Interactions réelles sous les pubs** | Produit visiblement apprécié. **S'il faut éduquer le marché, passer** — surtout en débutant |
+| 5 | **Demande stable ou croissante** | Pas besoin d'explosif. Mais ni marché mourant, ni mode éphémère |
+
+**Ce qu'on obtient au bout — bien plus qu'un produit :** une compréhension du marché et de ses dynamiques, les angles qui fonctionnent déjà, les objections principales à traiter, la carte des concurrents, et les segments sous-exploités. À partir de là, le travail n'est pas de copier : c'est de **trouver son propre angle** — cibler un segment plus précis, adopter un positionnement différent, améliorer ce que les autres négligent.
+
+> Ceux qui réussissent ne sont pas ceux qui trouvent des produits magiques. Ce sont ceux qui **comprennent les marchés mieux que les autres** et savent s'y positionner.
+
 ### Le cimetière de funnels — pourquoi s'inspirer n'est pas de la paresse
 
 Concept central, et probablement le meilleur argument contre l'obsession de l'originalité chez un débutant.
