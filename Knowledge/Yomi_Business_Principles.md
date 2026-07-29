@@ -21,6 +21,19 @@ La plus grosse erreur d'apprentissage : sélectionner les conseils. On applique 
 
 > « Moi j'ai plus aucun réseau social sur mon téléphone, pas de jeux vidéo, pas de télé. Du coup travailler c'est super facile. »
 
+### Le 80/20 comme réflexe permanent, pas comme concept
+20 % des actions produisent 80 % des résultats. En e-commerce c'est particulièrement littéral : 20 % des produits font 80 % du CA, 20 % des publicités font 80 % des ventes. Donc 20 % du temps, bien placé, fait toute la différence.
+
+Le principe ne vaut rien tant qu'il reste une idée. Il devient utile quand il devient une **question posée à chaque action** :
+
+> « Est-ce que je suis en train d'agir sur le bon 20 % ? »
+
+C'est cette capacité à re-prioriser en continu qui sépare ceux qui avancent de ceux qui tournent en rond — pas la quantité de travail fournie.
+
+**Le corollaire qui renverse une plainte fréquente :** avoir peu de temps *force* ce réflexe. Celui qui a 2 h par jour ne peut pas se permettre de peaufiner un logo — il va droit à ce qui fait vendre. Celui qui a des journées entières peut remplir sa semaine de travail à faible impact sans jamais s'en rendre compte. **La contrainte de temps est un filtre de priorisation gratuit.** À sortir quand un entrepreneur présente son emploi du temps comme un handicap.
+
+**Usage BOS :** c'est aussi un test à appliquer aux plans qu'il propose. Avant de sortir un plan de 5 actions, vérifier laquelle des 5 porte 80 % du résultat — et se demander s'il ne faudrait pas ne proposer que celle-là.
+
 ### Un seul mentor bat mille sources gratuites
 On peut réussir avec du contenu gratuit — c'est totalement possible. Le problème n'est pas l'accès à l'information, c'est le bruit : énormément d'infos dans tous les sens, des bonnes et des mauvaises, et un débutant ne sait pas les trier. Suivre **une seule** personne qui a déjà les résultats qu'on veut est un raccourci énorme : moins d'erreurs, progression plus rapide, et un environnement de gens qui visent la même chose. Le gratuit marche, mais il coûte du temps. La contrepartie : choisir sa formation ou sa communauté avec soin — se tromper coûte cher.
 
