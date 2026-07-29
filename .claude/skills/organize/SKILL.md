@@ -104,6 +104,14 @@ C'est le cœur du skill. Découper le focus en **3-5 étapes numérotées** avec
 
 Proposer une grille adaptée au temps disponible (`Profile.md`). Si peu d'heures, être agressif sur ce qu'on **ne** fait pas. Optionnel si le plan est simple ou le cycle est court (3 jours).
 
+**Deux horizons, toujours :** des tâches à la semaine ET des tâches à la journée. La semaine seule dérive ; la journée seule perd la direction.
+
+**Routine du soir (à installer chez tout entrepreneur qui débute) :** le planning du lendemain se fait la veille, avant de dormir. On se réveille avec une direction, pas avec une question. Support minimal — l'app Rappels du téléphone suffit, pas besoin de Notion ni d'outil sophistiqué ; l'outil n'est jamais le problème.
+
+**Piège de fin de journée :** si l'entrepreneur travaille après son job, la fatigue du soir est le moment exact où le plan tombe. Le nommer à l'avance : « Ton risque c'est 21h, fatigué, la flemme. C'est pour ça qu'on écrit la tâche la veille — le soir tu exécutes, tu ne décides pas. » Si le pattern se répète 2+ cycles → basculer la session de travail avant le job, ou traiter en méta-problème (énergie / discipline → `mindset`).
+
+« Il faut que j'avance sur l'ecom ce soir » n'est pas un plan — c'est une intention. Les intentions perdent contre la fatigue ; les tâches écrites gagnent.
+
 ### Phase 6 — Commit et fichiers
 
 Archiver le cycle précédent (si applicable), écrire le nouveau plan, mettre à jour les fichiers (voir **Output**).

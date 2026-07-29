@@ -21,6 +21,24 @@ La plus grosse erreur d'apprentissage : sélectionner les conseils. On applique 
 
 > « Moi j'ai plus aucun réseau social sur mon téléphone, pas de jeux vidéo, pas de télé. Du coup travailler c'est super facile. »
 
+### Un seul mentor bat mille sources gratuites
+On peut réussir avec du contenu gratuit — c'est totalement possible. Le problème n'est pas l'accès à l'information, c'est le bruit : énormément d'infos dans tous les sens, des bonnes et des mauvaises, et un débutant ne sait pas les trier. Suivre **une seule** personne qui a déjà les résultats qu'on veut est un raccourci énorme : moins d'erreurs, progression plus rapide, et un environnement de gens qui visent la même chose. Le gratuit marche, mais il coûte du temps. La contrepartie : choisir sa formation ou sa communauté avec soin — se tromper coûte cher.
+
+> « Oui tu peux réussir avec du contenu gratuit. Mais tu mettras beaucoup plus de temps que si tu rejoins la bonne forma/commu. »
+
+### Structurer avant d'exécuter — sinon on ne fait rien
+Au début, il y a ÉNORMÉMENT de choses à faire. Sans structure, on est submergé, et être submergé mène à ne rien faire du tout. Le protocole :
+1. **Un plan clair** — l'objectif décomposé en étapes ; chaque étape suivante devient atteignable.
+2. **Des tâches quotidiennes** — une fois tout décomposé, en faire des tâches à cocher (l'app Rappels de l'iPhone suffit — pas besoin d'outil sophistiqué).
+3. **Un planning calé sur la vraie vie** — travailler avant ou après le job, ou une grosse session en soirée, selon l'emploi du temps réel.
+4. **Le planning se fait la veille au soir**, avant de dormir. On se réveille avec une direction, pas avec une question.
+5. **Tâches à la semaine ET à la journée** — les deux horizons, sinon la semaine dérive.
+
+Piège principal : la flemme de fin de journée quand la fatigue tombe. C'est le moment exact où le plan écrit la veille sauve la session. « Il faut que j'avance sur l'ecom ce soir » n'est pas un plan — c'est une intention, et les intentions perdent contre la fatigue.
+
+### Le livre de référence : « Réfléchissez et devenez riche »
+Le livre le plus impactant au démarrage (Napoleon Hill). Il contient les principes de base pour évoluer — désir, décision, persistance, environnement, discours interne. Ce sont des principes qui s'appliquent encore au quotidien une fois les résultats obtenus, pas une lecture de débutant qu'on abandonne ensuite. À recommander quand un entrepreneur demande par où commencer côté mindset — en gardant le garde-fou BOS : lire ne remplace jamais la confrontation au marché.
+
 ### Le changement d'identité est le vrai levier
 Les résultats = reflet de l'identité. Changer les résultats = changer l'identité. Protocole : (1) Attraper la pensée négative. (2) Labelliser : « c'est mon ancienne identité. » (3) Remplacer par ce que la nouvelle version de moi penserait. (4) S'appuyer sur des preuves réelles du passé. Ce n'est pas de l'affirmation positive vide — c'est recâbler le discours interne avec des preuves.
 
@@ -99,4 +117,4 @@ Garder le même mode de vie. Ne pas claquer ce qu'on gagne. Ne jamais perdre l'a
 
 ---
 
-*Source : « Si je Devais Remonter un Business à 1 Million » (avr 2024), « 10 Ans de Business en 59 Minutes » (juin 2024), « Les 6 Étapes qui m'ont Rendu Millionaire » (oct 2023), « 6 étapes pour Réussir Mieux que 99% » (juil 2022)*
+*Source : « Si je Devais Remonter un Business à 1 Million » (avr 2024), « 10 Ans de Business en 59 Minutes » (juin 2024), « Les 6 Étapes qui m'ont Rendu Millionaire » (oct 2023), « 6 étapes pour Réussir Mieux que 99% » (juil 2022), posts Q/R (2026)*
