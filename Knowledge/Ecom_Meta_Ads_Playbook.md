@@ -44,9 +44,51 @@ Recommandé au lancement (Facebook, Instagram, Messenger, WhatsApp) pour quatre 
 
 TikTok, Google et Pinterest Ads ont leur place — **en phase de scaling, pas au lancement.** On maîtrise un canal avant d'en ouvrir un deuxième.
 
+### Le chemin 0 → 1M avec peu de budget — les 11 questions
+
+Le parcours entier tient dans une liste de questions à résoudre, puis à **appliquer en masse**. Ce n'est pas un chemin compliqué : c'est une question de répétition. Ce qui décide, c'est **la gestion du cash-flow** — le reste n'est qu'affaire de temps et de nombre de cycles.
+
+| # | Question | Où c'est traité |
+|---|---|---|
+| 1 | **Qui prendre comme référence ?** | §2, lecture des patterns : les boutiques en croissance forte, pas les installées |
+| 2 | **Pourquoi celle-ci précisément ?** | §2, les 4 critères + le pattern de courbe |
+| 3 | **Comment faire *plus* que reproduire ?** | §4 et §6 : angle différent, meilleure offre, meilleure page, autre marché. C'est la question qui décide de tout le reste |
+| 4 | **Comment aller vite ?** | §3 setup de testing, §4 production de créas, §5 boutique |
+| 5 | **Quels angles marketing tester en premier ?** | Les 5 raisons d'achat ci-dessous + les angles gagnants observés sur le marché |
+| 6 | **Comment bien sourcer ?** | §7 agents |
+| 7 | **Comment gérer le cash-flow ?** | §1 trésorerie — **le point le plus important de la liste** |
+| 8 | **Comment déléguer les premières tâches ?** | SAV, montage créatif, traitement des commandes — dans cet ordre |
+| 9 | **Comment ne pas se faire DMCA ?** | Voir l'encadré ci-dessous |
+| 10 | **Comment manier l'IA ?** | `AI_Leverage_Method.md` + tout ce que BOS produit (angles, copy, pages, flows) |
+| 11 | **Comment automatiser les process simples ?** | `AI_Integration_Playbook.md` §5-6 : commencer par SaaS, puis no-code (Make, n8n), jamais du sur-mesure avant preuve |
+
+**Sur la question 9 — la bonne lecture.** « Comment ne pas se faire DMCA » est une question de symptôme : on ne reçoit un DMCA que si l'on diffuse le contenu de quelqu'un d'autre. La réponse durable n'est pas de mieux masquer, c'est de **posséder ses assets** — visuels produits sur fond neutre puis mis en scène, UGC commandé, banques sous licence, contenu généré. Un compte publicitaire qui saute pour contrefaçon coûte infiniment plus cher qu'un shooting. Ce qu'on prend chez les autres, c'est **la structure qui convertit** (angle, hook, promesse, ordre des arguments) — ça, ça ne s'attaque pas au DMCA.
+
+**Sur la question 3 — la vraie question du lot.** Reproduire à l'identique, c'est arriver en retard sur un marché où quelqu'un a déjà l'avance publicitaire, l'antériorité et le COGS négocié : il ne reste que le prix comme levier, et le prix tue la marge. Le « plus » se prend sur au moins un des quatre : **un angle que personne n'a poussé**, **une offre plus forte** (bundles, cadeaux, garantie), **une meilleure page** (CRO, §6), **un marché non encore exploité**. C'est le même raisonnement que les 3 non-négociables de `PMF_Offer_Playbook.md` §4.
+
+**Sur la question 7 — pourquoi le cash-flow domine tout.** Chaque cycle produit demande d'avancer pub + produit + livraison avant encaissement. Le nombre de cycles qu'on peut enchaîner est directement plafonné par la trésorerie, et le nombre de cycles est ce qui produit le résultat. Un entrepreneur qui gère mal son cash s'arrête avant d'avoir eu son produit gagnant — pas parce qu'il avait tort, parce qu'il n'a pas pu jouer assez de coups.
+
 ## 2. Recherche produit
 
 Principe de base : **on ne vend pas un produit, on vend une solution à un problème réel.** Le produit n'est que le véhicule. Et aucun produit n'est garanti : ce qui existe, c'est une façon de maximiser ses chances en lisant de la data.
+
+### Les 5 raisons d'achat — le socle de tout angle marketing
+
+Un produit se vend s'il coche au moins une de ces cinq raisons. **Tout le marketing s'articule autour de celle qu'on choisit :**
+
+| Raison | Ce que le client achète vraiment | Registre de la créative |
+|---|---|---|
+| **Il résout un problème** | La fin d'une douleur précise | Avant/après, démonstration, mécanisme |
+| **Il facilite la vie** | Du temps, de l'effort en moins | Le geste pénible remplacé, la simplicité |
+| **Il fait gagner de l'argent** | Un retour chiffrable | Chiffres, calcul de rentabilité, preuve |
+| **Il élève le statut social** | Le regard des autres | Esthétique, appartenance à un groupe désirable |
+| **Il réunit une communauté** | L'identité et le lien | Le « nous », les codes internes, l'univers |
+
+**Usage BOS :** deux applications directes. (1) **Filtre produit** — un produit qui ne coche aucune des cinq n'a pas d'angle, quel que soit son pattern d'ads. (2) **Générateur d'angles** — un même produit coche souvent 2 ou 3 raisons, et chacune donne un angle, une créative et une audience différents. C'est la façon la plus rapide de produire 3 angles de test au lieu d'un.
+
+*Exemple :* une gourde filtrante coche « résout un problème » (eau du robinet), « facilite la vie » (plus de packs à porter), « élève le statut » (objet design), « réunit une communauté » (zéro déchet). Quatre angles, quatre créatives, un seul produit.
+
+Cette grille recoupe le désir de masse de `PMF_Offer_Playbook.md` §6 : on ne crée jamais le désir, on branche le produit sur un désir existant.
 
 ### Les 4 critères d'un winning product
 
