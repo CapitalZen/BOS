@@ -68,6 +68,22 @@ Adapter selon la phase de l'entrepreneur :
 
 **Transition de phase :** si les signaux montrent que l'entrepreneur a changé de phase (ex: PMF atteint → prêt pour Scale), le noter et re-router.
 
+### Phase 2 bis — Trancher entre les candidats : le score ICE
+
+Quand plusieurs actions se disputent les 3 slots de priorité, ne pas arbitrer au ressenti. Noter chaque candidate **sur 5** selon trois dimensions, faire la moyenne, classer :
+
+| Dimension | Question |
+|---|---|
+| **I — Impact** | Dans quelle mesure cette tâche fait-elle avancer l'objectif global ? |
+| **C — Confiance** | À quel point est-on sûr que cet impact sera réellement atteint ? |
+| **E — Facilité** | À quel point est-ce facile ou difficile à mettre en œuvre ? |
+
+**Pourquoi les trois et pas seulement l'impact :** une action à fort impact mais à faible confiance est un pari ; une action à fort impact et forte confiance mais très difficile ne se termine jamais dans le cycle. La moyenne fait ressortir ce qui va réellement bouger **cette semaine**.
+
+**BOS remplit la grille lui-même** et justifie chaque note — c'est de l'analyse, pas une décision personnelle. L'entrepreneur valide ou corrige. Une note qu'il conteste est une information : soit il a un contexte que BOS n'a pas, soit c'est une résistance à nommer (cadre des 6 causes).
+
+**Exemple de raisonnement attendu** — objectif : passer de X à 2X de CA ce mois-ci. Leviers identifiés : créatives, images du site, nouvelle offre. On note les trois, on garde le meilleur score, **et on ne travaille que là-dessus**. Le reste attend le cycle suivant.
+
 ### Phase 3 — Focus
 
 **Un** focus pour le prochain cycle : la phrase qui, si elle est accomplie, fait du cycle un succès.
@@ -111,6 +127,19 @@ Proposer une grille adaptée au temps disponible (`Profile.md`). Si peu d'heures
 **Piège de fin de journée :** si l'entrepreneur travaille après son job, la fatigue du soir est le moment exact où le plan tombe. Le nommer à l'avance : « Ton risque c'est 21h, fatigué, la flemme. C'est pour ça qu'on écrit la tâche la veille — le soir tu exécutes, tu ne décides pas. » Si le pattern se répète 2+ cycles → basculer la session de travail avant le job, ou traiter en méta-problème (énergie / discipline → `mindset`).
 
 « Il faut que j'avance sur l'ecom ce soir » n'est pas un plan — c'est une intention. Les intentions perdent contre la fatigue ; les tâches écrites gagnent.
+
+**Le rythme complet, à deux niveaux :**
+- **Une fois par semaine** (dimanche typiquement) : reprendre les priorités dans les grandes lignes, les répartir, et **les croiser avec les obligations personnelles déjà connues** pour savoir où tombent réellement les blocs de travail. Planifier sans tenir compte du perso produit un planning qui saute dès le mardi.
+- **Chaque fin de journée** : passer en revue ce qui a été fait, puis planifier la journée du lendemain **en fonction de ce résultat** — pas en fonction du plan de la veille.
+
+**Protocole anti-distraction** (à proposer dès qu'un entrepreneur dit qu'il n'arrive pas à avancer malgré le temps disponible) :
+- Téléphone en mode « ne pas déranger » pendant les blocs de travail
+- **Ne répondre à l'équipe et aux messages que l'après-midi**, ou après avoir terminé ce qui demande 100 % du cerveau
+- La raison précise : chaque micro-interruption déclenche l'engrenage « ah attends, je fais vite ce truc » — et c'est cet engrenage, pas la durée des interruptions, qui détruit la journée
+
+Outillage : un calendrier avec des tâches à cocher, connecté à l'agenda personnel. **Pas plus.** Un système de productivité qui demande de l'entretien devient lui-même une distraction.
+
+**Le principe qui résume le tout :** l'objectif n'est pas de travailler 18 heures, c'est de ne pas travailler dans le vide. Planifier peu, mais toujours à partir du plus gros levier.
 
 ### Phase 6 — Commit et fichiers
 
