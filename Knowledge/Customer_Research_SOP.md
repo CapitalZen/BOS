@@ -8,6 +8,25 @@ Procédure pour connaître ses clients mieux qu'ils ne se connaissent eux-mêmes
 
 ---
 
+## Étape 0 — Cartographier l'avatar en 5 minutes (nouveau produit / nouveau marché)
+
+Quand on arrive sur un produit qu'on ne connaît pas, avant tout travail manuel : faire une passe de recherche large sur les avis existants d'une marque de référence sur ce produit. **BOS exécute ça lui-même** (recherche web sur avis e-commerce, Reddit, réseaux sociaux, tests professionnels) et rend une synthèse structurée sur 8 axes.
+
+**Le brief à couvrir** — analyser les avis clients de `[marque / lien]` sur `[produit ou catégorie]` :
+
+1. **Démographie** — qui sont les utilisateurs types (âge, genre, localisation, centres d'intérêt) ?
+2. **Objectifs et points de douleur** — quel problème cherchent-ils à résoudre en achetant ? Quel résultat attendent-ils (esthétique, confiance, simplicité d'usage) ?
+3. **Bénéfices clés** — qu'apprécient-ils le plus ? Points de satisfaction récurrents : efficacité, qualité, packaging, valeurs de marque.
+4. **Plaintes récurrentes** — quelles insatisfactions reviennent (régularité du produit, difficulté d'utilisation, rapport qualité-prix) ?
+5. **Positionnement de marque** — quelle valeur perçue dans la niche (premium, durable, accessible) ?
+6. **Comparaisons concurrentielles** — quelles autres marques sont citées ? Comment le produit se situe en performance et en satisfaction ?
+7. **Facteurs émotionnels et sociaux** — quelles raisons émotionnelles sont attachées à l'achat (se sentir confiant, être aligné avec ses valeurs) ?
+8. **Rétention et fidélité** — les clients rachètent-ils ? Qu'est-ce qui encourage ou décourage le réachat ?
+
+**Sortie attendue :** une synthèse de l'audience, de ses motivations principales et du sentiment global, sourcée sur les avis e-commerce, les discussions de forums, les commentaires sociaux et les tests professionnels.
+
+**Ce que cette étape donne — et ce qu'elle ne donne pas.** Elle donne la carte : à qui on parle, ce qui les motive, ce qui les bloque, où le concurrent déçoit (les plaintes récurrentes sont l'endroit exact où se construit un angle différenciant, cf. `PMF_Offer_Playbook.md` §4). Elle ne donne **pas** les mots exacts du marché ni leur fréquence — c'est le travail des étapes 1 et 2, et c'est ce qui fait le copy. Faire l'étape 0 et sauter les suivantes, c'est écrire à partir d'un résumé au lieu d'écrire à partir de la voix du client.
+
 ## Étape 1 — Message mining : emprunter les mots du marché
 
 On va chercher là où le marché cible dit déjà, avec ses propres mots, ce qui compte pour lui.
