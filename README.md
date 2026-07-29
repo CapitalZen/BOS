@@ -54,6 +54,7 @@ BOS/
 │   ├── PMF_Offer_Playbook.md ← Équation (N,T,P,M,A), océan bleu, niveaux de conscience
 │   ├── Customer_Research_SOP.md ← Message mining, enquêtes, proposition de valeur
 │   ├── Entrepreneur_Success_Factors.md ← Ce qui prédit la réussite (et ce qui la sabote)
+│   ├── SEO_Content_Playbook.md ← Méthode SEO de contenu complète (mots-clés → cadence)
 │   ├── AI_Integration_Playbook.md ← Intégrer l'IA en entreprise (méthode + cadre légal)
 │   └── AI_Leverage_Method.md ← Piloter une IA : mémoire, brief, vérification
 ├── .claude/skills/        ← 10 skills spécialisés

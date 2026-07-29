@@ -95,9 +95,18 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 
 #### Si le canal = SEO
 
-- Recherche mots-clés (intention, difficulté, quick wins).
-- Plan éditorial aligné offre.
+Méthode complète : `Knowledge/SEO_Content_Playbook.md`. Séquence :
+
+- **Avant tout mot-clé** : produit exact (pas la catégorie), mot-clé principal (pas forcément la home), persona et son vocabulaire de recherche, écosystème concurrentiel.
+- **Liste de mots-clés en 3 niveaux** : principal (1) → secondaires (1 page chacun) → longue traîne informationnelle. Sources : Google Suggest (astuce de l'alphabet), recherches associées, PAA (astuce de l'infini), outils, **analyse SERP manuelle** — celle-ci détermine le *format* de la page, et se tromper de format rend le classement impossible quelle que soit la qualité.
+- **1 mot-clé = 1 page.** Vérifier la cannibalisation avant de créer.
+- **Stratégie sémantique** : lister tous les problèmes que le produit résout, en tirer les angles que les concurrents ignorent. C'est là qu'est le ×5 à ×10 de volume.
+- **Plan d'article** : H1 avec mot-clé dans les 5 premiers mots, réponse en 3 lignes dès l'intro, H2 issus des PAA, FAQ nommée, 1-2 liens internes à ancre exacte.
+- **Topical SEO** : champ lexical du domaine, couverture de tous les angles.
+- **Cadence** : viser le quotidien, indexation manuelle à chaque publication (10/jour gratuites en Search Console). BOS fait recherche, plans et rédaction ; l'entrepreneur publie (~15 min/jour) et apporte la connaissance métier.
 - Bases techniques (indexation, structure Hn, maillage interne — proportionné au niveau).
+
+**Attendu à annoncer d'emblée :** 6 mois avant les premiers résultats, 12 mois pour décoller. Si l'entrepreneur a besoin de cash sous 90 jours, ce canal ne doit pas être le choix n°1 — le dire avant de commencer, pas au bout de 4 mois.
 
 #### Autres canaux (influenceurs, affiliés, agence)
 
