@@ -224,6 +224,78 @@ Concept central, et probablement le meilleur argument contre l'obsession de l'or
 
 ⚠️ **La ligne à ne pas franchir** (voir Réserves) : on reproduit **la structure et les mécaniques** — l'ordre des sections, le type d'upsell, la logique de bundle, la construction de l'offre. On ne reprend **pas** les assets d'autrui : images, vidéos, textes, avis clients. La structure n'appartient à personne ; le contenu appartient à son auteur.
 
+### Désir faible vs désir fort — le premier tri
+
+**Désir faible** : le client n'avait rien prévu d'acheter, il n'a pas de problème urgent, mais le produit lui paraît sympa ou utile. Il faut **créer** le désir par le marketing. Typiquement les produits « effet wow » et la déco. *On les évite* : sans problème ni solution, les angles marketing sont difficiles à trouver, et ça se vend surtout en période de fêtes.
+
+**Désir fort** : le client cherche déjà activement une solution, il a un problème clair et pressant. On n'a presque pas à le convaincre — juste à prouver que notre produit est la meilleure option. *C'est ce qu'on cherche.*
+
+> Convaincre quelqu'un qui perd ses cheveux d'acheter un produit qui fait repousser les cheveux, ce n'est pas difficile. C'est comme proposer à manger à quelqu'un qui a faim.
+
+**Corollaire chiffré :** viser problème-solution plutôt qu'effet wow. Un produit « stylé » se vend, mais il oblige à un turnover permanent de produits et à porter tout le poids sur l'image de marque.
+
+### Le niveau de conscience appliqué au choix du PRODUIT
+
+Les stades de conscience (§5 de `PMF_Offer_Playbook.md`) ne servent pas qu'à écrire des pubs — ils déterminent **quel produit est facile à vendre** :
+
+| Stade du marché | Nombre de « jobs » à faire | Verdict |
+|---|---|---|
+| **Unaware** | 3 — éduquer sur le problème, présenter la solution, convaincre d'acheter | Très difficile, coûteux, réservé à ceux qui ont du capital |
+| **Problem aware** | 2 — présenter la solution, convaincre | Difficile : c'est celui qui éduque le marché qui paie l'addition |
+| **Solution aware** | 1 — convaincre que notre produit est le bon | **Cible** |
+| **Product aware** | 1, plus facile — se différencier | **Cible idéale** |
+
+> **Moins on a à éduquer le client, plus on vend vite.**
+
+C'est exactement pour ça qu'on arrive **derrière** celui qui a éduqué le marché, pas devant. Il a payé l'éducation ; on arrive avec le même produit, un angle différent (ou le sien, s'il est récent), d'autres créatives — et on partage le marché.
+
+### Calibrer la concurrence : oui dans la niche, non sur le produit
+
+Nuance décisive, et elle contredit en apparence le critère « plusieurs concurrents qui poussent depuis 3 mois » :
+
+- **Oui à une niche concurrentielle** (soin de la peau, chute de cheveux, compléments) : c'est ce qui prouve que le marché vit, qu'il est gros et qu'il croît.
+- **Non à un produit sur-exploité.** Les produits déjà saturés depuis 2-3 ans marchent — mais les acteurs en place connaissent tous les rouages, ont testé tous les angles, et **peuvent se permettre de tourner à perte sur l'acquisition** grâce à leur LTV. Sans trésorerie, on ne gagne pas cette guerre.
+
+**La cible : un produit dans une grosse niche, avec 3 à 6 concurrents sérieux, en ligne depuis moins de 12 mois — idéalement moins de 6.** Sérieux veut dire rentables, pas des dropshippers de passage.
+
+**La position du lièvre.** Ne pas être le premier (on paierait l'éducation du marché), mais **parmi les premiers** : quelqu'un a défriché, scale déjà, et n'a pas eu le temps de tout exploiter. On se place dans son sillage et on passe devant à la fin.
+
+**Signal en or :** un produit qui vend sur Amazon ou TikTok Shop (des milliers de ventes) mais **qui n'est pas encore poussé sur Meta**. La demande est prouvée, les avis Amazon donnent le matériau marketing, et le canal publicitaire est vierge.
+
+⚠️ **Nuance à ne pas rater :** « personne ne le vend » ≠ « personne ne le vend sur Meta ». Le premier cas signifie généralement que **ça ne se vend pas**. Le second est une opportunité.
+
+### Les deux seules façons d'innover
+
+Face à un produit, on tombe toujours dans l'une des deux :
+
+**1. Innover sur l'avatar ou l'angle marketing** — même produit, autre public ou autre problème.
+- Un pistolet de massage vendu aux sportifs → repositionné pour les seniors, angle « soulager vos douleurs articulaires à la maison »
+- La créatine, vendue aux hommes depuis toujours → repositionnée pour les femmes, angle « tonifier »
+- Un traitement anti-chute positionné sur la génétique → repositionné sur la nutrition, ou sur le déséquilibre hormonal
+
+**2. Innover sur le mécanisme du produit** — pas nécessairement de l'ingénierie : un ingrédient ajouté, une **forme** différente, une texture, une fonction en plus.
+- Une résine ou une poudre qui passe en gommes à mâcher
+- Une nouvelle huile à la mode qui remplace les huiles connues sur le même bénéfice
+- Une brosse anti-chute à LED à laquelle on ajoute une vibration
+
+**L'observation qui déculpabilise :** les marques qui font des millions vendent, dans leur immense majorité, **des produits banals**. Pas des inventions — des produits connus avec un petit truc en plus : un ingrédient, une forme, un angle. Chercher l'objet extraordinaire est une perte de temps.
+
+### Les erreurs qui reviennent le plus
+
+1. **Se fier à son intuition.** « Je le sens bien, il n'y a personne dessus donc il y a un marché à prendre » est faux dans la quasi-totalité des cas : **s'il n'y a personne, c'est que ça ne se vend pas.** L'intuition n'existe que sur un marché qu'on pratique depuis longtemps ; avant ça, c'est une illusion. Rester fidèle à la data.
+2. **Les produits lourds ou volumineux.** Ils créent une barrière à l'entrée (avantage réel à terme) mais coûtent cher tout de suite : stocks, casse, place, marges plus faibles, et exposition brutale à toute hausse des frais de transport ou de douane. À éviter quand on démarre. Cible de prix de vente : **40 à 100 €**, 120 € maximum.
+3. **Copier sans se différencier.** Reprendre un site ou une créative à l'identique ne fonctionne pas — la plateforme le détecte, et le marché aussi. On prend le site du concurrent comme **un brouillon dont on analyse les lacunes**, et on en fait une version meilleure.
+
+### La grille de lecture d'un produit qui marche
+
+Le même schéma revient sur la quasi-totalité des marques qui chiffrent : **bonne marge** (achat très bas, valeur perçue élevée) · **produit léger** (donc ROAS BE bas) · **nouveau mécanisme ou nouvel angle** · **peu de concurrents au démarrage** · **solution/product aware** · **TAM énorme** · **AOV soutenu par des bundles** · **récurrence quand c'est possible**.
+
+**L'exercice à faire soi-même :** prendre 5 à 10 boutiques qui scalent, et lister pour chacune ces points. Les points communs sautent aux yeux au bout de quelques analyses — c'est ce qui installe le jugement, bien plus vite qu'une théorie.
+
+**Le test de simplicité :** si on ne peut pas expliquer en deux secondes quel problème le produit résout et pourquoi les gens l'achètent, il y a déjà un problème fondamental. Les produits qui marchent s'expliquent en une phrase.
+
+**Et l'objectif une fois le produit choisi**, en deux points seulement : **améliorer les faiblesses du concurrent** (prix, qualité produit, SAV, site) et **mieux vendre que lui**.
+
 ### Choisir son marché
 
 - **Big 5 anglophones** (US, UK, CA, AU) : volumes énormes, concurrence féroce, CPM 3 à 4× la France. Profils expérimentés, 15 000 à 20 000 € minimum pour tester sérieusement.

@@ -7,10 +7,11 @@
 
 ## Problèmes (par impact sur l'objectif)
 
-### 1. Trésorerie insuffisante pour lancer
-- **Impact :** C'est le blocage racine. En e-commerce, on avance le cash (pub + produit + livraison) avant d'encaisser. Le nombre de cycles de test qu'on peut enchaîner est directement plafonné par la trésorerie, et c'est le nombre de cycles qui produit le produit gagnant. Sous ~3 000 €, on ne peut pas aller au bout d'un test — on s'arrête au milieu, ce qui donne des données inexploitables ET brûle le capital.
+### 1. Trésorerie insuffisante pour lancer en payant
+- **Impact :** Bloque la voie Meta Ads. En e-commerce payant, on avance le cash (pub + produit + livraison) avant d'encaisser ; le nombre de cycles de test est plafonné par la trésorerie, et c'est le nombre de cycles qui produit le produit gagnant. Sous ~3 000 €, un test s'arrête au milieu : données inexploitables **et** capital brûlé.
 - **Preuves :** déclaré explicitement le 29/07 — « le budget me bloque actuellement ».
-- **Cause racine :** pas encore de source de cash dédiée au projet. Montant exact à préciser.
+- **Cause racine :** pas encore de source de cash dédiée au projet. Montant exact toujours à préciser.
+- **⚠️ Statut révisé le 29/07 (soir) :** ce problème **n'est plus bloquant en soi**. La voie organique (`Knowledge/Ecom_Organic_Launch_Playbook.md`) permet de démarrer sans budget publicitaire, de générer les premières ventes et surtout d'accumuler gratuitement la data d'audience (pixel, emails, signaux d'intention) qui rend le payant rentable ensuite. Cas documenté : 0 → 5 000 €/jour avec 600 € de publicité au total. **Le blocage se déplace donc de l'argent vers la régularité** — 4-5 publications par jour pendant 1 à 2 mois. C'est le nouveau point de vigilance à surveiller chez cet entrepreneur, au vu du pattern de sur-consommation de méthode (problème n°3).
 
 ### 2. Recherche produit vécue comme le plus gros blocage
 - **Impact :** Bloque le passage à l'action ressenti. Mais c'est en grande partie un **symptôme du problème n°1** : sans budget, le choix du produit reste théorique, donc jamais tranché, donc anxiogène. C'est aussi la partie la plus délégable de tout le process — donc celle qui devrait le moins bloquer.
