@@ -82,6 +82,34 @@ Le rôle de l'humain n'est pas de rédiger — c'est de **décider**.
 | « Toujours à côté de la plaque » | Le critère de réussite | Donner des critères précis, puis laisser le réel trancher |
 | « Il invente ou se trompe sur un détail » | La vérification | Faire vérifier point par point, rester dans la boucle |
 
+## Choisir le bon modèle, et le briefer en conséquence
+
+Les modèles d'une même gamme ne progressent pas tous sur le même axe. Repères utiles pour du travail marketing :
+
+| Besoin | Ce qui compte | Repère |
+|---|---|---|
+| **Angles, mécanismes psychologiques, croisement de data avant d'écrire** | Le **jugement** : trouver le bon angle, la bonne tension, analyser des centaines de créas pour comprendre *pourquoi* une pub gagne | Le modèle le plus capable de la gamme |
+| **La plume pure** — prose claire, chaleureuse, peu de tics d'écriture IA | La **qualité d'écriture**, qui ne suit pas forcément la puissance de raisonnement | Un modèle optimisé sur l'écriture peut mieux sortir du premier coup qu'un modèle plus « intelligent » |
+
+**Le point contre-intuitif :** un modèle plus récent et plus performant en raisonnement n'est pas automatiquement meilleur en copy. Le raisonnement et la prose sont deux axes distincts.
+
+### Le piège : sur-prescrire un modèle fort
+
+> **Un prompt qui impose la structure section par section transforme un modèle à fort jugement en simple exécutant.** On paie sa capacité de jugement et on ne l'utilise pas.
+
+**La bonne façon de briefer un modèle fort :**
+- L'**objectif** (le résultat visé)
+- La **cible** (à qui ça s'adresse)
+- Les **contraintes dures** (longueur, ton, interdits, format de sortie)
+- La **data brute** (verbatims, chiffres, créas concurrentes, résultats passés)
+- **Puis le laisser décider du « comment »**
+
+C'est l'inverse du réflexe pris avec les modèles plus anciens, qu'il fallait guider pas à pas. Le brief en 4 questions (technique n°2) reste valable — mais « Méthode » ne veut pas dire « plan imposé ».
+
+**La contrainte à toujours poser explicitement : la longueur.** Certains modèles élargissent le périmètre spontanément — on demande 800 mots, on reçoit 1 200 avec des sections non commandées. Sur du copy, la longueur *est* une contrainte fonctionnelle : le dire à chaque fois, et refuser le surplus.
+
+**Application BOS :** quand l'entrepreneur commande un livrable écrit, il a le droit — et l'intérêt — de dire « 600 mots maximum, pas de section en plus ». BOS doit s'y tenir strictement plutôt que de livrer davantage « au cas où ». Plus long n'est pas plus utile.
+
 ## La limite
 
 > « Vous pouvez déléguer votre réflexion, mais pas votre compréhension. »
