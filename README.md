@@ -52,6 +52,7 @@ BOS/
 │   ├── Common_Problems.md ← 30 problèmes entrepreneurs les plus fréquents
 │   ├── Yomi_Business_Principles.md ← Principes business (source de vérité)
 │   ├── PMF_Offer_Playbook.md ← Équation (N,T,P,M,A), océan bleu, niveaux de conscience
+│   ├── Schwartz_Breakthrough_Advertising.md ← Désir de masse, conscience, sophistication
 │   ├── Customer_Research_SOP.md ← Message mining, enquêtes, proposition de valeur
 │   ├── Entrepreneur_Success_Factors.md ← Ce qui prédit la réussite (et ce qui la sabote)
 │   ├── Ecom_Meta_Ads_Playbook.md ← E-commerce : produit, Meta Ads, créatives, CRO, sourcing

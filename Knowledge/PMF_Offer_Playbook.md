@@ -89,7 +89,7 @@ Le même produit exige un message radicalement différent selon l'état du prosp
 | Conscient du produit | Te connaît, hésite | Différenciation, garantie, levée d'objections |
 | Le plus conscient | Prêt à acheter | Offre, urgence, conditions |
 
-**Sophistication** — combien d'offres similaires le marché a déjà vues. Marché neuf : une promesse simple suffit. Marché saturé : il faut un **mécanisme unique** (le « comment » nouveau), puis une identité.
+**Sophistication** — combien d'offres similaires le marché a déjà vues. *(Version complète des cinq stades et de leurs réponses respectives : `Knowledge/Schwartz_Breakthrough_Advertising.md`.)* Marché neuf : une promesse simple suffit. Marché saturé : il faut un **mécanisme unique** (le « comment » nouveau), puis une identité.
 
 **Règle de scale :** scaler, c'est faire acheter des gens de moins en moins conscients. Donc élargir le message vers les stades de conscience amont, un angle et une landing page par stade — jamais diluer le cœur PMF.
 
