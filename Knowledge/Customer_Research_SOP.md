@@ -75,6 +75,61 @@ Deux populations, deux enseignements : les **visiteurs** révèlent motivations,
 
 **Adaptation petit volume :** pas de base clients ? Les mêmes questions se posent en visio ou en DM à 10-20 personnes du marché cible. Le format change, la grille d'analyse ne change pas.
 
+## Étape 2 bis — Le questionnaire post-achat : le capteur permanent
+
+L'enquête de l'étape 2 est une campagne ponctuelle. **Le questionnaire post-achat, lui, tourne en permanence** — et c'est ce qui en fait un outil de pilotage, pas seulement de recherche.
+
+**Timing :** 5 à 10 minutes après la confirmation d'achat. Assez tôt pour que l'expérience soit fraîche, assez tard pour que l'euphorie soit retombée et que les réponses soient nuancées. Pour un produit physique, une seconde vague 3 à 7 jours après réception mesure l'adéquation aux attentes.
+
+**Longueur :** 8 à 12 questions ouvertes maximum. Une contrepartie (réduction sur le prochain achat, accès à quelque chose) augmente nettement le taux de réponse.
+
+### Les 10 questions, par intention stratégique
+
+**Déclencheur d'achat**
+1. Qu'est-ce qui vous a donné envie de passer à l'action aujourd'hui ? Quel problème cherchiez-vous à résoudre en commandant chez nous ?
+2. Si vous deviez décrire en une phrase ce qui vous a fait choisir notre produit plutôt qu'une autre solution, quelle serait-elle ?
+
+**Parcours de décision et hésitations**
+3. Depuis combien de temps pensiez-vous à un achat comme celui-ci ? Y avait-il d'autres options envisagées ? Lesquelles ?
+4. Avant de commander, y a-t-il eu des moments d'hésitation ? Qu'est-ce qui vous a fait douter ?
+
+**Points de friction**
+5. Y a-t-il eu un moment où vous avez failli abandonner la commande ? Qu'est-ce qui était confus ou frustrant ?
+6. Aviez-vous toutes les informations pour vous sentir en confiance au moment de valider ? Si non, qu'est-ce qui manquait ?
+
+**Expérience**
+7. Au-delà du produit, qu'est-ce qui vous a le plus agréablement surpris — ou déplu — dans votre expérience d'achat ?
+
+**Attentes et projection**
+8. Qu'espérez-vous accomplir ou changer grâce à cet achat ? Comment saurez-vous que c'est réussi pour vous ?
+
+**Recommandation**
+9. Si vous deviez décrire notre produit à un ami, quels mots utiliseriez-vous ?
+10. À qui pensez-vous que notre produit serait le plus utile ?
+
+### Ce que chaque bloc débloque
+
+| Bloc | Data extraite | Action concrète |
+|---|---|---|
+| **Déclencheur** | Motivations profondes, avantage concurrentiel **perçu** (souvent différent de celui qu'on imagine) | Titres, accroches publicitaires, positionnement |
+| **Décision / hésitations** | Durée du cycle, alternatives réellement considérées, objections | Comparatifs, réassurance sur la page, séquences de relance calées sur la durée du cycle |
+| **Friction** | Points de blocage précis dans le tunnel | Priorisation des correctifs de site et de checkout |
+| **Expérience** | Différenciateurs de service, angles morts | Ce qu'on met en avant, ce qu'on répare |
+| **Projection** | Bénéfices attendus et critères de succès du client | Copy de transformation, contenu d'accompagnement |
+| **Recommandation** | Le langage exact du bouche-à-oreille, **et des segments inattendus** | Verbatims pour les publicités, nouveaux publics à cibler |
+
+**La question 10 est sous-estimée :** elle fait remonter des cas d'usage et des publics auxquels on n'avait pas pensé. C'est souvent là qu'on trouve le prochain angle de scaling.
+
+### L'usage qui change tout : le comparatif dans le temps
+
+**Les réponses évoluent d'un mois à l'autre, ou tous les deux mois.** Ce n'est pas du bruit — c'est le signal le plus avancé qu'on puisse obtenir : le client dit ce qui compte pour lui **maintenant**, donc quel angle pousser dans les prochaines semaines.
+
+**Le protocole :** relire les réponses toutes les 4 à 8 semaines et comparer avec la vague précédente. **Chercher ce qui a changé, pas seulement ce qui revient.** Un bénéfice qui monte dans les réponses est un angle à tester ; un point de friction qui apparaît est une baisse de conversion à venir.
+
+C'est ce qui permet de tourner les angles **avant** que les statistiques ne baissent, au lieu de chercher après coup pourquoi ça ne marche plus. (Voir `Ecom_Meta_Ads_Playbook.md` §4 — la fatigue publicitaire est souvent une saisonnalité d'angle mal lue.)
+
+**Analyse :** lecture intégrale → repérage des mots et thèmes récurrents → catégorisation → **quantification de la fréquence des thèmes** → extraction des verbatims les plus percutants. La segmentation compte : nouveaux clients vs récurrents, par produit, par canal d'acquisition — les enseignements diffèrent nettement.
+
 ## Étape 3 — Analyser avec le cadre PMBD
 
 Objectif : comprendre le prospect selon 4 axes.

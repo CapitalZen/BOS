@@ -478,6 +478,29 @@ Où sourcer : plateformes spécialisées (Youdji, Influee, Backstage, Billo), ma
 
 **Sur les formats plus produits** (podcasts, micro-trottoirs, créas studio, créas entrepôt) : excellents pour **diversifier**, et la diversification compte. Mais ce n'est pas une base solide — parce que ce n'est ni rapide ni reproductible en volume. La base, c'est le mashup : actionnable, rapide, fiable, et scalable.
 
+### La fatigue publicitaire est souvent une question de saisonnalité d'angle
+
+**Contre-intuitif et très rentable.** Quand les performances baissent, le réflexe est de conclure que « la créative est morte » ou que « le produit n'a plus de time to market ». Souvent, c'est faux : **c'est le même angle qui tourne depuis 3-4 mois.**
+
+Un angle ne performe pas de façon constante toute l'année. Selon la période, ce qui résonne sur un même produit change — la préoccupation dominante du client se déplace. Une publicité qui sous-performe en mars peut surperformer en septembre **sans qu'on y touche**, parce que l'angle qu'elle vise correspond à ce qui compte pour le marché à ce moment-là.
+
+Et ça ne concerne pas que les évidences du Q4 (promotions, fêtes). Ça vaut pour les angles de fond : confort, praticité, apparence, économie, urgence, santé — chacun a ses saisons.
+
+**Conséquences pratiques :**
+- **Ne pas jeter une créative qui baisse — l'archiver et la relancer plus tard.** Tenir un registre des créatives par angle et par période de performance. Ce qui est mort en juin est peut-être le gagnant d'octobre.
+- **Avant de conclure à la fatigue publicitaire, vérifier la rotation des angles.** Si les 3 derniers mois tournent sur le même angle, le problème est là, pas dans le produit.
+- **Le feedback client dit quand tourner.** Voir ci-dessous.
+
+### Les questionnaires post-achat pilotent les angles
+
+Les réponses aux questions ouvertes (« quel bénéfice cherchiez-vous en achetant ce produit ? », « qu'est-ce qui pourrait améliorer votre expérience ? ») **changent significativement d'un mois à l'autre, ou tous les deux mois.**
+
+C'est un signal avancé, et presque personne ne l'exploite : le client dit ce qui compte pour lui **maintenant** — donc l'angle à pousser dans les prochaines semaines, avant que les statistiques ne baissent. On passe d'un pilotage réactif (les chiffres baissent, on cherche pourquoi) à un pilotage anticipé (le discours client bouge, on tourne les angles avant la baisse).
+
+**Le rythme :** envoyer en continu, relire les réponses **toutes les 4 à 8 semaines**, comparer avec la vague précédente, et repérer **ce qui a changé** — pas seulement ce qui revient. Le changement est l'information.
+
+Procédure complète du questionnaire : `Knowledge/Customer_Research_SOP.md`.
+
 ### Les 3i — inspiration, itération, idéation
 
 Le curseur bouge avec la maturité du compte :
@@ -650,6 +673,27 @@ Ensemble, elles représentent couramment **5 à 10 % de marge nette**. Un concur
 **Le principe :** ne rien négliger, et surtout **ne pas s'en occuper seulement quand ça va mal**. C'est un jeu de constance, de leviers et d'optimisation continue — pas de réaction.
 
 > **Le front rapporte de l'argent. Le back décide si on le garde, et si on dure.**
+
+### Les 6 piliers — si un seul manque, on stagne
+
+Cadre de diagnostic simple, et cohérent avec tout le reste du playbook :
+
+**Produit** (la fondation, tout le reste est inutile sans lui) · **Marketing** (la recherche dit quoi dire) · **Créative** (le levier n°1 du début à la fin) · **Contenu** (le carburant : sans volume, pas de scaling) · **Offre** (ce qui débloque les plafonds de verre) · **Backend** (l'infrastructure qui tient quand ça scale)
+
+Quand un shop stagne à un palier, il manque **un** de ces six — rarement plusieurs. Le réflexe habituel (tester encore des créatives) échoue quand le pilier cassé est ailleurs.
+
+### Le SAV : posture et modèles
+
+Le service client est un contact direct avec l'acheteur, donc un levier de marge et de réputation. Deux principes gouvernent toutes les réponses :
+
+1. **Accuser réception et valoriser la personne avant de traiter le problème.** Un client qui se sent entendu accepte une solution imparfaite ; un client qui se sent traité accepte mal une solution parfaite.
+2. **Toujours proposer une issue.** Jamais de réponse qui constate sans agir.
+
+**Les situations à couvrir par un modèle prêt à l'emploi** (à écrire une fois, à réutiliser toujours) : accusé de réception · suivi de commande · commande non reçue · article manquant ou incorrect · produit endommagé · modification de commande · annulation possible / impossible · retour · remboursement · facture · geste commercial · code promo ou paiement bloqué · insatisfaction · relance insistante · réponse à un avis · demande floue · **demande d'avis après résolution**.
+
+Le dernier est celui qu'on oublie et qui rapporte : un client dont le problème vient d'être bien résolu est **le meilleur moment** pour demander un avis public.
+
+**BOS écrit ces modèles adaptés à la marque et au ton** — c'est une heure de travail qui sert des années.
 
 ### Scaler le CA, c'est scaler l'entreprise entière
 

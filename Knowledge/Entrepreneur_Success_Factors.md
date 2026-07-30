@@ -76,7 +76,48 @@ Repère concret : **99 % des 5 M$ ont été gagnés sur les 2-3 dernières anné
 
 **Usage BOS :** c'est le recadrage à sortir quand un entrepreneur juge son business sur 3 mois de résultats plats. Pas pour l'encourager à s'entêter aveuglément — la matrice PMF sert à vérifier qu'il travaille sur la bonne chose — mais pour distinguer *« ma stratégie est mauvaise »* de *« je suis dans la partie plate de la courbe »*. Les deux se ressemblent de l'intérieur ; ce ne sont pas les mêmes réponses.
 
-## 7. Règle de mise en œuvre : 80/20 et simplicité
+## 7. La théorie des 3 monnaies — arbitrer ses ressources
+
+Un entrepreneur ne possède que trois ressources. Tout le reste s'achète avec :
+
+1. **Le temps** — la seule non renouvelable
+2. **Le savoir** — l'effet de levier : compétences, frameworks, compréhension du marché
+3. **L'argent** — l'accélérateur
+
+**La règle :** quand une monnaie manque, on l'obtient **en investissant les deux autres**.
+
+| Ce qui manque | Formule | Traduction |
+|---|---|---|
+| **Argent** | Temps + Savoir | Convertir ses compétences en cash-flow : service, prestation, produit minimal. Ne pas chercher d'investisseur — chercher un problème douloureux à résoudre contre paiement |
+| **Savoir** | Temps + Argent | Acheter l'expérience des autres (formation ciblée, consultation d'expert) et l'implémenter agressivement. L'ignorance coûte plus cher que l'éducation |
+| **Temps** | Argent + Savoir | S'extraire de l'opérationnel : recruter, déléguer, outiller, documenter en procédures |
+
+**Usage BOS — c'est un outil de diagnostic à part entière.** Quand un entrepreneur dit « je suis bloqué », identifier **quelle monnaie manque** donne immédiatement la stratégie :
+- « Je n'ai pas de budget » → il a du temps et du savoir. La question devient : comment les convertir en cash ?
+- « Je ne sais pas comment faire » → il a du temps et un peu d'argent. La question devient : à qui acheter cette compétence, et à quelle vitesse l'implémenter ?
+- « Je suis débordé » → il a l'argent et le savoir. La question devient : qu'est-ce qui sort de ses mains cette semaine ?
+
+**Le piège classique :** essayer de résoudre un manque d'argent en attendant d'avoir de l'argent. La monnaie manquante ne s'obtient jamais en l'attendant — seulement en dépensant les deux autres.
+
+## 8. Valider une idée avant d'y investir ses monnaies (7 critères)
+
+Grille de notation, chaque critère de 1 (faible) à 3 (fort). **Seuil de validation : 14/20.**
+
+| # | Critère | Question |
+|---|---|---|
+| 1 | **Fréquence** | À quelle fréquence le problème se pose-t-il ? (quotidien = 3) |
+| 2 | **Intensité** | À quel point est-il douloureux ou urgent ? (critique = 3) |
+| 3 | **Coût de l'inaction** | Combien coûte au client le fait de **ne pas** le résoudre ? |
+| 4 | **Recherche active** | Les gens cherchent-ils déjà une solution ? |
+| 5 | **Dépense existante** | Payent-ils déjà pour des solutions imparfaites ? |
+| 6 | **Marché croissant** | Le nombre de personnes concernées augmente-t-il ? |
+| 7 | **Intérêt personnel** | Motivation et compétence sur le sujet — **plafonné à 2 points** |
+
+**Le plafond sur le critère 7 est le point important :** il garantit que la décision reste dictée par le marché et non par l'ego. Un business se construit sur la valeur apportée aux autres, pas sur ses hobbies.
+
+Les critères 4 et 5 sont les plus prédictifs — ils recoupent exactement le principe e-commerce « s'il n'y a personne dessus, c'est que ça ne se vend pas ».
+
+## 9. Règle de mise en œuvre : 80/20 et simplicité
 
 > « Si je vous impressionne maintenant, vous ne le mettrez pas en œuvre de toute façon. »
 

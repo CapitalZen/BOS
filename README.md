@@ -57,6 +57,7 @@ BOS/
 │   ├── Ecom_Meta_Ads_Playbook.md ← E-commerce : produit, Meta Ads, créatives, CRO, sourcing
 │   ├── Ecom_Organic_Launch_Playbook.md ← Lancer sans budget pub, puis scaler
 │   ├── Ecom_Brand_Operators_Cases.md ← 3 marques 8 chiffres : ce qui fait durer
+│   ├── Ecom_Glossaire.md ← Sigles et termes e-commerce
 │   ├── SEO_Content_Playbook.md ← Méthode SEO de contenu complète (mots-clés → cadence)
 │   ├── Recruiting_Playbook.md ← Attirer, filtrer et intégrer d'excellents profils
 │   ├── AI_Integration_Playbook.md ← Intégrer l'IA en entreprise (méthode + cadre légal)
