@@ -21,6 +21,19 @@ La plus grosse erreur d'apprentissage : sélectionner les conseils. On applique 
 
 > « Moi j'ai plus aucun réseau social sur mon téléphone, pas de jeux vidéo, pas de télé. Du coup travailler c'est super facile. »
 
+### Décider dans le doute, puis enchaîner
+Le doute ne se dissipe pas avant l'action — il se dissipe par l'action. Quand ça va bien on pousse ; quand on doute, **on pousse quand même**, en prenant une décision tranchée plutôt qu'en attendant la certitude.
+
+Le mécanisme concret, et il est banal : **mettre un pied devant l'autre. Tuer les tâches une par une.** Pas une stratégie, pas un système compliqué — une tâche terminée, puis la suivante. Puis, une fois que ça avance, trouver avec qui les tuer en équipe.
+
+Deux vérités à tenir ensemble, sans en sacrifier une :
+- **Il n'y a aucune recette magique.** Personne n'a de raccourci ; ceux qui en vendent un mentent.
+- **Il y a énormément d'opportunités.** L'argent circule en ligne comme jamais — entreprendre n'est même pas la seule voie : il existe des projets et des missions où l'on travaille avec une vraie liberté.
+
+> **Le prérequis de tout le reste : se faire confiance.** Pas au sens de l'auto-persuasion — au sens de s'autoriser à décider sans garantie. C'est exactement l'auto-efficacité que la recherche identifie comme le trait le plus corrélé à la réussite (`Entrepreneur_Success_Factors.md` §1), et elle se construit par des preuves : chaque tâche tuée en est une.
+
+**Usage BOS :** à sortir quand quelqu'un attend d'être sûr avant d'agir. Le recadrage n'est pas « fonce » — c'est « la certitude que tu attends ne viendra pas avant, elle viendra après ». Puis réduire immédiatement à une tâche unique, faisable maintenant. Une décision tranchée sur un sujet moyen bat une hésitation prolongée sur le meilleur sujet.
+
 ### Le 80/20 comme réflexe permanent, pas comme concept
 20 % des actions produisent 80 % des résultats. En e-commerce c'est particulièrement littéral : 20 % des produits font 80 % du CA, 20 % des publicités font 80 % des ventes. Donc 20 % du temps, bien placé, fait toute la différence.
 
