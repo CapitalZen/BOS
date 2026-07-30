@@ -58,6 +58,27 @@ Un lancement sous-capitalisé échoue rarement à cause de la méthode : il éch
 
 Pas un large catalogue. On part d'**un seul produit à fort potentiel**, capable de générer un cash-flow stable, et on bâtit la niche autour de lui. **La niche n'est pas choisie en amont de façon abstraite : elle se dessine à partir du produit gagnant.** L'identité visuelle, le positionnement et le catalogue complémentaire viennent ensuite.
 
+### Le 80/20 de la structure : démarrer sur une niche large
+
+Il existe deux façons de structurer une boutique, et elles ne s'opposent qu'en apparence.
+
+**La boutique de niche large** — le meilleur 80/20 opérationnel quand on démarre. On choisit un territoire assez vaste pour accueillir des dizaines de produits différents :
+
+| Niche large | Ce qu'elle couvre |
+|---|---|
+| **« Rose »** | Tout ce qui touche aux femmes (beauté, bien-être, accessoires, soin) |
+| **Santé** | Bien-être, performance, confort, douleurs |
+| **Maison** | Confort, rangement, entretien, décoration utile |
+| **Mode à utilité** | Le vêtement, mais avec un bénéfice fonctionnel en plus |
+
+**Pourquoi c'est le levier n°1 quand on n'a ni temps ni argent :** la page d'accueil ne change plus. Le site ne change plus. Les réglages et les applications ne changent plus. **À chaque nouveau test, on n'a qu'une fiche produit à créer.**
+
+Le coût réel d'un test n'est pas seulement le budget publicitaire : c'est aussi le temps de reconstruire une boutique, refaire le branding, reconfigurer les applications, reparamétrer les paiements et les livraisons. Sur une niche large, ce coût tombe à quasi zéro — donc on peut enchaîner beaucoup plus de cycles, et c'est le nombre de cycles qui produit le gagnant.
+
+**Quand recentrer ?** Une fois à un volume quotidien confortable (~7-10 k/jour), on peut resserrer le site autour du produit ou de la sous-niche qui a gagné, et basculer vers la logique de marque (§ ci-dessous, et `Ecom_Brand_Operators_Cases.md`). Ce n'est même pas obligatoire — c'est une optimisation, pas une condition de survie.
+
+**La réconciliation avec la boutique de niche brandée :** ce ne sont pas deux stratégies concurrentes, ce sont **deux moments**. Niche large = phase de recherche du gagnant, où l'on optimise le coût par test. Boutique brandée = phase de construction, une fois qu'on sait ce qui répond. L'erreur est de brander avant d'avoir un gagnant — on paie un branding pour un produit qu'on abandonnera.
+
 **La duplication est le vrai levier de scale.** Un seul produit/angle qui scale peut s'essouffler en quelques semaines — aucun produit ne dure éternellement. La logique : consolider ce qui tourne, puis **dupliquer le modèle validé sur d'autres marchés** (un produit validé en France a de fortes chances de fonctionner en Italie ou en Espagne avec les mêmes créatives adaptées). C'est ce qui fait passer d'une boutique à plusieurs, sans repartir de zéro.
 
 ⚠️ Toujours consolider avant de dupliquer.
