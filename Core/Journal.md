@@ -7,3 +7,10 @@
 - Blocages déclarés : trésorerie (actuel) et recherche produit (« mon plus gros blocage »).
 - Diagnostic initial posé : le bottleneck est la trésorerie ; la recherche produit est en grande partie un symptôme, et c'est la partie la plus délégable du process.
 - Reste à obtenir : montant de trésorerie, capacité d'épargne, temps hebdomadaire, compétences, objectif chiffré.
+
+## 29/07/2026 — Suite : territoire et stratégie d'entrée
+- Révision du diagnostic : la trésorerie n'est plus le bottleneck. La voie organique permet de démarrer sans budget publicitaire et d'accumuler la data d'audience gratuitement. Le blocage se déplace vers **la régularité**.
+- **Territoire choisi : mode & accessoires féminins à utilité** (croisement « rose » × « mode à utilité »). Seul croisement qui active les deux moteurs, identité et problème-solution.
+- Structure retenue : boutique de niche large — le site ne bouge pas d'un test à l'autre.
+- Livré : filtre produit du territoire, 8 archétypes à chercher, grille des formats, 20 hooks prêts à tourner, calendrier de la semaine 1, dispositif de capture.
+- Prochaine action, sans dépendance ni budget : **filmer et publier la première vidéo.**
