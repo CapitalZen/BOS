@@ -478,6 +478,27 @@ Où sourcer : plateformes spécialisées (Youdji, Influee, Backstage, Billo), ma
 
 **Sur les formats plus produits** (podcasts, micro-trottoirs, créas studio, créas entrepôt) : excellents pour **diversifier**, et la diversification compte. Mais ce n'est pas une base solide — parce que ce n'est ni rapide ni reproductible en volume. La base, c'est le mashup : actionnable, rapide, fiable, et scalable.
 
+### Itérer sur une gagnante qui s'essouffle (au lieu de la jeter)
+
+Une créative qui a performé contient un actif : **un corps de script validé par le marché.** Le jeter pour repartir de zéro, c'est perdre la seule chose qu'on avait prouvée.
+
+**Le principe :** garder le corps du script, changer le **hook** et les **b-rolls**. Effort minimal, déclinaisons nombreuses.
+
+**Six façons de retravailler le hook :**
+
+| Variation | Ce que ça change |
+|---|---|
+| **Cibler un nouveau segment** | Même bénéfice, autre public — la façon la plus rapide d'ouvrir une poche d'audience |
+| **Partir d'une objection** — prise dans les commentaires | On répond à un frein réel, formulé par de vrais gens |
+| **Ouvrir sur une statistique chiffrée** | Crédibilité immédiate, registre rationnel |
+| **Témoignage client** | Preuve sociale en ouverture plutôt qu'en fin |
+| **Hook négatif** — « arrête de faire ça » | Interrompt le scroll par contraste ; très efficace sur un marché saturé de promesses |
+| **Posture sceptique** — « j'étais pas convaincu, mais… » | Désarme la méfiance en l'exprimant avant le prospect |
+
+**Pourquoi ces six-là et pas d'autres :** chacune s'adresse à un **niveau de conscience** ou à un **stade de sophistication** différent (`Schwartz_Breakthrough_Advertising.md`). Le hook statistique parle à un marché rationnel de stade 3 ; le hook négatif et le sceptique parlent à un marché de stade 4-5 qui ne croit plus aux promesses ; le nouveau segment déplace la conscience. Ce n'est pas six variantes cosmétiques, c'est six portes d'entrée.
+
+**Les commentaires sous ses propres publicités sont la meilleure source de hooks.** Les objections y sont formulées avec les mots exacts du marché — c'est du message mining gratuit et continu.
+
 ### La fatigue publicitaire est souvent une question de saisonnalité d'angle
 
 **Contre-intuitif et très rentable.** Quand les performances baissent, le réflexe est de conclure que « la créative est morte » ou que « le produit n'a plus de time to market ». Souvent, c'est faux : **c'est le même angle qui tourne depuis 3-4 mois.**
