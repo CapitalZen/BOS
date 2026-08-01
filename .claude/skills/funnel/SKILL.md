@@ -57,6 +57,24 @@ Utiliser des ordres de grandeur **indicatifs** (ajuster selon industrie et sourc
 
 **Règle :** la valeur absolue compte moins que **ton** historique ; les benchmarks servent à contextualiser (« on est sous le plausible » vs « le problème est en amont »).
 
+### Phase 3 bis — Élargir au parcours complet (Customer Journey Map)
+
+Le tunnel de conversion s'arrête à l'achat. **Le parcours client, non** — et une partie des pertes se situe hors du tunnel, là où personne ne regarde.
+
+Cartographier les cinq étapes, en notant à chacune **ce que la personne ressent** et **ce qui peut la faire décrocher** :
+
+| Étape | Questions | Point de perte typique |
+|---|---|---|
+| **1. Découverte** | Où me voit-elle pour la première fois ? Que comprend-elle en 2 secondes ? | Message qui ne sélectionne personne |
+| **2. Considération** | Que fait-elle entre la découverte et la visite ? Compare-t-elle ? | Absence de preuve, doute sur le sérieux |
+| **3. Achat** | Le tunnel proprement dit | Friction, information manquante, prix mal justifié |
+| **4. Attente et réception** | Que se passe-t-il entre le paiement et le colis ? Est-elle rassurée ? | **Silence après l'achat** — le point le plus négligé, et la première cause de litiges |
+| **5. Usage et suite** | Obtient-elle le résultat promis ? Le dit-elle ? Rachète-t-elle ? | Aucune sollicitation d'avis, aucun flux de réachat |
+
+**Ce que la carte révèle et que le tunnel cache :** les étapes 4 et 5 ne coûtent presque rien à améliorer et pèsent directement sur la marge — moins de litiges, plus d'avis, plus de réachats, du bouche-à-oreille. Un entrepreneur qui n'optimise que les étapes 1 à 3 travaille sur la moitié la plus chère de son parcours.
+
+**Règle d'usage :** faire la carte **avant** de choisir quoi optimiser. Le plus gros gain n'est pas toujours dans le tunnel.
+
 ### Phase 4 — Identifier le plus gros drop-off
 
 Calculer les **pertes relatives** entre étapes : où perd-on le plus de gens en proportion ou en volume absolu qualifié ?
