@@ -122,6 +122,21 @@ Proposer une grille adaptée au temps disponible (`Profile.md`). Si peu d'heures
 
 **Deux horizons, toujours :** des tâches à la semaine ET des tâches à la journée. La semaine seule dérive ; la journée seule perd la direction.
 
+**Fixer les délais avec la loi de Parkinson.** *Le travail s'étend pour remplir le temps disponible.* Une tâche à laquelle on accorde un mois prend un mois — non par paresse, mais parce que le cerveau occupe l'espace qu'on lui donne : il sur-analyse, sur-optimise, rouvre des décisions déjà prises et peaufine des détails sans conséquence.
+
+**Le diagnostic que ça change :** quand un entrepreneur tourne en rond sur une tâche, le réflexe est de conclure au manque de discipline ou au perfectionnisme de caractère. Souvent, c'est simplement **une échéance trop longue**. C'est une cause à vérifier avant de traiter le sujet en problème de mindset — elle se corrige en une phrase, l'autre demande un protocole.
+
+**Le mécanisme marche dans les deux sens :** le travail se comprime aussi pour tenir dans le temps qu'on lui impose. La contrainte force l'arbitrage sur l'essentiel.
+
+Règles à appliquer en construisant le plan :
+- **Diviser par deux l'estimation spontanée.** « Trouver mon produit et faire mon site ce mois-ci » devient deux échéances courtes et séparées.
+- **Une seule tâche prioritaire par jour**, nommée la veille.
+- **Des blocs de concentration totale** de 50 à 90 minutes, une seule tâche par bloc.
+- **Rendre l'échéance publique** — la dire à BOS suffit à créer l'engagement.
+- **Assumer le « suffisamment bon ».** La vitesse crée de la donnée, la donnée crée les bonnes décisions ; la perfection ne crée rien tant que rien n'est en ligne.
+
+⚠️ **Ce qui ne se comprime pas.** La loi s'applique au travail que l'entrepreneur contrôle — recherche, production, mise en ligne. Elle ne s'applique **pas** aux délais externes ni aux fenêtres d'apprentissage : un test publicitaire a besoin de plusieurs jours de données pour être lisible (`Knowledge/Ecom_Meta_Ads_Playbook.md` §3), un A/B test a besoin d'un volume minimum, un échantillon fournisseur met le temps qu'il met. Raccourcir ces fenêtres-là ne produit pas de la vitesse, ça produit des décisions prises sur du bruit. **Comprimer le travail, jamais la mesure.**
+
 **Routine du soir (à installer chez tout entrepreneur qui débute) :** le planning du lendemain se fait la veille, avant de dormir. On se réveille avec une direction, pas avec une question. Support minimal — l'app Rappels du téléphone suffit, pas besoin de Notion ni d'outil sophistiqué ; l'outil n'est jamais le problème.
 
 **Piège de fin de journée :** si l'entrepreneur travaille après son job, la fatigue du soir est le moment exact où le plan tombe. Le nommer à l'avance : « Ton risque c'est 21h, fatigué, la flemme. C'est pour ça qu'on écrit la tâche la veille — le soir tu exécutes, tu ne décides pas. » Si le pattern se répète 2+ cycles → basculer la session de travail avant le job, ou traiter en méta-problème (énergie / discipline → `mindset`).
