@@ -147,6 +147,12 @@ C'est particulièrement sensible aux endroits où l'hésitation est déjà la pl
 
 Ce que la section précédente traite pour la créative vidéo s'applique identiquement au texte — titre, page produit, email. Cinq mécaniques, indépendantes du format.
 
+### Vendre, c'est comme aider un ami
+
+Avant même de mentionner le produit, un message doit montrer quatre choses : la situation actuelle du prospect, ses tentatives passées qui n'ont pas marché, ce qu'il redoute en secret, ce qu'il espère sans oser trop y croire. C'est ce qu'on fait naturellement avec un ami qui expose un problème — on écoute et on reformule avant de proposer quoi que ce soit. Les gens n'achètent pas parce que le produit est intéressant ; ils achètent parce qu'ils se sentent compris avant d'avoir rien lu sur l'offre elle-même.
+
+**Une idée forte vaut mieux que dix arguments moyens.** Le cerveau retient une image, pas une liste — une promesse, un problème, un moment visualisable. « Tu rentres le soir sans la sensation d'avoir marché sur du béton toute la journée » porte davantage qu'une énumération de caractéristiques, parce qu'il n'y a qu'une seule scène à retenir.
+
 ### Parler, ne pas écrire
 
 Le test qu'utilisait Claude Hopkins, l'un des fondateurs du copywriting moderne, pour valider chaque ligne : *« Est-ce que ça aiderait un vendeur à vendre en face à face ? »* Un vendeur en porte-à-porte ne dit jamais « notre technologie EMS de stimulation neuromusculaire avancée » — il dit ce que la personne en face de lui a besoin d'entendre, dans ses propres mots.
@@ -186,6 +192,18 @@ Une opinion se conteste toujours — *« nos cookies sont délicieux » → « d
 ### Les croyances — confirmer avant de proposer
 
 Développé en détail dans `Schwartz_Breakthrough_Advertising.md` §4 bis : une croyance mal identifiée fait rejeter une offre par ailleurs solide, parce que le message entre en collision avec ce que le prospect pense déjà de lui-même. **La règle courte : ne jamais heurter la croyance de front — la confirmer, puis ouvrir un mécanisme neuf à côté.**
+
+### Les 5 leviers émotionnels qui font agir
+
+Cinq choses que les gens sont prêts à faire beaucoup pour obtenir de quelqu'un — un message fort en active au moins une :
+
+- **Encourager leurs rêves** — montrer la version d'eux-mêmes qu'ils veulent devenir, pas le produit
+- **Justifier leurs échecs** — enlever la culpabilité : « ce n'est pas que tu manques de volonté, c'est que les solutions classiques sont mal conçues » (application directe de la confirmation de croyance ci-dessus)
+- **Apaiser leurs peurs** — nommer ce qu'ils redoutent en silence avant qu'ils n'aient à le dire eux-mêmes : « tu as peur que ce soit encore une déception, c'est normal »
+- **Confirmer leurs soupçons** — valider une intuition qu'ils avaient déjà : « tu savais que quelque chose clochait, tu avais raison »
+- **Les aider à blâmer un ennemi** — une méthode dépassée, une industrie, une croyance reçue plutôt qu'eux-mêmes
+
+**Ce qui les relie :** aucun des cinq ne porte sur le produit. Tous portent sur la relation entre le prospect et lui-même — c'est pour ça qu'ils fonctionnent avant même que le produit soit nommé, et qu'ils se combinent naturellement avec le travail sur les croyances ci-dessus.
 
 ### L'autorité — le raccourci qui fait sauter les objections
 
