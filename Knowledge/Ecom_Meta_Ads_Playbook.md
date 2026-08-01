@@ -1390,6 +1390,36 @@ Ensuite, distinguer les postes où l'expertise et la maîtrise du marché sont c
 
 **Erreurs qui font monter le ROAS BE :** recruter au-delà de l'utile, tout déléguer à des agences au lieu d'internaliser, ne pas négocier avec les fournisseurs, ne pas aller comprendre sa supply sur place.
 
+### Le volume et la diversité de créatives sur ce marché
+
+**Concentrer 80 % de l'acquisition sur un seul canal** au démarrage — Meta en l'occurrence — avant d'ajouter quoi que ce soit d'autre. Fragmenter tôt fragmente l'apprentissage et le budget.
+
+**Le rythme de production :** en testing, environ **10 statiques et 5-6 vidéos** sur des angles différents. **Dès que ça prend, passer à un volume élevé et continu — de l'ordre de 40 créatives par semaine.** Les statiques sont le levier le plus rentable de tous : coût quasi nul, production rapide, et elles portent une part importante du résultat.
+
+**La diversité de représentation est un levier de conversion, pas une question cosmétique.** Un produit large s'adresse à des gens qui ne se ressemblent pas — et quelqu'un qui ne se reconnaît dans aucune des créatives n'achète pas, même si le produit lui conviendrait. Décliner donc sur toutes les dimensions du persona : âge, morphologie, origine, genre, situation de vie, particularité physique liée au problème traité. Chaque déclinaison ouvre une poche d'audience que les autres n'atteignent pas.
+
+**Convergence avec Andromeda (§3) :** cette exigence de volume rejoint exactement ce que l'algorithme demande désormais. Changer de persona et de décor produit un identifiant réellement neuf ; multiplier les variantes d'un même tournage n'en produit aucun. **Le volume ne compte que s'il est diversifié** — 40 créatives quasi identiques valent une créative.
+
+**L'organisation qui rend ce volume possible :** un stratège créatif, un media buyer pour la mise en ligne en masse, et une ou plusieurs personnes dédiées à la production de statiques. C'est un poste de coût à assumer tôt, parce que c'est lui qui alimente tout le reste.
+
+### La checklist de marge — l'ordre des opérations
+
+**La séquence, contre-intuitive mais décisive :** au démarrage, ne pas optimiser la marge. Se concentrer sur la croissance du chiffre d'affaires — avec le ROAS BE comme seule limite absolue — jusqu'à atteindre un volume stable de l'ordre de **10 000 € par jour**. Ce volume est ce qui permet de tester vite. **Ensuite seulement**, travailler la marge jusqu'à 15-17 % net après TVA. **Puis** scaler.
+
+Chercher la marge avant d'avoir le volume revient à optimiser sur des échantillons trop petits pour décider quoi que ce soit.
+
+**Les leviers à passer en revue, une fois le volume atteint :**
+
+| Domaine | À vérifier |
+|---|---|
+| **Base client** | Emails réellement collectés · flux d'email marketing performants · programme de fidélité · programme ambassadeur |
+| **Panier** | Upsells · downsells · cross-sells · carte de remerciement avec code promo en QR |
+| **Coûts** | Prix produit négociés · supply chain optimisée · autres usines sourcées · dépenses fixes inutiles supprimées |
+| **Acquisition** | Publicités moyennement rentables coupées · ROAS BE réellement bas · campagne de marque sur Google · remarketing sur messagerie |
+| **Rétention** | Trustpilot fourni · politique de remboursement claire · appels clients · nouveaux produits en sortie régulière |
+
+La plupart des boutiques ont du travail sur les trois quarts de cette liste. Ce n'est pas un problème — c'est une réserve de marge disponible sans toucher au trafic.
+
 ### Accepter la baisse de rentabilité en scalant
 
 Plus on scale, moins on est rentable — c'est mécanique, pas un échec. Ne pas juger sa marge au jour le jour : regarder sur 3-4 jours. Quand elle baisse, c'est le signal qu'il faut un nouvel angle, un nouveau persona, un nouveau produit. **Sur gros volume en Europe, 10 % net est déjà très bien** — refuser de scaler pour préserver 20 % de marge est une erreur de raisonnement.
