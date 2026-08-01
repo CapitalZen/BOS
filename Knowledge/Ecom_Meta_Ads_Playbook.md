@@ -965,6 +965,10 @@ Idéalement, on les combine toutes.
 | **Product seeding** | Produit offert **+ commission généreuse (30-60 %)** sur les ventes générées | Produit + commission | Les créateurs sont motivés par leur propre gain. **Être très généreux sur le pourcentage** : l'objectif n'est pas de gagner sur l'affiliation, c'est de produire du contenu en masse |
 | **Micro-influenceurs** | Publication payée sur leur compte (10K-300K abonnés) | ~100-800 $ / publication | Apporte de l'autorité en organique : les publicités convertissent mieux ensuite car l'audience a déjà vu la marque chez une référence |
 
+**Le canal micro-influenceurs comme moteur d'acquisition principal au démarrage** (pas seulement une source de contenu) : une fois le compte de marque doté d'un minimum de contenu et d'abonnés, enchaîner les collaborations avec des créatrices dans la tranche basse (10K-100K abonnés, quelques dizaines de milliers de vues par publication en moyenne) pour inonder rapidement le marché et construire de la crédibilité avant même de scaler en publicité payante. **L'effet cumulatif :** plus le compte de marque gagne en abonnés et en vues grâce aux collaborations, plus il devient attractif pour de nouvelles créatrices — un cercle qui permet de monter en gamme d'influenceurs à mesure que la marque grandit, financé par la traction déjà obtenue plutôt que par un budget qui augmente linéairement.
+
+**Le référencement TikTok, un levier presque toujours négligé.** Une vidéo organique ou d'influenceur optimisée (hashtags pertinents, mots-clés dans la description et prononcés à l'oral) continue de ramener des clients des semaines voire des mois après sa publication, sans dépense supplémentaire — c'est un actif qui compose dans le temps, à l'inverse d'une publicité qui s'arrête de produire dès que le budget s'arrête. Volume de publication et référencement ne s'opposent pas : produire beaucoup sans optimiser chaque vidéo individuellement fait perdre l'essentiel de ce bénéfice composé.
+
 **Trois règles opérationnelles :**
 - **Toujours négocier les droits de réutilisation publicitaire** — sans clause écrite, le contenu ne peut pas servir en ads
 - **Ne jamais juger un créateur sur 1-2 vidéos.** Certains deviennent gagnants au 6ᵉ ou 10ᵉ essai. S'il correspond au persona, commander en volume
@@ -985,10 +989,12 @@ Une méthode gratuite et rapide quand on veut sourcer directement plutôt que pa
 
 **2. Construire le persona de la créatrice avant de chercher un nom.** Âge, genre, origine, style, centres d'intérêt, valeurs — le même exercice que pour l'avatar client (`Customer_Research_SOP.md` Étape 0), appliqué à qui doit représenter la marque à l'écran. Sans ce persona écrit à l'avance, la sélection se fait au feeling et dérive.
 
-**3. Trois tactiques de recherche concrètes, combinables :**
+**3. Cinq tactiques de recherche concrètes, combinables :**
 - **Les identifications sur Instagram** — parcourir les comptes qui identifient les grandes marques de la niche : ce sont déjà des créatrices actives sur des sujets proches.
 - **La recherche directe** — taper « UGC + [niche] » dans la barre de recherche TikTok ou Instagram et lister les comptes pertinents.
 - **Les hashtags générés** — demander à une IA une liste de hashtags cohérents avec l'univers de la marque, puis parcourir les publications associées.
+- **Mot-clé de niche trié par date + commentaires.** Chercher le mot-clé de la niche sur TikTok, trier par publications récentes plutôt que par popularité, et regarder qui commente — ce sont des gens déjà intéressés par le sujet, donc une audience déjà chaude pour la créatrice **et** pour la marque.
+- **Publier un appel à créateurs.** Une vidéo simple annonçant qu'on recherche des créateurs UGC, avec les bons hashtags, attire souvent un volume de candidatures largement supérieur à l'effort investi. Une personne de l'entourage déjà motivée reste l'option la plus rapide quand elle existe.
 
 **La position à adopter au premier contact, pour une marque qui démarre :** proposer une collaboration rémunérée en se présentant comme une jeune marque indépendante, et offrir à la créatrice d'être **la première** à la représenter — un statut, pas seulement un cachet. ⚠️ **Condition de crédibilité : le site doit raconter la même histoire.** Pas de réductions agressives, produits éventuellement affichés « bientôt disponibles », un ton de petite marque qui démarre plutôt qu'une boutique qui simule déjà un grand volume. C'est une application directe du principe de congruence (`Ecom_Funnel_Architecture.md` §1) : le message tenu à la créatrice doit correspondre à ce qu'elle découvre en visitant le site, sinon la collaboration se décide sur une promesse qui se dément à la première vérification.
 
@@ -1094,6 +1100,8 @@ Logique : Meta permet de scaler vite et de construire une base clients ; email e
 Outil : **Klaviyo**. Deux flows indispensables dès le testing validé :
 - **Panier abandonné** — E1 rappel simple (30 min) → E2 réduction ~10 % + urgence (2 h) → E3 réduction ~20 %, ton personnel du fondateur (24 h)
 - **Post-achat** — rassurer à chaque étape : moins de SAV, plus de confiance, des rachats avant même la réception
+
+**Nuance selon la stratégie d'entrée.** Ces deux flows suffisent en boutique de niche large où l'objectif est d'enchaîner des cycles de test au coût de configuration le plus bas possible (§1) — construire neuf flows avant le premier visiteur irait à l'encontre de cette logique. **Sur un lancement de marque délibéré** (semi-marque déjà validée, ou marque construite dès le départ, §6 bis), l'approche s'inverse : tout le back-end email se configure **avant** la première action d'acquisition, pas après le testing. Liste complète dans ce cas : bienvenue · panier abandonné · ajout au panier sans achat · consultation sans ajout (*browse abandonment*) · visite sans action (*site abandonment*) · upsell direct · cross-sell · relance client inactif (*winback*) · collecte d'avis automatisée. Le principe : capter l'email dès le premier visiteur (popup dès l'arrivée) pour que chaque flow ait une base à traiter dès le lancement, plutôt que de les construire une fois le trafic déjà là. Pas de campagne email manuelle à ce stade — la base est trop petite, l'énergie est mieux utilisée ailleurs ; les campagnes viennent une fois la base constituée.
 
 Le SMS est lu en moyenne dans les 3 minutes. Canal peu saturé, à activer une fois la base constituée.
 
