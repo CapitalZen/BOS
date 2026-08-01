@@ -121,6 +121,24 @@ Chaque phase a un ressenti, un risque propre, et **une mauvaise réponse classiq
 - **Ne jamais dire à quelqu'un en phase 2 que ce serait plus simple avec plus de budget ou un meilleur produit.** C'est presque toujours faux, et ça déplace la cause hors de sa portée — donc ça démobilise.
 - **Anticiper la phase 4.** Prévenir qu'un changement de métier arrive au moment des premiers résultats évite de le vivre comme un échec quand il arrive.
 
+## 6 ter. Le réflexe inversé — quand ça ralentit, l'instinct pousse dans le mauvais sens
+
+Un pattern spécifique à la phase 4 (les premiers vrais résultats, quand la pression monte) : **face à un ralentissement, le réflexe naturel est presque toujours l'inverse de la bonne réponse.**
+
+| Symptôme | Le réflexe (faux) | La bonne réponse |
+|---|---|---|
+| Les créatives ralentissent | Ralentir la production, attendre d'y voir plus clair | **En envoyer plus** — c'est le volume qui produit le signal (`Ecom_Meta_Ads_Playbook.md` §4, les 3i) |
+| Les tests s'arrêtent | Se dire que ce n'est pas le moment de tester | **C'est le moment d'en faire le plus**, précisément parce que les données manquent |
+| On teste plusieurs produits à la fois par impatience | Chercher encore un nouveau produit | **Bombarder de nouveaux SKUs sur le produit qui marche déjà**, pas chercher ailleurs |
+| L'attention part vers de nouvelles idées séduisantes | Suivre l'objet brillant du moment | **Faire le 80/20 sur ce qui fonctionne déjà** (§9) |
+| La marge baisse, tout le monde s'agite | Paniquer, tout remettre en question | **Continuer les créatives et le CRO** — la marge se répare par l'exécution, pas par l'agitation |
+| Les résultats stagnent | Chercher des facteurs externes (marché, algorithme, saisonnalité) | **Envoyer massivement et intelligemment** — l'externe explique rarement plus qu'une petite part |
+| Sur-consommation de contenu (vidéos, podcasts, threads) pendant que les résultats baissent | Chercher encore plus de méthode | **Faire le travail concret** — voir le test de complétude (`.claude/skills/organize/SKILL.md`) |
+
+**Le principe commun aux sept lignes :** le ralentissement crée une pression émotionnelle qui pousse vers la théorisation, la diversification ou l'attente — trois formes d'évitement de l'exécution. La réponse qui fonctionne est presque toujours l'augmentation du volume sur les fondamentaux déjà identifiés comme corrects, jamais un changement de direction pris sous le coup du doute.
+
+⚠️ **La condition qui rend ce tableau vrai, et qu'il faut vérifier avant de l'appliquer :** ce réflexe suppose que **la direction de base est déjà bonne** — bon produit, bon territoire, hypothèses déjà validées. Il ne s'applique pas à quelqu'un qui n'a pas encore de traction du tout : bombarder de volume une direction non validée ne fait qu'accélérer la perte (`PMF_Offer_Playbook.md`, le produit se valide avant de se scaler). C'est un réflexe de phase 4-5, pas de phase 1-2.
+
 ## 7. La théorie des 3 monnaies — arbitrer ses ressources
 
 Un entrepreneur ne possède que trois ressources. Tout le reste s'achète avec :
