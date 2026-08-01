@@ -1125,6 +1125,72 @@ $$Z = \dfrac{p_1 - p_2}{\sqrt{p(1-p)\left(\dfrac{1}{n_1} + \dfrac{1}{n_2}\right)
 
 Voir où les visiteurs cliquent, s'arrêtent et quittent. Les zones de fort drop-off sont les endroits à optimiser en priorité : drop aux images produit → problème d'images ; drop au bundle → l'offre est à revoir. C'est ce qui indique **où et quand** faire un A/B test, au lieu d'optimiser à l'aveugle.
 
+## 6 bis. De la boutique de test à la semi-marque
+
+Le playbook parle depuis le début de « semi-marque » : on utilise le modèle du dropshipping pour obtenir de la data vite, puis on construit. Cette section détaille **le passage lui-même** — son déclencheur, son ordre et son coût.
+
+**Pourquoi on ne reste pas en dropshipping pur.** Trois plafonds arrivent tous en même temps :
+
+- **Les créatives se ressemblent.** Sans contenu propre, on décline ce que font les concurrents ou ce que produit une IA générique — le CTR se dégrade et le coût d'acquisition monte. Sous Andromeda, ce plafond arrive plus vite encore (§3).
+- **Le colis trahit la boutique.** Emballage neutre ou marqué en chinois : le client comprend en trois secondes ce qu'il a acheté. Avis moyens, preuve sociale faible, aucune fidélisation.
+- **Rien n'est défendable.** Le site se copie en deux heures. On se bat alors sur le prix et sur le budget publicitaire, deux terrains où gagne celui qui a le plus de trésorerie.
+
+### Le déclencheur — 50 à 100 ventes, pas avant
+
+**La règle la plus importante de cette section, et l'erreur la plus coûteuse :** ne rien investir en identité, packaging ou shooting avant d'avoir validé le produit. Le seuil de référence est **50 à 100 ventes**.
+
+Pourquoi ce seuil et pas dix : en dessous, on ne sait pas encore quel segment achète réellement, quels angles performent, ni quelles objections reviennent. Construire une identité de marque sur cette base produit une identité qui ne parle pas à l'audience réelle — et il faudra tout refaire. Ce volume apporte aussi le cash-flow qui finance la transition.
+
+**Pendant la phase de validation, tout noter :** retours clients, questions posées, raisons d'achat, cas d'usage. C'est la matière première de l'identité — elle se collecte avant, elle ne s'invente pas après.
+
+### L'ordre des phases — une à la fois, chacune validée
+
+**1. Identité.** Pas un logo et deux couleurs : une histoire de fondateur, un ton de communication calibré sur l'audience, une charte graphique (2-3 couleurs, une typographie, un style reconnaissable) et un manifeste — un document, même interne, qui fixe les valeurs et guide toutes les décisions suivantes. ⚠️ Sur l'histoire de fondateur, voir Réserves.
+
+**2. Contenu original.** C'est là que la transformation devient réelle. Shooting produit propre sous plusieurs angles et en contexte d'usage ; vidéos tournées soi-même ou commandées à des créateurs. Le contenu généré par IA est une entrée acceptable quand le budget est nul, à condition qu'il soit **à soi** et cohérent avec l'identité.
+
+Le gain n'est pas esthétique, il est stratégique : **on cesse d'être limité par ce que font les concurrents.** On peut tester des angles que personne n'exploite, et le contenu ne peut plus être copié — ce qui allonge mécaniquement la durée de vie des publicités.
+
+**3. Packaging, en trois niveaux progressifs :**
+
+| Niveau | Contenu | Coût |
+|---|---|---|
+| **1** | Carte de remerciement brandée dans chaque colis — logo, message, incitation à laisser un avis ou à partager | Quelques centimes l'unité |
+| **2** | Packaging personnalisé chez le fournisseur — souvent disponible **dès 100-200 unités** | Quelques centaines d'euros |
+| **3** | Expérience de déballage — papier de soie aux couleurs de la marque, stickers, petit cadeau | Variable |
+
+Trois effets, dans cet ordre d'importance : le taux d'avis 5 étoiles monte, du contenu organique se crée quand les gens filment leur déballage, et **les retours et demandes de remboursement baissent** — parce que le client constate qu'il a acheté chez une vraie marque.
+
+**4. Preuve sociale et communauté.** Demander un retour quelques jours après chaque vente, avec une incitation si nécessaire. Réutiliser ces témoignages partout : site, publicités, réseaux, emails. Puis du contenu régulier qui n'est pas de la vente — conseils d'usage, cas d'usage, pédagogie de niche — et éventuellement une newsletter ou un espace réservé aux meilleurs clients.
+
+L'effet cumulé est économique, pas cosmétique : plus de ventes organiques, moins de dépendance au payant pour chaque vente, coût d'acquisition moyen qui baisse et LTV qui monte.
+
+**5. Marges et scaling.** Deux leviers s'ouvrent seulement à ce stade :
+
+- **Le prix.** Avec une identité et de la preuve sociale, on n'est plus tenu de s'aligner sur les dropshippers — un écart de **20 à 30 %** devient tenable. Tester par paliers de 5-10 € et mesurer l'effet sur le volume : le taux de conversion baisse souvent bien moins que prévu, et la rentabilité monte fortement.
+- **Le stock.** Quand le produit se vend de façon constante, commander **100 à 200 unités** pour commencer. Le coût produit est divisé par deux ou trois, les délais raccourcissent et la qualité devient contrôlable. (Suite : §7 sur les agents, et §11 sur la supply hybride.)
+
+### Les quatre erreurs de transition
+
+1. **Tout faire en même temps** — logo, shooting, packaging, refonte du site et stratégie de contenu d'un coup. On s'éparpille, on dépense trop vite, et aucune étape n'est faite correctement. Une phase à la fois, chacune validée.
+2. **Investir avant la validation** — voir le seuil de 50-100 ventes ci-dessus.
+3. **Copier l'identité d'un concurrent.** S'inspirer des structures qui convertissent est légitime et recommandé partout dans ce document (§6). Reprendre le positionnement, le ton et l'univers d'une marque existante ne l'est pas : il n'en résulte aucune différenciation, et c'est précisément le problème qu'on cherchait à résoudre.
+4. **Négliger la cohérence.** Une identité soignée sur le site mais des publicités d'un autre style, des emails sans rapport et un packaging décalé : chaque point de contact doit raconter la même histoire. C'est le même principe de congruence que celui qui régit créative → funnel (`Ecom_Funnel_Architecture.md` §1), appliqué à la marque entière.
+
+### Le budget réel
+
+Ordre de grandeur cité par la source pour une transition complète : **1 000 à 2 000 €**, étalés et financés par les profits au fur et à mesure.
+
+| Poste | Fourchette |
+|---|---|
+| Shooting photo / vidéo produit | 200-500 € |
+| Packaging personnalisé, première production | 300-500 € |
+| Optimisation du site | 100-300 € |
+| Cartes de remerciement et extras | 50-100 € |
+| Stock initial (optionnel à ce stade) | 500-1 000 € |
+
+**Ce qui rend ce chiffrage crédible : rien n'est engagé avant les 50-100 ventes**, donc rien n'est financé par de l'épargne. C'est ce qui distingue cette voie de la création de marque classique — on n'avance pas le capital, on réinvestit une traction déjà prouvée.
+
 ## 7. Agents et sourcing
 
 L'agent est le fondement opérationnel : produit, qualité, délais, packaging, logistique. Si cette relation se dégrade, les commandes ne partent plus, les délais explosent, les litiges s'accumulent et le processeur de paiement finit par bloquer — du jour au lendemain.
@@ -1515,6 +1581,10 @@ Le corps de la méthode est solide. Les points ci-dessous sont faux, illégaux o
 11. **Les allégations produit doivent exister avant d'être écrites.** « Formule brevetée », « testée sur 2 000 personnes », effet promis en 48 heures : un brevet cité doit exister, une étude citée doit exister, un délai annoncé doit être réel. En UE, une allégation non substantiée est une pratique trompeuse, avec des régimes spécifiques sur les cosmétiques, les compléments et tout ce qui touche à la santé. La « compression du temps » est un levier d'offre légitime **uniquement** quand le premier effet est réellement rapide.
 
 12. **« Alternative à une grande marque » n'est pas un blanc-seing.** Vendre un concurrent moins cher est parfaitement légal ; reproduire un design protégé, un brevet ou une marque est une contrefaçon. La vérification se fait avant de sourcer — dépôts de marque, dessins et modèles — pas après la mise en demeure.
+
+13. **L'histoire de fondateur doit être vraie.** Une source suggère que « même si votre vraie motivation était de gagner de l'argent, vous pouvez construire une histoire » autour du problème résolu. La nuance est décisive : **on choisit laquelle de ses vérités on raconte, on n'en invente pas une.** Constater un problème réel et décider de le résoudre est une histoire authentique et suffisante. Inventer un vécu personnel qui n'a pas eu lieu — une maladie, un accident, une expérience fondatrice fictive — est une pratique commerciale trompeuse dès lors qu'elle pèse sur la décision d'achat, et c'est une des fraudes les plus fréquemment sanctionnées en e-commerce. BOS écrit des récits de marque à partir de ce qui est vrai ; il n'en fabrique pas.
+
+14. **« Utilisez les publicités de vos concurrents, adaptées » — non.** La même source le recommande en phase de validation. C'est le point 2 des présentes réserves : s'inspirer d'un angle, d'une structure ou d'un script est légitime ; réutiliser le matériel filmé d'un concurrent est une contrefaçon, et Andromeda regroupe désormais les créatives similaires sous un même identifiant (§3), ce qui la rend en plus inefficace. Produire son propre contenu dès le premier jour est aujourd'hui à la fois la seule voie légale et la plus performante.
 
 **Deux nuances méthodologiques**, moins graves mais à garder en tête :
 
