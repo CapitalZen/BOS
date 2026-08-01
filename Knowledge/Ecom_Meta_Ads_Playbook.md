@@ -39,6 +39,29 @@ Cela dit, **tester des créatives en volume et en continu reste fondamental** : 
 
 **Perdre de l'argent à l'acquisition peut être un choix stratégique** — à condition d'avoir la rétention derrière. Investir 3 000 € pour acquérir 1 000 clients est rentable si le back-end (email, réachat, CRM) les fait revenir pendant des mois. C'est ce qui distingue une marque d'un site de dropshipping. ⚠️ Réservé à celui qui a déjà la trésorerie et une stratégie de rétention prouvée — un débutant qui applique ça sans back-end perd simplement de l'argent.
 
+### Entraîner le muscle analytique — trois routines gratuites
+
+La méthode s'apprend ; **le jugement s'entraîne.** Ces trois habitudes ne coûtent rien, ne demandent ni produit, ni boutique, ni budget — et elles construisent précisément la couche qu'aucun playbook ne transmet : la capacité à regarder une publicité et à voir *pourquoi* elle marche.
+
+**1. Décortiquer chaque publicité qui passe dans son fil.**
+Quatre questions à se poser systématiquement :
+- Comment aurait-on pu faire un **meilleur hook** ?
+- Comment mettre le produit en avant **différemment** ?
+- Qu'est-ce qui ferait **baisser le coût par acquisition** ?
+- Qu'est-ce qui rendrait la publicité plus partageable — donc **ferait baisser le CPM** ?
+
+**2. Jouer à vendre les produits qu'on croise dans sa journée.**
+Face à n'importe quel objet : *si je devais écouler un stock de ça, comment je m'y prendrais ? Qui je ciblerais exactement ? Quel angle ? Quelle offre ?* C'est l'exercice de reformulation (`PMF_Offer_Playbook.md` §2) appliqué au réel, plusieurs fois par jour, gratuitement.
+
+**3. Étudier un fondateur de marque par semaine.**
+Interviews, podcasts, retours d'expérience — en notant **les raisonnements**, pas les chiffres. Ce qu'on cherche, ce sont les arbitrages : pourquoi ce produit, pourquoi ce canal, pourquoi ce moment.
+
+> Conditionner son cerveau ainsi pendant six mois rend l'échec très improbable — non par magie, mais parce qu'on aura vu passer des centaines de cas et qu'on reconnaîtra les patterns d'instinct.
+
+**Pourquoi ces routines comptent particulièrement :** un playbook donne la méthode de lecture ; seule la répétition donne la vitesse de lecture. Deux personnes devant la même publicité ne voient pas la même chose, et l'écart vient de là (`Yomi_Business_Principles.md` — « la donnée est partout, la méthodologie de lecture est rare »).
+
+**Elles sont aussi la seule façon d'accumuler de l'expérience avant d'avoir lancé quoi que ce soit.** Pas de risque, pas de capital, pas de compte à ouvrir — juste de l'attention dirigée. C'est le meilleur usage possible d'une phase de préparation.
+
 ### Le budget de départ — la contrainte la plus dure
 
 **Minimum ~3 000 € de trésorerie disponible.** Ce n'est pas un détail de confort : en e-commerce **on avance avant d'encaisser** (pub, produit, livraison sortent de la poche avant le premier euro encaissé, avec un décalage de quelques jours à plusieurs semaines selon le processeur de paiement).
