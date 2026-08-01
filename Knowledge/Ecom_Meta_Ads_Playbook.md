@@ -144,6 +144,18 @@ Un produit se vend s'il coche au moins une de ces cinq raisons. **Tout le market
 | **Il élève le statut social** | Le regard des autres | Esthétique, appartenance à un groupe désirable |
 | **Il réunit une communauté** | L'identité et le lien | Le « nous », les codes internes, l'univers |
 
+**Trois raisons supplémentaires, qui n'agissent pas au même niveau :**
+
+| Raison | Ce que le client achète | Quand elle devient décisive |
+|---|---|---|
+| **Correspondance au style de vie et aux valeurs** | La cohérence avec ce qu'il est déjà | Quand le produit est vu, partagé, ou engage un choix éthique |
+| **Une histoire et une identité de marque forte** | Le récit auquel il s'associe | Quand plusieurs produits équivalents existent |
+| **Une expérience unique** | Le moment d'achat, de réception, d'usage | Quand le produit lui-même n'a plus rien de différenciant |
+
+**La distinction importante :** les cinq premières raisons font **acheter un produit**. Ces trois-là font **choisir une marque** — elles interviennent quand le produit ne suffit plus à départager. Ce sont, en termes de Schwartz, les réponses d'un **marché de stade 5**, où promesses et mécanismes sont épuisés.
+
+**Conséquence pratique pour un démarrage :** on entre par les cinq premières (elles se démontrent en 7 secondes de vidéo), et on construit les trois dernières une fois qu'on a un produit qui vend. Vouloir bâtir une identité de marque avant d'avoir prouvé la demande, c'est payer un récit pour un produit qu'on abandonnera.
+
 **Usage BOS :** deux applications directes. (1) **Filtre produit** — un produit qui ne coche aucune des cinq n'a pas d'angle, quel que soit son pattern d'ads. (2) **Générateur d'angles** — un même produit coche souvent 2 ou 3 raisons, et chacune donne un angle, une créative et une audience différents. C'est la façon la plus rapide de produire 3 angles de test au lieu d'un.
 
 *Exemple :* une gourde filtrante coche « résout un problème » (eau du robinet), « facilite la vie » (plus de packs à porter), « élève le statut » (objet design), « réunit une communauté » (zéro déchet). Quatre angles, quatre créatives, un seul produit.
