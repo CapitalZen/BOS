@@ -78,6 +78,27 @@ Le titre n'a **pas** pour rôle de vendre. Il a trois fonctions, dans cet ordre 
 
 Le corollaire e-commerce : **le hook des 2 premières secondes est un titre.** Mêmes règles exactement.
 
+## 4 bis. Les croyances — la troisième dimension, à côté du désir et de la conscience
+
+Schwartz, cité directement : *« Les croyances sont aussi fortes que les désirs. Si tu violes une croyance établie de ton client, même légèrement, rien de ce que tu lui promets n'aura d'importance. »*
+
+Une croyance est un sentiment de certitude sur ce qu'une chose signifie — vraie ou fausse, peu importe : pour le prospect, c'est sa réalité. Le désir dit ce qu'il veut ; le niveau de conscience dit ce qu'il sait de son problème ; **la croyance dit ce qu'il pense être vrai sur lui-même et sur les solutions** — et c'est elle qui décide si un message est reçu ou rejeté d'emblée.
+
+**Le cycle de croyance — pourquoi un bon angle sur une mauvaise croyance tue une offre par ailleurs solide.** Exemple : quelqu'un qui croit *« je n'ai pas de volonté »*. Pensée → *« ça sert à rien d'essayer »*. Sentiment → vaincu avant de commencer. Comportement → continue comme avant. Résultat → l'échec confirme la croyance, en boucle. Une promesse de perte de poids qui présuppose de la volonté se heurte à ce mur immédiatement — le produit peut être excellent, il n'est jamais entendu.
+
+**La correction n'attaque jamais la croyance de front — elle la confirme, puis ouvre un mécanisme neuf à côté :** *« Ce n'est pas que tu manques de volonté. C'est que les solutions classiques sont mal conçues. »* Deux mouvements en une phrase : la croyance est validée (« ce n'est pas ta faute »), et un nouveau chemin s'ouvre à côté d'elle plutôt que contre elle. C'est exactement la **redéfinition** du §5 ci-dessous, formulée depuis l'angle de la croyance plutôt que du désir.
+
+**Les 4 sources d'une croyance — utile pour choisir l'angle d'attaque :**
+
+| Source | Exemple | Ce qui la rend difficile à déplacer |
+|---|---|---|
+| **Expérientielle** | « J'ai pris des probiotiques 3 fois, ça n'a jamais marché » | Vécue directement — la plus ancrée |
+| **Reçue / adoptée** | « Mon coach m'a dit que… » | Vient d'une autorité perçue — se déplace en citant une autorité supérieure |
+| **Intuitive / ressentie** | « Je suis le genre de personne qui ne dort jamais bien » | Souvent inconsciente — se déplace par redéfinition plutôt que par argument |
+| **Mémorielle** | Souvenir flou, jamais vérifié | La plus fragile — un fait précis suffit souvent à la déloger |
+
+**Cartographier les croyances d'un avatar :** lire, dans cet ordre de valeur décroissante, les commentaires sous ses propres publicités, les avis Amazon à 1-2 étoiles sur des produits similaires, les forums de niche, les emails de SAV, les questionnaires post-achat (`Customer_Research_SOP.md` Étape 2 bis). On cherche des phrases qui commencent par *« je pense que… »*, *« pour moi c'est… »*, *« j'ai toujours cru que… »*, *« le vrai problème c'est… »* — ce sont des hooks et des angles déjà rédigés par le marché lui-même.
+
 ## 5. Les techniques d'intensification
 
 Ce que Schwartz appelle les moyens de rendre un désir plus vif sans jamais l'inventer. Les plus utilisables :

@@ -113,6 +113,71 @@ C'est particulièrement sensible aux endroits où l'hésitation est déjà la pl
 
 ---
 
+## 2 bis. Copywriting — les mécaniques qui décident si le message porte
+
+Ce que la section précédente traite pour la créative vidéo s'applique identiquement au texte — titre, page produit, email. Cinq mécaniques, indépendantes du format.
+
+### Parler, ne pas écrire
+
+Le test qu'utilisait Claude Hopkins, l'un des fondateurs du copywriting moderne, pour valider chaque ligne : *« Est-ce que ça aiderait un vendeur à vendre en face à face ? »* Un vendeur en porte-à-porte ne dit jamais « notre technologie EMS de stimulation neuromusculaire avancée » — il dit ce que la personne en face de lui a besoin d'entendre, dans ses propres mots.
+
+**Le test opérationnel : lire sa copy à voix haute.** Si ça sonne comme une publicité, réécrire. Si ça sonne comme quelqu'un qui se plaint, se soulage ou partage un secret à un ami, c'est proche du bon message.
+
+**La simplicité comme filtre :** écrire pour quelqu'un qui scrolle dans les transports avec l'attention divisée, pas pour un lecteur captif. Si le message ne se comprend pas en une lecture par quelqu'un sans expertise du sujet, il est trop compliqué.
+
+*Cas cité comme référence du genre (Ogilvy, Rolls-Royce, 1958) :* après 26 versions, la phrase retenue n'était pas une caractéristique technique mais *« à 100 km/h, le bruit le plus fort dans cette Rolls-Royce vient de l'horloge électrique »* — une image vérifiable et mémorisable plutôt qu'une donnée d'ingénierie.
+
+### Les 3 checks avant de valider un titre ou un hook
+
+Trois questions, popularisées par Harry Dry — si une seule échoue, on réécrit :
+
+1. **C'est visualisable ?** Le cerveau retient les images, pas les concepts. « Optimiser votre proposition de valeur » ne se voit pas ; « 1000 chansons dans ta poche » (Apple, iPod 2001) se voit instantanément.
+2. **C'est falsifiable ?** Une affirmation vérifiable — vraie ou fausse — pèse plus qu'une opinion. « Il est intelligent » ne prouve rien ; « il a eu 1600 au SAT » se vérifie. Voir la mécanique complète ci-dessous.
+3. **Un concurrent pourrait dire la même chose ?** Prendre ses trois dernières créatives, remplacer le produit par celui d'un concurrent direct. Si le message tient encore, il n'y a rien d'unique dedans — c'est éliminatoire, pas un détail de style.
+
+**L'angle contre-intuitif qui marche souvent mieux que la supériorité proclamée :** admettre une position plutôt que revendiquer la première place. *(Avis, location de voitures, 1962 : en perte depuis 13 ans face à Hertz, la campagne « We're number two. We try harder » — personne d'autre ne pouvait le dire — fait passer la part de marché de 11 à 35 % en 4 ans.)* Ce que ça révèle : l'honnêteté perçue construit plus de confiance qu'une supériorité qu'on ne peut pas prouver.
+
+### Les faits sont des aimants, les opinions sont du bruit
+
+Une opinion se conteste toujours — *« nos cookies sont délicieux » → « dit qui ? »* Un fait vérifiable laisse le prospect tirer sa propre conclusion, et une conclusion qu'il tire lui-même convainc bien plus qu'une conclusion qu'on lui sert : *« nos cookies ont été en rupture de stock 43 fois »* implique la qualité sans l'affirmer.
+
+**Le procédé en trois étapes, applicable à une page existante :** repérer chaque opinion du texte → trouver le fait vérifiable qui la sous-tend → remplacer l'opinion par le fait.
+
+| Opinion | Fait qui la remplace |
+|---|---|
+| « Puissance et performance inégalées » | « 1000 chansons dans ta poche » |
+| « Aide à se sentir énergique » | « Contient magnésium, B12, A, K, E, B1, C, folate, vitamine D » |
+| « Économisez sur votre assurance auto » | « 15 minutes peuvent vous faire économiser 15 % ou plus » |
+
+**L'effet d'accumulation :** un enchaînement de faits vérifiés avant une opinion fait accepter cette opinion plus facilement — le lecteur a déjà dit « c'est vrai » plusieurs fois avant qu'elle n'arrive.
+
+⚠️ **Rappel de discipline, déjà posé en Réserves :** un fait avancé doit être réellement vrai et étayable. La mécanique donne de la force à une affirmation exacte ; elle ne légitime jamais une statistique inventée — voir Réserves ci-dessous et §11 du playbook Meta Ads sur les allégations produit.
+
+### Les croyances — confirmer avant de proposer
+
+Développé en détail dans `Schwartz_Breakthrough_Advertising.md` §4 bis : une croyance mal identifiée fait rejeter une offre par ailleurs solide, parce que le message entre en collision avec ce que le prospect pense déjà de lui-même. **La règle courte : ne jamais heurter la croyance de front — la confirmer, puis ouvrir un mécanisme neuf à côté.**
+
+### L'autorité — le raccourci qui fait sauter les objections
+
+Le cerveau ne peut pas tout vérifier avant de décider ; il cherche donc des raccourcis pour savoir en qui faire confiance. L'autorité perçue est ce raccourci — quand elle est présente, la garde baisse et une partie des objections ne se formule même pas.
+
+**Trois niveaux, du plus fort au plus faible :**
+
+1. **On est soi-même l'autorité** — « j'ai pris 15 kg de muscle à 45 ans »
+2. **On a appris d'une autorité** — « mon coach a pris 15 kg de muscle à 45 ans, voici sa méthode »
+3. **On connaît quelqu'un** — « je connais quelqu'un qui a pris 15 kg de muscle à 45 ans »
+
+**Dix leviers activables, du plus classique au plus négligé :** diplômes et certifications réelles · following d'un influenceur qui recommande · mentions presse · récompenses et brevets réellement détenus · partenariats avec des organisations reconnues · titre et parcours du fondateur · recherche ou test clinique réel · expérience personnelle spécifique (« mère de 5 enfants », « j'ai analysé 1000 publicités ») · autorité empruntée (une méthode utilisée par un groupe reconnu, appliquée au produit) · autorité visuelle (podcasts, conférences, environnement qui inspire la compétence).
+
+**Les deux leviers les plus sous-utilisés, et les plus puissants pour une petite marque sans crédentiels :**
+
+- **L'autorité par empathie** — formuler la douleur du client mieux qu'il ne le ferait lui-même : « j'ai été à ta place, j'ai vécu ça pendant 6 ans. » Ne demande aucun diplôme, seulement une vraie compréhension du marché — c'est directement le fruit de l'immersion (`Customer_Research_SOP.md` Étape 1 bis).
+- **L'autorité par transparence** — dire explicitement ce que le produit ne fait pas, ses limites, ses versions ratées. Ça construit plus de confiance qu'un discours qui ne cache rien de visible : *« si elle me dit ses limites, c'est qu'elle ne me cache rien d'autre. »*
+
+⚠️ **Une limite ferme, cohérente avec les Réserves déjà posées :** l'autorité par crédentiels doit être réelle — un diplôme cité, une recherche citée, un partenariat cité doivent exister. Une autorité fabriquée (faux titre, fausse recherche, fausse recommandation) est une pratique commerciale trompeuse, pas une technique de copywriting.
+
+---
+
 ## 3. L'architecture émotionnelle du funnel
 
 Un funnel performant suit une progression mentale fixe. **Le produit arrive à la fin, jamais au début.**
