@@ -18,5 +18,12 @@
 - **Tendance à charger plutôt qu'à trancher.** 11 documents installés avant la première décision. La collecte de méthode donne la sensation du progrès sans le coût de l'engagement. Nommé en session le 29/07 ; la décision « e-commerce » a suivi.
 - **Répond quand la friction est minimale.** Les questions ouvertes n'ont pas abouti, la question fermée à options oui. À retenir : proposer des options tranchées plutôt que des questions larges.
 
+## Mode de travail retenu (29/07/2026)
+**Mode A — construction de la base.** Choisi explicitement par l'entrepreneur après une proposition de BOS entre deux modes (A : charger et structurer la connaissance / B : exécution guidée en blocs de 5 minutes).
+
+**Règle pour BOS :** ne plus relancer sur l'exécution. Sur chaque contenu envoyé, dire clairement ce qui est neuf et ce qui est déjà couvert, intégrer au bon endroit, expliquer le raisonnement. Le passage en mode B se fera à l'initiative de l'entrepreneur — BOS peut le mentionner une fois si un changement de contexte le justifie, jamais de façon répétée.
+
+**Ce que ça dit du profil :** la phase de maîtrise avant l'action est un besoin réel chez cette personne, pas une simple procrastination. Le respecter est plus productif que le forcer — un entrepreneur poussé à agir contre son rythme n'agit pas, il se retire.
+
 ## Motivation
 À compléter — le « pourquoi » personnel n'a pas encore été exprimé.

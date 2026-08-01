@@ -14,3 +14,9 @@
 - Structure retenue : boutique de niche large — le site ne bouge pas d'un test à l'autre.
 - Livré : filtre produit du territoire, 8 archétypes à chercher, grille des formats, 20 hooks prêts à tourner, calendrier de la semaine 1, dispositif de capture.
 - Prochaine action, sans dépendance ni budget : **filmer et publier la première vidéo.**
+
+## 29/07/2026 — Clarification du mode de travail
+- BOS a nommé le pattern (contenus envoyés en boucle, plusieurs déjà intégrés deux fois) et posé la question directe : qu'est-ce qui empêche l'exécution ?
+- Proposition de deux modes explicites. **Choix de l'entrepreneur : mode A — construction de la base.**
+- Règle actée : plus de relance sur l'exécution. BOS continue d'intégrer, en signalant systématiquement ce qui est neuf et ce qui est déjà couvert.
+- Livrables restés disponibles pour le jour où le mode change : protocole de recherche produit, territoire et système de contenu, shortlist d'archétypes scorés.

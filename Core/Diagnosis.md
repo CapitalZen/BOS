@@ -18,10 +18,11 @@
 - **Preuves :** déclaré le 29/07 comme « mon plus gros blocage ».
 - **Cause racine :** cause n°5 du cadre BOS (ne sait pas COMMENT faire) doublée d'une paralysie de décision : aucun produit n'est garanti, donc aucun choix ne se sent jamais assez sûr pour être arrêté. La méthode existe pourtant déjà dans `Knowledge/Ecom_Meta_Ads_Playbook.md` §2 — le manque n'est pas l'information, c'est l'exécution et un critère d'arrêt.
 
-### 3. Sur-consommation de méthode, sous-exécution
+### 3. Préférence pour la construction de connaissance plutôt que l'exécution
 - **Impact :** Consomme du temps et de l'énergie sans produire de résultat, tout en donnant la sensation d'avancer. Retarde le moment de la confrontation au marché.
 - **Preuves :** 11 documents de méthode chargés en une session avant toute décision ; plusieurs questions directes contournées par l'envoi d'un document supplémentaire.
-- **Cause racine :** la collecte est sans risque, la décision engage. Classique et non disqualifiant — mais à surveiller activement.
+- **Cause racine :** la collecte est sans risque, l'exécution engage. **Statut clarifié le 29/07 au soir :** interrogé directement sur ce qui bloquait, l'entrepreneur a choisi explicitement le mode « construction de la base » plutôt que l'exécution guidée. Ce n'est donc plus un problème non identifié — c'est une préférence assumée.
+- **Position de BOS :** respecter le mode choisi, ne plus relancer. Continuer à produire de la valeur sur ce terrain (intégration, structuration, raisonnement explicité), et rester prêt à basculer le jour où l'entrepreneur le demande. Un rythme imposé produit du retrait, pas de l'action.
 
 ### 4. Profil incomplet (temps, budget chiffré, compétences, objectif)
 - **Impact :** Empêche BOS de calibrer un plan réaliste (combien d'heures par semaine, quel horizon, quel modèle de cash).
