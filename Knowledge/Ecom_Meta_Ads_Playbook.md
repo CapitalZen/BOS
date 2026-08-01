@@ -445,6 +445,26 @@ Formats : post au ton naturel, note personnelle, échange de messages, témoigna
 
 ⚠️ **Le cadre légal, non négociable** : une native reste une publicité et doit être identifiable comme telle, et **les faits qu'elle raconte doivent être vrais**. Un faux témoignage, une fausse identité ou un résultat inventé constituent une pratique commerciale trompeuse — c'est illégal en droit de la consommation européen, indépendamment des règles de Meta. La native se construit à partir de **vrais** retours clients (voir `Customer_Research_SOP.md` : c'est exactement la matière que produit le message mining). Un vrai témoignage bien structuré convertit ; un faux expose à des sanctions et à la destruction de la marque.
 
+### La structure « révélation du vrai coupable »
+
+Une publicité qui dit « achète ça » demande au prospect de croire une promesse — sur un marché qui n'y croit plus, c'est perdu d'avance. La structure qui fonctionne ne vend pas : **elle explique.**
+
+| # | Étape | Ce qu'elle produit |
+|---|---|---|
+| 1 | **Le symptôme** | Le prospect se reconnaît immédiatement — c'est sa situation, décrite précisément |
+| 2 | **Le vrai coupable caché** | La cause réelle, celle qu'il ignorait. C'est le cœur : ça explique pourquoi ses tentatives précédentes ont échoué **sans le mettre en faute** |
+| 3 | **Le détail qui change tout** | Ce qui distingue la vraie solution des fausses — donc, plus tard, ton produit des autres |
+| 4 | **Le hack pour vérifier soi-même** | Un test que le prospect peut faire tout de suite. Il ne te croit plus sur parole : il constate. C'est ce qui transforme l'affirmation en conviction |
+| 5 | **L'urgence** | Pourquoi maintenant plutôt que dans six mois — et elle doit être réelle |
+
+**Pourquoi ça marche, en termes de Schwartz :** c'est la réponse canonique à un **marché de stade 3-4**, saturé de promesses et qui n'y croit plus. On ne surenchérit pas sur la promesse, on introduit **un mécanisme** — ici sous forme de cause cachée. Et le produit n'apparaît qu'après la révélation, comme conclusion logique, jamais comme argument de départ.
+
+L'étape 4 est celle que presque personne n'inclut, et c'est la plus puissante : **la vérification déplace la preuve du vendeur vers le prospect.**
+
+**Le principe de réutilisation : on copie la structure, pas le produit.** Cette séquence fonctionne sur n'importe quelle niche, parce qu'elle épouse la façon dont on change d'avis — on n'accepte pas une affirmation, on accepte une explication qu'on a pu vérifier.
+
+⚠️ **La limite, non négociable :** le « vrai coupable » doit être **vrai**. Inventer une cause, un ingrédient dangereux ou un mécanisme fictif pour vendre est une allégation trompeuse — sanctionnée, et destructrice pour la marque à moyen terme. La structure est puissante précisément parce qu'elle apporte une information réelle ; utilisée sur du faux, elle produit des ventes et des remboursements.
+
 ### Le funnel de créatives
 
 Natives et contenus TOFU pour alimenter le système en audiences froides → vidéos et statics MOFU pour éduquer → statics BOFU pour convertir les hésitants. Par-dessus : du **volume**. Tester beaucoup, lire la data, couper, itérer.
