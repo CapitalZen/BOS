@@ -62,6 +62,17 @@ Un hook n'a pas trois secondes pour plaire, il a trois secondes pour créer une 
 
 **L'erreur classique :** un hook accrocheur sans lien avec la suite. Excellent taux d'arrêt, zéro conversion — parce que le hook a attiré les mauvaises personnes. Le hook doit déjà être une porte d'entrée cohérente, pas un appât.
 
+**Quatre stratégies concrètes pour le niveau « totalement inconscient »** (`Schwartz_Breakthrough_Advertising.md` §2, sous-niveau A ou B) — le plus dur à ouvrir, et le plus large : jusqu'à 60 % d'un marché peut s'y trouver. Le principe commun : ne jamais mentionner le produit dans les premières secondes, mettre des mots sur un état que la personne ressent déjà sans l'avoir nommé.
+
+| Stratégie | Le ressort | Structure |
+|---|---|---|
+| **Peur cachée** | Une peur partagée par beaucoup, dont personne ne parle au quotidien | Mener par la peur, raconter une situation autour, faire le pont vers la solution — *« Ton téléphone fait quelque chose à ta colonne que tu ne peux plus annuler après 30 ans »* |
+| **Désir caché** | Un désir partagé, jamais formulé à voix haute | Même structure, côté aspiration plutôt que menace — *« Ce que font différemment les gens qui paraissent 10 ans plus jeunes »* |
+| **Le savais-tu** | Le cerveau ne supporte pas un vide d'information | Une question, une statistique ou un fait surprenant qui ouvre une boucle vers le problème — *« 97 % de la poussière chez toi, c'est de la peau morte »* |
+| **Débat** | Le cerveau aime prendre parti | Une question binaire ou une comparaison qui force une réponse mentale avant de faire le pont — *« Douche froide ou chaude : laquelle abîme ta peau ? »* |
+
+**Pourquoi ces hooks tolèrent — et exigent — un format plus long.** Une publicité qui vise ce niveau doit faire traverser plusieurs niveaux de conscience *dans la même publicité* : inconscient → conscient du problème → conscient de la solution → conscient du produit → prêt à agir. C'est pour ça que ce sont les formats les plus longs (récit, VSL) et non les plus courts — chaque tranche de quelques secondes ne vend que la tranche suivante, jamais directement le produit.
+
 ### 2.2 Maintenir — « est-ce que c'est pour moi ? »
 
 Immédiatement après l'accroche, une seule question occupe le cerveau. On y répond en montrant une douleur qu'il connaît, un désir qu'il poursuit, une situation dans laquelle il se projette, ou une personne qui lui ressemble.

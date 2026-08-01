@@ -43,6 +43,46 @@ Le niveau de conscience du prospect **détermine la première phrase**. Se tromp
 
 **Le corollaire économique :** plus le prospect est amont, plus l'éducation coûte cher — et **celui qui éduque le marché paie pour ceux qui arrivent après**. C'est pour ça qu'on entre derrière le défricheur, pas devant (`Ecom_Meta_Ads_Playbook.md` §2).
 
+## 2 bis. Les sous-niveaux — un même niveau contient plusieurs audiences
+
+Traiter chaque niveau comme un bloc homogène fait perdre une partie de l'audience à chaque étage. À l'intérieur de chaque niveau, la distance à l'achat varie encore fortement — et un seul copy ne peut pas parler aux deux extrêmes.
+
+| Niveau | Sous-niveau | Ce qui le distingue | Ce que le message doit faire |
+|---|---|---|---|
+| **Totalement inconscient** | A — ne ressent même pas la gêne | Rien n'a encore été remarqué | Rupture de motif forte (visuel choc, hook qui tranche) |
+| | B — ressent quelque chose, sans le nommer | La sensation existe, pas le mot | Nommer précisément ce qui est vécu : « cette sensation le matin, ça s'appelle X » |
+| **Conscient du problème** | A — vaguement conscient | « Je crois que je dors pas top » | Nommer la douleur avec précision pour qu'elle soit prise au sérieux |
+| | B — conscient mais passif | « Je sais, mais bon » | Amplifier les conséquences à long terme (dramatisation, §5) |
+| | C — conscient et frustré | « J'en peux plus » | Il est mûr — passer directement à la catégorie de solution |
+| **Conscient de la solution** | A — découvre les solutions | Vient d'chercher, aucune préférence | Pousser sa propre catégorie sans avoir à disqualifier les autres |
+| | B — hésite entre catégories | Compare deux ou trois types de solutions | Disqualifier les catégories concurrentes explicitement |
+| | C — catégorie choisie, pas convaincu | « Je sais que je veux X, reste à savoir lequel » | Sauter directement au niveau « conscient du produit » |
+| **Conscient du produit** | A — découvre les marques | Vient de choisir la catégorie, browse | Poser le mécanisme unique, différencier — suffit à faire pencher la balance |
+| | B — compare activement 2-3 marques | Lit des avis, compare les prix | Disqualifier les marques précises qu'il regarde ; le format comparatif marche ici |
+| | C — catégorie décidée, hésite à passer à l'achat | Freiné par une objection précise (prix, doute, timing) | Lever **cette** objection précise, pas une objection générique |
+| **Le plus conscient** | A — a vu les publicités, hésite | Manque une dernière raison | Empiler urgence réelle + preuve sociale + bonus |
+| | B — convaincu, attend une promo | N'a plus besoin d'être argumenté | L'offre, sans détour |
+| | C — convaincu, friction technique | A abandonné en cours de paiement | Résoudre la friction précise (livraison, paiement, garantie) — retargeting checkout abandonné |
+
+**Comment détecter le sous-niveau, pas seulement le niveau :** les commentaires sous les publicités, les réponses au questionnaire post-achat (« qu'est-ce qui t'a empêché d'acheter avant ? », `Customer_Research_SOP.md` Étape 2 bis), et les objections récurrentes remontées par le SAV (`Ecom_Meta_Ads_Playbook.md` §8). Plus la segmentation est fine, plus chaque publicité parle à une audience précise au lieu de viser large et de convaincre personne complètement.
+
+## 2 ter. Le niveau qui n'existe pas chez Schwartz — le client qui a déjà acheté
+
+**Extension moderne, à ne pas attribuer à Schwartz lui-même** — en 1966, le rachat par email et le retargeting n'existaient pas sous cette forme. Mais la logique s'impose d'elle-même dans un compte qui dépense depuis longtemps : une fois qu'un prospect a acheté dans la catégorie — chez soi ou chez un concurrent — son rapport au produit cesse d'être théorique. Il a une expérience vécue, une opinion forgée sur son propre corps ou son propre usage, et cette opinion pèse plus lourd que n'importe quel argument publicitaire. **Le copy qui s'adresse à quelqu'un qui n'a jamais essayé ne fonctionne plus sur quelqu'un qui a déjà essayé — y compris ses propres publicités passées.**
+
+Six situations, qui demandent chacune un message différent :
+
+| Situation | Ce qu'il faut faire |
+|---|---|
+| **A — a acheté chez soi, satisfait** | C'est l'actif le plus rentable : fidélisation, réachat, upsell, parrainage. Canal à privilégier : l'email, moins cher que la publicité |
+| **B — a acheté chez soi, déçu** | Adresser la déception explicitement, ne jamais l'ignorer : « on a entendu ton retour, voilà ce qu'on a changé » |
+| **C — a acheté chez un concurrent, satisfait** | Le plus dur à convertir. Ne jamais dire « on est mieux » — donner une raison nouvelle et concrète de changer, un mécanisme que le concurrent n'a pas |
+| **D — a acheté chez un concurrent, mitigé** | La cible la plus rentable de la catégorie : il croit au produit mais pas à cette marque-là. Montrer un écart net entre ce qu'il connaît et ce qu'on offre |
+| **E — a acheté chez un concurrent, déçu** | Il croit encore à la catégorie mais plus à cette marque. Réassigner l'échec à un détail spécifique du concurrent, pas à la catégorie entière |
+| **F — a essayé plusieurs marques, tout a échoué** | Croyance négative qui contamine toute la catégorie. Le seul angle qui fonctionne : changer de catégorie mentale — pas « un meilleur produit », une approche radicalement différente |
+
+**Pourquoi ce niveau compte de plus en plus avec le volume :** plus un compte publicitaire dépense longtemps, plus une part croissante de l'audience touchée a déjà acheté — chez la marque ou ailleurs. Ignorer ce niveau revient à parler sans arrêt à des gens qui n'écoutent plus le même message que des primo-visiteurs.
+
 ## 3. Les 5 stades de sophistication du marché
 
 Combien de promesses similaires ce marché a-t-il déjà entendues ? La réponse dicte **la nature** du message, pas seulement son intensité.

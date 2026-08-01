@@ -433,6 +433,14 @@ Face à un produit, on tombe toujours dans l'une des deux :
 - Une nouvelle huile à la mode qui remplace les huiles connues sur le même bénéfice
 - Une brosse anti-chute à LED à laquelle on ajoute une vibration
 
+**Une troisième voie, qui ne touche même pas le produit — le mécanisme se joue parfois entièrement dans le message.** Le principe : « nouveau et différent » l'emporte sur « meilleur », parce que le cerveau catégorise avant de comparer — s'il range un produit dans la case « comme les autres », il filtre sans lire la suite. Trois façons d'obtenir ce sentiment de nouveauté, par ordre de facilité :
+
+1. **Le mécanisme non-dit** — le produit fait déjà quelque chose que les concurrents font aussi, mais qu'aucun ne dit dans son message. *(Lucky Strike, 1917 : toutes les cigarettes de l'époque étaient grillées ; la marque a été la première à l'écrire — « It's toasted » — et est devenue numéro 1 aux États-Unis pendant 30 ans.)* La question à se poser : qu'est-ce que le produit fait, que les concurrents font aussi, mais que personne n'a mis en mots ? C'est gratuit — rien à changer sur le produit.
+2. **Le mécanisme renommé** — une réalité connue depuis longtemps, rebaptisée. *(« 5 Go de stockage » devient « 1000 chansons dans ta poche » ; le bouillon de poulet millénaire devient « bone broth » et crée un marché de plusieurs centaines de millions.)* Renommer crée la perception du neuf sans rien changer à la substance.
+3. **Le vrai nouveau mécanisme** — une caractéristique effectivement inédite, brevetée ou non. Le plus fort, mais aussi le plus rare et le plus long à obtenir. **Condition non négociable : le mécanisme doit servir un désir que le prospect a déjà** — une innovation esthétique sans lien avec le bénéfice recherché n'intéresse personne.
+
+Ces trois voies sont un complément aux deux ci-dessus, pas une troisième catégorie séparée : les types 1 et 2 sont une façon de réussir « innover sur l'angle » sans toucher au produit, à coût quasi nul.
+
 **Le rapport contre-intuitif entre taille de niche et facilité :** plus une niche est grosse, **plus il est facile d'y trouver l'angle qui convertit**. Ce n'est pas un paradoxe — un marché immense contient plus de personas, plus de problèmes voisins, plus de situations d'usage, donc plus de portes d'entrée. Sur une sous-niche étroite, il n'existe que deux ou trois angles possibles, et ils sont déjà pris.
 
 C'est aussi ce qui rend les créatives faciles à décliner : avant/après, démonstration, POV, humour, récit — un grand marché nourrit tous les formats. Le e-commerce ne consiste pas à réinventer la roue, mais à **choisir un marché immense et à jouer intelligemment avec les créatives.**
