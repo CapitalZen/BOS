@@ -62,6 +62,25 @@ Un hook n'a pas trois secondes pour plaire, il a trois secondes pour créer une 
 
 **L'erreur classique :** un hook accrocheur sans lien avec la suite. Excellent taux d'arrêt, zéro conversion — parce que le hook a attiré les mauvaises personnes. Le hook doit déjà être une porte d'entrée cohérente, pas un appât.
 
+### 2.1 bis Le hook fait le ciblage — pas seulement l'accroche
+
+Sous Andromeda (`Ecom_Meta_Ads_Playbook.md` §3), Meta ne lit pas la publicité en entier pour décider à qui la montrer : il lit **les toutes premières secondes**, là où les signaux sont les plus denses (arrêt du scroll, temps de visionnage, interactions). C'est cette fenêtre qui construit le profil psychologique visé — **donc le hook ne précède pas le ciblage, il EST le ciblage.**
+
+Conséquence directe : un hook qui ne parle qu'à un seul profil ferme la porte à tous les autres, quelle que soit la qualité du reste — offre, page, produit. Ce n'est pas un problème de conversion, c'est un plafond de reach imposé avant même que l'algorithme cherche à convertir qui que ce soit.
+
+**Les 3 must-haves d'un hook — au moins 2 sur 3, l'idéal les 3 :** une **émotion** identifiable (peur, espoir, surprise, dégoût, excitation, validation), un **vide d'information** que le cerveau veut combler, et un **enjeu** — quelque chose de concret à gagner ou perdre. Un hook qui n'a aucun des trois ne mérite pas qu'on écrive la suite.
+
+### La couverture Mood × Intensité — pourquoi une gagnante s'essouffle sans raison visible
+
+Chaque hook active deux dimensions indépendantes du contenu qu'il transmet :
+
+- **Le mood** — positif (espoir, fierté), négatif (peur, frustration), ou neutre (curiosité, surprise)
+- **L'intensité** — faible (ton calme), moyenne (tension présente), haute (charge viscérale)
+
+Ça donne 9 cases possibles. **Le mécanisme à comprendre : la diversité créative qu'Andromeda exige (§3) n'est pas seulement visuelle — elle est aussi psychologique.** Une marque qui trouve une case qui convertit (souvent négatif-haute, parce que ça arrête le scroll le plus facilement) et qui l'épuise sur toutes ses créatives présente à l'algorithme une similarité de fond, même avec des visuels différents. Le CPM monte, le ROAS plafonne, et rien dans le produit ou l'offre n'explique pourquoi — parce que ce n'est pas là que le problème se trouve.
+
+**Ce que ça implique concrètement :** viser 2-3 créatives dans chaque case Mood × Intensité plutôt que d'épuiser une seule case qui a bien démarré — chaque case ouvre une poche d'audience différente (les fatigués répondent au calme-positif, les frustrés au viscéral-négatif, les analytiques au neutre-informatif). Ça se croise avec les sous-niveaux d'awareness (`Schwartz_Breakthrough_Advertising.md` §2 bis) pour former la vraie matrice de production créative.
+
 **Quatre stratégies concrètes pour le niveau « totalement inconscient »** (`Schwartz_Breakthrough_Advertising.md` §2, sous-niveau A ou B) — le plus dur à ouvrir, et le plus large : jusqu'à 60 % d'un marché peut s'y trouver. Le principe commun : ne jamais mentionner le produit dans les premières secondes, mettre des mots sur un état que la personne ressent déjà sans l'avoir nommé.
 
 | Stratégie | Le ressort | Structure |
@@ -186,6 +205,85 @@ Le cerveau ne peut pas tout vérifier avant de décider ; il cherche donc des ra
 - **L'autorité par transparence** — dire explicitement ce que le produit ne fait pas, ses limites, ses versions ratées. Ça construit plus de confiance qu'un discours qui ne cache rien de visible : *« si elle me dit ses limites, c'est qu'elle ne me cache rien d'autre. »*
 
 ⚠️ **Une limite ferme, cohérente avec les Réserves déjà posées :** l'autorité par crédentiels doit être réelle — un diplôme cité, une recherche citée, un partenariat cité doivent exister. Une autorité fabriquée (faux titre, fausse recherche, fausse recommandation) est une pratique commerciale trompeuse, pas une technique de copywriting.
+
+### L'open loop — pourquoi le cerveau reste pour combler un vide
+
+Un vide d'information non comblé retient l'attention presque malgré soi. L'ouvrir dans les premières secondes, ne le refermer qu'à la fin. Trois façons d'en créer un :
+
+1. **La juxtaposition** — deux éléments qui ne devraient pas cohabiter, posés côte à côte sans explication. « Comment un sans-abri est devenu millionnaire » ; « J'ai arrêté la salle et perdu 10 kg ». Le contraste crée la tension à lui seul.
+2. **La peur maîtrisée** — un signal d'alerte sur quelque chose d'a priori anodin : « Voici ce qu'un ingrédient courant fait vraiment à ta peau. » ⚠️ Sans inventer de danger — un risque fabriqué est une pratique trompeuse, et ça brûle la confiance de la marque durablement (voir Réserves).
+3. **Faire l'inverse de tout le monde** — quand un secteur entier répète le même message, en dire le contraire capte l'attention par contraste. *(Une industrie qui promet des résultats garantis à tout va ; une marque qui dit explicitement « on ne promet aucun résultat » et laisse les preuves parler — la transparence radicale se remarque justement parce qu'elle est rare.)*
+
+**Quand ouvrir une boucle plutôt que révéler tout de suite :** si le contexte est spectaculaire en lui-même, la promesse directe suffit à faire cliquer (« il a couvert son sol de pièces de monnaie »). Si le produit est banal — ce qui est le cas de la plupart des produits e-commerce — l'open loop l'emporte largement : personne ne s'arrête pour un produit qu'il a déjà vu cent fois annoncé frontalement.
+
+### Le Lead — la phrase qui décide si on continue après le hook
+
+Le hook capte l'attention ; **le Lead**, la phrase juste après, la retient ou la perd. Un hook excellent suivi d'un Lead plat produit un excellent taux d'arrêt et zéro conversion — le budget publicitaire est déjà dépensé au moment où ça casse.
+
+Six façons de l'écrire, selon ce que le hook a ouvert :
+
+| Technique | Principe | Exemple |
+|---|---|---|
+| **Introduire le mécanisme** | Répondre tout de suite à la question posée par le hook | Hook : problème nommé → Lead : « le mécanisme X s'attaque à la vraie cause » |
+| **Escalader le problème** | Montrer que c'est pire que ce qu'on imaginait | « Il y a une vérité inconfortable derrière ce symptôme — bien plus grave qu'on ne le pense » |
+| **Escalader le désir** | Intensifier ce que le hook a fait espérer | « Imagine si ce moment redouté devenait un non-événement » |
+| **Repositionner le problème** | Change la cause perçue, souvent via une autorité | « Ce n'est pas le manque de discipline, c'est un mécanisme physiologique précis » |
+| **Sous-entendre une info nouvelle** | Laisser deviner qu'il y a une explication qu'on ignorait | « On utilisait le mauvais matériau depuis des décennies » |
+| **Poser une timeline** | Ancrer un résultat dans le temps | « Voici ce qui se passe dans les 7 premiers jours » |
+
+**Deux observations pratiques :** montrer le visage de l'avatar juste après le hook facilite le ciblage algorithmique, pour la même raison que le hook lui-même — c'est un signal supplémentaire tôt dans la vidéo. Et tester une version qui commence directement par le Lead, sans hook distinct, fonctionne parfois mieux : commencer en pleine scène, sans mise en place, maintient l'attention le temps que le cerveau cherche à comprendre le contexte.
+
+### Montrer, ne pas dire — même en mots
+
+Le cerveau ne ressent pas un concept, il ressent une scène. « Ça booste ton énergie » ne produit rien ; « tu te lèves avec l'envie de défoncer un mur » produit une image et une sensation.
+
+**Le procédé :** identifier le bénéfice abstrait qu'on veut faire passer → se demander comment le rendre visible → écrire la scène, le comportement ou l'expérience, jamais l'affirmation nue.
+
+| Affirmation | Scène qui la remplace |
+|---|---|
+| « Améliore le sommeil profond » | « Tu te souviens à nouveau de tes rêves » |
+| « Anti-âge efficace » | « Ta fille te demande quels produits tu utilises » |
+| « Réduit la chute de cheveux » | « Ta brosse est vide après le coiffage » |
+
+Le principe rejoint directement les faits vs opinions plus haut : dans les deux cas, on laisse le lecteur conclure lui-même plutôt que de lui servir la conclusion — une conclusion qu'on tire soi-même vaut davantage qu'une affirmation qu'on nous impose.
+
+### L'enjeu — cinq leviers pour rendre une affirmation plus lourde
+
+Le cerveau accorde de l'attention proportionnellement à ce qui est en jeu. Cinq façons de l'augmenter, combinables entre elles :
+
+- **Grossir** — « mon chien a fait pipi » devient « mon chien a fait pipi dans la voiture de luxe »
+- **Ajouter un témoin** — une scène privée devient publique dès que quelqu'un regarde : « devant le propriétaire », « tes enfants te regardent faire »
+- **Rendre urgent** — « le dommage se produit maintenant », pas un jour indéterminé
+- **Rendre permanent** — le cerveau pèse dix fois plus ce qui dure que ce qui est temporaire : « toute une vie de » plutôt qu'un état passager
+- **Chiffrer le coût** — traduire une perte diffuse en un montant ou une durée concrète : « chaque matin, ce geste te coûte 3 heures de productivité »
+
+Empiler deux ou trois de ces leviers sur la même phrase — sans jamais franchir la ligne d'une allégation inventée (voir Réserves).
+
+### Gérer une objection avant qu'elle ne se formule
+
+Trois familles d'objections, dans l'ordre où elles apparaissent dans la tête du prospect : **sur le produit** (« j'ai déjà essayé, ça n'a pas marché »), **sur l'allégation** (« trop beau pour être vrai »), **sur soi** (« ça ne marchera pas pour moi »). **Tant que la première n'est pas désamorcée, les suivantes ne sont même pas entendues** — répondre à l'objection 3 quand l'objection 1 bloque encore ne sert à rien.
+
+Deux mécaniques, en complément des faits vérifiables déjà vus plus haut :
+
+- **Le renversement (reversal)** — transformer l'objection en argument plutôt que la nier. « Mes enfants verront que c'est sain et refuseront » devient « les enfants savent qu'il y a des légumes dedans, et en redemandent. » « Je craque trop souvent pour perdre du poids » devient « conçu pour fonctionner même si tu craques. »
+- **Le mot « parce que »** — une affirmation suivie d'une raison, même simple, se croit nettement plus qu'une affirmation seule. « Le plus facile à nettoyer parce qu'il est fait d'une seule pièce d'acier inoxydable. »
+- **Réassigner la cause** — le cerveau généralise une déception passée à toute une catégorie ; on casse la généralisation en la redirigeant vers un détail précis. « J'ai déjà pris des probiotiques, rien n'a changé » devient « la plupart meurent dans l'acidité de l'estomac avant d'atteindre les intestins — celui-ci survit grâce à [mécanisme précis]. » L'objection n'est plus sur la catégorie, elle est sur un détail technique résolu.
+
+**La gradualisation appliquée à l'objection** (`Schwartz_Breakthrough_Advertising.md` §5) : faire dire « oui » au prospect sur une série d'affirmations acceptables avant de nommer l'objection elle-même — « les légumes verts sont bons pour la santé » (oui) → « on devrait en manger tous les jours » (oui) → « mais on n'y arrive pas, et voici pourquoi » (on nomme l'objection à sa place, avant qu'il n'ait à l'avouer) → la solution arrive après une série d'accords déjà obtenus.
+
+### Le Self-Concept — on n'écrit pas pour qui le prospect est, mais pour qui il veut devenir
+
+Écrire pour l'avatar est nécessaire mais insuffisant : ça décrit une situation actuelle. **Chaque décision d'achat passe par une question implicite — est-ce que ce produit me rapproche de la version de moi que je veux devenir ?** Un copy qui ne parle qu'au problème présent laisse cette question sans réponse.
+
+Trois angles pour y répondre :
+
+1. **L'identité** — le produit comme signal de qui on est ou devient. « Pour ceux qui refusent la médiocrité » vend une appartenance, pas une caractéristique.
+2. **Le regard social** — comment le produit change la perception des autres. Particulièrement puissant sur tout ce qui est visible : mode, beauté, accessoires.
+3. **Le futur projeté** — la version améliorée de soi dans le temps. « Toi dans six mois si tu commences aujourd'hui » — le registre des marques de transformation (fitness, productivité, finance personnelle).
+
+**Le test :** si quelqu'un achète ce produit, qui devient-il aux yeux des autres ? Si la réponse est « rien de particulier », le message reste au niveau du problème et n'active jamais cette couche.
+
+**La condition de cohérence :** un Self-Concept se construit sur la durée et sur tous les points de contact — publicité, page, email, packaging (le même principe de congruence que §1 et que la transition semi-marque, `Ecom_Meta_Ads_Playbook.md` §6 bis). En changer chaque mois revient à n'en construire aucun.
 
 ---
 
