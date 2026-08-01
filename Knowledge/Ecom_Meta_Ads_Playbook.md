@@ -654,9 +654,56 @@ Ce n'est pas un petit plus : c'est ce qui décide qui reste sur le marché.
 Il n'existe pas de landing page parfaite ni de template idéal. Ce qui existe, c'est une page adaptée au produit, au niveau de conscience du prospect et à l'émotion créée par la pub. Types : page de collection, landing classique, listicle, advertorial, quiz.
 **Méthode :** regarder ce que font ceux qui scalent sur le produit — format, structure, angle. Un concurrent qui dépense massivement sur un advertorial ou une VSL depuis des semaines a une page qui convertit. Comprendre pourquoi, puis adapter.
 
+### La structure complète d'une page produit qui convertit
+
+Sur les boutiques qui font de gros volumes, la page produit n'est pas une fiche : **c'est une page de vente complète.** La même ossature revient systématiquement.
+
+**1. Above the fold** (ce qui est visible sans scroller)
+- Une **promesse claire** et datée si possible — « Peau plus lisse en 30 jours », pas « soin visage premium »
+- Une **image produit forte**, propre, sur fond neutre
+- **Étoiles + nombre d'avis**
+- Un **bouton d'action explicite**
+- Une **mini-barre de réassurance** juste en dessous : livraison, retours, garantie
+
+**2. Description — bénéfices, jamais caractéristiques**
+3 à 5 points, chacun formulé du point de vue du résultat. *« Résultats visibles dès 14 jours »*, pas *« concentration à 2 % »*. Et **un visuel par point** : une image produit, une image d'usage.
+
+**3. Preuve sociale, juste après la description**
+Contenu client authentique, témoignages **avec photos réelles** — pas des blocs d'avis texte anonymes. Mentions presse si elles existent.
+
+**4. Les bundles, à mi-page**
+Présentation **visuelle** (les produits, pas un tableau de prix). **L'offre du milieu mise en avant** avec une mention « la plus populaire » — c'est l'ancrage qui déplace le panier moyen vers le haut sans forcer.
+
+**5. FAQ — répondre aux 4 vraies peurs**
+Livraison · remboursement · sécurité du paiement · **efficacité réelle du produit**. Ce sont les quatre objections qui bloquent l'achat ; tout le reste est décoratif.
+
+**6. Footer**
+Contact, politique de livraison, horaires du support. Ça paraît secondaire — **le client scrolle jusqu'en bas avant de décider**, et l'absence de ces éléments est un signal de méfiance.
+
+**⚡ Mobile d'abord, sans exception.** L'essentiel du trafic vient du téléphone. **Si le bouton d'action n'est pas visible au premier scroll sur mobile, la majorité des conversions est perdue** avant même que le contenu soit lu.
+
+### Les 4 erreurs qui tuent une page produit
+
+| Erreur | Correction |
+|---|---|
+| **Trop de variantes** | 2 ou 3 maximum. Chaque choix supplémentaire est une occasion d'hésiter |
+| **Un texte centré sur la marque** (« notre marque… ») | Parler du client, de sa situation, de son résultat |
+| **CTA invisible sur mobile** | Tester sur son propre téléphone, pas sur l'aperçu du thème |
+| **Trop de texte** | Visuels courts et phrases d'impact |
+
+> **Le site n'a pas besoin d'être beau. Il doit être clair, rapide et logique.**
+
 ### Bundles et AOV
 
 Un client qui achète 60 € au lieu de 30 € = même coût d'acquisition, deux fois plus de marge. L'AOV est ce qui détermine vraiment la rentabilité.
+
+**La règle qui prime sur le format choisi :**
+
+> **Si le client doit calculer ton offre, tu l'as déjà perdu.**
+
+Le cerveau n'aime pas l'effort. Une offre se comprend en une seconde ou elle ne se comprend pas. C'est pour ça que les formats les plus simples surperforment les mécaniques astucieuses : « 2 achetés, 1 offert », « 3 pour 49,90 € », « −20 % sur 2, −30 % sur 3 », un cadeau à partir d'un montant, ou une durée (1 mois / 2 mois / 3 mois) pour un consommable.
+
+**Où les bundles fonctionnent le mieux :** compléments (effet cure, LTV élevée), sport (produits complémentaires naturels), soin et cosmétique (effet routine, achats répétés), produits pour animaux (émotion + récurrence). **Leur point commun : des produits qu'on consomme, qu'on renouvelle ou qu'on offre** — le client a déjà l'habitude d'acheter en quantité, on ne lui apprend rien.
 
 - **Offres en volume** : 1x · 1+1 · 2+2 · 2+1 offert · 3+2 offert. Le mot « offert » déclenche un sentiment de gain immédiat, plus fort qu'un pourcentage équivalent
 - **Offres avec cadeaux** : accessoire complémentaire à partir d'un montant · e-book (coût quasi nul, valeur perçue élevée) · la combinaison des deux, la plus efficace
