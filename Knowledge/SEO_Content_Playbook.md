@@ -23,6 +23,36 @@ L'étape que presque personne ne fait, et où tout se joue.
 3. **Qui est le persona ?** Profil précis : qui, quel problème principal, **quel vocabulaire il utilise pour chercher sur Google**, phase de découverte ou phase d'achat, quelles objections. Ces réponses déterminent le ton, les sujets, les mots, la longueur.
 4. **Quel est l'écosystème concurrentiel ?** Qui ranke déjà sur les mots-clés cibles ? Gros acteurs installés ou petits sites récents ? Quel type de contenu publient-ils ? Pourquoi eux dans le top 3 et pas nous ? On ne combat pas un site à autorité 80 comme un concurrent récent à 15, ni un spécialiste ultra-niche comme un généraliste (Amazon, eBay).
 
+## Étape 0 bis — Valider la demande et benchmarker avant de s'engager
+
+Avant d'écrire le premier mot, deux vérifications évitent de construire une stratégie sur un marché qui n'existe pas ou une bataille déjà perdue.
+
+**Valider la tendance, pas seulement le volume actuel.** Un mot-clé au volume faible aujourd'hui peut être en pleine expansion — le signal précède souvent le volume : un produit qui explose sur les réseaux sociaux voit généralement son volume de recherche suivre avec un décalage. Sur un produit qui semble tendance, regarder la courbe sur quelques mois à un an ; sur un produit installé, remonter à deux ou trois ans pour la situer dans son cycle. Une courbe en expansion change le calcul de risque : viser un mot-clé qui va grossir coûte le même effort qu'un mot-clé stable, pour un potentiel très différent.
+
+**Compléter par le volume et la longue traîne** sur un outil de recherche de mots-clés : le volume du terme principal, et surtout ses variantes proches — souvent moins recherchées individuellement mais nettement moins concurrentielles, donc plus rapides à ranker (`Étape 3`).
+
+**Benchmarker la concurrence réelle sur la SERP** avant de s'engager, pas après :
+- **Le nombre de concurrents sérieux.** Une SERP dominée par un seul acteur spécialisé laisse de la place ; une SERP avec dix sites optimisés de longue date n'en laisse pas.
+- **Un site généraliste (Amazon, une grande marketplace) en top 3 est un bon signal**, pas un mauvais — ces sites laissent presque toujours des angles exploitables pour un site spécialisé qui traite mieux le sujet.
+- **La qualité et le volume des liens entrants** de chaque concurrent, l'ancienneté de son nom de domaine, la présence ou non d'un domaine à correspondance exacte (voir ci-dessous).
+- **Ce qui manque chez le premier.** Le contenu qu'il n'a pas traité, la structure qu'il n'a pas soignée, le rythme de publication qu'il a laissé tomber — un site qui a atteint la première place et cesse d'y travailler laisse une ouverture réelle. C'est souvent l'angle d'attaque le plus rentable : ne pas chercher à être différent, chercher à être plus complet sur ce que le premier a négligé.
+
+**Sortie de cette étape :** un tableau de bord des forces et faiblesses du marché (demande, tendance, nombre de concurrents sérieux) croisé avec les forces et faiblesses du site — nombre de produits, présence de collections, état technique (Search Console configurée, sitemap déclaré, structure de titres). C'est ce tableau, pas une intuition, qui doit dicter si la stratégie vise d'abord la longue traîne (cas général) ou peut viser le mot-clé principal directement (uniquement si le catalogue est trop réduit pour alimenter une vraie stratégie de longue traîne).
+
+## Étape 0 ter — L'autorité de domaine : ce qui se passe hors de la page
+
+Tout ce qui précède (Étapes 1 à 8) construit le contenu. Mais Google évalue aussi la **crédibilité** du site indépendamment de chaque page — c'est l'autorité de domaine, et elle se construit par des signaux externes autant qu'internes.
+
+**Le jus de lien (link juice), le mécanisme de base.** Chaque lien transmet une part de l'autorité de la page qui pointe vers une autre. Un lien **dofollow** transmet ce jus ; un lien **nofollow** ne le transmet pas (utilisé par exemple sur des commentaires ouverts, pour ne pas offrir gratuitement de l'autorité à n'importe qui). En interne, l'autorité de la page d'accueil se répartit entre les pages vers lesquelles elle pointe : plus il y a de liens sortants depuis une page, plus le jus transmis à chacun est dilué. **Conséquence pratique pour le maillage :** ne pas multiplier les liens sortants sans discernement sur les pages à forte autorité (accueil, pages piliers) — les réserver aux pages qui ont le plus besoin d'être poussées.
+
+**Les backlinks (liens entrants externes)** sont le levier le plus direct pour augmenter l'autorité globale d'un domaine, mais leur qualité compte plus que leur nombre : un lien depuis un site pertinent et déjà crédible pèse largement plus qu'une dizaine de liens depuis des sites sans rapport ou de faible qualité.
+
+**L'EMD (Exact Match Domain) — un nom de domaine qui contient le mot-clé principal.** Son impact a diminué depuis les années où il suffisait à lui seul à ranker, mais il reste un vrai avantage sur une niche peu concurrentielle : il indique instantanément à Google et au visiteur le sujet du site, et il est plus mémorable. Limites à connaître : deux mots-clés maximum dans le nom, en veillant à sa lisibilité et à sa longueur ; l'EMD ne remplace jamais un contenu de qualité et un maillage soigné — il amplifie une bonne stratégie, il n'en tient pas lieu seul.
+
+**E-E-A-T et la visibilité dans les réponses IA.** Le cadre E-E-A-T de Google (Expérience, Expertise, Autorité, Confiance) sert à évaluer la crédibilité d'un contenu — et les mêmes signaux d'autorité qui font monter un site dans les résultats classiques sont ceux qui le font apparaître comme source dans les résumés générés par IA (Google AI Overview, ChatGPT). Publier du contenu qui démontre une expertise réelle sur un sujet précis (pas seulement du contenu commercial) n'est donc plus seulement un levier SEO classique — c'est ce qui conditionne la présence dans un canal de découverte plus récent.
+
+⚠️ **Sur l'achat de backlinks et le « ninja linking » (backlinks placés sans l'accord du site hôte, souvent via des failles ou des commentaires).** Les lignes directrices de Google interdisent explicitement les schémas de liens (achat, échange massif, réseaux de sites créés pour se lier entre eux) — la sanction va de la dévaluation des liens concernés à une pénalité manuelle qui peut faire disparaître un site des résultats. Un domaine récent qui accumule d'un coup un grand nombre de liens artificiels envoie un signal anormal facilement détectable. **La voie durable :** obtenir des liens par du contenu qui mérite d'être cité, des partenariats réels, des mentions presse, des collaborations avec d'autres sites de la niche. Le risque d'un lien acheté ou placé sans autorisation n'est pas seulement moral — c'est un risque business direct : la perte du canal SEO entier sur lequel toute la stratégie de contenu vient d'être construite.
+
 ## Étape 1 — Recherche de mots-clés, en 3 niveaux
 
 **Niveau 1 — le mot-clé principal (un seul).** Central, souvent concurrentiel. Tout le contenu le renforce indirectement.
