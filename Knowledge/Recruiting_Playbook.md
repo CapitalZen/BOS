@@ -59,6 +59,8 @@ Pour un poste important, combiner :
 
 **Ne pas recruter uniquement dans l'urgence.** Tenir une **liste permanente** des profils intéressants croisés au fil du temps. Quand on rencontre quelqu'un d'excellent sans avoir le poste, garder le contact : une entreprise qui grandit finit presque toujours par créer l'opportunité correspondante.
 
+**Sur une plateforme comme Upwork — trois réglages qui changent la qualité des candidatures :** rédiger l'annonce **en anglais**, même pour un poste francophone — ça élargit le bassin sans nuire au filtrage, la maîtrise du français restant un critère listé séparément. Se caler sur la fourchette de prix affichée par la plateforme pour des postes comparables, plutôt que fixer un tarif au hasard. Et retenir qu'un tarif trop bas élimine mécaniquement les meilleurs profils — sur un poste de SAV par exemple, il est rare de trouver un profil solide en dessous d'un seuil horaire minimum ; **chercher un profil autonome coûte plus cher que chercher quelqu'un à surveiller en permanence, et ça se paie une seule fois.**
+
 ## 4. Filtrer vite et intelligemment
 
 L'objectif n'est pas de passer une heure avec chacun. Un premier filtre par quelques réponses courtes :
@@ -72,9 +74,22 @@ L'objectif n'est pas de passer une heure avec chacun. Un premier filtre par quel
 
 Ça élimine les candidatures copiées-collées. **Le signal fort :** une personne excellente a pris le temps de comprendre le projet — elle apporte des idées, pose de bonnes questions, parle de problèmes concrets. Une personne moyenne parle surtout de ce qu'elle aimerait recevoir.
 
+**Trois filtres supplémentaires, avant même l'appel :**
+- **Ne pas se fier aux gains déjà affichés sur la plateforme.** Un profil qui a peu gagné n'est pas un profil faible — c'est peut-être quelqu'un qui démarre et qui vaut la peine d'être testé avant que son tarif ne monte.
+- **Écarter les profils rattachés à une agence**, sauf si travailler avec une agence est un choix assumé — la relation directe est plus simple à piloter.
+- **Vérifier la cohérence entre le profil et le poste visé.** Quelqu'un dont l'historique est concentré sur un tout autre métier peut postuler par opportunisme plutôt que par affinité réelle avec le poste.
+
+Sur les plateformes qui affichent un taux de réussite des missions passées, ne pas descendre sous un seuil élevé (de l'ordre de 95 %) — c'est un signal agrégé sur beaucoup de missions, donc plus fiable qu'un avis isolé.
+
 ## 5. Entretien orienté preuves, pas feeling
 
 Le feeling est utile ; il devient dangereux comme critère unique. Quelqu'un de très à l'aise à l'oral peut être totalement inefficace une fois recruté.
+
+**Ouvrir par des questions personnelles, sans lien avec le poste** (« qu'est-ce que tu aimes faire en dehors du travail ? »). Ça sert deux objectifs à la fois : voir si la personne s'intéresse réellement à quelque chose dans sa vie — un signal transférable sur l'engagement au travail — et la détendre avant les questions qui comptent, ce qui produit des réponses plus riches sur le reste de l'entretien.
+
+**Le signal le plus fiable pendant les questions d'expérience : le niveau de détail.** Quelqu'un qui a réellement fait le travail entre naturellement dans les détails concrets — les outils précis, les étapes exactes, les décisions prises en cours de route. Quelqu'un qui n'a qu'effleuré le sujet reste vague, même en réponse à une relance directe. Rebondir systématiquement sur une affirmation générale (« j'ai déjà fait X sur Shopify ») en demandant le détail opérationnel (« et pour ça, tu passais par quoi, concrètement ? ») sépare vite les deux profils.
+
+**Les questions-pièges spécifiques au métier valent plus que dix questions génériques.** Deux ou trois questions très pointues, propres au poste, que seule une personne qui a vraiment pratiqué peut connaître (l'équivalent, pour un poste Shopify, de demander ce qu'est un « cart drawer »). Une bonne réponse sur ce type de détail vaut davantage que toute une série de questions générales — et se prépare une fois par métier, réutilisable ensuite.
 
 **Revenir systématiquement aux faits :**
 - Qu'as-tu réellement construit ? Avec quelle équipe ? Sur quelle période ? Avec quels résultats ?
@@ -99,6 +114,9 @@ Pas un travail gratuit de trois jours — un exercice assez précis pour compren
 | Opérationnel | Construction d'un workflow simple pour résoudre un problème interne |
 | Créatif | Analyse de plusieurs publicités avec recommandations concrètes |
 | Finance | Identification des KPI indispensables à suivre chaque semaine |
+| **SAV** | Un lot d'emails clients fictifs (une dizaine), couvrant des situations réalistes et volontairement variées — colis non arrivé, réclamation fondée, réclamation abusive, client mécontent, demande de réduction hors politique — avec le minimum d'information fournie. On regarde comment la personne se débrouille sans consigne pour chaque cas |
+
+**Concevoir le test pour qu'il résiste à l'IA seule.** Un exercice assez spécifique à la marque et à ses cas réels ne se résout pas en copiant une réponse générique — c'est ce qui distingue un vrai test du niveau de quelqu'un d'un exercice qu'il peut sous-traiter entièrement.
 
 **Le résultat compte, la structure du raisonnement compte plus.** On voit vite si la personne comprend les priorités, sait simplifier un problème complexe, et apporte quelque chose que l'interne n'avait pas.
 
@@ -130,7 +148,7 @@ Puis des points clairs à **30, 60 et 90 jours**.
 
 ## 9. Accepter que tous les recrutements ne marcheront pas
 
-Le but n'est pas 100 % de réussite — c'est impossible. Le but est de **détecter vite** quand ça ne va pas, et de ne pas laisser durer six mois une situation moyenne par peur de trancher.
+Le but n'est pas 100 % de réussite — c'est impossible. Le but est de **détecter vite** quand ça ne va pas, et de ne pas laisser durer six mois une situation moyenne par peur de trancher. **Repère concret : si la personne n'est pas performante après 1 à 2 mois, agir tout de suite** — au-delà, le coût n'est plus seulement celui du poste mal occupé, c'est celui du temps qu'on continue de perdre à espérer un redressement improbable.
 
 Une mauvaise personne à un poste stratégique ne ralentit pas seulement son propre travail : elle ralentit une équipe, dégrade la culture, bloque les meilleurs profils et consomme une énergie mentale énorme. **Exigeant à l'entrée, lucide après.** *(Rejoint le principe : « s'il y a un doute, il n'y a pas de doute ».)*
 
