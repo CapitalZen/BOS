@@ -921,6 +921,21 @@ Point contre-intuitif et très rentable : quand on commande de l'UGC, demander *
 
 Où sourcer : plateformes spécialisées (Youdji, Influee, Backstage, Billo), marketplaces généralistes (Fiverr, Upwork), agences — ou directement sur TikTok et Instagram pour dénicher des créateurs à prix compétitif, ce qui marche particulièrement bien quand la niche demande du contenu brut et authentique pour une audience jeune.
 
+### Trouver des créatrices soi-même — le process en 3 étapes
+
+Une méthode gratuite et rapide quand on veut sourcer directement plutôt que passer par une plateforme, particulièrement adaptée au démarrage.
+
+**1. Clarifier le besoin avant de chercher.** Le contenu vise-t-il 100 % la publicité, de la preuve sociale sur le site (témoignages, avis), ou de l'organique ? Le format et le style recherchés changent selon la réponse — chercher sans avoir tranché produit un contenu qui ne sert bien aucun des trois usages. Utile en complément : rassembler dans un document des exemples de contenu des marques qui font référence sur la niche (captures de feed, bibliothèques publicitaires, shootings) pour donner une direction visuelle concrète à l'équipe et aux créatrices approchées.
+
+**2. Construire le persona de la créatrice avant de chercher un nom.** Âge, genre, origine, style, centres d'intérêt, valeurs — le même exercice que pour l'avatar client (`Customer_Research_SOP.md` Étape 0), appliqué à qui doit représenter la marque à l'écran. Sans ce persona écrit à l'avance, la sélection se fait au feeling et dérive.
+
+**3. Trois tactiques de recherche concrètes, combinables :**
+- **Les identifications sur Instagram** — parcourir les comptes qui identifient les grandes marques de la niche : ce sont déjà des créatrices actives sur des sujets proches.
+- **La recherche directe** — taper « UGC + [niche] » dans la barre de recherche TikTok ou Instagram et lister les comptes pertinents.
+- **Les hashtags générés** — demander à une IA une liste de hashtags cohérents avec l'univers de la marque, puis parcourir les publications associées.
+
+**La position à adopter au premier contact, pour une marque qui démarre :** proposer une collaboration rémunérée en se présentant comme une jeune marque indépendante, et offrir à la créatrice d'être **la première** à la représenter — un statut, pas seulement un cachet. ⚠️ **Condition de crédibilité : le site doit raconter la même histoire.** Pas de réductions agressives, produits éventuellement affichés « bientôt disponibles », un ton de petite marque qui démarre plutôt qu'une boutique qui simule déjà un grand volume. C'est une application directe du principe de congruence (`Ecom_Funnel_Architecture.md` §1) : le message tenu à la créatrice doit correspondre à ce qu'elle découvre en visitant le site, sinon la collaboration se décide sur une promesse qui se dément à la première vérification.
+
 **Quand un créateur est excellent, passer sur un contrat de volume.** Ça l'arrange, et le coût unitaire de l'UGC baisse nettement.
 
 **Sur les formats plus produits** (podcasts, micro-trottoirs, créas studio, créas entrepôt) : excellents pour **diversifier**, et la diversification compte. Mais ce n'est pas une base solide — parce que ce n'est ni rapide ni reproductible en volume. La base, c'est le mashup : actionnable, rapide, fiable, et scalable.
