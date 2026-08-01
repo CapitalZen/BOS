@@ -299,6 +299,10 @@ Face à un produit, on tombe toujours dans l'une des deux :
 - Une nouvelle huile à la mode qui remplace les huiles connues sur le même bénéfice
 - Une brosse anti-chute à LED à laquelle on ajoute une vibration
 
+**Le rapport contre-intuitif entre taille de niche et facilité :** plus une niche est grosse, **plus il est facile d'y trouver l'angle qui convertit**. Ce n'est pas un paradoxe — un marché immense contient plus de personas, plus de problèmes voisins, plus de situations d'usage, donc plus de portes d'entrée. Sur une sous-niche étroite, il n'existe que deux ou trois angles possibles, et ils sont déjà pris.
+
+C'est aussi ce qui rend les créatives faciles à décliner : avant/après, démonstration, POV, humour, récit — un grand marché nourrit tous les formats. Le e-commerce ne consiste pas à réinventer la roue, mais à **choisir un marché immense et à jouer intelligemment avec les créatives.**
+
 **L'observation qui déculpabilise :** les marques qui font des millions vendent, dans leur immense majorité, **des produits banals**. Pas des inventions — des produits connus avec un petit truc en plus : un ingrédient, une forme, un angle. Chercher l'objet extraordinaire est une perte de temps.
 
 ### Les erreurs qui reviennent le plus
