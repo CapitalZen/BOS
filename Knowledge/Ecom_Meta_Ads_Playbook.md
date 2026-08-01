@@ -697,6 +697,20 @@ Trouver un agent est simple en soi ; c'est pourtant l'un des blocages les plus f
 | **Groupes Facebook** | Volume d'agents important. Poster sa situation suffit à être contacté | Aucun filtre : la qualification est entièrement à faire, et le ratio bruit/signal est élevé |
 | **Recherche directe** (Google, LinkedIn) | Sous-estimé. Les bons mots-clés (« sourcing agent China », « agent Shenzhen », « dropshipping agent ») font remonter des profils discrets et compétents. LinkedIn donne accès à des structures plus corporate, absentes des canaux classiques | Demande du temps et un process de qualification sérieux. Mais c'est là qu'on trouve des profils plus professionnels que ceux qui sont trop exposés ailleurs |
 
+### Se constituer une base de négociation avant de parler à un agent
+
+Astuce à faible coût et fort rendement : **contacter plusieurs fournisseurs sur les places de marché industrielles, discuter, comparer prix, délais et quantité minimale de commande (MOQ)** — même sans intention de commander chez eux.
+
+On n'y va pas pour acheter, on y va pour **savoir**. Sans référence de prix, on négocie à l'aveugle avec un agent et on accepte le premier chiffre. Avec trois devis en main, la conversation change de nature — et l'agent le sent immédiatement.
+
+### Les trois signaux d'un agent fiable
+
+1. **La réactivité** — un agent lent au premier contact sera catastrophique le jour où 200 commandes attendent
+2. **La transparence sur les prix** — un devis détaillé (produit, emballage, transport) plutôt qu'un montant global
+3. **La capacité à envoyer des vidéos produit rapidement** — c'est le test le plus révélateur : il prouve qu'il a un accès réel à la marchandise, et pas seulement un catalogue
+
+**Et la règle qui prime sur tout : tester sur une petite commande avant d'aller plus loin.** Ne jamais engager un volume avec quelqu'un qu'on n'a pas encore vu livrer. Un agent se juge sur une expédition réelle, pas sur une conversation.
+
 **Le fil rouge des sept canaux :** la question n'est jamais « où le trouver » mais **« qui gère réellement mes commandes »**. Un agent qui ne peut pas dire précisément où sont ses entrepôts, qui manipule ses colis, et comment il gère un litige, est un intermédiaire de plus dans la chaîne — donc une marge de plus et un contrôle de moins.
 
 **Ce que BOS fait sur cette étape :** rédiger le message de premier contact, la liste des questions de qualification (présence terrain, entrepôts, délais de traitement, gestion des litiges, conditions de paiement, capacité de contrôle qualité), et la grille de comparaison des devis. L'entrepreneur envoie les messages et juge la réactivité — qui est en soi l'un des meilleurs signaux.
