@@ -138,6 +138,8 @@ Le coût réel d'un test n'est pas seulement le budget publicitaire : c'est auss
 
 **Quand recentrer ?** Une fois à un volume quotidien confortable (~7-10 k/jour), on peut resserrer le site autour du produit ou de la sous-niche qui a gagné, et basculer vers la logique de marque (§ ci-dessous, et `Ecom_Brand_Operators_Cases.md`). Ce n'est même pas obligatoire — c'est une optimisation, pas une condition de survie.
 
+**Ce que devient le catalogue une fois la marque installée.** Les boutiques qui font un très gros volume ne vivent presque jamais sur un seul produit — elles ont un vrai catalogue, avec des bundles et des combinaisons entre produits proposés à l'achat. Ce n'est pas un retour à la niche large du démarrage : c'est le stade suivant, où le catalogue se construit **autour** du produit qui a gagné plutôt qu'à sa place — logique de bundle et de cross-sell déjà couverte en §6 (AOV, upsells).
+
 **La réconciliation avec la boutique de niche brandée :** ce ne sont pas deux stratégies concurrentes, ce sont **deux moments**. Niche large = phase de recherche du gagnant, où l'on optimise le coût par test. Boutique brandée = phase de construction, une fois qu'on sait ce qui répond. L'erreur est de brander avant d'avoir un gagnant — on paie un branding pour un produit qu'on abandonnera.
 
 **La duplication est le vrai levier de scale.** Un seul produit/angle qui scale peut s'essouffler en quelques semaines — aucun produit ne dure éternellement. La logique : consolider ce qui tourne, puis **dupliquer le modèle validé sur d'autres marchés** (un produit validé en France a de fortes chances de fonctionner en Italie ou en Espagne avec les mêmes créatives adaptées). C'est ce qui fait passer d'une boutique à plusieurs, sans repartir de zéro.
@@ -1362,6 +1364,8 @@ Cadre de diagnostic simple, et cohérent avec tout le reste du playbook :
 Quand un shop stagne à un palier, il manque **un** de ces six — rarement plusieurs. Le réflexe habituel (tester encore des créatives) échoue quand le pilier cassé est ailleurs.
 
 ### Le SAV : posture et modèles
+
+**Le canal, avant la posture.** Sur les boutiques qui font un gros volume, le SAV passe presque toujours par un canal en temps réel — chat en direct sur le site ou numéro de téléphone — plutôt que par l'email seul. Le contact constant raccourcit le délai entre la question et la réponse, exactement le moment où un client hésitant peut basculer vers l'abandon ou la demande de remboursement.
 
 Le service client est un contact direct avec l'acheteur, donc un levier de marge et de réputation. Deux principes gouvernent toutes les réponses :
 
