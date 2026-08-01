@@ -245,6 +245,13 @@ Tout produit a une saisonnalité. La forcer hors saison, c'est brûler du budget
 - **Accepter les creux et préparer les pics** — utiliser la basse saison pour la recherche marketing, la production de contenu, le test d'angles et l'optimisation du back-end. Puis exploser quand le timing est bon.
 - **Faire tourner plusieurs produits à saisonnalités décalées** — un produit qui pique en janvier, un autre en été, un autre au dernier trimestre. On travaille à l'année.
 
+**Le diagnostic à faire avant de remettre en cause l'exécution.** Quand un produit qui tournait bien cesse de performer, le réflexe est de tout suspecter — l'offre, les créatives, la page — et de tout retoucher en même temps, ce qui casse la mesure (Phase 7 du skill `funnel`) sans jamais confirmer la vraie cause. **Avant de toucher à quoi que ce soit, vérifier la tendance sur Google Trends et un outil de veille publicitaire.** Deux lectures possibles :
+
+- **La courbe baisse** — même sur un produit qui semblait intemporel. Ce n'est pas un problème d'offre ou de créative, c'est un problème de moment : on est hors saison ou en fin de cycle. La correction est le calendrier, pas le produit.
+- **On se retrouve seul actif sur la niche alors qu'on ne l'était pas** — ce n'est pas un boulevard qui s'ouvre, c'est le signal inverse de celui du démarrage (§2, « s'il n'y a personne, c'est que ça ne se vend pas ») : le marché est en train de se vider. Un marché qui se désertait progressait vers ce point ; le repérer tôt évite d'insister contre la tendance.
+
+Dans les deux cas, la décision est un pivot programmé — vers un nouvel angle sur le même produit, un produit à saisonnalité décalée déjà en réserve, ou l'arrêt — et non une nouvelle campagne de tests sur l'existant.
+
 **2. Le produit doit être « ads-friendly »**
 
 Certains produits se vendent facilement en publicité, d'autres sont des cauchemars. Le critère : **la démontrabilité visuelle.** Douleur au dos → on montre quelqu'un qui souffre. Peau sèche → on montre l'avant/après. Désordre → on montre le chaos puis l'ordre.
