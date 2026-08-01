@@ -619,6 +619,46 @@ Une approche différente, également répandue chez des praticiens qui scalent. 
 
 **Gestion des CBO dans le temps :** on alimente la CBO de nouvelles créatives ; **dès qu'une CBO fonctionne bien, on n'y touche plus** et on en crée une nouvelle à nourrir. Ne jamais perturber ce qui marche.
 
+### Le mode d'enchère : ce qui se passe vraiment quand on augmente le budget
+
+Section réservée à un compte qui a déjà de la traction et du volume — pas au testing à petit budget décrit plus haut. Elle explique **pourquoi** forcer le budget dégrade la rentabilité, et donne un second outil pour scaler sans ce problème.
+
+**Le mécanisme derrière la dégradation au scaling.** En enchère automatique (*Auto-Bid*), on dit à l'algorithme : dépense tout le budget fixé, obtiens le plus de résultats possible. Pour tenir cet objectif de dépense à mesure que le budget monte, l'algorithme **abaisse son seuil de probabilité de conversion prédite (pCVR)** — il va chercher des audiences de moins en moins qualifiées pour absorber les euros supplémentaires. C'est exactement le mécanisme qui explique pourquoi le ROAS se dégrade en scaling, au-delà de la simple explication « les audiences se saturent ».
+
+**Le mode alternatif : l'enchère contrainte (*Constraint-Based Bid* — coût plafond ou ROAS cible).** Au lieu de fixer un budget à dépenser coûte que coûte, on fixe un seuil de rentabilité (« je paie au maximum X € par acquisition » ou « je veux au moins ce ROAS ») et l'algorithme **ne dépense que s'il trouve des opportunités qui respectent ce seuil.** Conséquence directe : une campagne en CBB ne dépense presque jamais 100 % du budget alloué — elle sous-dépense volontairement plutôt que de dégrader la rentabilité.
+
+| | Auto-Bid | Constraint-Based Bid |
+|---|---|---|
+| **Objectif donné à l'algo** | Dépenser le budget, maximiser le volume | Respecter un seuil de coût ou de ROAS |
+| **Ce qui se passe si le budget dépasse la demande qualifiée** | L'algo baisse ses critères pour dépenser quand même | L'algo sous-dépense plutôt que de dégrader |
+| **Stabilité au scaling** | Dégradation mécanique du ROAS à mesure que le budget monte | La rentabilité reste verrouillée ; la dépense suit les opportunités, pas l'inverse |
+| **Effet d'une coupure de campagne** | Remise à zéro de la phase d'apprentissage à la relance | Peut ralentir puis repartir sans être coupée — moins de perturbation |
+| **Meilleur usage** | Stock quasi illimité (dropshipping), priorité à la vitesse de pénétration du marché | Marge à préserver, stock limité, croissance pilotée par l'efficience plutôt que par le budget |
+
+⚠️ Le CBB n'est pas strictement supérieur : sur un stock qui n'est pas une contrainte, l'Auto-Bid a un avantage réel — il explore plus largement le marché adressable et accumule plus vite les signaux qui stabilisent les prédictions de l'algorithme (plus de volume → plus de données → prédictions mieux calibrées → plus de volume). Le choix dépend de la contrainte réelle du business, pas d'une préférence de principe.
+
+### L'organique comme carburant du haut de funnel, et son amplification payante
+
+Le contenu organique ne convertit presque jamais directement — en baser une stratégie de vente dessus revient à espérer, pas à piloter. Sa vraie fonction est ailleurs, à quatre niveaux : **capter l'attention** d'un prospect froid gratuitement, **mûrir l'intérêt** en répondant aux objections au fil du contenu, devenir **la référence de la niche** dans l'esprit du prospect au moment où il décide d'acheter, et servir de **certificat de crédibilité** — avant de sortir sa carte après avoir vu une publicité, une bonne partie du trafic va vérifier le profil de la marque, et l'absence de contenu organique lit comme l'absence de preuve d'existence.
+
+**Amplifier ce contenu avec de la publicité à faible coût, plutôt que d'attendre qu'il devienne viral par chance.** Des campagnes dont l'objectif n'est pas la vente mais la portée et l'engagement (ex. Spark Ads sur TikTok, qui boostent une publication organique existante) : les CPM y sont très bas, donc on expose la marque en masse à bas coût, et chaque interaction supplémentaire (temps de visionnage, partage) pousse la plateforme à redistribuer davantage le contenu en organique — le payant nourrit l'organique, qui nourrit le payant.
+
+⚠️ **Ne pas utiliser le bouton « booster » des applications mobiles** — ça dégrade la diffusion organique. Passer par un gestionnaire de publicités (Business Manager).
+
+**Pourquoi cet investissement à ROAS nul rend le reste plus rentable :** une audience exposée à la marque en amont convertit avec moins de friction quand elle rencontre ensuite une publicité de conversion — les campagnes ne tapent plus dans une audience totalement froide. C'est ce qui permet, une fois la rentabilité verrouillée par le CBB ci-dessus, de dépenser davantage en phase de récolte sans voir le ROAS s'effondrer par manque de nouveaux prospects déjà chauffés.
+
+⚠️ **Le piège de trésorerie.** Le lien entre l'investissement TOFU et les ventes n'est pas visible au jour le jour sur un tableau de bord — l'argent part d'un côté, les ventes arrivent avec un décalage et sans corrélation directe évidente. Sans méthode de lecture rigoureuse (ci-dessous), ce budget se confond avec de l'argent brûlé, et le réflexe de survie en période de trésorerie tendue est de le couper en premier — exactement le budget qui rend le reste de la machine rentable. Ce n'est pas une stratégie pour quelqu'un qui a besoin de cash immédiat : c'est un investissement qui suppose que le reste de la machine (produit, offre, CBB) tourne déjà correctement.
+
+### Le Marketing Mix Modeling — mesurer la synergie plutôt que juger chaque canal isolément
+
+Question à laquelle ROAS et CPA, mesurés canal par canal, ne répondent pas : est-ce que l'investissement en haut de funnel (organique + TOFU) est ce qui permet aux campagnes de conversion de dépenser davantage tout en gardant leur rentabilité ?
+
+**La méthode : consolider les données de tous les canaux** (publicités, plateforme e-commerce, indicateurs organiques des réseaux) sur plusieurs mois, puis chercher les **co-occurrences** entre les leviers d'attention (organique, TOFU) et le volume dépensé par les campagnes de conversion sous contrainte (CBB) — pas leur performance jugée séparément.
+
+**Le pattern à repérer :** quand l'exposition organique et l'investissement TOFU montent, le budget que l'algorithme accepte de dépenser en CBB monte avec eux — parce qu'il trouve davantage de profils qualifiés à un coût qui respecte le seuil fixé. Et symétriquement : couper l'organique et le TOFU (par exemple en réaction à une rupture de stock) fait mécaniquement baisser la capacité de dépense rentable des campagnes de conversion, même si rien n'a changé sur ces campagnes elles-mêmes. **Ce qui ressemble à une dégradation de performance sur le canal de conversion est en réalité une baisse d'alimentation en amont.**
+
+**Rendu accessible sans compétence data poussée :** exporter les rapports de chaque canal sur plusieurs mois dans un tableur, et demander à une IA d'identifier les patterns de co-occurrence et de produire un graphique lisible — la lecture ne demande pas d'expertise statistique, juste la discipline de consolider les données avant de conclure.
+
 ### Diagnostiquer où ça casse — la métrique désigne l'endroit, pas le produit
 
 L'erreur la plus fréquente en lecture de test : conclure « le produit ne marche pas » alors que le funnel casse à une étape précise, réparable sans toucher au produit. Trois métriques, trois causes distinctes — **traiter dans l'ordre, ne jamais sauter à la fin** :
