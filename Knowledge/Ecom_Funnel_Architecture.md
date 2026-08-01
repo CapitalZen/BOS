@@ -94,6 +94,23 @@ Ce qu'il vérifie : est-ce que ça marche vraiment, est-ce que c'est simple, est
 
 Pourquoi ça marche : le cerveau résiste au oui/non mais adore comparer et choisir. Poser une question de choix réduit la résistance, active la projection (la personne s'imagine déjà en train de choisir) et déclenche l'action sans pression.
 
+### 2.6 L'amorçage — éviter que le mot lui-même déclenche la mauvaise émotion
+
+Une heuristique de copywriting utile, à ne pas confondre avec une loi neuroscientifique dure : quand une phrase mentionne le mot qu'elle cherche à écarter, ce mot reste souvent l'élément le plus saillant de la phrase pour le lecteur. « Ne stresse pas » laisse le mot *stresse* actif ; « pas de frais cachés » laisse *frais* et *caché* actifs. Le principe pratique : **formuler ce qu'on veut que la personne ressente, pas ce qu'on veut qu'elle évite.**
+
+C'est particulièrement sensible aux endroits où l'hésitation est déjà la plus forte — juste avant le paiement, l'endroit précis où l'inversion du risque agit aussi (§6).
+
+| Formulation à éviter | Ce qui reste actif | Formulation qui amorce le bon état |
+|---|---|---|
+| « Procéder au paiement » | *payer* — associé à une perte | « Valider ma commande » / « Profiter de ma commande » |
+| « Ne manque pas cette offre » | *manquer* — urgence anxieuse | « Profite de ton offre avant la fin » |
+| « Pas de frais cachés » | *frais*, *caché* — doute | « Prix 100 % transparent » |
+| « N'oublie pas ton code » | *oublier* — anxiété | « Ton code s'applique automatiquement » |
+
+**Où l'appliquer en priorité :** les titres produit (bénéfice atteint plutôt que problème évité — « Dormez au frais toute la nuit » plutôt que « Ne transpirez plus »), les objets d'email, et surtout **la page de paiement**, l'endroit du parcours où une hésitation résiduelle coûte le plus cher. Un simple changement de bouton — « Valider ma commande » au lieu de « Payer » — s'installe en quelques minutes et n'a aucun coût.
+
+**Limite à connaître :** ça reformule la tonalité d'un message, ça ne remplace aucun des leviers de fond (garantie, preuve sociale, offre) — un bon amorçage sur une offre faible ne sauve rien.
+
 ---
 
 ## 3. L'architecture émotionnelle du funnel
