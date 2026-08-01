@@ -56,6 +56,13 @@ Face à n'importe quel objet : *si je devais écouler un stock de ça, comment j
 **3. Étudier un fondateur de marque par semaine.**
 Interviews, podcasts, retours d'expérience — en notant **les raisonnements**, pas les chiffres. Ce qu'on cherche, ce sont les arbitrages : pourquoi ce produit, pourquoi ce canal, pourquoi ce moment.
 
+**4. Faire travailler son cerveau en arrière-plan.**
+Les sessions de travail ne sont pas le seul moment où l'on avance. Trajets, douche, files d'attente : au lieu de laisser l'esprit vagabonder, l'orienter volontairement sur une question du business — comment améliorer l'offre, pourquoi telle boutique fonctionne, quel hook tester ensuite.
+
+Au début c'est un effort conscient. Après quelques semaines, **les connexions se font seules** et les idées arrivent sans qu'on les cherche. C'est un mécanisme cognitif réel, pas une formule de motivation : un cerveau qui a chargé un problème continue de le traiter hors de la période de travail.
+
+Corollaire : **remplacer la consommation passive par de la consommation utile** — podcasts de fondateurs pendant les trajets, analyse de publicités à la place du divertissement machinal. Le temps existe déjà ; c'est son affectation qui change.
+
 > Conditionner son cerveau ainsi pendant six mois rend l'échec très improbable — non par magie, mais parce qu'on aura vu passer des centaines de cas et qu'on reconnaîtra les patterns d'instinct.
 
 **Pourquoi ces routines comptent particulièrement :** un playbook donne la méthode de lecture ; seule la répétition donne la vitesse de lecture. Deux personnes devant la même publicité ne voient pas la même chose, et l'écart vient de là (`Yomi_Business_Principles.md` — « la donnée est partout, la méthodologie de lecture est rare »).

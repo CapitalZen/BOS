@@ -132,6 +132,20 @@ Proposer une grille adaptée au temps disponible (`Profile.md`). Si peu d'heures
 - **Une fois par semaine** (dimanche typiquement) : reprendre les priorités dans les grandes lignes, les répartir, et **les croiser avec les obligations personnelles déjà connues** pour savoir où tombent réellement les blocs de travail. Planifier sans tenir compte du perso produit un planning qui saute dès le mardi.
 - **Chaque fin de journée** : passer en revue ce qui a été fait, puis planifier la journée du lendemain **en fonction de ce résultat** — pas en fonction du plan de la veille.
 
+**La structure de référence quand l'entrepreneur a un emploi ou des études : 3 × 50 minutes par jour.**
+
+Ce n'est pas un pis-aller — c'est un format qui fonctionne. **2 h 30 de concentration réelle battent 10 h de travail entrecoupé.** Trois créneaux, un objectif précis par créneau, jamais deux sujets dans la même session :
+
+| Créneau | Type de tâche |
+|---|---|
+| **Matin** (avant le travail) | Ce qui demande le plus de cerveau : recherche, stratégie, décisions |
+| **Pause de midi** | Opérationnel léger : commandes, messages, suivi |
+| **Soir** | Production et analyse : créatives, veille, lecture des chiffres |
+
+Règles du créneau : **mode avion, une seule tâche, minuteur 50/5.**
+
+**Le recadrage à faire systématiquement :** un emploi n'est pas un obstacle au projet — **c'est ce qui le finance**, et ce qui permet de ne pas prendre de décisions sous pression de trésorerie. C'est un tremplin, pas une contrainte. Formulé autrement, quelqu'un qui lance un business sans revenu à côté prend ses décisions la peur au ventre — et la peur produit de mauvais arbitrages (`Knowledge/Entrepreneur_Success_Factors.md`).
+
 **Protocole anti-distraction** (à proposer dès qu'un entrepreneur dit qu'il n'arrive pas à avancer malgré le temps disponible) :
 - Téléphone en mode « ne pas déranger » pendant les blocs de travail
 - **Ne répondre à l'équipe et aux messages que l'après-midi**, ou après avoir terminé ce qui demande 100 % du cerveau
