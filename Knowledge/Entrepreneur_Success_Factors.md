@@ -52,17 +52,27 @@ L'énergie est un actif business, pas un sujet de confort. Le protocole est opti
 - **Recharge** — 2 jours vraiment off par week-end ; 7 à 10 jours off par trimestre. Off veut dire zéro business.
 - **Vie sociale** — amis 1-2×/semaine, famille 2-4×/mois. Ce n'est pas du temps perdu, c'est ce qui rend la durée tenable.
 
-### Le rythme : une suite de sprints, pas une allure constante
+### Le rythme : un plancher régulier, des pics ponctuels
 
-Ce protocole décrit un état de forme. Il ne dit pas à quel rythme travailler — et sur ce point, l'intuition du « rythme régulier soutenable » est trompeuse.
+Deux thèses circulent, et elles semblent opposées. L'une dit que seuls les sprints à intensité maximale font percer. L'autre dit que **2 h par jour pendant 6 mois valent mieux que 12 h par jour pendant 2 semaines**. La seconde est la plus importante des deux, et voici pourquoi elles ne se contredisent pas vraiment.
 
-**Ce qui produit les percées, ce sont les sprints.** Une période courte, à intensité maximale, sur un objectif unique. Puis une récupération réelle, pendant laquelle on apprend et on analyse. Puis un nouveau sprint. Sans les sprints, rien ne perce ; sans les pauses, on se grille et le sprint suivant n'a plus d'intensité.
+**Le plancher — la base non négociable.** Un volume quotidien modeste, tenu quoi qu'il arrive, indépendant de l'envie du jour. C'est lui qui produit les quatre effets qui comptent : l'habitude s'installe et le travail cesse de demander de la motivation ; le cerveau s'adapte parce qu'il n'enregistre pas ça comme un effort exceptionnel ; la discipline se construit ; et les résultats, même légers, deviennent visibles — ce qui alimente la suite. **Sans plancher, il n'y a pas de business, il y a des tentatives.**
 
-**Pourquoi ça marche mieux qu'une allure constante :** la motivation est par nature irrégulière — construire un système qui suppose une énergie stable revient à construire sur une variable instable. Le cycle sprint/récupération, lui, ne dépend pas de l'envie du jour : on sprinte parce que c'est la phase de sprint, on récupère parce que c'est la phase de récupération.
+**Le pic — l'intensité ponctuelle.** Une période courte, à fond, sur un objectif unique, suivie d'une récupération réelle. C'est ce qui fait franchir un palier quand il y a quelque chose à franchir.
 
-**La condition non négociable : sprinter sur la bonne piste.** Un sprint sur une action à faible levier coûte plus cher qu'une allure lente sur la bonne — d'où l'ordre 80/20 (§9) et le focus sur une étape à la fois.
+**Ce qui distingue un pic d'un craquage, et c'est tout le sujet :** un pic a un retour prévu au plancher. Un craquage a un abandon. Vus de l'extérieur au troisième jour, les deux sont identiques — 12 h de travail, peu de sommeil, énergie maximale. Ce qui les sépare est ce qui arrive après : reprendre à 2 h par jour, ou disparaître deux mois et revenir avec de nouvelles résolutions. **La boucle motivation → surmenage → abandon → culpabilité → nouvelle résolution est le mode d'échec le plus répandu chez les débutants**, et elle se déguise toujours en détermination.
 
-**Articulation avec l'horizon long** (voir `CLAUDE.md`, principe « marathon, pas roulette ») : le rythme est fait de sprints, **l'horizon reste long**. Ce sont deux échelles différentes — l'une décrit comment on travaille une semaine, l'autre décrit ce qu'on construit sur deux ans. Les confondre produit soit un épuisement (sprinter en permanence), soit une stagnation (avancer sans jamais percer).
+**L'ordre est donc : plancher d'abord, pics ensuite.** Un pic construit sur un plancher inexistant n'est pas un sprint, c'est une dépense d'énergie qui ne laisse rien derrière elle.
+
+**La distinction de maturité, qui explique la contradiction apparente entre les deux thèses.** Le modèle du sprint vient d'opérateurs qui ont déjà quelque chose sur quoi sprinter : un produit validé à scaler, une équipe, une fenêtre de marché. Au démarrage, il n'y a rien à faire percer — il y a une routine de tests à tenir assez longtemps pour que les données s'accumulent. **Prescrire le sprint à un débutant, c'est lui prescrire le craquage.** Le sprint devient pertinent quand il existe un objet identifié à faire décoller.
+
+**L'analogie qui rend ça évident — et elle est techniquement exacte.** Dépenser 200 €/jour pendant 5 jours produit moins qu'en dépenser 50 pendant 20 jours : l'algorithme a besoin de temps pour accumuler du signal, et concentrer le budget rend le résultat dépendant d'une poignée de journées (`Ecom_Meta_Ads_Playbook.md` §3). Le cerveau de l'entrepreneur fonctionne comme le système d'apprentissage : ce qui compte n'est pas l'intensité d'une journée, c'est **le nombre de jours qui accumulent du signal**. Ce n'est pas une métaphore décorative — c'est la même mécanique.
+
+**La condition qui vaut pour les deux régimes : travailler sur la bonne piste.** Une régularité appliquée à des actions à faible levier produit de la constance sans résultat — d'où l'ordre 80/20 (§9) et le focus sur une étape à la fois.
+
+**Articulation avec l'horizon long** (voir `CLAUDE.md`, principe « marathon, pas roulette ») : l'horizon est long **et** la cadence de base est modérée. Les pics sont l'exception qui sert un objectif nommé, pas le régime par défaut.
+
+**Le recadrage de tonalité qui va avec :** l'e-commerce vu comme un business facile fait échouer ; vu comme une nouvelle carrière, il fait réussir. Personne n'est en retard parce qu'il ne fait pas 1 000 €/jour en trois mois — les contraintes et les rythmes diffèrent, et la comparaison aux vitrines des réseaux sociaux compare une situation réelle à une mise en scène choisie.
 
 ## 4. Étape 2 — Optimiser le focus
 

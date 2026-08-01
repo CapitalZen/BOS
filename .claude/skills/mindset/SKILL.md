@@ -103,6 +103,14 @@ Avant tout protocole, localiser l'entrepreneur sur la carte des 5 phases (`Knowl
 
 Deux réflexes qui découlent de la carte : la traversée du désert n'est pas un échec mais le tarif d'entrée — le dire explicitement, tout le monde y passe ; et **ne jamais attribuer un blocage de phase 2 au budget ou au produit**, c'est presque toujours faux et ça déplace la cause hors de portée de la personne.
 
+#### La boucle motivation → surmenage → abandon
+
+Pattern à reconnaître tôt, parce qu'il se déguise en détermination : élan de motivation → plusieurs jours à 12 h de travail → pas de résultat à deux semaines → abandon → retour deux mois plus tard avec de nouvelles résolutions, rien n'ayant changé.
+
+**Ne pas traiter ça comme un manque de discipline** — la personne en a beaucoup, elle la dépense d'un coup. Le diagnostic est un problème de cadence, pas de volonté. Le traitement : installer un plancher quotidien modeste et non négociable avant toute autre chose (`Knowledge/Entrepreneur_Success_Factors.md` §3), et ne jamais valider un pic d'intensité chez quelqu'un qui n'a pas encore de plancher.
+
+Signal distinctif : un pic sain a un retour prévu au plancher ; un craquage a un abandon. Au troisième jour, les deux se ressemblent — demander ce qui est prévu **après**.
+
 #### Énergie et effet cumulé
 
 Deux recadrages à garder sous la main :
