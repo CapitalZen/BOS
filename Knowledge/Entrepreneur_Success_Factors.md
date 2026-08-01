@@ -72,6 +72,8 @@ Deux thèses circulent, et elles semblent opposées. L'une dit que seuls les spr
 
 **Articulation avec l'horizon long** (voir `CLAUDE.md`, principe « marathon, pas roulette ») : l'horizon est long **et** la cadence de base est modérée. Les pics sont l'exception qui sert un objectif nommé, pas le régime par défaut.
 
+**Ne pas confondre discipline et sacrifice.** Beaucoup de contenus présentent la rigueur sous forme d'ascèse : week-ends passés sur les données, « rester affamé », « être esclave de sa rigueur au début ». Cette formulation confond deux choses. **La discipline est structurelle** — un plancher tenu, un plan écrit la veille, des priorités hebdomadaires, des process qui tournent sans soi. Elle sert précisément à ce qu'un volume *modeste* survive aux jours sans motivation. **Le sacrifice est une intensité** — et c'est exactement le régime que le protocole énergie ci-dessus écarte, parce qu'il produit des décisions dégradées puis un abandon. Quelqu'un de discipliné n'a pas besoin de brûler ses week-ends ; c'est même le signe que sa structure fonctionne. Retenir la structure, écarter l'ascèse.
+
 **Le recadrage de tonalité qui va avec :** l'e-commerce vu comme un business facile fait échouer ; vu comme une nouvelle carrière, il fait réussir. Personne n'est en retard parce qu'il ne fait pas 1 000 €/jour en trois mois — les contraintes et les rythmes diffèrent, et la comparaison aux vitrines des réseaux sociaux compare une situation réelle à une mise en scène choisie.
 
 ## 4. Étape 2 — Optimiser le focus

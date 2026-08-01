@@ -161,6 +161,14 @@ Règles du créneau : **mode avion, une seule tâche, minuteur 50/5.**
 
 **Le recadrage à faire systématiquement :** un emploi n'est pas un obstacle au projet — **c'est ce qui le finance**, et ce qui permet de ne pas prendre de décisions sous pression de trésorerie. C'est un tremplin, pas une contrainte. Formulé autrement, quelqu'un qui lance un business sans revenu à côté prend ses décisions la peur au ventre — et la peur produit de mauvais arbitrages (`Knowledge/Entrepreneur_Success_Factors.md`).
 
+**Journée réactive vs journée constructive — la distinction qui manque à la plupart des plannings.** Une journée peut être entièrement occupée et ne rien construire. Répondre aux clients, relancer un fournisseur, faire une créative « vite fait », consulter ses ventes compulsivement : c'est du travail, ça fatigue autant, et ça ne laisse aucune brique derrière. **Pendant qu'on éteint des feux, les concurrents posent des briques.**
+
+Le test à appliquer en fin de journée : *qu'est-ce qui existe ce soir et qui n'existait pas ce matin ?* Si la réponse est « rien, mais j'ai été occupé », la journée était réactive.
+
+Deux règles qui en découlent, à inscrire dans le plan :
+- **Le bloc du matin est réservé au constructif**, jamais au réactif. Le réactif se traite dans un créneau nommé, en fin de journée — il s'étend sinon jusqu'à remplir tout l'espace disponible.
+- **Consulter ses ventes n'est pas de l'analyse.** L'analyse est planifiée, cadrée par une fenêtre (3-4 jours), et débouche sur une décision. Le reste est une boucle de dopamine qui coûte de l'attention et pousse à des arbitrages émotionnels.
+
 **Protocole anti-distraction** (à proposer dès qu'un entrepreneur dit qu'il n'arrive pas à avancer malgré le temps disponible) :
 - Téléphone en mode « ne pas déranger » pendant les blocs de travail
 - **Ne répondre à l'équipe et aux messages que l'après-midi**, ou après avoir terminé ce qui demande 100 % du cerveau
