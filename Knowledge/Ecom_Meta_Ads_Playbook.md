@@ -138,7 +138,7 @@ Le coût réel d'un test n'est pas seulement le budget publicitaire : c'est auss
 
 **Quand recentrer ?** Une fois à un volume quotidien confortable (~7-10 k/jour), on peut resserrer le site autour du produit ou de la sous-niche qui a gagné, et basculer vers la logique de marque (§ ci-dessous, et `Ecom_Brand_Operators_Cases.md`). Ce n'est même pas obligatoire — c'est une optimisation, pas une condition de survie.
 
-**Ce que devient le catalogue une fois la marque installée.** Les boutiques qui font un très gros volume ne vivent presque jamais sur un seul produit — elles ont un vrai catalogue, avec des bundles et des combinaisons entre produits proposés à l'achat. Ce n'est pas un retour à la niche large du démarrage : c'est le stade suivant, où le catalogue se construit **autour** du produit qui a gagné plutôt qu'à sa place — logique de bundle et de cross-sell déjà couverte en §6 (AOV, upsells).
+**Ce que devient le catalogue une fois la marque installée.** Les boutiques qui font un très gros volume ne vivent presque jamais sur un seul produit — elles ont un vrai catalogue, avec des bundles et des combinaisons entre produits proposés à l'achat. Ce n'est pas un retour à la niche large du démarrage : c'est le stade suivant, où le catalogue se construit **autour** du produit qui a gagné plutôt qu'à sa place — logique de bundle et de cross-sell déjà couverte en §6 (AOV, upsells). L'élargissement suit le **persona**, pas seulement le produit : ajouter des styles ou catégories cohérents avec qui achète déjà, en gardant une direction artistique unique sur tout le catalogue — plusieurs collections mais une seule identité, jamais l'inverse.
 
 **La réconciliation avec la boutique de niche brandée :** ce ne sont pas deux stratégies concurrentes, ce sont **deux moments**. Niche large = phase de recherche du gagnant, où l'on optimise le coût par test. Boutique brandée = phase de construction, une fois qu'on sait ce qui répond. L'erreur est de brander avant d'avoir un gagnant — on paie un branding pour un produit qu'on abandonnera.
 
@@ -535,6 +535,18 @@ Filtres de départ : pays cible · **50 publicités actives minimum** · trafic 
 **Les alternatives aux grandes marques.** Il existe des produits vendus très cher par des marques installées dont on peut proposer un équivalent fonctionnel bien moins cher. L'intérêt : **la grande marque a déjà payé l'éducation du marché.** Une masse d'acheteurs veut la fonction sans pouvoir mettre le prix. ⚠️ Vendre un concurrent moins cher est légal ; reproduire un design protégé, un brevet ou une marque ne l'est pas — voir Réserves.
 
 **La méthode crowdfunding.** Surveiller les plateformes de financement participatif et repérer les nouveaux produits qui lèvent le plus : c'est une validation directe que le marché croit au projet. Rechercher ensuite ce produit sur les plateformes de sourcing chinoises — quand une tendance apparaît sur le marché américain, une version accessible sort rapidement. **Si la réplique existe déjà, le signal est fort.** À réserver à quelqu'un qui a déjà de l'expérience : le potentiel est trop grand pour être gâché par une exécution approximative, et il faut s'attendre à être copié massivement à son tour.
+
+### Repérer une tendance à l'intérieur d'une niche déjà connue
+
+Une méthode plus légère que la base de 50 marques ci-dessus, utile quand une tendance émerge (visible sur les réseaux, portée par des créatrices) et qu'il faut vite savoir si elle mérite d'être exploitée.
+
+**Vérifier chez les marques de référence de la niche** — celles déjà identifiées comme leaders — si un modèle correspondant à la tendance repérée est devenu viral sur leur propre compte. Un signal chez plusieurs marques de référence en même temps confirme que la tendance dépasse un effet isolé.
+
+**Ratisser les réseaux avec un accès géographique US**, où beaucoup de tendances démarrent avant d'arriver sur les autres marchés — chercher le contenu qui suscite le plus d'engagement sur le sujet, et **lire les commentaires pour les recommandations que les créatrices se font entre elles.** C'est un signal différent de l'objection ou de la question client déjà couvertes en recherche client (`Customer_Research_SOP.md`) : ici on cherche quelles marques la communauté cite spontanément comme référence.
+
+**Parcourir un comparateur de shopping sur plusieurs marchés** (US, UK, AU…) avec les mots-clés de la tendance, pour repérer des boutiques de niche qui la travaillent déjà sans être visibles sur les canaux publicitaires habituels — candidates à une réplique sur un marché encore non exploité (même logique que le glitch EU→US ci-dessus, appliqué à un autre canal de découverte).
+
+⚠️ **Le piège spécifique aux niches en pleine tendance : le fournisseur opportuniste.** Quand une catégorie explose, une grande partie des fournisseurs qui s'y positionnent le font pour surfer dessus — avec des photos éloignées de la qualité réellement livrée. Le signal à chercher est inverse : **un fournisseur déjà positionné sur la niche depuis longtemps**, avant l'explosion de la tendance, plutôt que celui qui vient d'ajouter la catégorie à son catalogue. C'est exactement le rôle de l'échantillon avant engagement (§7) — sur ce type de niche, le sauter est particulièrement risqué.
 
 ### Le seuil d'AOV qui décide de la capacité à scaler
 
