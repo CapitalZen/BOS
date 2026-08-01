@@ -28,6 +28,7 @@ Fin de session : **(A)** spec complète prête à vendre/construire, ou **(B)** 
 
 - `Knowledge/PMF_Offer_Playbook.md` — équation (N,T,P,M,A), océan bleu / PMF 2.0, niveaux de conscience et sophistication, construction d'offre cold-friendly en 6 étapes, structure de VSL, les 3 non-négociables avant d'entrer sur un marché.
 - `Knowledge/Customer_Research_SOP.md` — la procédure exacte de la Phase 1 ci-dessous.
+- `Knowledge/Ecom_Funnel_Architecture.md` §6 — **si l'offre est un produit e-commerce** : équation de valeur perçue, les 7 mécaniques (gratuit, effet de leurre, stack, inversion du risque, compression du temps, effondrement de l'effort, ancrage de prix) et les 3 niveaux d'offre. Le passage du niveau 1 au niveau 2 est en général le levier le plus rapide sur la rentabilité — il change le panier moyen sans toucher au produit ni au trafic.
 
 ## Process
 

@@ -65,6 +65,32 @@ Un prospect achète quand : *il est motivé* > *il comprend la valeur* > *le par
 
 Répéter jusqu'à faire émerger les bénéfices les plus cités — ce sont eux qui portent la proposition de valeur.
 
+## Étape 1 bis — L'immersion : le niveau que presque personne n'atteint
+
+Le message mining ci-dessus est de la recherche **en largeur**. La quasi-totalité des e-commerçants s'y arrête : quelques fils Reddit, quelques avis, et l'impression d'avoir compris l'audience. C'est ce qui explique pourquoi tant de créatives se ressemblent — elles sont toutes tirées de la même couche de surface.
+
+**La recherche en profondeur consiste à entrer dans le monde du client** : consommer ce qu'il consomme, suivre les mêmes comptes, lire les mêmes débats, descendre dans les sous-sujets jusqu'à connaître les controverses internes du marché.
+
+*Exemple, niche fitness.* La recherche de surface s'arrête à « comment se muscler ». L'immersion découvre qu'il existe des écoles qui s'opposent — 5×5 contre full body, cétogène contre alimentation flexible, 3 séances contre 7 — et que chacune a ses frustrations propres, ses plateaux, ses convaincus déçus.
+
+**Ce que ça débloque, et que la recherche de surface ne donnera jamais :** des angles adressés à un sous-groupe précis, formulés dans ses termes, sur un problème que les concurrents ne voient même pas. « Tu fais du 5×5 et tu stagnes depuis trois mois » ne s'invente pas depuis une page d'avis Amazon. C'est là que naissent les angles que personne n'a encore exploités.
+
+**Comment BOS l'exploite concrètement :** l'entrepreneur n'a pas besoin de passer un an dans le marché — BOS peut faire la descente à sa place (cartographier les écoles de pensée d'une niche, leurs points de friction, leur vocabulaire) et lui restituer la carte. Ce que l'entrepreneur seul peut apporter, c'est le temps passé dans les communautés qu'il fréquente déjà.
+
+### Repérer les trous du marché — les trois formules
+
+Une fois la recherche externe faite, on ne cherche pas à copier ce qui marche mais à repérer ce qui **manque** :
+
+| Combinaison | Lecture |
+|---|---|
+| **Angle gagnant + format peu utilisé** | Forte opportunité — la demande est prouvée, l'emballage est neuf |
+| **Format gagnant + angle absent** | Nouvelle porte d'entrée sur le marché |
+| **Angle gagnant + format gagnant + persona sous-exploité** | La combinaison la plus rentable des trois |
+
+**Le levier des avis négatifs des concurrents.** Les avis positifs disent ce que la niche valorise ; les avis négatifs disent **où se positionner**. Un concurrent qui vend une crème anti-douleur avec un reproche récurrent — « ça soulage mais ça chauffe trop » — offre directement un positionnement : « Soulagement efficace, sans sensation de brûlure. » On récupère une part de marché **déjà éduquée et déjà déçue** par quelqu'un d'autre, ce qui est le trafic le moins cher à convertir.
+
+**Recycler les avis en continu.** Les meilleurs avis reçus dans la semaine alimentent directement les créatives de retargeting et les emails. C'est un flux permanent de preuve sociale fraîche, à coût nul, et c'est automatisable.
+
 ## Étape 2 — Interroger visiteurs et clients
 
 Deux populations, deux enseignements : les **visiteurs** révèlent motivations, douleurs et inquiétudes ; les **clients** révèlent ce qui les a convaincus et le résultat qu'ils cherchaient.

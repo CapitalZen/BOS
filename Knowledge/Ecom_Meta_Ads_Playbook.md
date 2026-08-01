@@ -458,6 +458,49 @@ Le signal central : **volume d'ads actives + croissance de ce volume**. Le raiso
 
 Ensuite : croiser avec les 4 critères. Une belle courbe **et** les critères cochés → le produit va dans la liste, on lance.
 
+### Le glitch EU → US — repérer un gagnant avant les autres
+
+La méthode de recherche la plus précise de ce document, parce qu'elle s'appuie sur une donnée chiffrée que presque personne n'exploite.
+
+**Étape 1 — Scanner l'Europe.** La réglementation européenne impose aux plateformes une transparence publicitaire que les autres marchés n'ont pas : l'Ad Library affiche des données de portée **chiffrées** sur les publicités diffusées dans l'UE. C'est la seule fenêtre gratuite sur le volume réel d'un concurrent.
+
+Cibler **l'Allemagne en priorité** : PayPal y est quasi incontournable, ce qui force les marques à vendre un produit qui ne génère pas de litiges. Une boutique qui scale en Allemagne vend forcément quelque chose de solide.
+
+Ce qu'on cherche : des publicités **récentes** avec un volume massif concentré sur **15 à 40 jours**. Les deux signaux sont la récence *et* la concentration — pas le total cumulé.
+
+**Étape 2 — Écarter le bruit.** Une grande marque installée peut brûler des millions d'impressions en notoriété sans chercher à vendre. La cible est le **compte récent avec un volume massif sur peu de temps** : dans la majorité des cas, c'est un opérateur qui scale activement un gagnant.
+
+**Étape 3 — Vérifier aux États-Unis.** Reprendre les mots-clés du produit dans l'Ad Library US. Pas de chiffre exact là-bas, mais un filtrage par volume. Les données européennes servent de preuve, le marché américain étant plusieurs fois plus grand : ce qui tourne en Europe tourne généralement plus fort là-bas.
+
+**Étape 4 — Croiser avec un outil d'ad spy.** Filtrer par lancement récent et forte portée, puis — et c'est le vrai levier — **filtrer par applications installées sur la boutique**. Les boutiques qui scalent utilisent presque toutes le même type d'outils : attribution avancée, suivi de profit, upsell post-achat. Une boutique récente équipée de ces outils dépense sérieusement en publicité. C'est un signal direct, bien plus fiable qu'une estimation de trafic.
+
+Filtres de départ : pays cible · **50 publicités actives minimum** · trafic entre 1 000 et 50 000-100 000 visites · tri par croissance du volume publicitaire.
+
+**La lecture qui fait la différence : regarder les dates de création des publicités, pas seulement les impressions.** 3 M d'impressions sur une publicité lancée il y a 8 mois et 800 k sur une publicité lancée il y a 3 semaines ne racontent pas la même histoire — la seconde dit ce qui performe **maintenant**.
+
+**La chaîne complète :** Europe (chiffres exacts) → États-Unis (confirmation d'échelle) → outil d'ad spy (filtre applications) = on lance sur des données, pas sur une intuition.
+
+### Deux autres portes d'entrée produit
+
+**Les alternatives aux grandes marques.** Il existe des produits vendus très cher par des marques installées dont on peut proposer un équivalent fonctionnel bien moins cher. L'intérêt : **la grande marque a déjà payé l'éducation du marché.** Une masse d'acheteurs veut la fonction sans pouvoir mettre le prix. ⚠️ Vendre un concurrent moins cher est légal ; reproduire un design protégé, un brevet ou une marque ne l'est pas — voir Réserves.
+
+**La méthode crowdfunding.** Surveiller les plateformes de financement participatif et repérer les nouveaux produits qui lèvent le plus : c'est une validation directe que le marché croit au projet. Rechercher ensuite ce produit sur les plateformes de sourcing chinoises — quand une tendance apparaît sur le marché américain, une version accessible sort rapidement. **Si la réplique existe déjà, le signal est fort.** À réserver à quelqu'un qui a déjà de l'expérience : le potentiel est trop grand pour être gâché par une exécution approximative, et il faut s'attendre à être copié massivement à son tour.
+
+### Le seuil d'AOV qui décide de la capacité à scaler
+
+Les coûts publicitaires montent chaque année. Un panier moyen élevé permet de supporter un CPA plus haut — donc d'écraser aux enchères les concurrents à marge faible.
+
+| Panier moyen | Ce que ça implique |
+|---|---|
+| **< 30 €** | Structurellement difficile, presque aucune marge d'erreur |
+| **30-60 €** | Jouable, mais limite |
+| **60-150 €** | Zone confortable |
+| **> 150 €** | Position dominante aux enchères |
+
+Ce repère converge avec les 60-80 € visés en §11 et encadre la cible de 40-100 € citée plus haut pour un démarrage à petit budget avec des produits légers : **la fourchette basse est un choix de prudence logistique au lancement, pas un objectif de long terme.** Dès que le produit tient, monter l'AOV par les bundles est le levier le plus rapide (§6).
+
+Sur la marge : le repère minimal cité par cette source est **3× en marge brute**, contre un COGS sous 25 % (soit 4×) recommandé ailleurs dans ce document. **3× est un plancher en dessous duquel rien ne sauve le business ; 4× est la marge qui permet de scaler sereinement.** Entre les deux, on peut vivre — mais chaque hausse de CPM se sent immédiatement.
+
 ## 3. Meta Ads — testing et scaling
 
 *(Paramètres valables pour le marché EU.)*
@@ -525,6 +568,124 @@ Une approche différente, également répandue chez des praticiens qui scalent. 
 - *Signal « on laisse tourner » :* pas encore rentable, mais excellents CTR, CPC bas, coût par ajout au panier bas → il y a de la traction, le problème est ailleurs (offre, page, prix) → optimiser la boutique.
 
 **Gestion des CBO dans le temps :** on alimente la CBO de nouvelles créatives ; **dès qu'une CBO fonctionne bien, on n'y touche plus** et on en crée une nouvelle à nourrir. Ne jamais perturber ce qui marche.
+
+### L'environnement du compte — ce qui influence les résultats avant même la créative
+
+Deux personnes peuvent lancer la même campagne, la même créative, la même offre et le même funnel, et obtenir des résultats opposés. L'environnement Meta n'est jamais neutre.
+
+- **Le Business Manager.** Un BM ancien, propre, stable et sans historique de violations obtient plus de latitude. Un BM chargé de publicités refusées ou de signalements peut voir ses CPM monter, sa portée se réduire et son apprentissage ralentir.
+- **Les comptes publicitaires ne performent pas tous pareil.** Même campagne, même post ID, même budget sur deux comptes → ROAS très différents, parce que chaque compte a son historique et ses poches d'audience initiales. Quand le budget le permet, **tester le même setup sur 2 à 3 comptes et comparer sur le ROAS, pas sur le CPM** — un CPM plus élevé peut acheter un trafic qui achète davantage.
+- **Chauffer la page avant de lancer.** Une à deux semaines de publications réelles, un à deux posts par jour, avant les premières publicités. Meta valorise les pages qui ressemblent à de vraies entités sociales : moins de friction algorithmique, meilleures performances dès le départ.
+- **Plusieurs types de pages.** Page de marque, page éditoriale, page de créateur — toutes les publicités ne doivent pas ressembler à des publicités de marque, et les formats en partenariat performent souvent mieux. ⚠️ **Voir Réserves** : acheter d'anciennes pages ou louer des comptes viole les conditions d'utilisation, et une page qui masque l'annonceur ou usurpe une qualité professionnelle est une pratique trompeuse.
+
+### 2026 — Andromeda et l'Entity ID (la mise à jour qui change la façon d'itérer)
+
+Andromeda est une évolution de l'algorithme de diffusion. Pas une boîte noire magique : une lecture plus fine des signaux utilisateurs et **une exigence de diversité créative réelle**.
+
+**La règle a changé.** Ce n'est plus « plus de publicités », c'est **« plus de publicités réellement différentes »**. L'objectif de Meta est qu'il existe pour chaque utilisateur une créative qui lui corresponde parfaitement.
+
+**Le mécanisme de l'Entity ID.** Chaque publicité reçoit un identifiant, mais Meta **regroupe désormais sous un même identifiant les publicités visuellement similaires** — même si le texte change, même si la musique change, même si la durée diffère, même si la personne n'est pas la même dès lors que le décor et le cadrage se ressemblent.
+
+Conséquence directe et coûteuse : **les itérations cosmétiques deviennent invisibles pour l'algorithme.** Pas de portée incrémentale, apprentissage fusionné avec la publicité d'origine, aucune nouvelle poche d'audience ouverte.
+
+Ce qui est traité comme identique :
+- Même visuel avec un texte différent
+- Même créateur, même pièce, même lumière
+- Même décor avec une autre personne
+- Même produit, même setup, mêmes couleurs
+
+⚠️ Si les **trois premières secondes** ressemblent à celles d'une autre publicité, Meta peut les regrouper.
+
+Ce qui produit un identifiant réellement neuf — il faut changer un élément **majeur** :
+
+| Variable | Exemples de bascule |
+|---|---|
+| **Format** | Vidéo → statique · UGC → production soignée · mashup → fond vert · facecam → POV · capture d'écran → style podcast |
+| **Véhicule narratif** | Récit → démonstration · déballage → métaphore visuelle · micro-trottoir → voix off d'expert |
+| **Persona** | Genre, âge, style, morphologie, contexte social |
+| **Décor** | Salle de bain → extérieur · cuisine → voiture · bureau → magasin · salon → salle de sport |
+
+**Le principe qui en découle : les « big swing iterations ».** On ne fait plus de micro-variations, on fait des changements visibles par l'algorithme. Cela **ne rend pas obsolète** l'itération sur une gagnante (§4) — le corps de script validé reste l'actif — mais **la façon de l'itérer change** : garder le script, changer le format, le persona ou le décor, pas seulement la première phrase.
+
+### Les trois métriques de lecture sous Andromeda
+
+**1. Le spend est un signal, pas un budget.** Là où Meta dépense, il estime que l'expérience utilisateur est bonne et qu'il y a du potentiel. La lecture utile n'est pas « combien », c'est **quel angle, quel hook, quel format, quelle émotion** reçoit le budget. On cherche ensuite à battre ce que Meta pousse déjà.
+
+**2. La fréquence quotidienne dit où l'algorithme place la publicité.** Autour de **1,1 par jour** → majoritairement haut de funnel. **Au-dessus de 2 par jour** → bas de funnel, difficile d'aller chercher du trafic neuf.
+
+**3. Le coût par résultat ne se juge jamais hors du rôle de la publicité.** Un coût bas signifie souvent qu'elle capte une demande déjà prête, pas qu'elle en crée. Un coût élevé peut signaler une publicité qui fait le travail d'éducation en amont.
+
+**Les deux archétypes à reconnaître :**
+
+| | Haut de funnel — crée la demande | Bas de funnel — monétise la demande |
+|---|---|---|
+| Spend | ↑ monte | ↓ baisse |
+| Fréquence | basse (~1,1) | ↑ monte |
+| CPM | ↓ descend | ↑ monte |
+| Coût par résultat | ↑ plus élevé | ↓ descend |
+| **Décision** | **Garder et itérer dessus** | **Scaler finement** |
+
+Sans cette grille, on tue systématiquement les publicités qui créent la demande — et le compte finit par ne plus vivre que de sa propre audience chaude.
+
+**Le process de testing correspondant :** définir le persona et ce qui peut résonner chez lui → lancer un mélange de concepts, angles et formats dans une même CBO → laisser Meta désigner l'opportunité par le spend → **itérer sur le pattern qui prend** (message qui marche → autres formats et autres personas ; format qui marche → autres messages).
+
+**Deux précisions opérationnelles convergentes avec le reste du document :** ne pas dépasser **15 à 20 publicités par ad set** — au-delà, les performances se dégradent ; et **regrouper les ad sets par concept ou par stade de conscience** (haut, milieu, bas de funnel) plutôt que tout mélanger, ce qui accélère nettement l'apprentissage.
+
+**Ne pas innover pendant le testing.** En testing on cherche la validation, pas l'originalité : reprendre les structures, scripts et angles déjà validés dans la niche. ⚠️ Reprendre les **rushes** d'un concurrent, en revanche, est à la fois une contrefaçon et un handicap technique — Meta détecte les créatives similaires et les regroupe. Toujours produire son propre matériel.
+
+### De 0 à 5 k/jour — le pilotage du budget
+
+Le palier « 1 k/jour » n'a rien de technique : quand quelque chose prend, on peut monter à 5 k aussi facilement qu'à 1 k. Ce qui bloque est un plafond mental, pas un plafond algorithmique.
+
+**Règles d'augmentation, fondées sur la marge et sur les 3 derniers jours + la veille :**
+
+| Situation | Ajustement |
+|---|---|
+| Marge de 15-20 % | **+20 %** |
+| Marge faible | **+10 %** |
+| Très forte rentabilité | **+30 à 50 %** |
+| Non rentable hier **et** sur 3 jours | **−10 à 20 %** |
+
+Une petite augmentation donne une croissance plus stable ; une grosse augmentation ouvre plus vite de nouvelles audiences, souvent moins qualifiées. Monter trop vite casse le scaling si la production créative ne suit pas — mais quand les résultats sont vraiment forts, il ne faut pas hésiter.
+
+**Timing :** modifier les budgets principalement **entre 00 h et 01 h**, heure du compte publicitaire — c'est le moment où Meta entame un nouveau cycle de distribution et recalcule ses prévisions de dépense. Une seconde augmentation dans la journée est possible si les résultats tiennent.
+
+**Une trajectoire type quand ça prend :** 300 → 500 → 750 → 1 000 → 1 500 → 2 200 → 3 000. On peut aussi dupliquer la campagne 2-3 fois au lancement pour laisser Meta désigner celle qui démarre le mieux, puis ne garder que celle-là.
+
+### De 5 k à 100 k/jour — passer d'une trouvaille à un système
+
+Avant 5 k/jour, on cherche des gagnantes. Après, on transforme ce qui marche en système. **Trois leviers, dans cet ordre strict :**
+
+**1. Corriger les goulots d'étranglement.** Offre trop faible, landing incohérente avec la créative, avatar mal défini, hook qui attire la mauvaise audience, CPA instable malgré un bon CTR. Tant que le goulot est là, ajouter du volume ne fait qu'accélérer la perte.
+
+**2. Faire mieux.** Meilleurs scripts, meilleur angle, meilleure page, meilleur parcours émotionnel.
+
+**3. Faire plus.** Seulement ensuite : plus de créatives, plus d'angles, plus de concepts, plus d'offres et d'advertorials testés.
+
+**La règle dominante à ce stade : protéger ce qui fonctionne.** Le job n'est plus d'innover en permanence mais de nourrir les gagnantes et de ne pas casser le système. Les erreurs classiques : changer la structure du compte chaque jour, refondre le site sans test, modifier le funnel sans mesure.
+
+**Vertical vs horizontal.** Le vertical, c'est augmenter le budget et injecter des créatives dans les campagnes existantes. **L'horizontal est ce qui débloque le vrai volume** : duplication sur d'autres comptes publicitaires, whitelisting d'influenceurs, pages partenaires, nouvelles poches d'audience. Chaque compte a son CPM, sa vitesse et son audience — on scale un écosystème, pas une campagne.
+
+**L'objectif créatif change de nature.** On ne cherche plus des gagnantes mais des créatives capables de porter le compte pendant des mois et d'absorber des centaines de milliers d'euros de budget à elles seules. Une seule créative de ce calibre suffit à faire tenir tout un scaling — et toutes les créatives moyennes viennent alors le soutenir au lieu de le porter.
+
+**La formule de production de gagnantes :**
+
+```
+(Angle × (Avatar × Awareness)) × Concept × Indice de cohérence
+```
+
+- **Angle** — l'univers marketing : la douleur, le désir, la transformation visés. Quand un angle marche, on ne change pas d'univers, **on creuse**.
+- **Avatar × Awareness** — qui on touche **et** à quel niveau de conscience. C'est là que la plupart bloquent leur scaling : ils produisent de nouvelles publicités mais parlent toujours au même niveau de conscience.
+- **Concept** — l'emballage : UGC, VSL, statique, founder, mashup.
+- **Indice de cohérence** — la variable la plus sous-estimée. Deux publicités avec le même script, le même angle et le même avatar peuvent performer de façon opposée selon la **crédibilité émotionnelle de l'ensemble** : qualité du b-roll, netteté de l'avant/après, intensité des expressions, fluidité du montage, intégration des preuves. Même publicité, ROAS différent.
+
+**La méthode : changer une seule variable à la fois.** Angle qui marche → tester un nouveau concept dessus. Concept qui marche → le passer sur tous les angles gagnants. Avatar qui marche → tester de nouveaux angles. Publicité qui marche sans exploser → **augmenter l'indice de cohérence** avant toute autre chose.
+
+Le changement de posture : on ne crée pas de nouvelles publicités, **on optimise une formule**. Chaque gagnante devient une base à partir de laquelle des dizaines d'autres se dérivent.
+
+**La marge relative n'est plus l'objectif — la marge de contribution absolue l'est.** 30 % de marge à 10 k/jour rapporte moins que 15 % à 100 k/jour. ⚠️ Ce raisonnement suppose une trésorerie capable d'absorber le décalage entre la dépense et l'encaissement, et une marge nette réellement positive après TVA et charges (§11) — voir Réserves.
+
+**Et sortir du canal unique.** Les marques qui dépassent le million mensuel ne reposent pas sur une seule source : Meta capte la demande latente et crée l'impulsion, Google capte l'intention existante, YouTube construit la confiance, les marketplaces captent ceux qui n'achètent pas ailleurs, l'email et le SMS monétisent la base. Une seule source de trafic est une vulnérabilité ; un écosystème est de la résilience.
 
 ## 4. Les créatives
 
@@ -698,6 +859,8 @@ Où sourcer : plateformes spécialisées (Youdji, Influee, Backstage, Billo), ma
 Une créative qui a performé contient un actif : **un corps de script validé par le marché.** Le jeter pour repartir de zéro, c'est perdre la seule chose qu'on avait prouvée.
 
 **Le principe :** garder le corps du script, changer le **hook** et les **b-rolls**. Effort minimal, déclinaisons nombreuses.
+
+⚠️ **Correctif Andromeda (§3).** Depuis le regroupement des créatives similaires sous un même Entity ID, changer uniquement la phrase d'accroche sur le même tournage ne produit **aucune diffusion nouvelle** : Meta traite la variante comme la publicité d'origine. Les six variations de hook ci-dessous restent la bonne grille stratégique — elles doivent maintenant s'accompagner d'un changement **visible** : autre format, autre persona, autre décor, autre véhicule narratif. Le script validé reste l'actif ; c'est l'enveloppe qui doit changer.
 
 **Six façons de retravailler le hook :**
 
@@ -1258,7 +1421,7 @@ Le SEO apporte des ventes durables **et** augmente la valeur de revente de la ma
 
 ## Réserves — ce que BOS ne doit PAS reprendre tel quel
 
-Le corps de la méthode est solide. Cinq points sont faux, illégaux ou risqués et doivent être corrigés avant tout usage :
+Le corps de la méthode est solide. Les points ci-dessous sont faux, illégaux ou risqués et doivent être corrigés avant tout usage :
 
 1. **« Retirer la taxe automatique de Shopify » — à ne jamais appliquer.** La source présente la TVA collectée comme un prélèvement de Shopify. C'est faux : Shopify ne prélève pas cette somme, il **calcule et collecte la TVA due à l'État** pour que le marchand la reverse. Désactiver le calcul automatique ne fait pas gagner d'argent — ça crée une dette fiscale, avec pénalités et intérêts, et un risque de redressement qui grandit avec le volume. Un e-commerçant qui vend en UE a des obligations de TVA (dont le guichet OSS au-delà du seuil de 10 000 € de ventes intracommunautaires). Si un entrepreneur invoque ce conseil, le corriger explicitement et l'orienter vers un comptable.
 
@@ -1273,6 +1436,16 @@ Le corps de la méthode est solide. Cinq points sont faux, illégaux ou risqués
 6. **Utiliser la conformité fiscale d'un concurrent comme moyen de pression.** La source recommande de « menacer » les concurrents sur leur TVA et de se servir de celle-ci comme « arme ». À séparer nettement : **faire respecter sa propriété intellectuelle est légitime** — signalement des copies de site, de visuels et de contenus, mise en demeure par un avocat. En revanche, adresser des menaces à un concurrent pour le dissuader d'entrer sur un marché déborde de ce cadre et peut se retourner (concurrence déloyale, dénigrement, voire chantage selon la formulation). La bonne posture : défendre ses assets par les procédures prévues, gagner le marché par l'exécution, et laisser l'administration fiscale faire son travail.
 
 7. **Recréer des comptes de paiement société par société.** La source le mentionne comme solution de repli. À traiter comme un signal d'alarme, pas comme une stratégie : enchaîner les comptes après blocage relève du contournement, et les processeurs relient les entités (dirigeant, IBAN, domaine). La vraie réponse est en amont — SAV réactif, délais tenus, taux de litige bas, croissance progressive sur un compte jeune.
+
+8. **Acheter d'anciennes pages Facebook, « récupérer » des pages, louer des comptes publicitaires.** Une source le présente comme un avantage de départ. La vente et le transfert de comptes et de pages violent les conditions d'utilisation de Meta, et la sanction est la perte de tout l'actif publicitaire — historique, data et trust compris — généralement au moment où il vaut le plus cher. Le bénéfice réel visé (une page qui inspire confiance à l'algorithme) s'obtient légitimement en **chauffant une page neuve** avec du contenu réel pendant une à deux semaines. Sur les comptes agence : utiles à connaître, mais un compte loué chez un intermédiaire qui héberge des annonceurs agressifs peut dégrader les performances, et rien n'y reste à l'entrepreneur. Pour construire une marque revendable, posséder son propre Business Manager est la seule option.
+
+9. **Les pages « magazine », « expert » ou « docteur ».** Diversifier les pages est légitime, et une page éditoriale de marque l'est aussi. Ce qui ne l'est pas : une page qui se présente comme un média indépendant ou un professionnel de santé alors qu'elle est l'annonceur. C'est une pratique trompeuse en droit de la consommation, une usurpation de qualité quand une profession réglementée est invoquée, et une violation des règles d'authenticité des plateformes.
+
+10. **« Oublie ta marge, cherche la marge de contribution absolue. »** Arithmétiquement juste — 15 % à 100 k/jour rapporte plus que 30 % à 10 k/jour — et dangereux sorti de son contexte. Écraser sa marge relative n'est tenable qu'avec une trésorerie capable d'absorber le décalage entre la dépense publicitaire et l'encaissement, et une marge **nette** encore positive après TVA, impôts et charges (§11). Faute de quoi c'est le mécanisme de faillite le plus courant chez les marques qui scalent vite : beaucoup de chiffre d'affaires, plus de cash.
+
+11. **Les allégations produit doivent exister avant d'être écrites.** « Formule brevetée », « testée sur 2 000 personnes », effet promis en 48 heures : un brevet cité doit exister, une étude citée doit exister, un délai annoncé doit être réel. En UE, une allégation non substantiée est une pratique trompeuse, avec des régimes spécifiques sur les cosmétiques, les compléments et tout ce qui touche à la santé. La « compression du temps » est un levier d'offre légitime **uniquement** quand le premier effet est réellement rapide.
+
+12. **« Alternative à une grande marque » n'est pas un blanc-seing.** Vendre un concurrent moins cher est parfaitement légal ; reproduire un design protégé, un brevet ou une marque est une contrefaçon. La vérification se fait avant de sourcer — dépôts de marque, dessins et modèles — pas après la mise en demeure.
 
 **Deux nuances méthodologiques**, moins graves mais à garder en tête :
 

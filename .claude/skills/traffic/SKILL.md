@@ -93,7 +93,7 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 - Allocation budget (test vs scale, règles de couper/scale).
 - Cadre de test créatif (hypothèse → variation → KPI → décision).
 
-**Si e-commerce sur Meta Ads** — méthode détaillée : `Knowledge/Ecom_Meta_Ads_Playbook.md`.
+**Si e-commerce sur Meta Ads** — méthode détaillée : `Knowledge/Ecom_Meta_Ads_Playbook.md`. Lire impérativement §3 « Andromeda et l'Entity ID » avant de conseiller un plan de production créative : depuis cette mise à jour, les variantes visuellement proches sont regroupées par l'algorithme et ne génèrent aucune diffusion nouvelle — un plan qui prévoit « 20 variantes de hook sur le même tournage » est aujourd'hui un plan qui produit une seule publicité.
 
 - **Vérifier la trésorerie AVANT tout.** En dessous d'environ 3 000 € disponibles, ne pas lancer de Meta Ads : en e-commerce on avance le cash (pub, produit, livraison) avant d'encaisser, et un lancement sous-capitalisé échoue sur la trésorerie, pas sur la méthode. Le dire d'emblée et proposer l'alternative (constituer la trésorerie, ou un modèle sans avance de cash) plutôt que de laisser brûler 2 000 €.
 - **Calculer ROAS BE et ROAS Target avant le premier euro dépensé**, sur un COGS et un prix **moyens pondérés** par bundle — jamais sur le bundle 1x seul. Recalcul à 50 ventes, puis toutes les 2 semaines.

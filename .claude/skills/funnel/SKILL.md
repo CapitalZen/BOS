@@ -92,7 +92,9 @@ Pour l'étape retenue :
 
 BOS rédige **2-3 variantes** testables pour **un** changement principal (ex. headline seulement).
 
-**Si e-commerce** — leviers spécifiques et détails dans `Knowledge/Ecom_Meta_Ads_Playbook.md` §6 :
+**Si e-commerce** — avant les leviers ci-dessous, vérifier la **congruence** : `Knowledge/Ecom_Funnel_Architecture.md` §1 et §5. Une page qui ne prolonge pas l'émotion de la créative perd la vente avant tout problème d'UX, et aucune optimisation de bouton ne rattrape une rupture narrative. Le même document couvre l'advertorial (§4) — souvent le levier le plus rentable quand le trafic est froid — et les 7 mécaniques d'offre (§6).
+
+Leviers de conversion et détails dans `Knowledge/Ecom_Meta_Ads_Playbook.md` §6 :
 
 - **L'AOV avant le taux de conversion.** Faire passer un panier de 30 à 60 € double la marge au même coût d'acquisition. Bundles en volume (1+1, 2+1 offert — « offert » déclenche un sentiment de gain plus fort qu'un pourcentage équivalent), cadeau physique ou e-book, seuils de livraison gratuite.
 - **Le panier** : barre de progression vers un avantage, bumps avant paiement, badges de réassurance en haut et sous le bouton. Urgence uniquement si elle est réelle — une fausse rareté est une pratique trompeuse et le premier motif de litiges.

@@ -52,6 +52,18 @@ L'énergie est un actif business, pas un sujet de confort. Le protocole est opti
 - **Recharge** — 2 jours vraiment off par week-end ; 7 à 10 jours off par trimestre. Off veut dire zéro business.
 - **Vie sociale** — amis 1-2×/semaine, famille 2-4×/mois. Ce n'est pas du temps perdu, c'est ce qui rend la durée tenable.
 
+### Le rythme : une suite de sprints, pas une allure constante
+
+Ce protocole décrit un état de forme. Il ne dit pas à quel rythme travailler — et sur ce point, l'intuition du « rythme régulier soutenable » est trompeuse.
+
+**Ce qui produit les percées, ce sont les sprints.** Une période courte, à intensité maximale, sur un objectif unique. Puis une récupération réelle, pendant laquelle on apprend et on analyse. Puis un nouveau sprint. Sans les sprints, rien ne perce ; sans les pauses, on se grille et le sprint suivant n'a plus d'intensité.
+
+**Pourquoi ça marche mieux qu'une allure constante :** la motivation est par nature irrégulière — construire un système qui suppose une énergie stable revient à construire sur une variable instable. Le cycle sprint/récupération, lui, ne dépend pas de l'envie du jour : on sprinte parce que c'est la phase de sprint, on récupère parce que c'est la phase de récupération.
+
+**La condition non négociable : sprinter sur la bonne piste.** Un sprint sur une action à faible levier coûte plus cher qu'une allure lente sur la bonne — d'où l'ordre 80/20 (§9) et le focus sur une étape à la fois.
+
+**Articulation avec l'horizon long** (voir `CLAUDE.md`, principe « marathon, pas roulette ») : le rythme est fait de sprints, **l'horizon reste long**. Ce sont deux échelles différentes — l'une décrit comment on travaille une semaine, l'autre décrit ce qu'on construit sur deux ans. Les confondre produit soit un épuisement (sprinter en permanence), soit une stagnation (avancer sans jamais percer).
+
 ## 4. Étape 2 — Optimiser le focus
 
 - **Flow** : blocs planifiés de 2 à 3 h de deep work.
