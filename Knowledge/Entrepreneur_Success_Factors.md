@@ -88,6 +88,27 @@ Repère concret : **99 % des 5 M$ ont été gagnés sur les 2-3 dernières anné
 
 **Usage BOS :** c'est le recadrage à sortir quand un entrepreneur juge son business sur 3 mois de résultats plats. Pas pour l'encourager à s'entêter aveuglément — la matrice PMF sert à vérifier qu'il travaille sur la bonne chose — mais pour distinguer *« ma stratégie est mauvaise »* de *« je suis dans la partie plate de la courbe »*. Les deux se ressemblent de l'intérieur ; ce ne sont pas les mêmes réponses.
 
+## 6 bis. Les 5 phases du parcours — situer l'entrepreneur émotionnellement
+
+Le §6 décrit la courbe des résultats. Celle-ci décrit **le parcours vécu**, qui ne suit pas la même chronologie. Les deux sont nécessaires : on peut être structurellement en phase PMF et émotionnellement dans la traversée du désert, et c'est le second qui détermine si la personne va continuer.
+
+Chaque phase a un ressenti, un risque propre, et **une mauvaise réponse classique** — celle que l'entourage, les tutoriels et souvent l'entrepreneur lui-même appliquent par réflexe.
+
+| Phase | Ce qui se passe | Le vrai risque | La mauvaise réponse | Ce que BOS fait |
+|---|---|---|---|---|
+| **1. L'excitation** | Tout est neuf, la motivation est maximale, la première boutique se monte vite | L'énergie initiale ne dure jamais — et elle est confondue avec de la capacité | Construire sur l'élan, sans structure ni ordre de travail | Convertir l'élan en séquence : une étape à la fois, dans l'ordre des leviers |
+| **2. La traversée du désert** | Les premiers tests ne convertissent pas, l'argent part, l'entourage doute, l'entrepreneur doute | **C'est ici que la grande majorité arrête** — souvent juste avant que ça bascule | « L'e-com c'est mort, c'est trop tard, c'est pas pour moi » | Normaliser (tout le monde y passe), puis **distinguer** partie plate de la courbe et stratégie fausse — voir §6 |
+| **3. Le déclic** | La compréhension bascule : le problème n'était ni le produit ni le marché, **c'était l'approche** | Passe inaperçu si l'entrepreneur a arrêté en phase 2 | Continuer à deviner au lieu d'analyser | Accélérer le déclic — c'est exactement ce que BOS fait : lire les métriques, comprendre le persona, arrêter de deviner |
+| **4. Les premiers vrais résultats** | Le business tourne, et de nouvelles galères apparaissent : SAV qui déborde, stock, comptes bloqués | **Scaler est un métier différent de tester.** Ce qui a amené jusqu'ici ne suffit plus | Appliquer les réflexes de la phase 3 à un problème de phase 4 | Basculer de posture : ce n'est plus de l'acquisition, c'est de l'opérationnel (`digestion`) |
+| **5. La machine** | Process solides, délégation, écosystème créatif, backend, vision longue | La complaisance, et l'arrêt de l'apprentissage une fois les résultats obtenus | Chercher encore « le produit winner » alors que le levier est ailleurs | Construire de la valeur d'actif : marque, récurrence, indépendance vis-à-vis d'un canal |
+
+**Le point qui change la façon de traiter la phase 2 :** ce n'est pas une phase d'échec, c'est le tarif d'entrée. Tout le monde la traverse, y compris ceux qu'on admire. **La seule variable réelle est le temps passé à en sortir** — quelques mois pour certains, des années pour d'autres — et ce temps dépend de la qualité de l'analyse, pas de la chance.
+
+**Usage BOS :**
+- **Situer avant de prescrire.** Un plan d'action correct donné à quelqu'un en phase 2 sans traiter le doute ne sera pas exécuté. Traiter l'émotion d'abord (protocole de session §12).
+- **Ne jamais dire à quelqu'un en phase 2 que ce serait plus simple avec plus de budget ou un meilleur produit.** C'est presque toujours faux, et ça déplace la cause hors de sa portée — donc ça démobilise.
+- **Anticiper la phase 4.** Prévenir qu'un changement de métier arrive au moment des premiers résultats évite de le vivre comme un échec quand il arrive.
+
 ## 7. La théorie des 3 monnaies — arbitrer ses ressources
 
 Un entrepreneur ne possède que trois ressources. Tout le reste s'achète avec :

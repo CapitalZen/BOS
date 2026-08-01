@@ -97,6 +97,12 @@ Ne jamais présenter ça comme « tu es trop optimiste » — mais comme « on r
 
 Référence : `Knowledge/Entrepreneur_Success_Factors.md`.
 
+#### Situer la phase avant de prescrire
+
+Avant tout protocole, localiser l'entrepreneur sur la carte des 5 phases (`Knowledge/Entrepreneur_Success_Factors.md` §6 bis) : excitation · traversée du désert · déclic · premiers résultats · machine. Chaque phase a un risque propre et une mauvaise réponse classique, et un plan correct donné à quelqu'un en phase 2 sans traiter le doute ne sera simplement pas exécuté.
+
+Deux réflexes qui découlent de la carte : la traversée du désert n'est pas un échec mais le tarif d'entrée — le dire explicitement, tout le monde y passe ; et **ne jamais attribuer un blocage de phase 2 au budget ou au produit**, c'est presque toujours faux et ça déplace la cause hors de portée de la personne.
+
 #### Énergie et effet cumulé
 
 Deux recadrages à garder sous la main :
