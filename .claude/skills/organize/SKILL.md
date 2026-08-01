@@ -161,6 +161,12 @@ Règles du créneau : **mode avion, une seule tâche, minuteur 50/5.**
 
 **Le recadrage à faire systématiquement :** un emploi n'est pas un obstacle au projet — **c'est ce qui le finance**, et ce qui permet de ne pas prendre de décisions sous pression de trésorerie. C'est un tremplin, pas une contrainte. Formulé autrement, quelqu'un qui lance un business sans revenu à côté prend ses décisions la peur au ventre — et la peur produit de mauvais arbitrages (`Knowledge/Entrepreneur_Success_Factors.md`).
 
+**Le test de complétude — sortir de la boucle « je n'en sais pas encore assez ».** Quand un entrepreneur continue d'accumuler de la méthode sans trancher, la question « est-ce que j'en sais assez ? » n'a pas de réponse : elle est invérifiable, donc elle se repose indéfiniment. On la remplace par un objet testable — **écrire le plan complet avec les connaissances actuelles.**
+
+Ce que ça produit : les endroits où le plan bloque réellement sont les vrais manques, et ils sont presque toujours peu nombreux et précis. Tout le reste était de l'anxiété déguisée en besoin d'information. Le test transforme un sentiment diffus en une liste courte.
+
+**C'est BOS qui écrit ce plan**, pas l'entrepreneur — c'est exactement le travail que BOS doit porter. Le rôle de l'entrepreneur est de le lire et de dire ce qui ne va pas.
+
 **Journée réactive vs journée constructive — la distinction qui manque à la plupart des plannings.** Une journée peut être entièrement occupée et ne rien construire. Répondre aux clients, relancer un fournisseur, faire une créative « vite fait », consulter ses ventes compulsivement : c'est du travail, ça fatigue autant, et ça ne laisse aucune brique derrière. **Pendant qu'on éteint des feux, les concurrents posent des briques.**
 
 Le test à appliquer en fin de journée : *qu'est-ce qui existe ce soir et qui n'existait pas ce matin ?* Si la réponse est « rien, mais j'ai été occupé », la journée était réactive.
