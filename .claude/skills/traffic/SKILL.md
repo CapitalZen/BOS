@@ -95,6 +95,24 @@ Appliquer les best practices du canal choisi. Ci-dessous : méthodologie complè
 
 **Si e-commerce sur Meta Ads** — méthode détaillée : `Knowledge/Ecom_Meta_Ads_Playbook.md`. Lire impérativement §3 « Andromeda et l'Entity ID » avant de conseiller un plan de production créative : depuis cette mise à jour, les variantes visuellement proches sont regroupées par l'algorithme et ne génèrent aucune diffusion nouvelle — un plan qui prévoit « 20 variantes de hook sur le même tournage » est aujourd'hui un plan qui produit une seule publicité.
 
+**Si le canal = Google Ads — vérifier la rentabilité avant de dépenser un euro.** C'est la différence structurelle avec Meta : sur la recherche, le coût par clic d'un mot-clé est connu **avant** le lancement (Planificateur de mots-clés, gratuit) — contrairement à Meta où le coût ne se révèle qu'en dépensant. Cette donnée permet un calcul de faisabilité en amont, que 90 % des débutants sautent :
+
+```
+CPC moyen × visiteurs nécessaires pour 1 vente < marge par vente → test viable
+CPC moyen × visiteurs nécessaires pour 1 vente > marge par vente → test condamné avant même de commencer
+```
+
+**Comment l'appliquer :**
+1. **CPC moyen** — Planificateur de mots-clés Google Ads, moyenne entre l'enchère haute et basse affichées pour le mot-clé visé.
+2. **Taux de conversion, converti en visiteurs nécessaires pour une vente** — jamais en pourcentage brut, source d'erreur de calcul. Boutique sans historique : partir de **0,5 %, soit 200 visiteurs pour une vente** (hypothèse pessimiste, volontairement). Avec un peu d'historique : 1 % (100 visiteurs), jamais plus haut pour un test. Boutique déjà active : utiliser le taux réel mesuré.
+3. **Coût d'acquisition théorique = CPC moyen × visiteurs nécessaires.** Comparer à la marge par vente (pas au prix de vente).
+
+*Exemple :* CPC à 0,50 € × 200 visiteurs = 100 € de coût d'acquisition théorique. Marge à 30 € → test mort avant de dépenser un centime. Marge à 120 € → viable.
+
+**Ce que ça évite :** lancer un test à l'aveugle et couper au bout de 48 h sans avoir compris pourquoi ça ne marchait pas — alors que le calcul, fait en 2 minutes avec une donnée gratuite, l'aurait annoncé avant la dépense.
+
+⚠️ **Le résultat n'autorise pas à gonfler artificiellement le prix pour faire rentrer l'équation.** Un prix décorrélé de la valeur perçue casse le taux de conversion, ce qui aggrave le calcul au lieu de le corriger. Les deux vrais leviers sont la marge (négociation COGS, offre, AOV — `Ecom_Meta_Ads_Playbook.md` §2 et §6) et le taux de conversion réel (CRO, §6) — jamais le prix isolément.
+
 - **Vérifier la trésorerie AVANT tout.** En dessous d'environ 3 000 € disponibles, ne pas lancer de Meta Ads : en e-commerce on avance le cash (pub, produit, livraison) avant d'encaisser, et un lancement sous-capitalisé échoue sur la trésorerie, pas sur la méthode. Le dire d'emblée et proposer l'alternative (constituer la trésorerie, ou un modèle sans avance de cash) plutôt que de laisser brûler 2 000 €.
 - **Calculer ROAS BE et ROAS Target avant le premier euro dépensé**, sur un COGS et un prix **moyens pondérés** par bundle — jamais sur le bundle 1x seul. Recalcul à 50 ventes, puis toutes les 2 semaines.
 - **Setup de testing** : CBO, 100 €/jour, 1 adset broad, objectif ACHAT, 10-15 créatives.
