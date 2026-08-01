@@ -973,14 +973,30 @@ Procédure complète du questionnaire : `Knowledge/Customer_Research_SOP.md`.
 
 ### Les 3i — inspiration, itération, idéation
 
-Le curseur bouge avec la maturité du compte :
+Trois piliers complémentaires, à faire tourner **en permanence et simultanément** — pas l'un après l'autre, et jamais un seul en continu. L'erreur la plus commune n'est pas de mal doser, c'est de s'enfermer dans une seule phase : l'idéateur pur réinvente la roue sans fin, l'imitateur pur ne sort jamais de l'ombre de ses concurrents, l'itérateur pur exploite ses gagnantes jusqu'à l'essoufflement sans jamais en trouver de nouvelles.
 
-| Stade | Répartition | Ce qu'on fait |
-|---|---|---|
-| **Début** | Inspiration : reprendre ce qui fonctionne déjà (le top 1 % visible, celui qui a de l'engagement et des impressions) | Puis **~70 % idéation / 30 % itération** — on cherche ses formats, ses concepts, ses angles, ses visuels |
-| **Maturité** | **~70 % itération / 30 % idéation** | On connaît le produit et ses audiences, on décline ce qui marche — sans jamais couper l'idéation, car une nouvelle poche d'audience est ce qui permet de scaler plus haut ou de stabiliser à gros budget |
+**1. Inspiration — les concurrents financent le testing.** Chaque concurrent qui dépense chaque jour sur des angles, formats et avatars produit de la donnée gratuite dès qu'une de ses créatives scale visiblement. *(Rappel : on reprend la structure — hook, angle, rythme, argument — jamais les fichiers d'autrui, cf. Réserves.)* Une variante utile : laisser les concurrents éduquer le haut et le milieu de funnel avec leur propre budget, et concentrer son propre volume sur le bas de funnel — récupérer la demande qu'ils ont créée plutôt que de payer soi-même pour la créer.
 
-**Même logique de survivant que pour les funnels :** les publicités visibles avec de l'engagement sont celles qui ont survécu. Des milliers n'ont jamais dépassé 300 € de dépense et ont disparu. Commencer par s'inspirer du top 1 %, puis faire des mashups de ces gagnantes pour tester plus fort. *(Rappel : on reprend la structure — hook, angle, rythme, argument — pas les fichiers d'autrui, cf. Réserves.)*
+**2. Itération — la phase la plus souvent sautée, et la plus rentable.**
+
+Seuil avant de considérer une créative comme validée : **au moins 1 000 € de dépense avec un bon ROAS.** En dessous, c'est du bruit statistique, pas un signal — le même principe qui interdit de juger un A/B test sous le volume minimum (§6, phase 7 du skill `funnel`).
+
+Deux types d'itération, à ne pas confondre :
+- **L'isolation** — on change une seule variable, on mesure l'effet, on apprend. Réservée aux grosses gagnantes déjà validées.
+- **Les big swings** — on change beaucoup d'éléments en gardant l'ADN qui a fait gagner la créative d'origine. Réservés au début d'une marque, pour explorer large avant d'avoir assez de données pour isoler finement.
+
+**L'ordre d'impact de l'isolation, du plus déterminant au moins déterminant :** hook (l'écart le plus important, rien à voir avec le reste) → footage/b-rolls → angle marketing (garder la structure et les rushes pertinents, changer l'angle) → avatar (⚠️ ne changer d'ethnie ou de profil que si le TAM est assez large pour justifier l'effort de production) → format (mashup, short form, VSL, statique — l'impact peut être énorme) → corps du script (doit rester cohérent avec le hook) → CTA, en dernier. Changer une variable à la fois en général ; deux ou trois si la cohérence l'exige.
+
+**3. Idéation — de la nouveauté, jamais déconnectée du marché.** Le win rate y est plus faible que sur l'inspiration ou l'itération, mais le retour est disproportionné quand ça marche : une créative d'idéation qui gagne ouvre une audience entière sur laquelle personne d'autre n'est positionné. À activer quand trois conditions sont réunies : du budget de test disponible, une base de données déjà constituée (interne et externe, `Customer_Research_SOP.md`), et l'acceptation explicite d'un taux d'échec plus élevé en échange d'un gain plus rare mais plus large.
+
+**Veille cross-niche, spécifique à l'idéation :** regarder les meilleures marques hors de sa niche pour repérer une structure, un concept ou un style de copywriting qui n'existe pas encore chez soi. Être le premier à l'importer sur son marché est un des leviers les plus puissants de différenciation — voir aussi `Customer_Research_SOP.md` Étape 1.
+
+**Comment doser les trois — trois facteurs, pas une règle fixe :**
+- **La densité concurrentielle.** Peu de concurrents → peu de matière à inspiration, plus d'itération et d'idéation par nécessité. Beaucoup de concurrents actifs → l'inspiration devient une machine à donnée gratuite, ce qui accélère l'itération sur toutes les poches d'audience qu'ils ont déjà validées.
+- **Le produit lui-même** — certains produits offrent naturellement plus d'angles et de concepts que d'autres.
+- **La maturité du compte** — au démarrage, inspiration d'abord puis **~70 % idéation / 30 % itération** (on cherche encore ses formats et ses angles) ; à maturité, **~70 % itération / 30 % idéation** (le produit et ses audiences sont connus, on décline ce qui marche sans jamais couper l'idéation — une nouvelle poche d'audience reste ce qui permet de scaler plus haut).
+
+**Même logique de survivant que pour les funnels :** les publicités visibles avec de l'engagement sont celles qui ont survécu. Des milliers n'ont jamais dépassé 300 € de dépense et ont disparu sans laisser de trace.
 
 **Quand la traction arrive (break-even ou rentable), les créatives deviennent le plus gros levier du business.**
 
