@@ -276,6 +276,24 @@ On ne cherche pas un produit à copier : on cherche **des patterns, des tendance
 - **La cartographie du marché** — concurrents directs, gros acteurs, nouveaux entrants, angles déjà saturés, espaces libres
 - **La demande globale** — courbe de tendance sur les mots-clés du produit (en hausse, stable, en chute), plus les requêtes associées et la répartition géographique, qui donnent des angles et des marchés
 
+### Le teardown complet : devenir client de son concurrent
+
+L'analyse du site et des publicités ne montre que la vitrine. **Tout ce qui fait réellement la marge d'une boutique est invisible de l'extérieur** — et accessible pour le prix d'une commande.
+
+| Action | Ce que ça révèle — et qu'on ne peut voir autrement |
+|---|---|
+| **Bibliothèque publicitaire** | Les publicités sur lesquelles ils dépensent le plus, leurs hooks, leur façon de présenter le produit, leurs angles par marché |
+| **Ajouter au panier puis abandonner** | **Toute la séquence de relance** : nombre d'emails, délais, montée en réduction, ton employé. C'est leur backend, offert |
+| **Passer commande** | Les **upsells post-achat**, les emails de confirmation et d'expédition, la carte glissée dans le colis, le packaging, la demande d'avis, la séquence de réachat — c'est-à-dire **toute leur stratégie de LTV** |
+| **S'inscrire à la newsletter** | Leur rythme d'envoi, leurs angles saisonniers, leurs offres réservées |
+| **Contacter le SAV** | Leur délai de réponse, leur ton, leur politique de geste commercial |
+
+**Le rapport coût/information est imbattable :** une commande à quelques dizaines d'euros donne accès à des mois de travail d'optimisation d'une boutique qui scale. C'est **l'investissement le plus rentable de toute la phase de recherche**, et l'un des rares que la contrainte budgétaire ne bloque pas.
+
+> Toute l'information nécessaire pour réussir est publique. Ce qui manque à la plupart des gens, ce n'est pas l'accès — c'est la discipline d'aller la chercher méthodiquement.
+
+**Ce que BOS en fait :** tu me transmets les emails reçus, les captures du tunnel, la description du colis — je reconstitue leur architecture complète (séquences, offres, ancrages, angles) et j'en déduis ce que tu dois reprendre, ce que tu dois faire mieux, et où est le trou qu'ils n'ont pas comblé.
+
 **Les 5 critères de validation finale :**
 
 | # | Critère | Seuil |
