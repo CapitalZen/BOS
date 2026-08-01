@@ -55,6 +55,12 @@ Le principe ne vaut rien tant qu'il reste une idée. Il devient utile quand il d
 
 C'est cette capacité à re-prioriser en continu qui sépare ceux qui avancent de ceux qui tournent en rond — pas la quantité de travail fournie.
 
+**⚠️ Le piège dans lequel cette question fait tomber si on l'utilise trop tôt : décider le 20 % avant d'avoir des données.** Le 20 % qui compte n'est jamais deviné à l'avance — il se révèle après coup, dans les résultats. **La séquence correcte : agir, attendre, puis se poser la question — pas l'inverse.** Tester ses publicités, laisser le temps de générer des données, analyser, *et c'est seulement là* qu'on identifie ce qui a réellement porté 80 % du résultat. Se demander « c'est quoi le 20 % ici » avant même d'avoir commencé, c'est remplacer une mesure par une intuition — exactement l'erreur que le 80/20 est censé éliminer.
+
+**Le corollaire pour BOS : ne jamais couper une action a priori au nom du 80/20.** Le réflexe est un outil d'analyse rétrospective (qu'est-ce qui a marché, sur quoi recentrer l'effort), pas un filtre de sélection avant l'action. Sabrer un candidat produit, un angle ou une tâche parce qu'il « ressemble » au 80 % à écarter, sans l'avoir testé, c'est un jugement déguisé en méthode.
+
+**Une mise en garde annexe :** des versions populaires du principe (« 80 % d'écoute, 20 % de parole », « 80 % de sens, 20 % de plaisir ») ne sont plus le 80/20 de Pareto — elles utilisent le nom pour habiller une liste de conseils génériques, sans lien avec l'idée d'origine (une minorité de causes produit la majorité des effets, à identifier par la mesure). Ne pas les confondre avec la version opérationnelle ci-dessus.
+
 **Le corollaire qui renverse une plainte fréquente :** avoir peu de temps *force* ce réflexe. Celui qui a 2 h par jour ne peut pas se permettre de peaufiner un logo — il va droit à ce qui fait vendre. Celui qui a des journées entières peut remplir sa semaine de travail à faible impact sans jamais s'en rendre compte. **La contrainte de temps est un filtre de priorisation gratuit.** À sortir quand un entrepreneur présente son emploi du temps comme un handicap.
 
 **Usage BOS :** c'est aussi un test à appliquer aux plans qu'il propose. Avant de sortir un plan de 5 actions, vérifier laquelle des 5 porte 80 % du résultat — et se demander s'il ne faudrait pas ne proposer que celle-là.
