@@ -110,6 +110,23 @@ Le même produit exige un message radicalement différent selon l'état du prosp
 
 **Sophistication** — combien d'offres similaires le marché a déjà vues. *(Version complète des cinq stades et de leurs réponses respectives : `Knowledge/Schwartz_Breakthrough_Advertising.md`.)* Marché neuf : une promesse simple suffit. Marché saturé : il faut un **mécanisme unique** (le « comment » nouveau), puis une identité.
 
+### Entrer par le persona le plus étroit, puis élargir
+
+Le mécanisme le plus rentable sur un marché saturé, et celui que les débutants inversent systématiquement.
+
+**On ne s'adresse jamais au marché entier au lancement.** On choisit le segment le plus étroit possible — pas parce qu'il est gros, mais parce que la reconnaissance y est maximale.
+
+*Exemple :* un complément anti-stress vendu « aux gens stressés » ne parle à personne. Le même produit, dans une publicité qui décrit **une femme de trente ans épuisée après son premier enfant**, produit chez cette personne une réaction d'un ordre différent : elle ne lit pas une publicité, elle se reconnaît. La probabilité d'achat n'augmente pas un peu — elle change de nature.
+
+**Pourquoi ça marche, mécaniquement :**
+- **La spécificité produit la reconnaissance.** Un message général est reçu comme « ça pourrait être pour moi » ; un message précis est reçu comme « c'est moi ». Seul le second déclenche l'attention.
+- **C'est le rôle même du titre selon Schwartz** — il ne vend pas, il **sélectionne**. Un message qui plaît à tout le monde ne convertit personne.
+- **Sur un marché saturé, l'étroitesse est la seule différenciation gratuite.** On ne peut pas battre un concurrent installé sur le produit ni sur le budget ; on peut le battre sur un segment qu'il ne nomme pas.
+
+**Puis on élargit — dans cet ordre :** segment initial validé → segments voisins (autre âge, autre situation, autre déclencheur) → message plus général. Jamais l'inverse.
+
+**Le lien avec la matrice précédente :** élargir, c'est remonter vers les niveaux de conscience amont. On commence par les gens qui se reconnaissent immédiatement (conscients du problème, dans leur situation exacte), puis on va chercher ceux qui n'avaient pas encore nommé leur problème.
+
 **Règle de scale :** scaler, c'est faire acheter des gens de moins en moins conscients. Donc élargir le message vers les stades de conscience amont, un angle et une landing page par stade — jamais diluer le cœur PMF.
 
 ## 6. Construire une offre « cold-friendly » — 6 étapes
