@@ -1383,6 +1383,28 @@ On n'y va pas pour acheter, on y va pour **savoir**. Sans référence de prix, o
 
 C'est à ce stade que le sourcing devient un avantage compétitif réel — et ce qui transforme une boutique qui tourne en business qui dure.
 
+### Sourcer directement sur 1688 et Alibaba — un savoir-faire qui dépasse l'agent
+
+Ce que fait un agent quand on lui demande un produit : il va chercher sur ces mêmes plateformes. Savoir le faire soi-même sert à deux choses — se constituer la base de négociation déjà mentionnée, et à terme juger si l'agent apporte une vraie valeur ou se contente de relayer.
+
+**1688 plutôt qu'Alibaba pour aller à la source.** Alibaba est tourné vers l'international ; 1688 est la plateforme que les agents chinois eux-mêmes utilisent en interne, avec davantage d'usines référencées. **AliExpress n'est pas un outil de sourcing** — uniquement des revendeurs, à des prix majorés, sans accès à l'usine réelle.
+
+**Distinguer une usine (manufacturer) d'une trading company.** Une trading company revend le catalogue de plusieurs usines partenaires en se présentant comme fabricant — marge incluse dans le prix, donc généralement plus cher pour un contrôle qualité moindre. Le signal le plus fiable : **la cohérence du catalogue**. Une usine de crèmes ne produit pas aussi des chaises de bureau ; un catalogue hétéroclite trahit un intermédiaire plutôt qu'un fabricant.
+
+**Rechercher par image avant de chercher par mot-clé.** La recherche visuelle (uploader une photo du produit ou d'un équivalent) est plus fiable qu'une recherche textuelle, a fortiori en chinois. Si rien ne correspond exactement, contacter les usines qui produisent un article proche et leur demander si elles font le produit visé ou connaissent un partenaire de leur réseau qui le fait — beaucoup d'usines ne mettent pas tout leur catalogue en ligne.
+
+**Les signaux de sérieux d'une fiche usine, avant même le premier message :** photos réelles du produit, du packaging et du site de production (pas des visuels stock) · dimensions et matériaux précisés · certifications d'usine (BSCI, ISO, Sedex) · certifications produit selon la catégorie (FDA, RoHS, CE, CPNP). ⚠️ **Ne jamais commander avant d'avoir reçu ces certifications en main** — un fournisseur qui pousse à commander sans les fournir, même en affirmant que « c'est la procédure habituelle », est un signal d'alarme à traiter comme tel.
+
+**Le badge « Gold Supplier » sur 1688** certifie une capacité de production, une chaîne logistique intégrée et un service pensé pour l'international — un statut payant pour l'usine (de l'ordre de plusieurs dizaines de milliers de RMB par an), donc un signal de sérieux réel mais **pas une garantie** : la qualité des échanges et du produit reste à vérifier indépendamment.
+
+**Ce qu'une bonne communication doit produire, sans zone floue :** un prix clair, le MOQ (quantité minimale de commande), le coût d'un échantillon, la matière — le tout cohérent et donné sans détour. Une réponse vague ou évasive sur l'un de ces points vaut pour tout le reste de la relation.
+
+**Les RFQ (Request For Quotation) sur Alibaba** inversent la démarche : on publie ce qu'on cherche, les fournisseurs démarchent. Les fournisseurs ont un quota mensuel de réponses aux RFQ — ils choisissent donc à qui répondre. **Un message professionnel, structuré, qui montre un projet de marque sérieux et l'intention de construire une relation durable** obtient nettement plus de réponses qu'une demande générique : se présenter comme responsable d'une marque en croissance qui cherche un partenaire de confiance, pas comme un acheteur ponctuel.
+
+**L'échantillon, l'étape qu'on saute par manque de trésorerie et qu'il ne faut sauter qu'en connaissance de cause.** Un échantillon décevant à quelques centaines d'euros coûte infiniment moins qu'un stock de plusieurs milliers d'euros invendable ou des centaines de clients déçus. Il teste en une seule fois la réactivité du fournisseur, la qualité réelle (pas celle du catalogue), le soin du packaging et les délais réels d'expédition — c'est le seul moyen de vérifier avant de s'engager sur un volume.
+
+**La proximité géographique entre l'usine et l'agent ou le 3PL** joue directement sur les délais et la flexibilité du contrôle qualité, et facilite une visite terrain si elle devient nécessaire — un critère à regarder au moment de choisir entre deux usines équivalentes sur le papier.
+
 ## 8. Le back-end — ce qui décide si on garde l'argent gagné
 
 Six briques, souvent traitées comme de l'intendance alors qu'elles pèsent directement sur la marge :
