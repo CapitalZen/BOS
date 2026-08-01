@@ -1332,6 +1332,58 @@ Le dernier est celui qu'on oublie et qui rapporte : un client dont le problème 
 
 **BOS écrit ces modèles adaptés à la marque et au ton** — c'est une heure de travail qui sert des années.
 
+### Le NPS — la métrique qui montre ce que le ROAS ne voit pas
+
+Un bon ROAS peut masquer un produit qui déçoit. Un bon CA peut masquer un Trustpilot qui se dégrade. Une bonne marge peut masquer des clients qui ne reviennent jamais. Ces métriques mesurent l'acquisition ; **le NPS mesure si le business mérite d'exister sur la durée.**
+
+**La question, une seule, envoyée après achat :** « Sur une échelle de 0 à 10, quelle est la probabilité que vous recommandiez notre marque à un proche ? » Trois catégories :
+
+| Score | Catégorie | Ce qu'ils représentent |
+|---|---|---|
+| 0-6 | **Détracteurs** | Déçus — futur avis négatif, ticket SAV, ou silence qui coûte le bouche-à-oreille |
+| 7-8 | **Passifs** | Ni mécontents ni convaincus — la plus grosse zone de gain, souvent ignorée |
+| 9-10 | **Promoteurs** | Rachètent, recommandent, deviennent actif marketing gratuit |
+
+**NPS = % promoteurs − % détracteurs.** 70 % promoteurs, 20 % passifs, 10 % détracteurs → NPS de 60.
+
+**Pourquoi c'est plus prédictif qu'une note moyenne :** la note mesure la satisfaction du moment, le NPS mesure la propension à recommander — donc le coût d'acquisition futur. Une marque bien recommandée convertit mieux, se défend mieux contre la concurrence et dépend moins des publicités payantes. Un mauvais NPS avec un bon ROAS n'est pas une contradiction : c'est une dette qui n'est pas encore arrivée à échéance — chaque client déçu devient plus tard un avis négatif, un ticket, ou simplement une vente de moins qu'on ne verra jamais.
+
+**Le point aveugle le plus fréquent : négliger les passifs.** Ils ne se plaignent pas, donc rien n'alerte sur eux — mais transformer un passif en promoteur est souvent moins coûteux que d'acquérir un client neuf, et c'est là que se joue la croissance de long terme la plus sous-exploitée.
+
+### Trustpilot — un actif de conversion, pas une note
+
+Avant d'acheter chez une marque inconnue, une part du trafic tape *"[marque] + avis"*. Ce qu'il trouve à cet instant pèse autant qu'une partie de la page produit elle-même — c'est une extension du funnel, pas un canal séparé.
+
+**Ce qui fait une bonne page, au-delà de la moyenne :** le volume d'avis, leur fraîcheur, un taux de réponse élevé, des réponses aux avis négatifs qui montrent une marque qui écoute, une description de l'entreprise qui porte la même promesse que le site et les publicités. **La cohérence compte plus que la note seule** — une page à 4,2 avec des réponses soignées et récentes rassure plus qu'une page à 4,6 laissée à l'abandon.
+
+⚠️ **La limite à ne jamais franchir :** optimiser la collecte d'avis n'améliore rien si l'expérience réelle ne suit pas. Rediriger sélectivement les clients satisfaits vers la page publique est légitime (voir flux ci-dessous) ; mais si le NPS interne reste mauvais pendant que la note publique monte, c'est la vitrine qui s'améliore, pas le business — et l'écart finit toujours par se payer.
+
+### Le SAV comme capteur, pas seulement comme guichet
+
+Le SAV ferme des tickets. Sa vraie valeur est ailleurs : **c'est l'endroit où les problèmes du business remontent sous leur forme la plus brute, avant qu'ils n'apparaissent en avis publics.** Le traiter comme un centre de coût à minimiser fait perdre l'information la plus utile qu'on ait sur soi-même.
+
+**Le réflexe de routage à installer :** un volume de plaintes n'est presque jamais un problème de SAV — c'est un problème d'ailleurs, révélé par le SAV.
+
+| Signal agrégé | Vrai sujet |
+|---|---|
+| Beaucoup de tickets sur la taille | Produit, ou guide des tailles |
+| Beaucoup de « où est ma commande » | Tracking ou communication post-achat |
+| Beaucoup de confusion sur les retours | UX, FAQ, ou copywriting de la politique |
+
+**Ce qu'on mesure, presque comme un compte publicitaire :** temps de première réponse, temps de résolution, taux de satisfaction post-ticket, motifs de contact, tickets par commande, taux de remboursement, taux d'échange, évolution par produit et par transporteur. **Chaque semaine, une question simple doit avoir une réponse : quels sont les 3 problèmes les plus fréquents, pourquoi ils arrivent, et quelle action est en place pour les réduire ?** Sans cette lecture régulière, le SAV absorbe la friction au lieu de la faire remonter — et le même problème continue de coûter, silencieusement, mois après mois.
+
+### Faire évoluer le produit sans se mentir sur ce qui a marché
+
+Un produit correct se vend avec du bon marketing ; il ne construit pas une marque — c'est le marketing qui rachète, jamais le produit. Une marque se construit quand les clients rachètent, recommandent et défendent le produit spontanément.
+
+**La règle de méthode, stricte :** ne jamais changer plusieurs variables du produit en même temps (matière, coupe, longueur, finition…). Si trois éléments changent ensemble et que le NPS bouge, impossible de savoir lequel a produit l'effet — la version suivante se construit sur une hypothèse fausse. **Une variable à la fois, mesurée sur le NPS et les verbatims, avant la suivante.** C'est la même discipline qu'un A/B test de page (`funnel` §7, une hypothèse à la fois) appliquée au produit physique — la logique ne change pas, seul l'objet testé change.
+
+### La boucle complète
+
+Commande → réception → avis sollicité → **si la note est mauvaise ou moyenne : le feedback est récupéré en interne, jamais laissé filer en avis public sans traitement** → ticket créé si nécessaire → analyse et action → **si la note est bonne : redirection vers la page publique**. Le NPS s'améliore, Trustpilot s'améliore, la confiance augmente, la conversion augmente, le cycle recommence.
+
+**Ce que ça demande sans outil dédié :** un tableur suffit tant que le volume est faible — question NPS + « pourquoi cette note ? » + catégorisation manuelle (produit, taille, matière, livraison, tracking, SAV, retours, packaging, promesse). Un outil de collecte automatisée (email/SMS/WhatsApp post-achat, calcul du NPS, catégorisation) devient nécessaire dès que le volume dépasse ce qu'une lecture manuelle hebdomadaire peut absorber — pas avant.
+
 ### Les points de rupture uniques (SPOF) et les signaux d'alerte
 
 Un **SPOF** (*single point of failure*) est un élément qui, s'il casse, arrête tout le business. En e-commerce, il y en a trois, et ils sont sous-estimés tant qu'ils tiennent :

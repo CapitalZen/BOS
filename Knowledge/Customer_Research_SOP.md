@@ -121,6 +121,8 @@ L'enquête de l'étape 2 est une campagne ponctuelle. **Le questionnaire post-ac
 
 **Longueur :** 8 à 12 questions ouvertes maximum. Une contrepartie (réduction sur le prochain achat, accès à quelque chose) augmente nettement le taux de réponse.
 
+**Y adosser une question NPS** (« recommanderiez-vous à un proche, de 0 à 10 ? ») transforme ce capteur qualitatif en signal quantitatif suivi dans le temps — méthodologie et boucle complète (avis publics, SAV comme source de données, itération produit une variable à la fois) dans `Ecom_Meta_Ads_Playbook.md` §8.
+
 ### Les 10 questions, par intention stratégique
 
 **Déclencheur d'achat**
