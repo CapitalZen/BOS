@@ -75,6 +75,8 @@ Le message mining ci-dessus est de la recherche **en largeur**. La quasi-totalit
 
 **Ce que ça débloque, et que la recherche de surface ne donnera jamais :** des angles adressés à un sous-groupe précis, formulés dans ses termes, sur un problème que les concurrents ne voient même pas. « Tu fais du 5×5 et tu stagnes depuis trois mois » ne s'invente pas depuis une page d'avis Amazon. C'est là que naissent les angles que personne n'a encore exploités.
 
+**Le raccourci qui vaut de l'or : si l'entrepreneur habite déjà ce monde, l'immersion est déjà payée.** C'est ce qui fait de la connaissance vécue d'un marché un avantage concurrentiel réel — pas parce qu'elle remplace la recherche, mais parce qu'elle en fournit d'emblée le résultat le plus coûteux : le vocabulaire exact et la hiérarchie réelle des frustrations. À l'inverse, entrer sur un marché qu'on ne vit pas ne l'interdit pas — ça rend simplement cette étape obligatoire et facturée en semaines de travail (`Ecom_Meta_Ads_Playbook.md` §2).
+
 **Comment BOS l'exploite concrètement :** l'entrepreneur n'a pas besoin de passer un an dans le marché — BOS peut faire la descente à sa place (cartographier les écoles de pensée d'une niche, leurs points de friction, leur vocabulaire) et lui restituer la carte. Ce que l'entrepreneur seul peut apporter, c'est le temps passé dans les communautés qu'il fréquente déjà.
 
 ### Repérer les trous du marché — les trois formules

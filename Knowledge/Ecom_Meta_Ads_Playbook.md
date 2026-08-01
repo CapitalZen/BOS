@@ -458,6 +458,25 @@ Le signal central : **volume d'ads actives + croissance de ce volume**. Le raiso
 
 Ensuite : croiser avec les 4 critères. Une belle courbe **et** les critères cochés → le produit va dans la liste, on lance.
 
+### Connaître sa niche de l'intérieur — l'avantage qui ne s'achète pas
+
+**Ce que ça n'est pas :** une autorisation à choisir un marché parce qu'on l'aime. Ce serait l'erreur de débutant décrite plus haut — partir de ce qu'on trouve cool plutôt que de ce qui tient économiquement. Les critères de marge, de TAM, de ROAS BE et de démontrabilité restent premiers, sans exception.
+
+**Ce que c'est :** un accélérateur de tout ce qui vient après le choix du produit. Quelqu'un qui habite un univers depuis des années y arrive avec quatre choses déjà acquises :
+
+- **Les bonnes douleurs, identifiées d'emblée.** Il sait quelles frustrations résonnent le plus fort, quelles questions reviennent sans arrêt, quel argument fait basculer une décision. C'est le résultat que le message mining cherche à produire — lui l'a déjà.
+- **Le vocabulaire exact.** Le copywriting qui convertit reprend les mots que l'audience emploie elle-même. Quelqu'un de l'intérieur les emploie sans effort ; quelqu'un de l'extérieur les approxime, et l'audience l'entend.
+- **Une banque d'inspiration permanente.** Il consomme déjà ce contenu, suit déjà les bons comptes, sait intuitivement ce qui engage.
+- **La conviction, qui se voit partout** — publicités, pages produits, emails. L'authenticité ne se simule pas dans la durée.
+
+**La règle : la familiarité départage, elle ne sélectionne pas.** Entre plusieurs produits qui passent les critères économiques, prendre celui dont on habite le monde. Ne jamais prendre un produit qui échoue aux critères parce qu'on aime le sujet.
+
+**Et le corollaire, qui est le vrai enseignement :** entrer sur un marché qu'on ne vit pas n'est pas interdit — c'est ce que font la plupart des opérateurs. Mais **le coût de la recherche devient explicite et il se paie d'avance.** Un homme qui attaque la cosmétique féminine sans rien y connaître ne part pas avec un handicap insurmontable ; il part avec une facture — celle de l'immersion décrite dans `Customer_Research_SOP.md` (Étape 1 bis), qui se compte en semaines de travail sérieux, pas en une après-midi de lecture d'avis.
+
+Le piège n'est pas de choisir un marché inconnu. **Le piège est de le choisir en croyant que c'est gratuit** — et de produire ensuite du copy qui sonne faux face à un concurrent qui, lui, en fait partie.
+
+**L'exercice pour identifier son propre avantage :** dans quoi suis-je meilleur que la moyenne ? Quels sujets est-ce que je comprends sans avoir besoin de chercher ? Dans quel univers ai-je naturellement envie de m'immerger ? Sport, jeu vidéo, animaux, bricolage, décoration, cuisine — ce sont tous des marchés massifs avec des audiences engagées. La réponse ne désigne pas le produit ; elle désigne les terrains où l'entrepreneur démarre avec une longueur d'avance, et qu'on croise ensuite avec les critères économiques.
+
 ### Le glitch EU → US — repérer un gagnant avant les autres
 
 La méthode de recherche la plus précise de ce document, parce qu'elle s'appuie sur une donnée chiffrée que presque personne n'exploite.

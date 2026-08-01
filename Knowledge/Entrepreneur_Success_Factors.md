@@ -148,6 +148,10 @@ Grille de notation, chaque critère de 1 (faible) à 3 (fort). **Seuil de valida
 
 **Le plafond sur le critère 7 est le point important :** il garantit que la décision reste dictée par le marché et non par l'ego. Un business se construit sur la valeur apportée aux autres, pas sur ses hobbies.
 
+**Mais ne pas confondre deux choses que le critère 7 mélange.** *L'intérêt personnel* — « ce sujet me plaît » — mérite bien son plafond : la passion ne crée ni demande ni marge. *La connaissance vécue d'un marché* — en habiter les codes, le vocabulaire, les frustrations, parce qu'on en fait partie depuis des années — est autre chose : c'est un actif réel, qui ne s'achète avec aucun budget publicitaire et que les concurrents mettent des mois à reconstituer.
+
+La règle qui en découle : **la familiarité ne sélectionne pas un marché, elle départage.** Elle ne remplace jamais les critères 1 à 6. Mais entre deux opportunités qui passent le seuil, celle qu'on vit de l'intérieur gagne — voir `Ecom_Meta_Ads_Playbook.md` §2 pour l'application e-commerce.
+
 Les critères 4 et 5 sont les plus prédictifs — ils recoupent exactement le principe e-commerce « s'il n'y a personne dessus, c'est que ça ne se vend pas ».
 
 ## 9. Règle de mise en œuvre : 80/20 et simplicité
