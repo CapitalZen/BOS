@@ -1274,6 +1274,26 @@ Faire tourner une grosse boutique seul n'est pas impossible — c'est la directi
 | Lecture des tests, décision couper/maintenir/scaler | **BOS** propose, l'entrepreneur décide |
 | Ouverture des comptes, budget, tournage/production, relation agent, SAV | Entrepreneur |
 
+### La carte des 9 compétences — et pourquoi il faut des bases partout
+
+Un e-commerce qui tient repose sur neuf compétences distinctes. Personne ne les maîtrise toutes, et ce n'est pas l'objectif — mais **avoir les bases dans chacune est ce qui permet de diriger des équipes et de ne pas se faire avoir par des prestataires.** Recruter des experts sans rien comprendre à leur domaine ne remplace pas la compétence : ça la sous-traite à quelqu'un dont on ne peut plus juger le travail.
+
+| Compétence | Ce qu'elle décide | Où c'est traité | Portage |
+|---|---|---|---|
+| **Marketing & psychologie** | Créer le désir chez quelqu'un qui ne vous connaît pas, et obtenir assez de confiance pour qu'il sorte sa carte | `Schwartz_Breakthrough_Advertising.md`, `Customer_Research_SOP.md` | **BOS** l'essentiel |
+| **Design & branding** | Une direction artistique reconnaissable — pas de l'expertise logicielle, de la cohérence | §6, `Ecom_Funnel_Architecture.md` §5 | **BOS** propose, l'entrepreneur tranche |
+| **Copywriting & storytelling** | Transformer un objet banal en réponse à une douleur profonde | `PMF_Offer_Playbook.md`, `Ecom_Funnel_Architecture.md` | **BOS** |
+| **Media buying** | Non pas ABO vs CBO, mais **lire les métriques, arbitrer le budget, scaler ce qui marche** | §3 | **BOS** propose, l'entrepreneur exécute |
+| **Analyse de données** | Le e-commerce est arithmétique : CTR, CPC, CPM, ROAS, taux de conversion, AOV, LTV. Décider sur les chiffres, jamais sur l'émotion | §3, §11 | **BOS** |
+| **SAV** | La partie la plus ingrate et l'une des plus rentables : c'est là qu'on apprend ce qui plaît vraiment, et c'est un levier direct de LTV | §9, §11 | Entrepreneur, **BOS** écrit les process et les modèles |
+| **Création de contenu** | Filmer soi-même avec un téléphone économise des milliers d'euros — **et c'est ce qui permet de diriger une équipe créative ensuite** | §4 | Entrepreneur |
+| **Négociation fournisseur** | Prix, délais, conditions. Le noyau de la marge. Aller sur place construit des relations que rien ne remplace | §7, §11 | Entrepreneur, **BOS** prépare |
+| **Gestion de trésorerie** | La première cause d'échec au scaling : anticiper les besoins de stock, réinvestir au bon moment, ne jamais se mettre en position de rupture | §1, §11 | **BOS** modélise, l'entrepreneur décide |
+
+**La séquence de délégation qui marche :** faire soi-même une fois, puis déléguer. L'ordre inverse — déléguer un domaine qu'on n'a jamais pratiqué — produit des équipes qu'on ne sait pas piloter et des prestataires qu'on ne sait pas évaluer. C'est la version opérationnelle du principe « la compréhension ne se délègue pas » : elle vaut pour l'IA comme pour les recrutements.
+
+**Comment BOS s'en sert :** cette carte est aussi une grille de diagnostic. Quand un business stagne, la question « quelle compétence manque ? » est souvent plus productive que « quel levier tirer ? » — et la réponse indique à la fois quoi construire et ce que BOS peut porter à la place de l'entrepreneur en attendant.
+
 ---
 
 ## 11. Marché européen, TVA et rentabilité longue
