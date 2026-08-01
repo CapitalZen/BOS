@@ -21,6 +21,18 @@ La plus grosse erreur d'apprentissage : sélectionner les conseils. On applique 
 
 > « Moi j'ai plus aucun réseau social sur mon téléphone, pas de jeux vidéo, pas de télé. Du coup travailler c'est super facile. »
 
+### La donnée est partout — la méthodologie de lecture est rare
+L'analytique est la base de tout, tout le temps. Mais l'avantage ne vient pas de **détenir** l'information : aujourd'hui, tout le monde a accès aux mêmes outils, aux mêmes bibliothèques publicitaires, aux mêmes tableaux de bord. **L'avantage vient de savoir la décrypter et la retourner à son avantage.**
+
+Le difficile n'est jamais la collecte. C'est :
+- **Croiser les bonnes informations entre elles** — un ROAS seul ne dit rien ; un ROAS croisé avec la dépense, l'ancienneté du compte, la répartition des bundles et le NC ROAS raconte une histoire complète
+- **Savoir laquelle est du signal et laquelle est du bruit** — un ratio flatteur sur un petit volume est du bruit
+- **En tirer une conclusion actionnable**, pas une observation
+
+**Ce qui donne cette méthodologie :** l'expérience, ou l'encadrement. Il n'y a pas de troisième voie — et c'est la raison pour laquelle deux personnes devant le même tableau de bord prennent des décisions opposées.
+
+**Usage BOS — c'est précisément le rôle de BOS.** La méthodologie de lecture est ce qu'il apporte immédiatement : quelle donnée regarder, dans quel ordre, croisée avec quoi, et à partir de quel seuil elle est fiable. Ce qu'il ne remplace pas, c'est l'expérience du terrain — le fait d'avoir vu une décision produire son résultat. D'où la règle : **BOS donne la méthode, l'entrepreneur accumule l'expérience.** Il faut les deux, et une seule des deux s'obtient sans agir.
+
 ### Décider dans le doute, puis enchaîner
 Le doute ne se dissipe pas avant l'action — il se dissipe par l'action. Quand ça va bien on pousse ; quand on doute, **on pousse quand même**, en prenant une décision tranchée plutôt qu'en attendant la certitude.
 
