@@ -41,6 +41,25 @@ N  →  T(N)  →  P(T,N)  →  M(P,T,N)  →  A(M,P,T,N)
 
 **Question qui passe avant toutes les autres : « Tu aides qui ? »**
 
+### L'exercice de reformulation — à faire sur chaque candidat
+
+Transformer systématiquement une intention de vente en question de service. C'est un exercice de 30 secondes qui change la suite du travail.
+
+| Formulation de dropshippeur | Formulation d'e-commerçant |
+|---|---|
+| « Je veux vendre une brosse anti-poils » | « Comment aider quelqu'un qui a un chien à ne plus avoir de poils sur ses vêtements **avant de sortir** ? » |
+| « Je veux vendre un accessoire coiffure » | « Comment aider quelqu'un qui veut des boucles à **arrêter d'abîmer ses cheveux** ? » |
+| « Je veux vendre des semelles » | « Comment permettre à quelqu'un qui travaille debout de **finir sa journée sans douleur** ? » |
+
+**Ce que la reformulation force à produire**, et qu'on ne trouve jamais en partant du produit :
+- **Un persona** (qui exactement)
+- **Un moment précis** (« avant de sortir », « en fin de journée ») — c'est de là que sortent les meilleurs hooks
+- **Un résultat désiré**, formulé du point de vue du client
+
+Ce sont exactement les trois composantes de **N** : un groupe défini, un problème spécifique, **dans des circonstances spécifiques**. La reformulation n'est pas un exercice de style — c'est la façon la plus rapide de remplir la première variable de l'équation.
+
+**Corollaire :** on ne change pas de produit au premier test raté. On vérifie d'abord si le problème était mal formulé — c'est souvent l'angle qui a échoué, pas le produit.
+
 **Plan d'exécution :**
 1. **Identifier et valider le marché (N, T, P)** — cibler une niche, formuler une promesse, faire payer la transformation **avant même que le mécanisme existe**. Le marché est validé quand **une personne a payé**. Pas quand elle a dit que c'était une bonne idée.
 2. **Valider le mécanisme (M)** — comment on délivre, et quelle marge ça laisse.
