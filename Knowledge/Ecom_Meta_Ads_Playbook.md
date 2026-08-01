@@ -1214,6 +1214,14 @@ Relevé sur une série de boutiques auditées. Ces points ne sont pas des raffin
 
 **Le formulaire de capture d'email doit offrir quelque chose.** « Recevez nos actualités » ne convertit pas. Une réduction — de l'ordre de 10 % — transforme le taux de capture, et l'email capté est ce qui finance la récurrence (§11).
 
+**Pourquoi ça marche : le principe de réciprocité.** Quelqu'un qui n'est pas prêt à laisser son email n'est pas prêt à sortir sa carte — capter l'email est le premier petit pas qui rend le second possible. Offrir quelque chose en premier (même modeste) avant de demander crée la relation de confiance dans le bon sens.
+
+**Trois mécaniques concrètes, au-delà du simple champ email + réduction :**
+
+- **La roue de réduction.** Le visiteur fait tourner une roue pour découvrir son code de réduction contre son email. Le levier est le jeu, pas la promesse — le prospect se sent toujours gagnant, ce qui explique un taux de capture régulièrement supérieur à un formulaire statique.
+- **Le statut VIP à l'inscription.** Présenter la newsletter comme un accès à des ventes privées et des promotions exclusives réservées aux inscrits plutôt que comme un simple flux d'actualités — deux leviers combinés : le privilège (élévation de statut) et la rareté (accès non ouvert à tous). Ce même statut VIP, déjà utilisé plus loin (§8) comme récompense post-achat, fonctionne tout aussi bien **en amont**, dès l'inscription.
+- **Le code promo en surcouche avant la fiche produit.** Une fenêtre propose un code contre l'email au moment où le visiteur arrive sur une page produit, avant même de la voir. Elle sert deux profils à la fois : le prospect déjà décidé, pour qui la réduction est un bonus qui renforce la sympathie envers la marque ; et le prospect hésitant, pour qui elle fait basculer la décision. ⚠️ Fenêtre plus intrusive que les deux précédentes — à tester, elle peut faire baisser le taux de conversion selon le produit et l'audience ; ne pas l'imposer par défaut sans mesurer l'effet net.
+
 **Le footer se remplit.** Tous les liens vers les pages légales et de politique, plus **l'adresse du support et ses horaires**. Ne pas craindre de recevoir des messages : un client qui écrit avant d'acheter est un client qui hésite, donc une vente récupérable — et l'absence de contact visible est un des signaux de méfiance les plus forts.
 
 ### Les 4 erreurs qui tuent une page produit
