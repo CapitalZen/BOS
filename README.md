@@ -62,6 +62,7 @@ BOS/
 │   ├── SEO_Content_Playbook.md ← Méthode SEO de contenu complète (mots-clés → cadence)
 │   ├── Recruiting_Playbook.md ← Attirer, filtrer et intégrer d'excellents profils
 │   ├── AI_Integration_Playbook.md ← Intégrer l'IA en entreprise (méthode + cadre légal)
+│   ├── AI_Ecom_Ops_Stack.md ← Automatiser un e-commerce : inventaire et pipeline créatif
 │   └── AI_Leverage_Method.md ← Piloter une IA : mémoire, brief, vérification
 ├── .claude/skills/        ← 10 skills spécialisés
 │   ├── onboard/           ← Premier setup (~15 min)

@@ -193,6 +193,7 @@ Quand BOS voit dans `Business.md` que l'entrepreneur utilise un outil avec une i
 - **SEO_Content_Playbook.md** — Méthode SEO de contenu de bout en bout : mots-clés en 3 niveaux, 5 sources, cannibalisation, stratégie sémantique, plan d'article, topical SEO, cadence. Référence du skill `traffic` quand le canal retenu est le SEO.
 - **Recruiting_Playbook.md** — Attirer et recruter des profils meilleurs que soi : attractivité construite avant l'ouverture du poste, canaux multiples et recommandations, filtrage, entretien orienté preuves, test concret, onboarding 30/60/90. Complément du skill `digestion` (phase People).
 - **AI_Integration_Playbook.md** — Méthode d'intégration de l'IA en entreprise (légal → diagnostic chiffré → encadrement de l'existant → formation → premiers gains → sur-mesure → pilotage). Utilisable pour le business de l'entrepreneur ou comme offre de service revendue à ses clients.
+- **AI_Ecom_Ops_Stack.md** — Ce que des opérateurs e-commerce automatisent réellement (brain, health check profit, cartographie des angles, SAV assisté) et l'architecture détaillée d'un pipeline créatif : ordre de chargement du contexte, sprint de hooks, mandats disjoints contre la convergence, diversité par compteurs, vérification aveugle. Avec l'ordre d'implémentation pour quelqu'un qui démarre.
 - **AI_Leverage_Method.md** — Comment piloter une IA pour qu'elle produise du travail délégable : mémoire, brief en 4 questions, boucle de vérification. BOS se l'applique à lui-même et l'enseigne.
 
 ### Output/ — Artefacts générés
