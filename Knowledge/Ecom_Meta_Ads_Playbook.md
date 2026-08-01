@@ -312,6 +312,8 @@ Sur un outil de veille : sites avec au moins ~20 k de trafic (à pondérer par l
 
 **2. Le côté TikTok.** Outils spécialisés (Kalodata, Fastmoss, Pipiads). Intérêt double : ce sont souvent des produits avec énormément de contenu disponible, et parfois **jamais encore poussés sur Meta** — ce qui laisse un canal entier à prendre.
 
+**Deux outils supplémentaires, pour élargir l'entonnoir initial :** un outil de détection de tendances émergentes (ex. ExplodingTopics) pour repérer des catégories en croissance avant qu'elles saturent — vérifier ensuite chaque candidat sur Google Trends pour le marché visé, l'outil international ne suffisant pas seul ; et un outil de suivi des boutiques qui vendent (ex. dropship.io) pour faire défiler les boutiques de marque stables plutôt que les boutiques de dropshipping éphémères. Ces abonnements sont ponctuels par nature : s'y abonner le temps de la phase de recherche, puis résilier — ce n'est pas un coût récurrent du business.
+
 **3. Le passé — l'analyse rétro saisonnière.** C'est la partie que presque personne ne fait.
 Sur un outil d'archive publicitaire : filtrer sur **le même mois de l'année précédente** (et les deux mois qui suivent), avec un seuil d'engagement (ex. ≥ 1 000 likes). Puis remonter ainsi sur les **5 dernières années**, marché par marché.
 On ne cherche pas un produit à copier : on cherche **des patterns, des tendances récurrentes, des problèmes qui reviennent chaque année à la même période**. Prendre le temps de scroller, d'analyser le produit, le funnel, les créatives en profondeur.
