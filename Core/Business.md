@@ -29,7 +29,8 @@ Non choisi. Orientation par défaut vu le profil et le budget : France / Italie 
 ## Finances
 - **Trésorerie disponible aujourd'hui :** **quasi nulle** (rectifié le 01/08/2026 — les 1 500 € sont un objectif, pas un capital détenu)
 - **1 500 € = objectif de trésorerie à fin décembre 2026**, pas un point de départ
-- **Capacité d'épargne mensuelle :** à chiffrer — devenue la donnée la plus importante du dossier
+- **Capacité d'épargne mensuelle :** **nulle jusqu'à l'entrée en poste.** Source identifiée : le futur emploi de conducteur (TP Marchandises sur Porteur, puis ADR / citernes), une fois les charges déduites. Déclaré le 01/08/2026 : « rien tant que je n'ai pas l'emploi en question ».
+- **Conséquence :** la date d'entrée en poste est **le jalon qui commande tout le calendrier financier** du projet — pas une variable secondaire.
 - **Seuil de référence :** ~3 000 € pour lancer des tests Meta Ads sérieux ; 5 000 € pour tester et itérer sans contrainte
 
 **Ce que change le budget quasi nul.** Rien sur la stratégie : la voie organique était déjà retenue et elle ne demande pas de budget publicitaire. Ce qui change, c'est que **le coût de démarrage doit être ramené à son minimum absolu** et que rien ne peut être engagé avant que des revenus existent.

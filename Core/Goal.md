@@ -1,11 +1,28 @@
 # Goal
 
-**Fixé le :** 01/08/2026
+**Fixé le :** 01/08/2026 · **Rephasé le :** 01/08/2026 (soir), après clarification de la situation financière
 
-## Objectif
+## Objectif déclaré
 **1 000 à 3 000 € par mois d'ici fin décembre 2026.**
 
-Horizon : 5 mois (août → décembre).
+## ⚠️ Rephasage proposé par BOS — à valider
+
+L'objectif est bon ; **son échéance suppose un levier qui ne sera pas disponible à temps.** Le raisonnement, en trois points :
+
+1. **Aucun euro ne peut être engagé avant l'entrée en poste.** Le projet démarre donc en organique pur, et l'organique produit ses premières ventes en semaines, pas en jours.
+2. **La bascule payante — le seul accélérateur réel — dépend de la même date.** Sans elle, on ne compresse pas le calendrier.
+3. **L'entrée en poste consomme de l'énergie au moment précis où le projet en demanderait le plus.** Nouveau métier, ADR, citernes : les premiers mois sont les plus exigeants.
+
+**Ce qui reste tenable pour fin décembre 2026 — et c'est déjà beaucoup :**
+- Boutique en ligne et rodée
+- Audience organique construite sur le territoire
+- **Premières ventes réalisées** — la validation qui compte
+- 1 500 € de trésorerie constitués via l'emploi
+- Le pic de décembre exploité avec ce qui est en place
+
+**Ce qui glisse au premier semestre 2027 :** le palier 1 000-3 000 €/mois, atteint avec la bascule payante financée par l'emploi.
+
+**Pourquoi ce rephasage n'est pas un renoncement :** un objectif calibré sur des moyens qu'on n'a pas produit de l'échec mécanique, puis l'abandon — c'est le mode de sortie n°1 documenté (`Knowledge/Entrepreneur_Success_Factors.md` §6 bis, phase 2). Un objectif atteignable produit la première victoire, et la première victoire finance la suivante. **La cible ne baisse pas, elle se décale d'un cran pour rester vraie.**
 
 **Hypothèse de lecture retenue : chiffre d'affaires mensuel**, pas bénéfice net. À confirmer si besoin — l'écart est important : à 20-25 % de marge nette, viser 3 000 € de *bénéfice* demanderait 12 000 à 15 000 € de CA mensuel, soit un objectif d'une autre nature. Le plan est calibré sur la lecture CA.
 
@@ -23,9 +40,11 @@ Avec un panier moyen cible de 60 € :
 Décembre est le meilleur mois de l'année en e-commerce, et particulièrement en mode et accessoires (cadeaux). L'objectif tombe donc sur le mois le plus porteur du calendrier — c'est un avantage réel, à condition d'être en ligne et rodé **avant** novembre.
 
 ## Objectif secondaire — trésorerie
-**Constituer 1 500 € de trésorerie d'ici fin décembre 2026.** Rectifié le 01/08 : ce montant n'est **pas** un capital de départ, c'est une cible.
+**Constituer 1 500 € de trésorerie d'ici fin décembre 2026.** Ce n'est **pas** un capital de départ, c'est une cible.
 
-⚠️ **Point à clarifier :** si les 1 500 € doivent être générés par le business, l'objectif est nettement moins ambitieux que celui de 1-3 k€/mois de CA — un mois à 3 000 € de CA à 20-25 % de marge dégage déjà 600-750 €. Les deux objectifs sont donc soit redondants, soit le 1 500 € vient d'une autre source (épargne sur un revenu). À trancher.
+**Source tranchée le 01/08 :** épargne sur le futur emploi de conducteur (TP Marchandises sur Porteur, puis ADR et spécialisation citernes), charges déduites. **Les 1 500 € ne dépendent donc pas du business** — les deux objectifs sont indépendants, et c'est une bonne nouvelle : le projet n'a pas à financer sa propre réserve.
+
+**Le jalon qui commande tout :** la date d'entrée en poste. Avant elle, budget zéro. Après elle, la bascule payante devient planifiable à date fixe.
 
 ## Ressources engagées
 - **Temps :** 2 h par jour (~14 h/semaine, ~300 h sur l'horizon) — **la ressource principale de ce projet**

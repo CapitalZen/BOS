@@ -1,7 +1,9 @@
 # Diagnostic
 
 **Dernière MAJ :** 01/08/2026
-**Bottleneck :** **La régularité de publication.** Révisé le 01/08 après chiffrage. La trésorerie (1 500 €) et le temps (2 h/jour) sont suffisants pour la voie organique retenue ; l'objectif (1-3 k€/mois de CA d'ici fin décembre) représente moins de deux ventes par jour. Rien de tout cela n'est un obstacle. **Le seul intrant réellement rare est la constance sur cinq mois** — c'est là que le plan réussit ou échoue, et c'est cohérent avec le pattern observé chez cet entrepreneur (problème n°3).
+**Bottleneck :** **La régularité de publication, sur un budget nul jusqu'à l'entrée en poste.** Révisé le 01/08 (soir) après clarification complète de la situation.
+
+Le tableau réel : trésorerie zéro jusqu'à l'emploi de conducteur ; 2 h/jour aujourd'hui mais une cadence qui sera bousculée par l'entrée en poste ; aucun levier payant disponible avant cette date. **Rien de tout ça n'empêche de démarrer** — le contenu organique ne coûte que du temps, et la cartographie de marché est portée par BOS. Mais **l'unique moteur du projet pendant plusieurs mois sera la constance**, sans accélérateur possible. C'est le point exact où ce plan réussit ou échoue, et il coïncide avec le pattern déjà identifié chez cet entrepreneur (problème n°3).
 
 ---
 
@@ -11,7 +13,8 @@
 - **Impact :** Bloque la voie Meta Ads. En e-commerce payant, on avance le cash (pub + produit + livraison) avant d'encaisser ; le nombre de cycles de test est plafonné par la trésorerie, et c'est le nombre de cycles qui produit le produit gagnant. Sous ~3 000 €, un test s'arrête au milieu : données inexploitables **et** capital brûlé.
 - **Preuves :** déclaré explicitement le 29/07 — « le budget me bloque actuellement ».
 - **Cause racine :** pas encore de source de cash dédiée au projet. Montant exact toujours à préciser.
-- **↩️ Statut rectifié le 01/08/2026 (soir).** La trésorerie disponible est **quasi nulle** — les 1 500 € sont un objectif à fin décembre, pas un capital détenu. Conséquence : **la stratégie ne change pas** (l'organique ne demande pas de budget publicitaire), mais le coût de démarrage doit être ramené au minimum absolu — de l'ordre de **30 à 50 € sur le premier mois**, le reste s'auto-finançant sur les premières ventes. Le problème n'est donc toujours pas bloquant, mais il impose une discipline : **rien ne s'engage avant qu'il y ait des revenus.** La donnée manquante devient la **capacité d'épargne mensuelle** et l'existence d'un revenu actuel — sans elle, impossible de savoir si les 1 500 € viennent du business ou d'ailleurs.
+- **↩️ Statut rectifié le 01/08/2026 (soir).** Trésorerie **nulle**, et **nulle jusqu'à l'entrée en poste** — les 1 500 € sont un objectif d'épargne sur le futur emploi de conducteur, pas un capital détenu. Conséquence : la stratégie organique ne change pas, mais **le budget de démarrage est zéro, pas 30-50 €.** Tout ce qui coûte de l'argent — échantillon produit, domaine, boutique — attend l'entrée en poste. Ce qui reste faisable d'ici là ne coûte que du temps : cartographie de marché (BOS), construction d'audience, apprentissage du format.
+- **Le jalon décisif n'est plus un montant, c'est une date : celle de l'entrée en poste.** Elle commande le calendrier financier entier — début des dépenses, ouverture de boutique, bascule payante. À obtenir dès qu'elle est connue.
 - **⚠️ Statut révisé le 29/07 (soir) :** ce problème **n'est plus bloquant en soi**. La voie organique (`Knowledge/Ecom_Organic_Launch_Playbook.md`) permet de démarrer sans budget publicitaire, de générer les premières ventes et surtout d'accumuler gratuitement la data d'audience (pixel, emails, signaux d'intention) qui rend le payant rentable ensuite. Cas documenté : 0 → 5 000 €/jour avec 600 € de publicité au total. **Le blocage se déplace donc de l'argent vers la régularité** — 4-5 publications par jour pendant 1 à 2 mois. C'est le nouveau point de vigilance à surveiller chez cet entrepreneur, au vu du pattern de sur-consommation de méthode (problème n°3).
 
 ### 2. Recherche produit vécue comme le plus gros blocage
@@ -31,9 +34,14 @@
 - **Cause racine :** aucune. Le territoire a été choisi sur des critères de marché, ce qui est la bonne méthode. Il ne s'agit pas d'une erreur mais d'une facture à honorer.
 - **Traitement :** immersion documentée avant toute production de créative — cartographie des sous-groupes de l'audience, de leur vocabulaire et de leurs frustrations réelles. **Portable par BOS quasi intégralement**, ce qui ramène le coût de plusieurs semaines à une session de travail. À déclencher quand l'entrepreneur passera à cette étape.
 
-### 5. Profil incomplet — ✅ résolu au 01/08/2026
-- **Fourni le 01/08 :** 2 h/jour · objectif 1-3 k€/mois d'ici fin décembre · trésorerie 1 500 €.
-- **Reste ouvert, non bloquant :** la motivation personnelle (le « pourquoi »). À récupérer en cours de route — c'est ce qui tient quand la motivation baisse, donc utile avant novembre plutôt qu'après.
+### 5. Cadence menacée par l'entrée en poste
+- **Impact :** La constance est devenue le seul moteur du projet (voir bottleneck). Or le métier visé — conduite, puis ADR et citernes — impose des journées longues, des horaires irréguliers, des découchés possibles et une vraie fatigue physique. **Une cible de 2 h/jour uniformes ne survivra pas à l'entrée en poste**, et une cible ratée de façon répétée déclenche le cycle abandon décrit en §6 bis.
+- **Preuves :** situation déclarée le 01/08/2026 — fin de formation TP Marchandises sur Porteur, ADR et citernes envisagés ensuite.
+- **Traitement :** basculer d'une cible uniforme vers un **plancher différencié** — 50 min les jours travaillés, 2-3 h les jours de repos — et exploiter le temps mort du métier (attentes de chargement, repos réglementaires) pour le travail téléphone : veille, commentaires, repérage de formats. **Tournage en lots les jours de repos**, publication étalée.
+
+### 6. Profil incomplet — ✅ largement résolu au 01/08/2026
+- **Fourni le 01/08 :** temps disponible · objectif chiffré et échéance · situation financière réelle · source de financement · situation professionnelle.
+- **Reste ouvert, non bloquant :** la **date d'entrée en poste** (commande le calendrier financier) et la **motivation personnelle** — le « pourquoi ». Ce dernier est ce qui tient quand la motivation baisse ; sur un projet dont le seul moteur est la constance, il compte plus qu'à l'ordinaire.
 
 ---
 

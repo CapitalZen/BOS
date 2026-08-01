@@ -32,3 +32,6 @@ Chiffres fournis : 2 h/jour, objectif 1-3 k€/mois de CA d'ici fin décembre 20
 
 ## 01/08/2026 (4)
 Rectification : les 1 500 € ne sont pas détenus, c'est un objectif à fin décembre. Trésorerie de départ quasi nulle. Fichiers corrigés (Business, Goal, Diagnosis, plan). Stratégie inchangée — l'organique ne demande pas de budget pub. Coût de démarrage ramené à ~30-50 € le premier mois. Nouvelle donnée manquante et décisive : revenu actuel et capacité d'épargne mensuelle.
+
+## 01/08/2026 (5)
+Situation clarifiée : fin de formation TP Conducteur Marchandises sur Porteur, suite envisagée ADR de base + spécialisation citernes. Aucun budget avant l'entrée en poste ; les 1 500 € viendront de l'épargne sur ce futur emploi. Objectif 1-3 k€/mois rephasé au S1 2027 ; fin décembre 2026 devient : boutique en ligne, audience, premières ventes, trésorerie constituée. Bottleneck confirmé sur la constance, avec un plancher différencié jours travaillés / jours de repos. Nouveau jalon décisif : la date d'entrée en poste.

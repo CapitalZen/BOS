@@ -3,8 +3,20 @@
 ## Entrepreneur
 - **Nom :** à compléter
 - **Expérience :** pré-lancement — pas encore de business, sort de la phase de choix
-- **Temps disponible :** **2 h par jour** (~14 h/semaine) — déclaré le 01/08/2026. Volume tout à fait suffisant pour l'horizon visé : c'est exactement le régime « plancher » qui bat l'intensité irrégulière (`Knowledge/Entrepreneur_Success_Factors.md` §3)
-- **Background :** à compléter
+- **Situation (01/08/2026) :** **en fin de formation — Titre Professionnel Conducteur de Marchandises sur Porteur.** Suite envisagée : ADR de base, puis spécialisation citernes (matières dangereuses).
+- **Temps disponible :** **2 h par jour déclarées**, mais à recalibrer dès l'entrée en poste — voir ci-dessous.
+- **Background :** transport routier de marchandises.
+
+## Le moteur de cash — ce que ça change
+
+La spécialisation ADR citernes n'est pas un détail de contexte, c'est **la pièce qui rend le projet e-commerce finançable**. C'est une qualification rare, en tension sur le marché, et mieux rémunérée que la conduite généraliste. Traduit en termes de `Knowledge/Entrepreneur_Success_Factors.md` §7 : l'entrepreneur convertit actuellement du **temps** en **compétence**, laquelle produira de l'**argent** — c'est un arbitrage de monnaies cohérent, pas une distraction.
+
+**Conséquence pour BOS : l'emploi n'est pas un obstacle au projet, c'est son socle.** Il finance sans dilution, il permet de décider sans peur de trésorerie, et il rend tenable une entrée organique lente. Ne jamais le formuler comme une contrainte.
+
+**Mais deux réalités du métier doivent être intégrées au plan :**
+
+- **La cadence de 2 h/jour ne survivra pas à l'entrée en poste telle quelle.** Journées longues, horaires irréguliers, découchés possibles, fatigue physique réelle. Un plancher de **50 minutes les jours travaillés** et **2-3 h les jours de repos** est nettement plus robuste que 2 h/jour uniformes — et un plancher tenu bat une cible ambitieuse ratée (`Knowledge/Entrepreneur_Success_Factors.md` §3).
+- **Le métier contient du temps mort exploitable**, et il est légalement garanti : attentes de chargement et déchargement, temps de repos réglementaires. C'est du temps téléphone — veille, lecture des commentaires, réponses, repérage de formats, recherche. Pas du temps de tournage ni de montage, mais du vrai temps utile qu'un salarié de bureau n'a pas.
 
 ## Direction choisie
 **E-commerce**, majoritairement. Décision prise le 29/07/2026 après hésitation. On ne rouvre pas ce choix sans raison sérieuse — l'engagement sur une direction est ce qui débloque le reste.
