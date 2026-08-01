@@ -31,12 +31,22 @@ Quand on arrive sur un produit qu'on ne connaît pas, avant tout travail manuel 
 
 On va chercher là où le marché cible dit déjà, avec ses propres mots, ce qui compte pour lui.
 
+**Deux sources à distinguer :**
+- **Data interne** — ses propres publicités (quelles créatives, quels angles, quelles audiences convertissent), les **commentaires sous ses ads**, les questionnaires post-achat, ses avis, et **les objections remontées par le service client** (à demander une fois par mois : chaque objection récurrente est un angle créatif à tester pour la casser en amont). C'est la data la plus qualitative.
+- **Data externe** — le marché. Moins fine, mais indispensable pour élargir la vision.
+
 **Où chercher :**
 - Amazon — avis sur un produit identique ou proche (la mine la plus dense, et elle est quantifiable)
 - Reddit et forums de niche
 - Trustpilot
 - Sites et pages de vente des concurrents
 - Réseaux sociaux : commentaires, DM, réponses
+- **X / Twitter** — chercher les fils très commentés sur le problème, et **lire les réponses, pas seulement le message principal**
+- Vidéos organiques qui dépassent les 100 000 vues sur le produit ou un équivalent : quel hook, quel angle, quel format, quel récit
+
+**Le réflexe qui multiplie le volume disponible : chercher en anglais**, même pour un marché francophone. La communauté anglophone est bien plus active — « chronic back pain » donne un ordre de grandeur de contenu supérieur à « mal de dos ». On y trouve des discussions plus profondes, plus de verbatim, et des patterns déjà validés ailleurs qu'on peut transposer.
+
+**Et regarder hors de sa niche.** Les meilleures boutiques d'un autre secteur ont souvent des formats et des concepts que personne n'a encore importés dans le vôtre. On s'inspire de **la forme**, pas du fond.
 
 **Comment classer ce qu'on collecte — la formule MECLabs.**
 Un prospect achète quand : *il est motivé* > *il comprend la valeur* > *le parcours est fluide* > *il est rassuré*. Chaque verbatim collecté se range dans un des 4 leviers :

@@ -222,6 +222,29 @@ Deux leviers d'amélioration : **négocier le COGS au volume** (à ~200 commande
 
 **4. Contenu disponible en volume.** Plus il existe de contenu autour du produit, moins la production coûte. Une créative UGC de qualité coûte 50 à 300 € ; pour scaler il en faut des dizaines. Sur un produit sans contenu existant, on peut dépenser 3 000 à 5 000 € en production avant d'avoir validé quoi que ce soit.
 
+### Deux critères produit que presque personne ne vérifie
+
+**1. Le market timing — la saisonnalité se subit ou s'organise**
+
+Tout produit a une saisonnalité. La forcer hors saison, c'est brûler du budget contre le marché. Deux stratégies valables :
+
+- **Accepter les creux et préparer les pics** — utiliser la basse saison pour la recherche marketing, la production de contenu, le test d'angles et l'optimisation du back-end. Puis exploser quand le timing est bon.
+- **Faire tourner plusieurs produits à saisonnalités décalées** — un produit qui pique en janvier, un autre en été, un autre au dernier trimestre. On travaille à l'année.
+
+**2. Le produit doit être « ads-friendly »**
+
+Certains produits se vendent facilement en publicité, d'autres sont des cauchemars. Le critère : **la démontrabilité visuelle.** Douleur au dos → on montre quelqu'un qui souffre. Peau sèche → on montre l'avant/après. Désordre → on montre le chaos puis l'ordre.
+
+Sous-critère décisif : **le produit est-il « static-friendly » ?** Une image coûte bien moins cher qu'une vidéo. Un produit dont le bénéfice se comprend en une image permet de **tester plus d'angles, plus vite, pour moins cher** — c'est un avantage énorme quand le budget est limité.
+
+| Static-friendly | Nécessite de la vidéo |
+|---|---|
+| USP visuel clair (design, matière) | Produit complexe à démontrer |
+| Avant/après évident | Le mouvement fait la démonstration |
+| Bénéfice compréhensible en une image | Le récit est essentiel |
+
+Un produit non static-friendly n'est pas éliminatoire — mais il faut savoir qu'il faudra investir en vidéo dès le premier jour.
+
 ### Grille produit étendue (viser une boutique stable à gros volume)
 
 Les 4 critères précédents sont le socle. Pour viser une boutique qui tient dans la durée plutôt qu'un coup, le produit doit cocher un maximum de cases supplémentaires :
@@ -232,7 +255,8 @@ Les 4 critères précédents sont le socle. Pour viser une boutique qui tient da
 | **ROAS BE** | **< 1,5** — en dessous de ce seuil, la marge absorbe les hausses de CPM au scaling |
 | **Qualité réelle** | Prérequis de la rétention et du taux de litige |
 | **TAM large** | Marché adressable assez grand pour absorber le scaling |
-| **AOV minimum** | **≥ 35 €** par commande (+20 % environ sur le marché US) |
+| **AOV minimum** | **≥ 35 €** par commande (+20 % environ sur le marché US). Pour viser un très gros volume, les praticiens américains posent plutôt **60 $+** |
+| **COGS** | **< 25 % du prix de vente.** Au-delà, les marges ne supportent pas la hausse inévitable du coût d'acquisition |
 | **Contenu déjà disponible en masse** | Réduit le coût de production créative à presque zéro |
 | **Bundle / upsell / cross-sell performant** | Facultatif mais décisif sur l'AOV |
 | **Récurrence** | Facultatif — un consommable ou un abonnement change l'économie du business |
@@ -550,6 +574,46 @@ L'étape 4 est celle que presque personne n'inclut, et c'est la plus puissante :
 
 Natives et contenus TOFU pour alimenter le système en audiences froides → vidéos et statics MOFU pour éduquer → statics BOFU pour convertir les hésitants. Par-dessus : du **volume**. Tester beaucoup, lire la data, couper, itérer.
 
+### Le taux de réussite réel : 3 à 10 %
+
+Chiffre à connaître avant de commencer, parce qu'il évite d'interpréter la normalité comme un échec :
+
+> **Sur 100 créatives testées, 3 à 10 performent vraiment.** Et sur ces 3 à 10, deux ou trois seulement deviennent de vraies gagnantes qui absorbent l'essentiel du budget.
+
+C'est le taux des meilleurs opérateurs. **Le volume n'est donc pas une option, c'est la mécanique du métier** — mais un volume orienté par la recherche, pas produit au hasard.
+
+**Répartition de l'importance :** le **hook pèse environ 70 % du résultat** d'une créative. C'est donc lui qu'on analyse en priorité, et lui qu'on décline en premier.
+
+### Itérer vs décliner — deux gestes différents
+
+Distinction que la plupart confondent, et qui change la façon de scaler une gagnante :
+
+| | **Itérer** | **Décliner** |
+|---|---|---|
+| **Geste** | Rester proche de ce qui marche, petits changements | Garder **l'élément le plus fort** et changer tout le reste |
+| **Quoi** | Le hook varie, le corps reste. Puis le corps varie, le hook reste | Nouveau format, nouvel angle, nouvel avatar — on conserve l'ingrédient identifié comme gagnant |
+| **Quand** | Immédiatement, en continu | **Après 20-25 itérations**, quand le filon est épuisé |
+
+**Le raisonnement sous-jacent :** itérer teste des variations autour d'une combinaison ; décliner teste **une hypothèse sur ce qui crée la performance**. Si l'on pense que c'est le hook « douleur directe » qui porte, on le transplante dans un autre format, sur un autre angle, avec un autre avatar. Si ça marche encore, l'hypothèse est validée et on tient un actif réutilisable.
+
+**Objectif du jeu :** trouver la combinaison hook + corps qui permet de scaler **une seule créative** à un budget très élevé.
+
+### Repérer les patterns — devenir détective de ses propres gagnantes
+
+Le travail d'analyse qui transforme des résultats en méthode. On cherche ce qui **revient** dans les gagnantes :
+
+- *Sur 15 gagnantes, 11 utilisent un hook « douleur directe »* → pattern
+- *Sur 10 gagnantes, 8 ciblent la même tranche d'âge* → pattern
+- *Sur 20 gagnantes, 15 sont des démonstrations en UGC* → pattern
+
+**Une fois le pattern repéré, on ne copie pas la créative — on garde l'élément gagnant et on change le reste.** C'est exactement la déclinaison décrite ci-dessus.
+
+### Les leviers psychologiques à avoir en tête en permanence
+
+Preuve sociale · urgence · rareté · bonne affaire · autorité · **inversion du risque** · récit · identité.
+
+En observant les créatives qui tournent, on constate que presque toutes utilisent l'**inversion du risque** dans leur appel à l'action, que la plupart des statiques combinent **bonne affaire + urgence**, et que **récit et identification** portent l'essentiel de l'UGC et des collaborations avec des micro-influenceurs.
+
 ### Les deux équations de la créative
 
 ```
@@ -568,6 +632,42 @@ La première dit qu'un seul terme à zéro annule tout : beaucoup de créas méd
 **Si les statics ne prennent pas, basculer massivement sur la vidéo.** Travailler avec les rushes disponibles et multiplier les variations de **hook** et d'**after-hook** — c'est là que se joue l'essentiel de la performance. Faire varier : audiences visées, pain points, visuels, et **concepts** (split screen, humour, marketing négatif — ce qu'il ne faut *pas* faire).
 
 **Quand ça fonctionne, acheter du contenu** pour ne pas tourner en rond, tout en continuant à collecter en continu.
+
+### Le contenu est le carburant — et la fatigue des rushes est le vrai plafond
+
+**Le mur que rencontrent tous ceux qui démarrent avec du contenu emprunté** porte un nom : la **fatigue des rushes** (*footage fatigue*).
+
+Le mécanisme est cognitif : l'audience a déjà vu ces images. Elle ne les reconnaît pas consciemment, mais son cerveau les identifie comme du déjà-vu et ne s'arrête plus. Conséquences mesurables :
+- Le taux de clic baisse
+- Le CPM monte
+- **Les créatives fatiguent en 48 h au lieu de deux semaines**
+- Le scaling devient impossible
+
+**Le seul remède est le contenu original.** Et c'est pour ça que le contenu n'est pas une dépense, c'est du carburant : sans lui, la machine s'arrête, quelle que soit la qualité de la stratégie.
+
+### La règle des 2 % — et ce qu'elle révèle
+
+> **Réinvestir 2 % du chiffre d'affaires en production de contenu.**
+
+C'est le minimum pour maintenir un volume créatif suffisant et éviter la fatigue des rushes.
+
+**Le test implicite est plus intéressant que la règle :** si l'on ne peut pas se permettre de réinvestir 2 à 3 % du CA en contenu, **c'est que l'économie du produit ne fonctionne pas.** Il faut alors corriger en amont — marges, offre, back-end — et non couper le contenu. Un shop qui ne réinvestit pas descale, puis meurt.
+
+### Les 4 sources de contenu original
+
+Idéalement, on les combine toutes.
+
+| Source | Fonctionnement | Coût | Point clé |
+|---|---|---|---|
+| **UGC acheté** | On paie des créateurs pour filmer selon un brief | ~150-300 $ / vidéo | Contrôle total, et on récupère **tous les rushes** pour les mashups |
+| **Gifting** | On offre le produit contre du contenu | Produit + expédition | Moins cher, plus authentique — mais faible taux de réponse (~10-20 %) et peu de contrôle. **Exige un très bon produit** |
+| **Product seeding** | Produit offert **+ commission généreuse (30-60 %)** sur les ventes générées | Produit + commission | Les créateurs sont motivés par leur propre gain. **Être très généreux sur le pourcentage** : l'objectif n'est pas de gagner sur l'affiliation, c'est de produire du contenu en masse |
+| **Micro-influenceurs** | Publication payée sur leur compte (10K-300K abonnés) | ~100-800 $ / publication | Apporte de l'autorité en organique : les publicités convertissent mieux ensuite car l'audience a déjà vu la marque chez une référence |
+
+**Trois règles opérationnelles :**
+- **Toujours négocier les droits de réutilisation publicitaire** — sans clause écrite, le contenu ne peut pas servir en ads
+- **Ne jamais juger un créateur sur 1-2 vidéos.** Certains deviennent gagnants au 6ᵉ ou 10ᵉ essai. S'il correspond au persona, commander en volume
+- **Tout stocker, systématiquement.** Une bibliothèque de rushes bien organisée est l'assurance-vie du scaling : elle permet de produire de la variété de façon exponentielle plutôt que linéaire
 
 ### UGC : demander du B-roll, pas du facecam
 
@@ -906,6 +1006,32 @@ Le service client est un contact direct avec l'acheteur, donc un levier de marge
 Le dernier est celui qu'on oublie et qui rapporte : un client dont le problème vient d'être bien résolu est **le meilleur moment** pour demander un avis public.
 
 **BOS écrit ces modèles adaptés à la marque et au ton** — c'est une heure de travail qui sert des années.
+
+### Les points de rupture uniques (SPOF) et les signaux d'alerte
+
+Un **SPOF** (*single point of failure*) est un élément qui, s'il casse, arrête tout le business. En e-commerce, il y en a trois, et ils sont sous-estimés tant qu'ils tiennent :
+
+| SPOF | Ce qui arrive s'il casse | Comment le sécuriser |
+|---|---|---|
+| **Le processeur de paiement** | Le shop s'arrête **instantanément** | Un second processeur opérationnel en réserve, et surtout : taux de litige et de remboursement sous contrôle. Un processeur ne bloque pas au hasard — il bloque sur du risque |
+| **Le compte bancaire** | Trésorerie inaccessible en pleine campagne | Plusieurs banques, plusieurs comptes |
+| **L'agent logistique** | Commandes bloquées, délais explosés | Relation entretenue, et un second contact identifié avant d'en avoir besoin |
+
+**Le paradoxe de trésorerie au scaling :** à gros volume, on dépense chaque jour en publicité et en achats tandis que les encaissements arrivent avec un décalage. **On peut faire un très gros chiffre et manquer de cash.** D'où : délais négociés avec les fournisseurs, plusieurs comptes, et éventuellement une ligne de crédit.
+
+**Les 6 signaux que le back-end ne suit plus :**
+1. Les délais de livraison s'allongent
+2. Les tickets de service client s'accumulent
+3. Le taux de remboursement monte
+4. **Les avis passent sous ~3,7 étoiles**
+5. Le taux de litige grimpe
+6. La trésorerie se tend
+
+> **Dès qu'un de ces signaux apparaît : on arrête de scaler et on répare.** Scaler avec un back-end cassé ne fait qu'amplifier les problèmes.
+
+**Le levier caché du sourcing :** 1 € gagné sur le coût de revient, sur 20 000 ventes mensuelles, représente 20 000 € de profit supplémentaire par mois — à qualité et service identiques. C'est souvent le gain le plus rapide et le moins visible de tout le business.
+
+⚠️ **Et l'inverse est vrai :** sur-investir dans le back-end sans amélioration réelle du service fait monter le ROAS de rentabilité sans contrepartie. Le back-end s'optimise, il ne s'achète pas.
 
 ### Scaler le CA, c'est scaler l'entreprise entière
 
