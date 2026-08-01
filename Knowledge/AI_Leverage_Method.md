@@ -93,6 +93,17 @@ Les modèles d'une même gamme ne progressent pas tous sur le même axe. Repère
 
 **Le point contre-intuitif :** un modèle plus récent et plus performant en raisonnement n'est pas automatiquement meilleur en copy. Le raisonnement et la prose sont deux axes distincts.
 
+### La règle de routage — quand basculer sur le modèle le plus capable
+
+Par défaut, le modèle standard de la gamme. On bascule sur le plus capable si **au moins une** de ces quatre conditions est vraie :
+
+1. **La tâche tient plus de 3 contraintes simultanées** — ex. une page qui respecte un ton précis, cible un persona, place des mots-clés imposés, suit une structure fixe et intègre plusieurs CTA sans devenir lourde. Chaque contrainte supplémentaire est un arbitrage de plus à tenir en même temps ; au-delà de trois, un modèle standard commence à en sacrifier une sans le signaler.
+2. **Le coût d'une erreur dépasse le surcoût du modèle fort** — analyse juridique, code qui part en production, message à un client important. La question n'est pas la difficulté de la tâche, c'est ce que coûte de se tromper.
+3. **Le contexte utile dépasse un très gros volume** (dépôt entier, dossier de centaines de pages, historique client de plusieurs années) — au-delà d'un certain volume, retenir et pondérer correctement l'information devient lui-même la difficulté.
+4. **Le modèle standard a déjà échoué plusieurs fois sur la même tâche.** Ce n'est pas un signe de modèle faible — c'est un signal que la tâche demande plus de profondeur que prévu, et qu'il faut changer d'outil plutôt que reformuler indéfiniment.
+
+**Si aucune des quatre ne s'applique, rester sur le modèle standard.** Un bon prompt sur un modèle standard bat un mauvais prompt sur un modèle fort — le levier n°1 reste la qualité du brief (technique n°2, brief en 4 questions), pas le choix du modèle.
+
 ### Le piège : sur-prescrire un modèle fort
 
 > **Un prompt qui impose la structure section par section transforme un modèle à fort jugement en simple exécutant.** On paie sa capacité de jugement et on ne l'utilise pas.
