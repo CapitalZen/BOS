@@ -26,3 +26,6 @@ Précision sur le territoire : identifié comme porteur, pas habité. Consigné 
 
 ## 01/08/2026 (2)
 Message envoyé : « arrête de surconsommer du contenu, dans 99% des cas t'as déjà la clé ». Appliqué le test de complétude — plan de démarrage écrit par BOS à partir des connaissances déjà installées : `Output/Plan_Demarrage_2026-08-01.md`. Résultat : aucun manque de connaissance. Trois manques réels, tous factuels — temps dispo/semaine, objectif chiffré + échéance, trésorerie.
+
+## 01/08/2026 (3)
+Chiffres fournis : 2 h/jour, objectif 1-3 k€/mois de CA d'ici fin décembre 2026, trésorerie 1 500 €. Goal.md créé. Business.md complété (allocation des 1 500 €, temps). Bottleneck révisé : la trésorerie n'est plus le goulot, la régularité de publication le devient. Problèmes 1 et 5 du diagnostic passés en résolu. Plan calibré avec jalons mensuels août → décembre.

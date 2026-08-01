@@ -1,7 +1,7 @@
 # Diagnostic
 
 **Dernière MAJ :** 01/08/2026
-**Bottleneck :** La trésorerie. Tant qu'elle n'est pas au niveau, aucun choix de produit ne change quoi que ce soit — le produit ne se valide qu'en dépensant de la publicité.
+**Bottleneck :** **La régularité de publication.** Révisé le 01/08 après chiffrage. La trésorerie (1 500 €) et le temps (2 h/jour) sont suffisants pour la voie organique retenue ; l'objectif (1-3 k€/mois de CA d'ici fin décembre) représente moins de deux ventes par jour. Rien de tout cela n'est un obstacle. **Le seul intrant réellement rare est la constance sur cinq mois** — c'est là que le plan réussit ou échoue, et c'est cohérent avec le pattern observé chez cet entrepreneur (problème n°3).
 
 ---
 
@@ -11,6 +11,7 @@
 - **Impact :** Bloque la voie Meta Ads. En e-commerce payant, on avance le cash (pub + produit + livraison) avant d'encaisser ; le nombre de cycles de test est plafonné par la trésorerie, et c'est le nombre de cycles qui produit le produit gagnant. Sous ~3 000 €, un test s'arrête au milieu : données inexploitables **et** capital brûlé.
 - **Preuves :** déclaré explicitement le 29/07 — « le budget me bloque actuellement ».
 - **Cause racine :** pas encore de source de cash dédiée au projet. Montant exact toujours à préciser.
+- **✅ Statut révisé le 01/08/2026 — résolu.** Trésorerie chiffrée à **1 500 €**. Sous le seuil du testing payant (~3 000 €), donc la voie organique est confirmée comme le bon choix. Les 1 500 € sont alloués (échantillons, boutique, réserve pour la bascule payante) et ne sont plus un blocage : ils sont une réserve. Voir `Core/Business.md`.
 - **⚠️ Statut révisé le 29/07 (soir) :** ce problème **n'est plus bloquant en soi**. La voie organique (`Knowledge/Ecom_Organic_Launch_Playbook.md`) permet de démarrer sans budget publicitaire, de générer les premières ventes et surtout d'accumuler gratuitement la data d'audience (pixel, emails, signaux d'intention) qui rend le payant rentable ensuite. Cas documenté : 0 → 5 000 €/jour avec 600 € de publicité au total. **Le blocage se déplace donc de l'argent vers la régularité** — 4-5 publications par jour pendant 1 à 2 mois. C'est le nouveau point de vigilance à surveiller chez cet entrepreneur, au vu du pattern de sur-consommation de méthode (problème n°3).
 
 ### 2. Recherche produit vécue comme le plus gros blocage
@@ -30,10 +31,9 @@
 - **Cause racine :** aucune. Le territoire a été choisi sur des critères de marché, ce qui est la bonne méthode. Il ne s'agit pas d'une erreur mais d'une facture à honorer.
 - **Traitement :** immersion documentée avant toute production de créative — cartographie des sous-groupes de l'audience, de leur vocabulaire et de leurs frustrations réelles. **Portable par BOS quasi intégralement**, ce qui ramène le coût de plusieurs semaines à une session de travail. À déclencher quand l'entrepreneur passera à cette étape.
 
-### 5. Profil incomplet (temps, budget chiffré, compétences, objectif)
-- **Impact :** Empêche BOS de calibrer un plan réaliste (combien d'heures par semaine, quel horizon, quel modèle de cash).
-- **Preuves :** informations non encore fournies au 29/07.
-- **Cause racine :** onboarding interrompu par le chargement de connaissance.
+### 5. Profil incomplet — ✅ résolu au 01/08/2026
+- **Fourni le 01/08 :** 2 h/jour · objectif 1-3 k€/mois d'ici fin décembre · trésorerie 1 500 €.
+- **Reste ouvert, non bloquant :** la motivation personnelle (le « pourquoi »). À récupérer en cours de route — c'est ce qui tient quand la motivation baisse, donc utile avant novembre plutôt qu'après.
 
 ---
 

@@ -27,9 +27,23 @@ Non choisi. Recherche produit à mener — c'est du travail BOS (analyse des pat
 Non choisi. Orientation par défaut vu le profil et le budget : France / Italie / Espagne (codes marketing transposables, CPM accessibles), ou marché de niche européen à faible concurrence pour un premier volume à budget réduit. À trancher après la recherche produit.
 
 ## Finances
-- **Trésorerie disponible :** à chiffrer — identifié comme blocage principal
+- **Trésorerie disponible :** **1 500 €** (déclaré le 01/08/2026)
 - **Capacité d'épargne mensuelle :** à chiffrer
 - **Seuil de référence :** ~3 000 € pour lancer des tests Meta Ads sérieux ; 5 000 € pour tester et itérer sans contrainte
+
+**Lecture de ces 1 500 €.** Le montant est sous le seuil du testing payant sérieux — ce qui **confirme la voie organique comme le bon choix, pas comme un pis-aller**. Sous 3 000 €, un test publicitaire s'arrête en cours de route : données inexploitables et capital brûlé. La règle qui en découle est simple : **ces 1 500 € ne se dépensent pas en publicité maintenant.** Ils constituent la réserve qui sera déployée quand l'organique aura désigné ce qui fonctionne — le cas documenté d'une bascule organique → payant a nécessité environ 600 € de publicité au total.
+
+**Allocation proposée :**
+
+| Poste | Montant | Note |
+|---|---|---|
+| Échantillons produits (2-3 candidats) | 100-200 € | Indispensable : sans produit en main, pas de contenu |
+| Shopify + domaine, 5 mois | ~150 € | Souvent ~1 €/mois les premiers mois |
+| Réserve tests payants (après validation organique) | 600-800 € | Ne pas y toucher avant |
+| Marge de sécurité / premier stock | ~350 € | — |
+
+## Temps disponible
+**2 h par jour** (~14 h/semaine, ~300 h sur l'horizon de l'objectif). Format de travail recommandé : un bloc unique de 2 h en concentration totale, ou 3 × 50 min si le rythme de la journée l'impose (`.claude/skills/organize/SKILL.md`). **Tournage en lots** — une session de tournage alimente plusieurs jours de publication.
 
 ## Acquisition
 Meta Ads prévu (canal unique au lancement). Aucun compte, aucune boutique, aucun actif en place à ce jour.

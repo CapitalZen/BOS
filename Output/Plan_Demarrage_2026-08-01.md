@@ -74,14 +74,40 @@ Sur sept étapes, **j'en porte cinq entièrement ou presque**. Ce qui reste : pu
 
 ---
 
-## Ce qui bloque réellement (le résultat du test)
+## Ce qui bloquait réellement — résolu le 01/08
 
-En écrivant ce plan, trois choses seulement manquent — et aucune n'est de la connaissance :
+Le test a produit exactement ce qu'il devait produire : **aucun manque de connaissance.** Trois manques factuels, tous comblés le jour même :
 
-1. **Le temps disponible par semaine.** Détermine la cadence de publication réalisable, donc l'horizon. Sans ce chiffre, je calibre au hasard.
-2. **Un objectif chiffré et une échéance.** Pas pour la pression — pour appliquer Parkinson : une échéance longue produit de la sur-analyse, une échéance courte force l'arbitrage.
-3. **La trésorerie.** Pas bloquante pour démarrer, mais elle détermine **quand** la bascule payante devient possible et à quelle taille.
+- **2 h par jour** (~14 h/semaine, ~300 h sur l'horizon)
+- **1 000 à 3 000 €/mois de CA d'ici fin décembre 2026**
+- **1 500 € de trésorerie**
 
-**Tout le reste est disponible.** La méthode est complète, le territoire est choisi, la shortlist existe, les hooks sont écrits, le critère d'arrêt est fixé. Le plan ne bute sur aucun manque de savoir.
+Reste ouvert et non bloquant : le « pourquoi » personnel.
 
-C'est le résultat que le test devait produire : **la sensation de ne pas en savoir assez ne correspondait à aucun manque réel de connaissance.**
+---
+
+## Calibrage sur ces chiffres
+
+**Ce que l'objectif demande vraiment.** À 60 € de panier moyen, 1 000 €/mois = 17 commandes, 3 000 €/mois = 50 commandes. **Moins de deux ventes par jour.** L'objectif n'est pas difficile commercialement ; il est exigeant en constance.
+
+**La trésorerie confirme la stratégie au lieu de la contraindre.** 1 500 € est sous le seuil du testing payant sérieux (~3 000 €) — donc l'entrée organique n'est pas un pis-aller, c'est le bon choix. Règle : **ces 1 500 € ne partent pas en publicité maintenant.** Ils sont la réserve déployée quand l'organique aura désigné ce qui marche. Allocation détaillée dans `Core/Business.md`.
+
+**Le temps est suffisant.** 2 h/jour est précisément le régime qui bat l'intensité irrégulière. Condition d'efficacité : **tourner en lots** — une session de tournage alimente plusieurs jours de publication, sinon le temps part en logistique quotidienne.
+
+**Décembre est un vent favorable, pas une contrainte.** C'est le meilleur mois de l'année en e-commerce, et particulièrement en mode et accessoires. L'objectif tombe sur le mois le plus porteur du calendrier — à condition d'être en ligne et rodé **avant novembre**.
+
+### Jalons — appliquer Parkinson à cinq mois
+
+Une échéance à cinq mois produit de la sur-analyse. On la découpe :
+
+| Mois | Ce qui doit exister à la fin |
+|---|---|
+| **Août** | Cartographie d'audience faite · produit tranché · format de contenu identifié · boutique en ligne |
+| **Septembre** | Cadence de publication tenue · premières ventes organiques · capture email active |
+| **Octobre** | Itération sur les formats qui prennent · page produit optimisée · premières dizaines de ventes |
+| **Novembre** | Bascule payante prudente (200-300 €) sur ce que l'organique a validé · préparation du pic |
+| **Décembre** | Objectif atteint sur le mois le plus porteur |
+
+### Le risque réel, nommé une fois
+
+Ni l'argent, ni le temps, ni l'objectif. **La régularité sur cinq mois.** C'est le seul intrant rare de ce plan, et c'est aussi le point de vigilance identifié au diagnostic. La parade est structurelle, pas motivationnelle : un plancher quotidien modeste, un plan écrit la veille, et du tournage en lots pour que la publication ne dépende jamais de l'envie du jour.

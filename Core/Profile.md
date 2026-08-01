@@ -3,7 +3,7 @@
 ## Entrepreneur
 - **Nom :** à compléter
 - **Expérience :** pré-lancement — pas encore de business, sort de la phase de choix
-- **Temps disponible :** à compléter
+- **Temps disponible :** **2 h par jour** (~14 h/semaine) — déclaré le 01/08/2026. Volume tout à fait suffisant pour l'horizon visé : c'est exactement le régime « plancher » qui bat l'intensité irrégulière (`Knowledge/Entrepreneur_Success_Factors.md` §3)
 - **Background :** à compléter
 
 ## Direction choisie
