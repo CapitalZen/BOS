@@ -132,10 +132,12 @@ Un pattern spécifique à la phase 4 (les premiers vrais résultats, quand la pr
 | On teste plusieurs produits à la fois par impatience | Chercher encore un nouveau produit | **Bombarder de nouveaux SKUs sur le produit qui marche déjà**, pas chercher ailleurs |
 | L'attention part vers de nouvelles idées séduisantes | Suivre l'objet brillant du moment | **Faire le 80/20 sur ce qui fonctionne déjà** (§9) |
 | La marge baisse, tout le monde s'agite | Paniquer, tout remettre en question | **Continuer les créatives et le CRO** — la marge se répare par l'exécution, pas par l'agitation |
-| Les résultats stagnent | Chercher des facteurs externes (marché, algorithme, saisonnalité) | **Envoyer massivement et intelligemment** — l'externe explique rarement plus qu'une petite part |
+| Les résultats stagnent | Blâmer une cause externe **vague et invérifiable** (« le marché est dur en ce moment », « l'algorithme me déteste ») | **Envoyer massivement et intelligemment** — l'externe vague explique rarement plus qu'une petite part |
 | Sur-consommation de contenu (vidéos, podcasts, threads) pendant que les résultats baissent | Chercher encore plus de méthode | **Faire le travail concret** — voir le test de complétude (`.claude/skills/organize/SKILL.md`) |
 
 **Le principe commun aux sept lignes :** le ralentissement crée une pression émotionnelle qui pousse vers la théorisation, la diversification ou l'attente — trois formes d'évitement de l'exécution. La réponse qui fonctionne est presque toujours l'augmentation du volume sur les fondamentaux déjà identifiés comme corrects, jamais un changement de direction pris sous le coup du doute.
+
+**La nuance à ne pas perdre sur la ligne « facteurs externes ».** Le principe cible l'excuse vague et invérifiable, pas la cause externe réelle et vérifiable — météo, calendrier, saisonnalité du produit, sophistication du marché expliquent mécaniquement une partie des baisses (`Ecom_Meta_Ads_Playbook.md` §2, diagnostic timing). La différence tient en une question : **peut-on la vérifier avec une donnée (Google Trends, un calendrier) en 5 minutes ?** Si oui, elle mérite d'être vérifiée avant de blâmer l'exécution. Si la réponse reste un sentiment diffus après vérification, c'est l'excuse à écarter et le volume reste la bonne réponse.
 
 ⚠️ **La condition qui rend ce tableau vrai, et qu'il faut vérifier avant de l'appliquer :** ce réflexe suppose que **la direction de base est déjà bonne** — bon produit, bon territoire, hypothèses déjà validées. Il ne s'applique pas à quelqu'un qui n'a pas encore de traction du tout : bombarder de volume une direction non validée ne fait qu'accélérer la perte (`PMF_Offer_Playbook.md`, le produit se valide avant de se scaler). C'est un réflexe de phase 4-5, pas de phase 1-2.
 
