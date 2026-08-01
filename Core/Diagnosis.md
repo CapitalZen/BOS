@@ -1,6 +1,6 @@
 # Diagnostic
 
-**Dernière MAJ :** 29/07/2026
+**Dernière MAJ :** 01/08/2026
 **Bottleneck :** La trésorerie. Tant qu'elle n'est pas au niveau, aucun choix de produit ne change quoi que ce soit — le produit ne se valide qu'en dépensant de la publicité.
 
 ---
@@ -24,7 +24,13 @@
 - **Cause racine :** la collecte est sans risque, l'exécution engage. **Statut clarifié le 29/07 au soir :** interrogé directement sur ce qui bloquait, l'entrepreneur a choisi explicitement le mode « construction de la base » plutôt que l'exécution guidée. Ce n'est donc plus un problème non identifié — c'est une préférence assumée.
 - **Position de BOS :** respecter le mode choisi, ne plus relancer. Continuer à produire de la valeur sur ce terrain (intégration, structuration, raisonnement explicité), et rester prêt à basculer le jour où l'entrepreneur le demande. Un rythme imposé produit du retrait, pas de l'action.
 
-### 4. Profil incomplet (temps, budget chiffré, compétences, objectif)
+### 4. Territoire non habité — coût d'immersion à payer avant la couche message
+- **Impact :** Ne bloque pas le choix du produit (les critères économiques restent premiers), mais expose la partie la plus décisive du business : les angles et le copy. Une audience sent immédiatement un message écrit de l'extérieur, et c'est précisément là que se joue l'écart face à un concurrent qui fait partie du marché.
+- **Preuves :** déclaré le 01/08/2026 — « c'est un univers que j'ai identifié comme porteur, pas que j'habite ».
+- **Cause racine :** aucune. Le territoire a été choisi sur des critères de marché, ce qui est la bonne méthode. Il ne s'agit pas d'une erreur mais d'une facture à honorer.
+- **Traitement :** immersion documentée avant toute production de créative — cartographie des sous-groupes de l'audience, de leur vocabulaire et de leurs frustrations réelles. **Portable par BOS quasi intégralement**, ce qui ramène le coût de plusieurs semaines à une session de travail. À déclencher quand l'entrepreneur passera à cette étape.
+
+### 5. Profil incomplet (temps, budget chiffré, compétences, objectif)
 - **Impact :** Empêche BOS de calibrer un plan réaliste (combien d'heures par semaine, quel horizon, quel modèle de cash).
 - **Preuves :** informations non encore fournies au 29/07.
 - **Cause racine :** onboarding interrompu par le chargement de connaissance.
@@ -35,3 +41,4 @@
 | Date | Changement | Raison |
 |------|-----------|--------|
 | 29/07/2026 | Diagnostic initial créé | Première session — direction e-commerce arrêtée, deux blocages déclarés |
+| 01/08/2026 | Ajout du problème n°4 : territoire identifié mais non habité | Réponse de l'entrepreneur — coût d'immersion à intégrer avant la couche message |

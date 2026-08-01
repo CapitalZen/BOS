@@ -20,3 +20,6 @@
 - Proposition de deux modes explicites. **Choix de l'entrepreneur : mode A — construction de la base.**
 - Règle actée : plus de relance sur l'exécution. BOS continue d'intégrer, en signalant systématiquement ce qui est neuf et ce qui est déjà couvert.
 - Livrables restés disponibles pour le jour où le mode change : protocole de recherche produit, territoire et système de contenu, shortlist d'archétypes scorés.
+
+## 01/08/2026
+Précision sur le territoire : identifié comme porteur, pas habité. Consigné dans Business.md et ajouté au Diagnostic (problème n°4). Conséquence retenue : le coût d'immersion est réel et se paie avant la couche message — angles et copy — pas avant le choix du produit. Portable par BOS.
