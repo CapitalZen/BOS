@@ -90,7 +90,11 @@ Reste ouvert et non bloquant : le « pourquoi » personnel.
 
 **Ce que l'objectif demande vraiment.** À 60 € de panier moyen, 1 000 €/mois = 17 commandes, 3 000 €/mois = 50 commandes. **Moins de deux ventes par jour.** L'objectif n'est pas difficile commercialement ; il est exigeant en constance.
 
-**La trésorerie confirme la stratégie au lieu de la contraindre.** 1 500 € est sous le seuil du testing payant sérieux (~3 000 €) — donc l'entrée organique n'est pas un pis-aller, c'est le bon choix. Règle : **ces 1 500 € ne partent pas en publicité maintenant.** Ils sont la réserve déployée quand l'organique aura désigné ce qui marche. Allocation détaillée dans `Core/Business.md`.
+**La trésorerie (rectifié le 01/08 au soir).** Il n'y a pas 1 500 € — c'est un objectif à fin décembre. La trésorerie de départ est quasi nulle.
+
+**Ce que ça change au plan : rien sur la stratégie, tout sur le coût d'entrée.** L'organique ne demande aucun budget publicitaire, donc la séquence tient telle quelle. Ce qui change, c'est qu'on descend au minimum absolu : **30 à 50 € sur le premier mois** — un échantillon produit pour filmer, un nom de domaine. Tournage, montage et publication coûtent zéro. La boutique n'est engagée que quand il y a de la demande à convertir.
+
+**La séquence de financement devient explicite :** contenu (0 €) → audience et signaux de demande → premières ventes sans stock → réserve constituée → bascule payante prudente. Chaque étape finance la suivante. La transition semi-marque (1 000-2 000 €) ne se déclenche qu'après 50-100 ventes, donc payée par le business et jamais par l'épargne.
 
 **Le temps est suffisant.** 2 h/jour est précisément le régime qui bat l'intensité irrégulière. Condition d'efficacité : **tourner en lots** — une session de tournage alimente plusieurs jours de publication, sinon le temps part en logistique quotidienne.
 

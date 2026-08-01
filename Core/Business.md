@@ -27,20 +27,25 @@ Non choisi. Recherche produit à mener — c'est du travail BOS (analyse des pat
 Non choisi. Orientation par défaut vu le profil et le budget : France / Italie / Espagne (codes marketing transposables, CPM accessibles), ou marché de niche européen à faible concurrence pour un premier volume à budget réduit. À trancher après la recherche produit.
 
 ## Finances
-- **Trésorerie disponible :** **1 500 €** (déclaré le 01/08/2026)
-- **Capacité d'épargne mensuelle :** à chiffrer
+- **Trésorerie disponible aujourd'hui :** **quasi nulle** (rectifié le 01/08/2026 — les 1 500 € sont un objectif, pas un capital détenu)
+- **1 500 € = objectif de trésorerie à fin décembre 2026**, pas un point de départ
+- **Capacité d'épargne mensuelle :** à chiffrer — devenue la donnée la plus importante du dossier
 - **Seuil de référence :** ~3 000 € pour lancer des tests Meta Ads sérieux ; 5 000 € pour tester et itérer sans contrainte
 
-**Lecture de ces 1 500 €.** Le montant est sous le seuil du testing payant sérieux — ce qui **confirme la voie organique comme le bon choix, pas comme un pis-aller**. Sous 3 000 €, un test publicitaire s'arrête en cours de route : données inexploitables et capital brûlé. La règle qui en découle est simple : **ces 1 500 € ne se dépensent pas en publicité maintenant.** Ils constituent la réserve qui sera déployée quand l'organique aura désigné ce qui fonctionne — le cas documenté d'une bascule organique → payant a nécessité environ 600 € de publicité au total.
+**Ce que change le budget quasi nul.** Rien sur la stratégie : la voie organique était déjà retenue et elle ne demande pas de budget publicitaire. Ce qui change, c'est que **le coût de démarrage doit être ramené à son minimum absolu** et que rien ne peut être engagé avant que des revenus existent.
 
-**Allocation proposée :**
+**Le minimum réel pour démarrer :**
 
-| Poste | Montant | Note |
+| Poste | Montant | Quand |
 |---|---|---|
-| Échantillons produits (2-3 candidats) | 100-200 € | Indispensable : sans produit en main, pas de contenu |
-| Shopify + domaine, 5 mois | ~150 € | Souvent ~1 €/mois les premiers mois |
-| Réserve tests payants (après validation organique) | 600-800 € | Ne pas y toucher avant |
-| Marge de sécurité / premier stock | ~350 € | — |
+| Un échantillon produit (pour filmer) | 15-40 € | Dès le produit tranché |
+| Nom de domaine | ~10 € | Avec la boutique |
+| Shopify | ~1 €/mois les premiers mois, puis ~30 € | **Seulement quand il y a de la demande à convertir** |
+| Tournage, montage, publication | **0 €** | Un téléphone suffit |
+
+**Total pour exister en ligne et publier : de l'ordre de 30 à 50 € sur le premier mois.** Le reste s'auto-finance : les premières ventes paient la boutique, la boutique paie les échantillons suivants, et la transition semi-marque (1 000-2 000 €) ne se déclenche qu'après 50-100 ventes — donc financée par le business, jamais par l'épargne.
+
+**Séquence de financement retenue :** contenu (0 €) → audience et signaux de demande → premières ventes en fulfillment sans stock → réserve constituée → bascule payante prudente. C'est la seule séquence qui fonctionne sans capital de départ, et elle est documentée (`Knowledge/Ecom_Organic_Launch_Playbook.md`).
 
 ## Temps disponible
 **2 h par jour** (~14 h/semaine, ~300 h sur l'horizon de l'objectif). Format de travail recommandé : un bloc unique de 2 h en concentration totale, ou 3 × 50 min si le rythme de la journée l'impose (`.claude/skills/organize/SKILL.md`). **Tournage en lots** — une session de tournage alimente plusieurs jours de publication.

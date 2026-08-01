@@ -29,3 +29,6 @@ Message envoyé : « arrête de surconsommer du contenu, dans 99% des cas t'as d
 
 ## 01/08/2026 (3)
 Chiffres fournis : 2 h/jour, objectif 1-3 k€/mois de CA d'ici fin décembre 2026, trésorerie 1 500 €. Goal.md créé. Business.md complété (allocation des 1 500 €, temps). Bottleneck révisé : la trésorerie n'est plus le goulot, la régularité de publication le devient. Problèmes 1 et 5 du diagnostic passés en résolu. Plan calibré avec jalons mensuels août → décembre.
+
+## 01/08/2026 (4)
+Rectification : les 1 500 € ne sont pas détenus, c'est un objectif à fin décembre. Trésorerie de départ quasi nulle. Fichiers corrigés (Business, Goal, Diagnosis, plan). Stratégie inchangée — l'organique ne demande pas de budget pub. Coût de démarrage ramené à ~30-50 € le premier mois. Nouvelle donnée manquante et décisive : revenu actuel et capacité d'épargne mensuelle.
