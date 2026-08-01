@@ -189,3 +189,14 @@ Le livrable de ce SOP n'est pas un rapport, c'est **une phrase** — la promesse
 Elle alimente ensuite : titre de page de vente, angles publicitaires, scripts de prospection, structure de l'offre (voir `PMF_Offer_Playbook.md`, sections 5 et 6).
 
 **Garde-fou :** un entrepreneur qui écrit sa page de vente avant d'avoir fait ce travail devine. Et deviner, ça rate. Si BOS voit du copy produit sans recherche client en amont, le nommer et faire la recherche d'abord — c'est 1 à 2 heures de travail BOS, et ça change tout le reste.
+
+**Format long, dès qu'une équipe créative ou plusieurs angles sont en jeu.** La phrase unique suffit à démarrer ; dès que la recherche doit alimenter plusieurs personnes ou plusieurs mois de production, elle se condense en un document de référence à 6 sections — **la bible de l'équipe créative**, mise à jour à chaque cycle de la boucle de rétroaction (`Ecom_Meta_Ads_Playbook.md` §2) :
+
+1. **Avatars** — les segments identifiés, avec ce qui les distingue
+2. **Douleurs, résultat rêvé, désirs** — classés par ordre d'importance, pas en vrac
+3. **Angles marketing** — un angle par douleur ou désir exploitable
+4. **Verbatim client** — les formulations exactes collectées à l'étape 1
+5. **Commentaires et objections** — ce qui revient, avec sa fréquence
+6. **Environnement** — niveau de conscience et de sophistication du marché (`Schwartz_Breakthrough_Advertising.md`)
+
+Ce document ne se fige jamais : chaque nouvelle donnée (commentaires, questionnaire post-achat, SAV) vient l'enrichir, jamais le remplacer entièrement.

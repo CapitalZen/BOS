@@ -287,13 +287,15 @@ Les 4 critères précédents sont le socle. Pour viser une boutique qui tient da
 | **Evergreen** | Demande présente toute l'année, pas un pic unique |
 | **ROAS BE** | **< 1,5** — en dessous de ce seuil, la marge absorbe les hausses de CPM au scaling |
 | **Qualité réelle** | Prérequis de la rétention et du taux de litige |
-| **TAM large** | Marché adressable assez grand pour absorber le scaling |
+| **TAM large** | Marché adressable assez grand pour absorber le scaling — méthode d'estimation ci-dessous |
 | **AOV minimum** | **≥ 35 €** par commande (+20 % environ sur le marché US). Pour viser un très gros volume, les praticiens américains posent plutôt **60 $+** |
 | **COGS** | **< 25 % du prix de vente.** Au-delà, les marges ne supportent pas la hausse inévitable du coût d'acquisition |
 | **Contenu déjà disponible en masse** | Réduit le coût de production créative à presque zéro |
 | **Bundle / upsell / cross-sell performant** | Facultatif mais décisif sur l'AOV |
 | **Récurrence** | Facultatif — un consommable ou un abonnement change l'économie du business |
 | **Produit léger** | Recommandé — le poids pèse sur le coût logistique et les délais |
+
+**Estimer le TAM avant de s'engager :** poser la question « combien de personnes ont le problème que ce produit résout ? ». *Douleurs plantaires → des dizaines de millions de personnes rien qu'aux États-Unis (15-20 % des adultes) : le marché absorbe un scaling ambitieux. Un accessoire de niche très marqué esthétiquement → quelques centaines de milliers : le plafond arrive en quelques mois, quel que soit le talent d'exécution.* Un TAM trop petit n'est pas un problème d'exécution — c'est une limite structurelle qu'aucune optimisation ne dépasse. Si le TAM est volontairement restreint, l'accepter comme un **quick win** et avoir le produit suivant déjà en préparation plutôt que de s'acharner à en tirer plus qu'il ne peut donner.
 
 ### Sourcing : chercher ceux qui ont les mêmes armes que soi
 
@@ -910,6 +912,7 @@ Idéalement, on les combine toutes.
 **Trois règles opérationnelles :**
 - **Toujours négocier les droits de réutilisation publicitaire** — sans clause écrite, le contenu ne peut pas servir en ads
 - **Ne jamais juger un créateur sur 1-2 vidéos.** Certains deviennent gagnants au 6ᵉ ou 10ᵉ essai. S'il correspond au persona, commander en volume
+- **La créatrice n'est pas toujours l'avatar.** Elle peut représenter une aspiration plutôt qu'un miroir — une créatrice sportive et mince peut très bien s'adresser à une audience en surpoids qui veut perdre du poids : ce n'est pas à qui elle ressemble qui compte, c'est ce qu'elle incarne pour la personne visée (`Ecom_Funnel_Architecture.md` §2 bis, le Self-Concept — angle du futur projeté)
 - **Tout stocker, systématiquement.** Une bibliothèque de rushes bien organisée est l'assurance-vie du scaling : elle permet de produire de la variété de façon exponentielle plutôt que linéaire
 
 ### UGC : demander du B-roll, pas du facecam
