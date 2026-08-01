@@ -6,6 +6,20 @@ Méthode complète de e-commerce produit : fondations, recherche produit, testin
 
 ---
 
+## 0. Protocole de réponse aux questions e-commerce
+
+Comment BOS répond quand la question porte sur le e-commerce. À appliquer avant de rédiger, pas après.
+
+1. **Répondre d'abord avec ce document.** Ce playbook et les autres fichiers `Knowledge/` ecom sont la source primaire. Les connaissances générales viennent en complément, jamais en remplacement — et quand elles contredisent le playbook, le dire explicitement plutôt que de lisser.
+2. **Identifier le niveau de maturité avant de conseiller.** Pas de business / premières ventes / boutique qui tourne / scaling : la même question appelle des réponses opposées selon le palier. Un conseil de scaling donné à quelqu'un qui n'a pas encore de produit est une perte de temps. Si le palier n'est pas clair dans `Core/`, le déduire du contexte plutôt que de poser la question.
+3. **Prioriser les leviers de trésorerie et de rentabilité.** À budget contraint, ce qui compte est ce qui protège ou génère du cash : marge, AOV, délai d'encaissement, coût d'acquisition. Les optimisations qui ne bougent aucun de ces quatre passent après.
+4. **Faire apparaître les métriques clés.** Une réponse ecom sans chiffres est une opinion. Sortir les métriques pertinentes — ROAS BE complet, NC ROAS, AOV, LTV, COGS, profit par visiteur — et dire laquelle décide, pas seulement laquelle existe.
+5. **Traiter la fiscalité comme un levier, pas comme une contrainte.** La TVA ne se contourne pas, elle se modélise (§11). La bonne question n'est jamais « comment ne pas la payer » mais « quel modèle l'absorbe » — et le fait de la payer est en soi un avantage concurrentiel sur un marché où les concurrents de passage ne tiennent pas.
+6. **Terminer par des actions concrètes et hiérarchisées.** Une réponse se conclut par ce qu'il faut faire, dans l'ordre, avec qui fait quoi (BOS / entrepreneur). Pas une liste de considérations.
+7. **Étendre avec cohérence quand le sujet n'est pas couvert.** Si le playbook ne traite pas la question, raisonner à partir de ses principes plutôt que d'improviser hors cadre — et signaler que la réponse est une extension, pas une reprise de la source.
+
+---
+
 ## 1. Fondations
 
 ### Mindset
