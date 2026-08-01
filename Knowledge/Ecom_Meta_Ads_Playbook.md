@@ -1220,6 +1220,8 @@ Relevé sur une série de boutiques auditées. Ces points ne sont pas des raffin
 
 **Disperser la preuve sociale au lieu de la regrouper.** Un seul bloc d'avis est vu par ceux qui scrollent jusque-là. Intercaler des avis **entre les sections**, sous des formes variées — un simple verbatim en texte, un carrousel, un bloc classique. **Mention spéciale : un avis placé directement sous le bouton d'ajout au panier**, à l'endroit exact de l'hésitation.
 
+**Ordonner les avis par objection, pas par date.** Un avis générique rassure peu ; un avis qui répond précisément au doute que le visiteur est en train de se poser en convertit nettement plus. Méthode pour obtenir puis classer ce type d'avis : `Customer_Research_SOP.md` §2 bis.
+
 **Le formulaire de capture d'email doit offrir quelque chose.** « Recevez nos actualités » ne convertit pas. Une réduction — de l'ordre de 10 % — transforme le taux de capture, et l'email capté est ce qui finance la récurrence (§11).
 
 **Pourquoi ça marche : le principe de réciprocité.** Quelqu'un qui n'est pas prêt à laisser son email n'est pas prêt à sortir sa carte — capter l'email est le premier petit pas qui rend le second possible. Offrir quelque chose en premier (même modeste) avant de demander crée la relation de confiance dans le bon sens.

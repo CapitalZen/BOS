@@ -123,6 +123,20 @@ L'enquête de l'étape 2 est une campagne ponctuelle. **Le questionnaire post-ac
 
 **Y adosser une question NPS** (« recommanderiez-vous à un proche, de 0 à 10 ? ») transforme ce capteur qualitatif en signal quantitatif suivi dans le temps — méthodologie et boucle complète (avis publics, SAV comme source de données, itération produit une variable à la fois) dans `Ecom_Meta_Ads_Playbook.md` §8.
 
+### Fabriquer des avis qui répondent aux doutes réels, pas à des questions génériques
+
+Une question ouverte générique (« que pensez-vous du produit ? ») produit un avis générique — utile pour le NPS, faible comme preuve sociale sur une page produit. Pour obtenir des avis qui **lèvent un doute précis**, la question doit être conçue pour ça.
+
+**La méthode, en trois temps :**
+
+1. **Lister les 6 à 7 points de doute les plus probables du produit**, classés du plus bloquant au plus mineur — avant même de collecter le premier avis. Ce sont ses vraies faiblesses ou ses zones d'incertitude perçue (fragilité, pièce manquante, taille, durabilité), pas ses qualités. Difficile à faire honnêtement quand on est convaincu de son propre produit — le faire quand même, c'est précisément ce qui rend la liste utile.
+2. **Poser une question ciblée sur chaque point**, par email, chat ou appel après achat. Pas « êtes-vous satisfait ? » mais une question qui appelle une réponse sur le doute précis : pour un risque de casse à la livraison, *« comment avez-vous trouvé l'emballage à réception ? »* ; pour une pièce parfois oubliée, *« avez-vous bien trouvé [l'accessoire] dans la boîte ? »*. La réponse devient un avis qui répond exactement à ce que le prochain visiteur se demande.
+3. **Republier dans l'ordre des doutes**, le plus important en premier — pas dans l'ordre de réception. L'ordre d'affichage doit suivre l'ordre des objections, pas la chronologie de collecte.
+
+⚠️ **Ne jamais rédiger l'avis à la place du client.** Un avis écrit ou substantiellement modifié par la marque est un faux avis au sens du droit de la consommation — même logique déjà posée en Réserves (`Ecom_Meta_Ads_Playbook.md`) sur les faux commentaires. La question oriente vers le sujet ; la réponse doit rester celle du client, mot pour mot.
+
+**L'avis imparfait, délibérément gardé.** Une série d'avis unanimement parfaits éveille le soupçon plutôt que la confiance (`Ecom_Meta_Ads_Playbook.md` §5, page produit — un mix de 4 et 5 étoiles crédibilise l'ensemble). Le cas le plus utile à garder visible : un client déçu au départ (produit endommagé, erreur de commande) qui souligne ensuite la réactivité et le geste commercial de la marque. Ce n'est pas un avis négatif à masquer — c'est la meilleure preuve disponible que le SAV tient ses promesses quand quelque chose tourne mal, exactement le rôle que joue déjà la demande d'avis après résolution (`Ecom_Meta_Ads_Playbook.md` §8, le SAV comme capteur).
+
 ### Les 10 questions, par intention stratégique
 
 **Déclencheur d'achat**
