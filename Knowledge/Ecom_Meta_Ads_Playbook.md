@@ -1053,7 +1053,29 @@ Livraison · remboursement · sécurité du paiement · **efficacité réelle du
 **6. Footer**
 Contact, politique de livraison, horaires du support. Ça paraît secondaire — **le client scrolle jusqu'en bas avant de décider**, et l'absence de ces éléments est un signal de méfiance.
 
-**⚡ Mobile d'abord, sans exception.** L'essentiel du trafic vient du téléphone. **Si le bouton d'action n'est pas visible au premier scroll sur mobile, la majorité des conversions est perdue** avant même que le contenu soit lu.
+**⚡ Mobile d'abord.** L'essentiel du trafic vient du téléphone. **Si le bouton d'action n'est pas visible au premier scroll sur mobile, la majorité des conversions est perdue** avant même que le contenu soit lu.
+
+**Mais « mobile d'abord » ne veut pas dire « mobile seulement ».** Erreur très répandue et facile à corriger : la page est travaillée sur téléphone, et la version ordinateur est livrée telle que le thème la produit — images surdimensionnées, sections décalées, textes mal alignés. Si une part du trafic arrive sur ordinateur, elle mérite le même soin ; c'est souvent le trafic au panier le plus élevé. **Ouvrir sa propre page sur les deux supports avant de dépenser en publicité**, pas seulement dans l'aperçu du thème.
+
+### L'audit rapide — les points qui manquent le plus souvent
+
+Relevé sur une série de boutiques auditées. Ces points ne sont pas des raffinements : ce sont des absences fréquentes qui coûtent des ventes.
+
+**Trois offres, jamais deux.** L'effet de leurre (`Ecom_Funnel_Architecture.md` §6) suppose un choix à trois branches, dont celle du milieu est mise en avant. **Avec deux offres seulement, le client prend la première** — la moins chère, la moins rentable. Passer de deux à trois options change le panier moyen sans changer le produit.
+
+**Les trois types d'images sont obligatoires**, et il en manque presque toujours un :
+
+| Type | Ce qu'il règle |
+|---|---|
+| **Fond uni ou neutre** | Ce que le client reçoit exactement — lève l'incertitude de base |
+| **Caractéristiques annotées** | Répond aux questions simples sans qu'il ait à chercher |
+| **Mise en situation** | Montre quelqu'un qui l'utilise — c'est ce qui permet la projection |
+
+**Disperser la preuve sociale au lieu de la regrouper.** Un seul bloc d'avis est vu par ceux qui scrollent jusque-là. Intercaler des avis **entre les sections**, sous des formes variées — un simple verbatim en texte, un carrousel, un bloc classique. **Mention spéciale : un avis placé directement sous le bouton d'ajout au panier**, à l'endroit exact de l'hésitation.
+
+**Le formulaire de capture d'email doit offrir quelque chose.** « Recevez nos actualités » ne convertit pas. Une réduction — de l'ordre de 10 % — transforme le taux de capture, et l'email capté est ce qui finance la récurrence (§11).
+
+**Le footer se remplit.** Tous les liens vers les pages légales et de politique, plus **l'adresse du support et ses horaires**. Ne pas craindre de recevoir des messages : un client qui écrit avant d'acheter est un client qui hésite, donc une vente récupérable — et l'absence de contact visible est un des signaux de méfiance les plus forts.
 
 ### Les 4 erreurs qui tuent une page produit
 
