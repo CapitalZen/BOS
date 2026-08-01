@@ -58,6 +58,23 @@ Un lancement sous-capitalisé échoue rarement à cause de la méthode : il éch
 
 Pas un large catalogue. On part d'**un seul produit à fort potentiel**, capable de générer un cash-flow stable, et on bâtit la niche autour de lui. **La niche n'est pas choisie en amont de façon abstraite : elle se dessine à partir du produit gagnant.** L'identité visuelle, le positionnement et le catalogue complémentaire viennent ensuite.
 
+### La règle qui résume la discipline : tester des angles, pas des produits
+
+> **Tester beaucoup d'angles marketing, et peu de produits.**
+
+C'est l'inverse de ce que fait un débutant, qui change de produit à chaque test raté et n'apprend jamais rien — parce qu'un produit abandonné après un angle n'a pas été testé, il a été effleuré.
+
+Chaque produit sérieux mérite plusieurs angles, plusieurs personas, plusieurs niveaux de conscience avant d'être déclaré mort. Le coût d'un angle supplémentaire est faible ; le coût d'un nouveau produit est un cycle complet — sourcing, page, créatives, budget.
+
+**Les conditions non négociables autour de ça :**
+- **Le client ne doit jamais hésiter sur le sérieux de la boutique.** Pas une seconde de doute — c'est un tueur de conversion silencieux, et ça ne se rattrape pas au CRO
+- **Le client doit être content en ouvrant le colis.** Sans ça, tout le reste est un seau percé
+- **Les avis clients dictent les corrections** — pas l'intuition du fondateur
+- **Les décisions ne se prennent jamais sous le coup de l'émotion** — un plan écrit d'avance existe précisément pour les jours où les chiffres font peur
+- **Le juridique et la comptabilité se traitent comme dans un vrai business**, dès le début
+- **L'optimisation des coûts est continue**, pas un chantier de crise
+- **La compréhension du client passe avant tout le reste** — c'est le seul actif qui se transfère d'un produit au suivant
+
 ### Le 80/20 de la structure : démarrer sur une niche large
 
 Il existe deux façons de structurer une boutique, et elles ne s'opposent qu'en apparence.
