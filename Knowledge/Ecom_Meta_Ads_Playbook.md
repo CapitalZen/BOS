@@ -223,6 +223,18 @@ Un produit se vend s'il coche au moins une de ces cinq raisons. **Tout le market
 
 Cette grille recoupe le désir de masse de `PMF_Offer_Playbook.md` §6 : on ne crée jamais le désir, on branche le produit sur un désir existant.
 
+### Le filtre douleur en 3 critères — pour un budget sous ~500 €
+
+Sur un budget très serré, il ne faut pas se permettre d'apprendre au marché qu'il a un problème, ni de lui demander de patienter pour voir un résultat. Trois conditions, à vérifier **simultanément** avant d'aller plus loin :
+
+| Critère | Ce qu'il exclut |
+|---|---|
+| **Structurelle** | Le problème existe déjà et le client le sait — pas de produit qui exige d'éduquer le marché depuis zéro |
+| **Intense** | Une gêne occasionnelle n'achète pas dans l'urgence ; il faut une frustration récurrente ou une vraie douleur quotidienne |
+| **Résultat perçu comme proche** | Une promesse à 6 mois ne convainc pas quelqu'un qui engage ses derniers euros — l'effet doit être visible vite |
+
+C'est un filtre plus dur que la grille générale ci-dessous, à réserver aux budgets qui ne permettent aucun deuxième essai.
+
 ### Les 4 critères d'un winning product
 
 **1. Marge suffisante — viser x4,5 sur le COGS, idéalement x5.**
@@ -594,6 +606,28 @@ Une approche différente, également répandue chez des praticiens qui scalent. 
 - *Signal « on laisse tourner » :* pas encore rentable, mais excellents CTR, CPC bas, coût par ajout au panier bas → il y a de la traction, le problème est ailleurs (offre, page, prix) → optimiser la boutique.
 
 **Gestion des CBO dans le temps :** on alimente la CBO de nouvelles créatives ; **dès qu'une CBO fonctionne bien, on n'y touche plus** et on en crée une nouvelle à nourrir. Ne jamais perturber ce qui marche.
+
+### Diagnostiquer où ça casse — la métrique désigne l'endroit, pas le produit
+
+L'erreur la plus fréquente en lecture de test : conclure « le produit ne marche pas » alors que le funnel casse à une étape précise, réparable sans toucher au produit. Trois métriques, trois causes distinctes — **traiter dans l'ordre, ne jamais sauter à la fin** :
+
+| Étape | Métrique qui alerte | Ce qui est en cause | Ce qui n'est PAS en cause |
+|---|---|---|---|
+| **Impression → clic** | **CTR** faible (repère indicatif : sous 1 % préoccupant, au-dessus de 2-3 % ça accroche — à calibrer sur sa propre niche, aucun seuil universel) | La créative : visuel, hook, ou ciblage | Le produit |
+| **Clic → ajout au panier** | **Taux d'ajout au panier** faible malgré un bon CTR | Le message ne résonne pas, la page est confuse, la promesse manque de crédibilité — **c'est la seule étape où le produit lui-même peut être en cause** | Retravailler positionnement et page *avant* de conclure sur le produit |
+| **Ajout au panier → achat** | **CVR** faible malgré un bon taux d'ajout | Le prix ne semble pas justifié, la garantie est absente ou peu visible, une mauvaise surprise apparaît au paiement (frais de livraison révélés tard) | Le produit — c'est l'offre ou la confiance |
+
+**La règle qui en découle :** ne jamais changer de produit sans savoir à quelle étape le funnel casse. Un CTR faible se corrige avec un nouvel angle ou hook, pas avec un nouveau produit. Cette lecture s'ajoute à la règle déjà en place plus haut (ne jamais couper sur une métrique isolée, juger sur le ROAS complet) — elle en précise le diagnostic, étape par étape.
+
+### Calibration pour un budget de démarrage très serré (~200-400 € au total)
+
+Le paramétrage donné plus haut (100 €/jour, 10-15 créatives) suppose un budget qui permet plusieurs cycles. Sous ~500 € au total, il faut descendre d'un cran sans perdre la rigueur :
+
+- **50 €/jour**, sur **3 à 5 jours** — 150 à 250 € pour obtenir de la donnée exploitable. En dessous de ce plancher journalier, Meta manque de signal, le CPM explose et la donnée est trop fragmentée pour décider.
+- **3 à 6 créatives**, 2-3 angles distincts — pas 10-15. Sur un tout petit budget, chaque créative doit recevoir assez de diffusion pour produire un signal lisible ; en disperser trop dilue le budget sans rien apprendre sur aucune.
+- **Ciblage broad**, sans restriction d'intérêt — cohérent avec le reste du document.
+
+**Le mécanisme derrière la règle « ne toucher à rien avant 48 h » :** ce n'est pas une question de patience, c'est technique. Chaque modification apportée à une campagne active **relance sa phase d'apprentissage depuis le début** — l'algorithme perd la donnée déjà accumulée et recommence à explorer. Couper ou modifier avant 48 h ne fait donc pas qu'arrêter un test qui semblait mauvais : ça détruit l'apprentissage déjà payé. Avec un budget qui ne permet qu'un ou deux tests au total, cette règle n'est pas négociable.
 
 ### L'environnement du compte — ce qui influence les résultats avant même la créative
 
@@ -1612,6 +1646,8 @@ Le corps de la méthode est solide. Les points ci-dessous sont faux, illégaux o
 12. **« Alternative à une grande marque » n'est pas un blanc-seing.** Vendre un concurrent moins cher est parfaitement légal ; reproduire un design protégé, un brevet ou une marque est une contrefaçon. La vérification se fait avant de sourcer — dépôts de marque, dessins et modèles — pas après la mise en demeure.
 
 13. **L'histoire de fondateur doit être vraie.** Une source suggère que « même si votre vraie motivation était de gagner de l'argent, vous pouvez construire une histoire » autour du problème résolu. La nuance est décisive : **on choisit laquelle de ses vérités on raconte, on n'en invente pas une.** Constater un problème réel et décider de le résoudre est une histoire authentique et suffisante. Inventer un vécu personnel qui n'a pas eu lieu — une maladie, un accident, une expérience fondatrice fictive — est une pratique commerciale trompeuse dès lors qu'elle pèse sur la décision d'achat, et c'est une des fraudes les plus fréquemment sanctionnées en e-commerce. BOS écrit des récits de marque à partir de ce qui est vrai ; il n'en fabrique pas.
+
+14 bis. **Télécharger des vidéos TikTok organiques ou des photos d'avis Amazon pour les utiliser directement comme créatives publicitaires** — recommandé par une source comme économie de démarrage sur budget serré. C'est la même contrefaçon que le point suivant, seulement présentée pour un public déjà sous contrainte budgétaire, donc plus tentant. Le contenu appartient à son auteur (créateur TikTok, client qui a posté l'avis), qu'il soit UGC commandé par un concurrent ou publication spontanée. **Ce qui est légitime et gratuit :** analyser ce contenu pour son angle et sa structure, puis produire son propre équivalent — un tournage même simple au téléphone coûte 0 €, contrairement à ce que suggère la source.
 
 14. **« Utilisez les publicités de vos concurrents, adaptées » — non.** La même source le recommande en phase de validation. C'est le point 2 des présentes réserves : s'inspirer d'un angle, d'une structure ou d'un script est légitime ; réutiliser le matériel filmé d'un concurrent est une contrefaçon, et Andromeda regroupe désormais les créatives similaires sous un même identifiant (§3), ce qui la rend en plus inefficace. Produire son propre contenu dès le premier jour est aujourd'hui à la fois la seule voie légale et la plus performante.
 
