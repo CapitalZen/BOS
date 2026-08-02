@@ -239,6 +239,10 @@ Sur un budget très serré, il ne faut pas se permettre d'apprendre au marché q
 
 C'est un filtre plus dur que la grille générale ci-dessous, à réserver aux budgets qui ne permettent aucun deuxième essai.
 
+**Graduer le critère « Intense » quand le classement hésite :** gêne légère (inconfort occasionnel, la personne vit très bien sans solution, n'achète que si le produit est bon marché ou visuellement irrésistible) → frustration fréquente (problème régulier, déjà activement recherché, un bon positionnement suffit à déclencher l'achat) → douleur récurrente (quotidienne, touche sommeil/confort/confiance/productivité — la zone cible). Question de calibrage rapide : *si le client ne résout pas ce problème, que perd-il chaque semaine ?* Plus la perte nommée est concrète, plus le produit est vendable.
+
+**Pourquoi le critère « résultat perçu comme proche » pèse autant : le cerveau valorise la récompense rapide, pas la promesse différée.** Un produit dont l'effet est visible en quelques minutes ou dès la première utilisation (ceinture lombaire, patch anti-migraine) convainc plus facilement qu'une solution dont le résultat n'apparaît qu'après plusieurs semaines (complément alimentaire, programme long) — même à douleur égale. Ça ne disqualifie pas les seconds, mais ça prévient : plus le résultat est différé, plus il faut compenser par de la preuve (témoignages avec timeline précise, mécanisme expliqué) pour combler l'attente.
+
 ### Les 4 critères d'un winning product
 
 **1. Marge suffisante — viser x4,5 sur le COGS, idéalement x5.**
@@ -549,6 +553,21 @@ Filtres de départ : pays cible · **50 publicités actives minimum** · trafic 
 **Les alternatives aux grandes marques.** Il existe des produits vendus très cher par des marques installées dont on peut proposer un équivalent fonctionnel bien moins cher. L'intérêt : **la grande marque a déjà payé l'éducation du marché.** Une masse d'acheteurs veut la fonction sans pouvoir mettre le prix. ⚠️ Vendre un concurrent moins cher est légal ; reproduire un design protégé, un brevet ou une marque ne l'est pas — voir Réserves.
 
 **La méthode crowdfunding.** Surveiller les plateformes de financement participatif et repérer les nouveaux produits qui lèvent le plus : c'est une validation directe que le marché croit au projet. Rechercher ensuite ce produit sur les plateformes de sourcing chinoises — quand une tendance apparaît sur le marché américain, une version accessible sort rapidement. **Si la réplique existe déjà, le signal est fort.** À réserver à quelqu'un qui a déjà de l'expérience : le potentiel est trop grand pour être gâché par une exécution approximative, et il faut s'attendre à être copié massivement à son tour.
+
+### Le point de départ à budget zéro : chercher directement par douleur sur AliExpress
+
+Les méthodes ci-dessus supposent un minimum d'outils (ad spy, bases de marques, veille). **Quand il n'y a même pas ce budget-là**, la recherche part directement des mots-clés de douleur plutôt que des tendances : *sommeil, dos, migraine, sciatique, cervicale, ventre, anxiété, transpiration, fatigue* — des douleurs déjà présentes dans le quotidien des gens, qui n'ont besoin d'aucune éducation de marché.
+
+1. **Lister 10 douleurs fréquentes** observées autour de soi.
+2. **Chercher chaque douleur sur AliExpress**, filtrer par un volume de commandes élevé (repère : 500+) — un proxy de demande déjà validée, gratuit.
+3. **Lire au moins 30 avis par produit**, avec une attention particulière aux avis négatifs et aux photos clients : les plaintes récurrentes (qualité, confort, taille, délai) sont la matière première pour améliorer l'offre — objectif jamais de copier, toujours d'arriver avec une meilleure version d'un problème déjà validé.
+4. **Vérifier la présence du produit sur TikTok ou en Ad Library** — un signal que le marché a déjà commencé à en parler ou à le vendre.
+5. **Vérifier que le produit peut se vendre 2 à 3× son prix fournisseur**, cohérent avec le seuil de marge déjà posé plus haut.
+6. **Commander un échantillon avant tout engagement** — la même discipline que pour le sourcing à plus grande échelle (§7).
+
+⚠️ **Ne pas confondre ce usage d'AliExpress avec du sourcing.** Ici, AliExpress sert uniquement de **base de données de demande et d'avis**, gratuite et à volume massif — pas de canal d'approvisionnement une fois les premières ventes là (voir la réserve déjà posée en §7 : prix majorés, délais imprévisibles, aucun contrôle qualité). Chercher un produit ici, le sourcer ailleurs.
+
+**Compléter par une validation externe au marketplace, avant d'engager quoi que ce soit :** la douleur ciblée doit se retrouver dans des discussions spontanées — Reddit, forums de niche, recherches Google, commentaires TikTok. Si le marché doit être éduqué pour comprendre qu'il a ce problème, c'est un handicap de départ, pas un détail.
 
 ### Repérer une tendance à l'intérieur d'une niche déjà connue
 
