@@ -44,13 +44,19 @@ Une créative n'est pas un contenu, c'est une séquence construite pour amener u
 
 ### 2.1 Le hook — les trois mécaniques biologiques
 
+**Le contexte dans lequel le hook doit survivre.** Un adulte occidental croise aujourd'hui entre 6 000 et 10 000 messages publicitaires par jour (contre ~500 il y a 20 ans). Le cerveau a développé un filtre automatique — la « cécité publicitaire » (*banner blindness*, cf. le « filtre anti-pub » déjà noté en `Ecom_Meta_Ads_Playbook.md` §7 sur les native ads) qui détecte les patterns d'une pub (montage trop propre, musique lo-fi, CTA voyant, sourire d'acteur, logo en évidence) et les dévalue avant tout traitement conscient. **Conséquence contre-intuitive : une production trop léchée peut déclencher le filtre plus fort qu'elle ne le contourne** — une pub qui ressemble à une pub de luxe ressemble quand même à une pub. C'est le même mécanisme qui explique pourquoi l'UGC brut sur-performe le studio (`Ecom_Meta_Ads_Playbook.md` §4, congruence des formats).
+
 Un hook n'a pas trois secondes pour plaire, il a trois secondes pour créer une rupture. Il sert à **attraper l'attention**, dire au cerveau **« c'est pour moi »**, et **créer une attente**. Pas seulement faire arrêter le scroll — faire *rester*.
 
-**Mécanique 1 — Le mouvement (pattern interrupt).** Le cerveau est câblé pour détecter le mouvement. Une main qui bouge, une tête qui tourne, un objet qui tombe, un liquide qu'on verse, un zoom. Des micro-mouvements suffisent. Sans mouvement, le hook est lu comme une image fixe et ignoré.
+**Mécanique 1 — Le mouvement (pattern interrupt).** Le cerveau est câblé pour détecter le mouvement — un héritage de survie : dans un environnement où tout mouvement pouvait signifier une proie ou un prédateur, réagir vite était un avantage. Une main qui bouge, une tête qui tourne, un objet qui tombe, un liquide qu'on verse, un zoom. Des micro-mouvements suffisent. Sans mouvement, le hook est lu comme une image fixe et ignoré. **Limite à connaître :** le mouvement capte l'attention, il ne la retient pas — il achète environ une demi-seconde de plus, pas une vente. Ce qu'on fait de cette demi-seconde (mécaniques 2 et 3) décide du reste.
 
-**Mécanique 2 — La facilité cognitive.** Le hook doit être compris d'un seul regard : plan serré, un seul point focal, lumière claire, texte court et contrasté, visage lisible avec une émotion identifiable. Le cerveau possède une zone dédiée à la reconnaissance des visages — visage + émotion est un aimant biologique. Si le cerveau doit chercher où regarder, c'est déjà perdu.
+**Mécanique 2 — La facilité cognitive.** Le hook doit être compris d'un seul regard : plan serré, un seul point focal, lumière claire, texte court et contrasté, visage lisible avec une émotion identifiable. Le cerveau possède une zone dédiée à la reconnaissance des visages — le **gyrus fusiforme**, active dès la naissance et avant tout apprentissage (les nouveau-nés regardent préférentiellement les visages, pas les objets ou les couleurs) — visage + émotion est un aimant biologique. Si le cerveau doit chercher où regarder, c'est déjà perdu.
 
-**Mécanique 3 — Le signal de pertinence (POR).** Dans les premières secondes, la personne doit ressentir « ça parle de moi, maintenant ». Pas d'intro lente, pas de mise en scène. Le problème, la situation ou le type de personne concernée doivent être immédiats. **Le hook sert aussi à filtrer** : un hook viral mais non pertinent attire du volume qui ne convertit pas.
+**Le détecteur d'authenticité, sous-mécanique de la facilité cognitive.** Le cerveau distingue un sourire vrai (dit « de Duchenne », qui implique les muscles autour des yeux, difficile à simuler) d'un sourire social (muscles de la bouche seuls, produit à volonté) — et il le fait en moins de 50 millisecondes, avant toute conscience. Un acteur qui joue l'enthousiasme déclenche ce détecteur ; le prospect ressent « cette personne fait semblant » sans pouvoir le nommer, et cette méfiance non consciente tue la vente aussi vite qu'elle s'est installée. C'est le mécanisme biologique exact derrière la préférence UGC-authentique-plutôt-qu'acteur déjà posée dans `Ecom_Meta_Ads_Playbook.md` (créatrices de contenu, §7) — ce n'est pas une question de style de production, c'est un filtre neurologique qui se déclenche que la marque le sache ou non.
+
+**Mécanique 3 — Le signal de pertinence (POR).** Dans les premières secondes, la personne doit ressentir « ça parle de moi, maintenant ». Pas d'intro lente, pas de mise en scène. Le problème, la situation ou le type de personne concernée doivent être immédiats. **Le hook sert aussi à filtrer** : un hook viral mais non pertinent attire du volume qui ne convertit pas. C'est le premier paradoxe du parcours d'achat, contre-intuitif mais mesurable : un signal précis arrête moins de monde qu'un signal vague, mais les personnes qu'il arrête sont largement plus susceptibles d'acheter — un hook rate plus bas peut correspondre à un meilleur ROAS (voir la lecture du hook rate ci-dessous).
+
+**L'état mental de la personne qui scrolle, à garder en tête pour toute la suite de cette section.** Contrairement à une recherche Google — intention active, cerveau en mode acquisition d'information — le scroll Meta est une consommation passive : la personne n'a formulé aucune intention, l'effort cognitif qu'elle tolère est très bas (un message qui demande de lire ou de comparer est ignoré), et sa réceptivité émotionnelle est plus haute qu'on ne le croit — les mécanismes de défense rationnels sont relâchés en mode passif. C'est le fondement biologique de la règle déjà posée en §2.3-2.4 : l'émotion doit précéder la logique, jamais l'inverse.
 
 **Trois familles de hooks qui marchent :**
 
@@ -62,6 +68,18 @@ Un hook n'a pas trois secondes pour plaire, il a trois secondes pour créer une 
 
 **L'erreur classique :** un hook accrocheur sans lien avec la suite. Excellent taux d'arrêt, zéro conversion — parce que le hook a attiré les mauvaises personnes. Le hook doit déjà être une porte d'entrée cohérente, pas un appât.
 
+**Deux erreurs d'ouverture, plus basiques mais très fréquentes :** ouvrir sur la marque (nom, logo, « Bienvenue chez... ») déclenche le filtre anti-pub avant même que le prospect sache ce que la marque fait ou en quoi ça le concerne — la marque n'apparaît jamais dans les toutes premières secondes, seulement une fois le prospect déjà accroché. Et ouvrir sur une question générique (« tu veux améliorer ta santé ? ») s'adresse à tout le monde donc à personne en particulier — une question qui décrit une situation précise (voir Mécanique 3 et le paradoxe ci-dessus) arrête moins de monde mais arrête les bonnes personnes.
+
+**Cinq structures concrètes qui convertissent en 2026** — un niveau de granularité en dessous des trois familles ci-dessus, directement réutilisables :
+
+| Structure | Mécanisme | Exemple |
+|---|---|---|
+| **Validation + contradiction** | « Tu fais X. Mais [révélation contre-intuitive]. » | « Tu changes tes créas toutes les semaines. Mais c'est peut-être pour ça que tes résultats ne s'améliorent pas. » |
+| **Situation ultra-précise** | Décrire un vécu si précis que le prospect se reconnaît, sans poser de question ni rien révéler | « Ton meilleur mois de CA depuis le lancement. Et pourtant tu n'as jamais autant travaillé de ta vie. » |
+| **In medias res** | Commencer une histoire en plein milieu de l'action | « Un mec m'a écrit il y a 3 jours. Son shop faisait 400€/day et son CPA explosait depuis 2 semaines. » |
+| **Question qui pointe une douleur** | Question rhétorique qui force une identification | « Tu as déjà essayé de scaler ton budget et vu ton CPA exploser en même temps ? » |
+| **Affirmation choc** | Une affirmation forte qui entre en conflit avec une croyance établie | « Les pubs qui ne ressemblent pas à des pubs convertissent mieux que les pubs en studio. » |
+
 ### 2.1 bis Le hook fait le ciblage — pas seulement l'accroche
 
 Sous Andromeda (`Ecom_Meta_Ads_Playbook.md` §3), Meta ne lit pas la publicité en entier pour décider à qui la montrer : il lit **les toutes premières secondes**, là où les signaux sont les plus denses (arrêt du scroll, temps de visionnage, interactions). C'est cette fenêtre qui construit le profil psychologique visé — **donc le hook ne précède pas le ciblage, il EST le ciblage.**
@@ -69,6 +87,40 @@ Sous Andromeda (`Ecom_Meta_Ads_Playbook.md` §3), Meta ne lit pas la publicité 
 Conséquence directe : un hook qui ne parle qu'à un seul profil ferme la porte à tous les autres, quelle que soit la qualité du reste — offre, page, produit. Ce n'est pas un problème de conversion, c'est un plafond de reach imposé avant même que l'algorithme cherche à convertir qui que ce soit.
 
 **Les 3 must-haves d'un hook — au moins 2 sur 3, l'idéal les 3 :** une **émotion** identifiable (peur, espoir, surprise, dégoût, excitation, validation), un **vide d'information** que le cerveau veut combler, et un **enjeu** — quelque chose de concret à gagner ou perdre. Un hook qui n'a aucun des trois ne mérite pas qu'on écrive la suite.
+
+**Conséquence pour la production :** diversifier les hooks, c'est diversifier les audiences que l'algorithme atteint. Deux créatives avec des hooks qui ciblent des situations différentes seront diffusées à des segments différents, même avec exactement le même ciblage dans le gestionnaire de publicité — le ciblage manuel ne fait plus le travail, le hook le fait à sa place.
+
+### 2.1 ter Lire le hook rate — benchmarks et diagnostic
+
+Le hook rate (taux de rétention à 3 secondes) est la mesure directe de tout ce qui précède : est-ce que la créative passe le filtre anti-pub et déclenche le signal de pertinence.
+
+| Hook rate | Lecture |
+|---|---|
+| **< 20 %** | Problème sérieux dans les premières frames — signal visuel, mouvement ou pertinence insuffisants. Le premier frame est à repenser entièrement. |
+| **20-30 %** | Correct, pas optimal. Marge de progression directe sur le ROAS. |
+| **30-45 %** | Bon. La créative arrête le scroll efficacement — l'effort doit maintenant porter sur ce qui suit les 3 premières secondes. |
+| **> 45 %** | Très fort — mais vérifier la cohérence avec le watch time (ci-dessous) : un hook rate très haut qui s'effondre juste après signale de fausses attentes, pas une bonne créative. |
+
+**Le vrai diagnostic croise le hook rate avec le watch time, pas l'un ou l'autre isolément :**
+
+| Hook rate | Watch time | Ce que ça dit |
+|---|---|---|
+| Élevé | Tient (15 s+) | Le hook est fort et la suite tient sa promesse — meilleur signal possible |
+| Élevé | S'effondre juste après | Le hook attire les mauvaises personnes, ou le début du corps de créative ne correspond pas à ce que le hook a promis |
+| Faible | Correct sur ceux qui restent | Le contenu plaît à qui fait l'effort de rester — retravailler uniquement le hook peut améliorer les résultats de façon disproportionnée |
+| Faible | Faible | Problème généralisé — la créative est à repenser en profondeur, pas à ajuster |
+
+**Ce diagnostic se prolonge naturellement sur le reste du tunnel :** hook rate faible + ROAS mauvais → le problème est à l'entrée (cette section). Hook rate bon + watch time qui chute + ROAS mauvais → le problème est dans le corps de la créative (§2.2-2.3 ci-dessous). Watch time bon + CTR correct + ROAS mauvais → le problème est sur la page (§5). Faire ce diagnostic avant de changer plusieurs choses à la fois évite de ne jamais savoir ce qui a vraiment fait la différence.
+
+### Les hooks statiques — une logique différente du hook vidéo
+
+Sur une image, il n'y a pas de séquence : l'image et le texte sont traités **en parallèle**, dans la même fraction de seconde. **L'erreur la plus fréquente : une belle image du produit accompagnée d'un texte qui explique le produit — les deux se répètent au lieu de s'amplifier.** Ce qui fonctionne : l'image montre la situation ou l'émotion (« je te reconnais »), le texte ouvre la boucle cognitive (« écoute ça ») — les deux ensemble créent un sens plus fort que chacun séparément. Même exigence que le hook vidéo sur le texte : ouvrir une boucle, jamais décrire ou vanter le produit.
+
+### Tester un hook
+
+Isoler la variable (même corps de créative, même offre, même CTA — seul le hook change) est déjà la règle posée pour l'itération en `Ecom_Meta_Ads_Playbook.md` §4, et le hook y est déjà identifié comme la variable au plus fort impact. Une précision spécifique aux tests de hook : la métrique de lecture est le **hook rate**, pas le ROAS — le ROAS dépend de trop de facteurs pour isoler l'effet du hook seul — et il faut laisser tourner jusqu'à environ **5 000 impressions par créative** avant de conclure quoi que ce soit (un seuil différent du seuil de dépense de 1 000 € qui valide une créative entière : celui-ci sert spécifiquement à lire un hook rate de façon fiable).
+
+**Ce qu'un hook ne peut pas faire, à ne jamais oublier en l'optimisant :** il ne sauve pas une créative dont la suite ne tient pas sa promesse — la déception qui en résulte construit de la méfiance, pas seulement une vente ratée. Il n'attire pas automatiquement les bonnes personnes — un hook trop large produit un beau hook rate et un ROAS catastrophique, plus une confusion pour l'algorithme qui ne sait plus à qui montrer la créative. Et il n'existe pas indépendamment du reste du tunnel — une boucle ouverte par le hook doit être refermée par l'offre, la page et le checkout, sinon l'attention gagnée est perdue en aval.
 
 ### La couverture Mood × Intensité — pourquoi une gagnante s'essouffle sans raison visible
 
@@ -153,6 +205,48 @@ Avant même de mentionner le produit, un message doit montrer quatre choses : la
 
 **Une idée forte vaut mieux que dix arguments moyens.** Le cerveau retient une image, pas une liste — une promesse, un problème, un moment visualisable. « Tu rentres le soir sans la sensation d'avoir marché sur du béton toute la journée » porte davantage qu'une énumération de caractéristiques, parce qu'il n'y a qu'une seule scène à retenir.
 
+**La structure complète, dans l'ordre — ce que les quatre éléments ci-dessus donnent une fois séquencés :**
+
+> Situation → Douleur → Reconnaissance → Tentatives passées → Espoir → Solution → Preuve → Appel à l'action
+
+Contre la structure par défaut, celle que produit presque tout le monde sans y penser :
+
+> ~~Produit → Bénéfices → Preuve → Appel à l'action~~
+
+La différence n'est pas cosmétique. La structure par défaut parle du produit — le prospect reste en évaluation froide du début à la fin, il compare, il cherche la raison de ne pas acheter. La structure correcte parle du prospect avant de parler du produit — chaque étape abaisse un peu plus la garde avant que la solution n'arrive, au moment où elle est reçue plutôt qu'évaluée.
+
+**Ce que fait chaque étape :**
+
+- **Situation** — décrire le quotidien du prospect avant le produit, avec assez de précision pour créer une reconnaissance immédiate. Pas « tu as du mal à dormir » (générique, personne ne se reconnaît vraiment) mais « tu te réveilles 3 fois par nuit depuis que tu es retourné au bureau » (précis, ceux qui s'y reconnaissent s'arrêtent net).
+- **Douleur** — un cran plus profond que la situation : nommer l'émotion que cette situation génère, pas seulement les faits. « Mon ROAS a chuté » est un fait. « Ce sentiment en ouvrant ton téléphone le matin parce que tu sais déjà ce que tu vas voir » est l'émotion derrière le fait — c'est elle qui crée la connexion, le fait seul ne fait que créer la reconnaissance cognitive.
+- **Reconnaissance** — valider explicitement que la situation est réelle, compréhensible, et partagée par d'autres. La plupart des prospects vivent leur problème avec une culpabilité silencieuse (« c'est peut-être ma faute, je rate un truc évident ») ; nommer que c'est un problème commun retire cette culpabilité, et quelqu'un qui n'a plus à se défendre devient réceptif à ce qui suit.
+- **Tentatives passées** — déjà posé plus haut comme un des quatre éléments ; reconnaître que le prospect a probablement déjà essayé, et expliquer pourquoi ces tentatives étaient incomplètes plutôt que ratées. Ça évite la condescendance et crée l'anticipation d'une solution différente.
+- **Espoir** — juste avant la solution, planter une graine sans encore promettre : « voilà ce que j'ai compris après... ». Pas une preuve, juste l'idée qu'une explication existe.
+- **Solution** — n'arrive qu'après tout ce qui précède. À ce stade, elle répond à une question que le prospect se pose depuis longtemps plutôt qu'elle ne lui vend un produit qu'il découvre.
+
+**Le langage de la reconnaissance doit venir des vrais mots du client, jamais de mots inventés** — principe déjà posé ci-dessous (« Parler, ne pas écrire ») et dans `Customer_Research_SOP.md`. Source concrète pour cette section précise : les avis clients, les commentaires sous les publicités, les messages au SAV — c'est là que se trouvent les formulations exactes de la douleur et des tentatives passées, bien plus efficaces que n'importe quelle reformulation marketing.
+
+**Doser la longueur de la phase Situation → Espoir selon la température de l'audience :** sur une audience déjà Product-Aware ou Most-Aware (`Schwartz_Breakthrough_Advertising.md` §2), cette phase peut tenir en une phrase — inutile de redémontrer un problème que la personne connaît déjà, elle cherche une raison d'acheter, pas une prise de conscience. Sur une audience froide (Unaware, Problem-Aware), cette phase doit représenter **30 à 50 % de la durée totale de la créative** ; sur une audience chaude, **10 à 20 %** suffisent. Aller trop vite vers la solution avec une audience froide casse la construction émotionnelle avant qu'elle n'ait eu lieu — et se lit directement dans la rétention vidéo : un décrochage massif juste après l'introduction du produit signale une phase de reconnaissance trop courte pour la température réelle de l'audience.
+
+**Adapter la Reconnaissance au niveau de conscience** (`Schwartz_Breakthrough_Advertising.md` §2 pour la définition des niveaux) :
+
+| Niveau | Ce que fait la Reconnaissance | Exemple |
+|---|---|---|
+| **Unaware** | Ancrée dans le quotidien, pas dans le problème — la personne ne le perçoit pas encore comme tel | « Tu travailles depuis ton canapé depuis 2 ans, tu ne penses plus vraiment à comment tu t'habilles. Sauf que tu te sens un peu moins bien dans ta peau sans savoir pourquoi. » |
+| **Problem-aware** | Directement sur le problème, déjà formulé par le prospect pour lui-même | « Tu passes tes journées devant un écran dans des vêtements ni confortables ni présentables. Et tu as arrêté de chercher parce que tu penses que ça n'existe pas. » |
+| **Solution-aware** | Sur les frustrations des solutions déjà essayées, pas sur le problème lui-même | « Tu as essayé d'autres leggings qui promettaient le confort. Transparents, ou ils glissaient, ou le tissu bouloche après 3 lavages. » |
+| **Product-aware** | Sur les objections et hésitations spécifiques face à ce produit précis | « Si tu hésites encore, c'est peut-être parce que tu te demandes si ça tient au lavage ou si la taille correspond. » |
+
+**Cinq erreurs qui tuent cette phase, dans l'ordre de fréquence observée :**
+
+1. **Rester générique dans la Situation.** « Tu as du mal à perdre du poids malgré tes efforts » s'adresse à des millions de personnes de façon vague — le prospect se sent statistiquement ciblé, pas compris. La précision crée la connexion ; la généralité crée l'indifférence.
+2. **Sauter directement à la Solution.** Zéro connexion construite, le prospect reste en évaluation froide — « est-ce que ça va marcher, est-ce que ça vaut le prix » — des résistances d'autant plus fortes que la solution arrive tôt.
+3. **Nommer la douleur sans l'émotion qui va avec.** Le fait crée la reconnaissance cognitive, l'émotion crée la connexion — les deux ensemble, pas l'un sans l'autre (voir la distinction Douleur ci-dessus).
+4. **Valider la douleur puis la minimiser dans la même phrase.** « Je sais que c'est frustrant, mais avec notre produit tout va changer ! » ne laisse pas le temps au prospect de se sentir vraiment reconnu avant d'être poussé vers la solution. Laisser la douleur respirer.
+5. **Parler à la troisième personne.** « Beaucoup de gens ont du mal à... » dilue la reconnaissance ; « tu as du mal à... » l'adresse directement. Un changement mesurable sur la rétention à lui seul.
+
+**La reconnaissance a aussi une dimension visuelle, avant même le premier mot.** Une image traite en parallèle, sans l'effort séquentiel de la lecture — montrer une personne et un environnement qui ressemblent à la vraie vie du prospect crée une identification immédiate (un costume de bureau corporate pour cibler un entrepreneur qui travaille depuis chez lui crée une dissonance qui affaiblit tout le reste, même si le copy est parfait). C'est une des raisons pour lesquelles l'UGC filmé dans de vrais environnements de vie sur-performe le studio — au-delà de l'authenticité déjà couverte en §2.1, l'environnement lui-même est un signal de reconnaissance.
+
 ### Parler, ne pas écrire
 
 Le test qu'utilisait Claude Hopkins, l'un des fondateurs du copywriting moderne, pour valider chaque ligne : *« Est-ce que ça aiderait un vendeur à vendre en face à face ? »* Un vendeur en porte-à-porte ne dit jamais « notre technologie EMS de stimulation neuromusculaire avancée » — il dit ce que la personne en face de lui a besoin d'entendre, dans ses propres mots.
@@ -226,11 +320,24 @@ Le cerveau ne peut pas tout vérifier avant de décider ; il cherche donc des ra
 
 ### L'open loop — pourquoi le cerveau reste pour combler un vide
 
-Un vide d'information non comblé retient l'attention presque malgré soi. L'ouvrir dans les premières secondes, ne le refermer qu'à la fin. Trois façons d'en créer un :
+Un vide d'information non comblé retient l'attention presque malgré soi. **Le nom du mécanisme : l'effet Zeigarnik**, découvert dans les années 1920 par la psychologue Bluma Zeigarnik en observant que des serveurs de café se souvenaient bien mieux des commandes non encore servies que de celles déjà livrées — le cerveau garde une tâche inachevée active en mémoire de travail, et n'y consacre du répit qu'une fois la boucle refermée. C'est le même mécanisme qui fait qu'un cliffhanger de série ou une conversation interrompue reste en tête malgré soi. L'ouvrir dans les premières secondes, ne le refermer qu'à la fin.
+
+**Trois façons d'ouvrir une boucle par la structure du message** — déjà posées ici, orientées copy :
 
 1. **La juxtaposition** — deux éléments qui ne devraient pas cohabiter, posés côte à côte sans explication. « Comment un sans-abri est devenu millionnaire » ; « J'ai arrêté la salle et perdu 10 kg ». Le contraste crée la tension à lui seul.
 2. **La peur maîtrisée** — un signal d'alerte sur quelque chose d'a priori anodin : « Voici ce qu'un ingrédient courant fait vraiment à ta peau. » ⚠️ Sans inventer de danger — un risque fabriqué est une pratique trompeuse, et ça brûle la confiance de la marque durablement (voir Réserves).
 3. **Faire l'inverse de tout le monde** — quand un secteur entier répète le même message, en dire le contraire capte l'attention par contraste. *(Une industrie qui promet des résultats garantis à tout va ; une marque qui dit explicitement « on ne promet aucun résultat » et laisse les preuves parler — la transparence radicale se remarque justement parce qu'elle est rare.)*
+
+**Quatre façons d'ouvrir une boucle par le contenu psychologique du hook** — un découpage complémentaire, plus utile pour choisir un angle de hook vidéo selon l'audience visée :
+
+| Type | Le ressort | Quand elle marche le mieux |
+|---|---|---|
+| **Information manquante** | « Il existe une info que tu n'as pas et que tu devrais avoir. » — *« La vraie raison pour laquelle tes créas ne scalent pas. »* | Audience consciente d'avoir un problème mais pas de sa cause |
+| **Reconnaissance émotionnelle** | Décrire une situation ou une émotion avec assez de précision pour que le prospect s'y reconnaisse, sans poser de question explicite — *« Tu viens de passer ta meilleure semaine. Le lendemain ton ROAS s'effondre. »* | Niveaux 1-2 de conscience (`Schwartz_Breakthrough_Advertising.md` §2) — l'émotion précède la logique |
+| **Contradiction** | Une affirmation qui va à l'encontre d'une croyance établie, forçant une dissonance cognitive à résoudre — *« Augmenter ton budget peut faire baisser ton ROAS. »* | Doit être vraie et significative — une contradiction forcée ou une résolution décevante génère de la méfiance |
+| **Narrative** | Commencer une histoire en plein milieu de l'action — le cerveau veut savoir comment elle se termine | Case studies, témoignages, Founder Stories |
+
+Ces quatre types recoupent partiellement les trois façons ci-dessus (la contradiction rejoint « faire l'inverse », la reconnaissance émotionnelle est une version plus fine de la peur maîtrisée) — les deux grilles sont deux angles sur le même mécanisme, à choisir selon qu'on part du **message** (grille du haut) ou de l'**audience visée** (grille du bas).
 
 **Quand ouvrir une boucle plutôt que révéler tout de suite :** si le contexte est spectaculaire en lui-même, la promesse directe suffit à faire cliquer (« il a couvert son sol de pièces de monnaie »). Si le produit est banal — ce qui est le cas de la plupart des produits e-commerce — l'open loop l'emporte largement : personne ne s'arrête pour un produit qu'il a déjà vu cent fois annoncé frontalement.
 
