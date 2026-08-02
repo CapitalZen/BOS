@@ -1311,6 +1311,14 @@ Le cerveau n'aime pas l'effort. Une offre se comprend en une seconde ou elle ne 
 
 Le bundle ne sert pas qu'à vendre plus — il transforme une offre ordinaire en offre difficile à refuser. Un prospect qui hésite dira oui plus facilement s'il a l'impression de recevoir plus que ce qu'il paie.
 
+### Personnaliser la page de paiement — même sur Shopify Basic
+
+Un détail que presque personne ne touche, alors que 100 % des clients qui achètent passent par cet écran. Entre les boutons de paiement express (Shop Pay / PayPal), Shopify affiche par défaut un simple **« OU »** — un espace texte vide, disponible même sur le plan Basic.
+
+**Comment le modifier :** dans l'éditeur de thème, chercher le champ **« alternative »** (vide par défaut) dans les réglages du bloc de paiement express, et le remplacer par un message. Deux registres à tester : **preuve sociale** (« Plus de 2 000 clients satisfaits ») ou **urgence** (« Plus que quelques articles en stock »).
+
+**Pourquoi ça compte :** c'est un des tout derniers messages vus avant de sortir la carte — tous les clients qui vont au bout du tunnel le voient, sans exception, contrairement à un badge de réassurance qu'on peut scroller sans regarder. Un changement de quelques minutes, testable comme n'importe quel autre élément de la page (cross-réf. l'amorçage sur la page de paiement, `Ecom_Funnel_Architecture.md` §2.6, et le principe qu'un timer ou un chiffre de stock doit correspondre à une réalité — voir Réserves).
+
 ### Optimiser le panier
 
 Tous les clients y passent, et c'est l'endroit le plus négligé. Quatre éléments :
