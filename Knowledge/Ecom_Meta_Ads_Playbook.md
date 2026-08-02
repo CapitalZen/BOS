@@ -447,6 +447,16 @@ Face à un produit, on tombe toujours dans l'une des deux :
 2. **Le mécanisme renommé** — une réalité connue depuis longtemps, rebaptisée. *(« 5 Go de stockage » devient « 1000 chansons dans ta poche » ; le bouillon de poulet millénaire devient « bone broth » et crée un marché de plusieurs centaines de millions.)* Renommer crée la perception du neuf sans rien changer à la substance.
 3. **Le vrai nouveau mécanisme** — une caractéristique effectivement inédite, brevetée ou non. Le plus fort, mais aussi le plus rare et le plus long à obtenir. **Condition non négociable : le mécanisme doit servir un désir que le prospect a déjà** — une innovation esthétique sans lien avec le bénéfice recherché n'intéresse personne.
 
+### Générer des candidats produit par soustraction — partir d'un marché massif et retirer ses défauts
+
+Une méthode gratuite pour produire une liste de candidats sans outil payant, complémentaire aux méthodes de veille ci-dessus.
+
+**Le principe :** partir d'un produit intemporel sur un marché colossal — un marché déjà éduqué, dont le bénéfice central ne se discute plus (le café pour l'énergie et le rituel, le sucre pour le plaisir, l'alcool pour la détente sociale). Lister ses frustrations connues et largement partagées — pour le café : le goût, le crash après l'effet, l'anxiété, les taches sur les dents. **Garder le bénéfice, retirer les défauts, un par un ou combinés.** C'est exactement ce positionnement qui a fait émerger toute une catégorie de « boissons fonctionnelles alternatives au café » ces dernières années — même marché, même promesse de fond, angle différent porté par l'absence des inconvénients.
+
+**Pourquoi ça marche :** on n'a pas à créer un désir — il existe déjà, prouvé par la taille du marché source. Le travail consiste seulement à identifier ce qui empêche une partie de ce marché de consommer pleinement, et à lever spécifiquement cet obstacle. C'est une variante du mécanisme renommé et du nouveau mécanisme ci-dessus, appliquée systématiquement plutôt que trouvée par hasard.
+
+**Comment le systématiser avec l'IA :** lister les frustrations d'un marché massif → chercher, pour chaque frustration, les alternatives déjà positionnées dessus → décortiquer chaque niche trouvée avec la grille de critères habituelle (§2 : TAM, ROAS BE proxied par le COGS, ads-friendly, concurrence déjà active, niveau de conscience du marché — voir aussi le filtre en 3 critères pour un budget serré ci-dessus). **Un produit trouvé de cette façon en fait découvrir plusieurs autres** — chaque frustration identifiée est une porte d'entrée séparée sur le même marché massif, donc l'exercice s'auto-alimente une fois lancé.
+
 Ces trois voies sont un complément aux deux ci-dessus, pas une troisième catégorie séparée : les types 1 et 2 sont une façon de réussir « innover sur l'angle » sans toucher au produit, à coût quasi nul.
 
 **Le rapport contre-intuitif entre taille de niche et facilité :** plus une niche est grosse, **plus il est facile d'y trouver l'angle qui convertit**. Ce n'est pas un paradoxe — un marché immense contient plus de personas, plus de problèmes voisins, plus de situations d'usage, donc plus de portes d'entrée. Sur une sous-niche étroite, il n'existe que deux ou trois angles possibles, et ils sont déjà pris.
