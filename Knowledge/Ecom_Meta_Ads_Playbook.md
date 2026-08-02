@@ -1123,6 +1123,16 @@ Deux types d'itération, à ne pas confondre :
 - **Sections sur mesure** : une IA reproduit une section à partir d'un screenshot en quelques secondes — gain de temps massif sans compétence technique. **À éviter pour tout ce qui est sensible** (bundles, panier, checkout) : passer par des apps dédiées, la plupart gratuites jusqu'à un certain volume, pour ne pas introduire de bugs sur le tunnel d'achat.
 - **Nom de domaine** : `.com`, acheté chez un registrar externe plutôt que via Shopify. Le `.com` inspire confiance sur tous les marchés et n'impacte pas la conversion même en vendant en France ou en Espagne.
 
+### Conformité légale — le bouton de rétractation, obligatoire depuis le 19 juin 2026
+
+**Déjà en vigueur, pas une échéance à venir.** Depuis le 19 juin 2026, toute boutique qui vend à des consommateurs de l'Union européenne doit intégrer un **bouton de rétractation électronique** — pas seulement une politique de retour écrite, un vrai bouton fonctionnel, accessible sans connexion, disponible pendant toute la durée du délai de rétractation (14 jours). C'est la transposition de la directive européenne 2023/2673, entrée en application via des textes nationaux (en France : ordonnance n° 2026-2 du 5 janvier 2026).
+
+**Ce qui est en jeu :** amendes pouvant aller jusqu'à 2 millions d'euros ou 4 % du chiffre d'affaires annuel dans l'UE, et surtout — indépendamment de toute sanction — un défaut d'information sur le droit de rétractation prolonge automatiquement ce délai jusqu'à 12 mois et 14 jours (déjà une règle du droit de la consommation européen, renforcée ici). Un client peut donc demander l'annulation d'une commande passée près d'un an plus tôt tant que le bouton n'est pas en place.
+
+**La solution concrète pour Shopify : l'app gratuite [EU-Widerrufsbutton](https://apps.shopify.com/eu-widerrufsbutton?locale=fr).** Installation en quelques minutes — accepter les CGV/DPA, générer automatiquement la page de rétractation, ajouter l'extension de thème, ajouter le lien en footer. Les demandes de rétractation remontent ensuite directement dans l'app ; à l'entrepreneur de les accepter ou de les refuser selon sa politique de retour.
+
+**Quand l'installer :** avant la première vente, pas après — un jour d'exposition sans bouton crée déjà un risque de prolongation du délai sur les commandes passées ce jour-là. À intégrer dans la checklist de lancement de boutique, au même titre que les processeurs de paiement ci-dessous.
+
 ### Processeurs de paiement — le nerf de la guerre
 
 Si le processeur bloque, le cash-flow s'arrête et les fonds peuvent être gelés des mois.
