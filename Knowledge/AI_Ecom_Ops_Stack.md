@@ -27,7 +27,7 @@ Classées par ce qu'elles font gagner.
 |---|---|
 | **Upload et édition en masse des créatives** avec nomenclature de suivi | Des heures de manipulation manuelle hebdomadaire ⚠️ |
 | **Comptabilité auto-alimentée** : CA de la boutique + dépense publicitaire, avec import des factures fournisseurs et **détection d'anomalies de prix** | Le rapprochement manuel — et les erreurs de facturation qui passent inaperçues |
-| **SAV semi-automatique** : lecture des mails, contexte récupéré depuis la boutique, réponse rédigée **en brouillon**, envoi après validation humaine | 80 % du temps de rédaction, sans perdre le contrôle |
+| **SAV semi-automatique** : lecture des mails, contexte récupéré depuis la boutique, réponse rédigée **en brouillon**, envoi après validation humaine — le point de départ sans outil ni API, c'est le document de templates par question-type (§5, étape 3) | 80 % du temps de rédaction, sans perdre le contrôle |
 | **Résumé quotidien des appels** enregistrés → points d'action, avec le contexte du business | La reprise de notes |
 
 ⚠️ **Avertissement sérieux sur l'automatisation des plateformes publicitaires :** un praticien du fil signale s'être fait bannir pour automatisation. Les plateformes ont des règles strictes sur l'accès programmatique — passer par les API officielles et leurs limites, jamais par de l'automatisation d'interface.
@@ -124,7 +124,7 @@ Ne pas construire l'usine avant d'avoir le produit. L'ordre réaliste :
 
 1. **Le brain** (`Core/` + `Knowledge/`) — jour 1, sans discussion. C'est 90 % du résultat.
 2. **L'analyse des avis et commentaires** en objections et hooks — dès la recherche produit, avant même de vendre.
-3. **Le SAV assisté** — à la première dizaine de commandes.
+3. **Le SAV assisté** — à la première dizaine de commandes. **Le point de départ concret, avant tout outil ou automatisation :** à chaque question ou problématique traitée par mail ou en commentaire, ajouter la paire question-type / réponse validée dans un document dédié — l'application du principe de mémoire (`AI_Leverage_Method.md`, Technique 1) spécifiquement au SAV. Le document grossit comme sous-produit du travail déjà fait, sans tâche supplémentaire. Double gain : un gain de temps immédiat une fois le document fourni (coller le mail reçu + le document dans Claude suffit à produire une réponse juste dans la majorité des cas récurrents), et surtout une **garantie de qualité au moment de déléguer** — la personne qui reprend le SAV applique un standard déjà validé sur des dizaines de cas réels, au lieu d'improviser un ton et des réponses au feeling. C'est un des rares chantiers d'automatisation utile *avant* d'avoir du volume : il ne coûte rien et se construit tout seul en travaillant.
 4. **Le suivi de profit** (par produit, puis par campagne et par pays) — dès les premiers euros de publicité.
 5. **La cartographie des angles et la détection de fatigue** — quand il y a assez d'annonces pour que ça ait du sens.
 6. **Les pipelines de génération** — en dernier, quand le volume le justifie et qu'on sait déjà ce qui convertit.
