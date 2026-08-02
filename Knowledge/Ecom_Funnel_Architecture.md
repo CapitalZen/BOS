@@ -112,6 +112,8 @@ Le hook rate (taux de rétention à 3 secondes) est la mesure directe de tout ce
 
 **Ce diagnostic se prolonge naturellement sur le reste du tunnel :** hook rate faible + ROAS mauvais → le problème est à l'entrée (cette section). Hook rate bon + watch time qui chute + ROAS mauvais → le problème est dans le corps de la créative (§2.2-2.3 ci-dessous). Watch time bon + CTR correct + ROAS mauvais → le problème est sur la page (§5). Faire ce diagnostic avant de changer plusieurs choses à la fois évite de ne jamais savoir ce qui a vraiment fait la différence.
 
+**Deux autres signaux, moins lus mais révélateurs de l'activation émotionnelle spécifiquement :** le taux de commentaires — on commente rarement une créative informative, on commente une créative qui touche (« c'est tellement vrai », « exactement moi ») — et le taux de partage, encore plus révélateur parce qu'on ne partage presque jamais une information, on partage une émotion qu'on veut faire vivre à quelqu'un d'autre. Une créative avec un bon watch time mais peu de commentaires ni de partages retient l'attention sans forcément déclencher une émotion forte — un signal à regarder avant de conclure qu'une créative « qui tient » est optimale.
+
 ### Les hooks statiques — une logique différente du hook vidéo
 
 Sur une image, il n'y a pas de séquence : l'image et le texte sont traités **en parallèle**, dans la même fraction de seconde. **L'erreur la plus fréquente : une belle image du produit accompagnée d'un texte qui explique le produit — les deux se répètent au lieu de s'amplifier.** Ce qui fonctionne : l'image montre la situation ou l'émotion (« je te reconnais »), le texte ouvre la boucle cognitive (« écoute ça ») — les deux ensemble créent un sens plus fort que chacun séparément. Même exigence que le hook vidéo sur le texte : ouvrir une boucle, jamais décrire ou vanter le produit.
@@ -160,21 +162,42 @@ Trois leviers, dans cet ordre :
 
 **Le seuil :** l'envie doit devenir plus forte que la douleur d'achat. Plus l'émotion est visuelle et spécifique, moins la personne réfléchit.
 
+**Pourquoi commencer par la douleur plutôt que par le désir — le fondement théorique.** Le cerveau humain est asymétrique face aux gains et aux pertes (l'aversion à la perte, mise en évidence par Kahneman et Tversky dans leur théorie des perspectives) : la douleur de perdre pèse environ deux fois plus lourd que le plaisir d'obtenir l'équivalent. Une douleur précise et vécue active donc une réponse émotionnelle plus forte, à intensité égale, qu'un désir seul — d'où l'ordre déjà posé ci-dessus (douleur → désir → gap), et non l'inverse.
+
+**Construire le gap en pratique, en quatre passes sur le même contenu :** ancrer l'état actuel avec une précision maximale (les propres mots du prospect, une scène concrète) → amplifier en remontant aux conséquences au-delà du problème immédiat (temps perdu, énergie, confiance entamée — pas seulement le symptôme) → contraster nettement plutôt que graduellement, pour que le gap soit visible d'un coup → visualiser l'état désiré avec la même précision que l'état actuel, pas juste « un résultat », un moment concret. Le produit n'est alors plus une option à évaluer : c'est le pont entre les deux états déjà construits.
+
 ### 2.4 Rassurer le cerveau rationnel — au bon moment
 
-L'émotion déclenche l'envie ; la logique autorise l'action. Le cerveau rationnel arrive **toujours après** l'émotion, jamais avant. Rassurer trop tôt casse l'envie ; rassurer trop tard perd la vente.
+L'émotion déclenche l'envie ; la logique autorise l'action. Le cerveau rationnel arrive **toujours après** l'émotion, jamais avant. Rassurer trop tôt casse l'envie ; rassurer trop tard perd la vente. **La transition doit rester dans le registre émotionnel** — pas de rupture nette du type « voilà les émotions, maintenant voilà les arguments » : le résultat s'énonce encore avec l'énergie de l'émotion, et l'explication logique arrive dans son sillage, jamais à sa place.
 
 Ce qu'il vérifie : est-ce que ça marche vraiment, est-ce que c'est simple, est-ce que je peux faire confiance. Ce qui y répond : démonstration visuelle, simplicité d'usage, résultat clair, preuve sociale, garantie, gain de temps ou d'argent explicité.
 
 **Le point que presque tout le monde manque :** le cerveau rationnel ne cherche pas la vérité, il cherche **une justification à une décision déjà prise émotionnellement**. Son rôle n'est pas d'être convaincu, c'est d'enlever la peur d'avoir tort. On ne le combat pas — on lui donne ses raisons de dire oui.
 
+**Le nom de ce mécanisme, pour qui veut l'ancrage théorique :** c'est la distinction de Daniel Kahneman entre Système 1 (rapide, automatique, émotionnel — celui qui décide) et Système 2 (lent, délibéré, logique — celui qui justifie après coup). Le Système 2 n'est jamais celui qui prend la décision d'achat ; il la valide ou l'invalide. Un message qui ne s'adresse qu'au Système 2 — des arguments purement rationnels — convainc la mauvaise instance.
+
+**Six questions concrètes que pose le cerveau rationnel**, une grille plus fine que les trois familles d'objections déjà posées plus bas (produit / allégation / soi) — utile spécifiquement pour auditer une créative ou une page :
+
+| Question | Ce qui y répond |
+|---|---|
+| « Est-ce réel ? » | La spécificité — un chiffre précis plutôt qu'un superlatif, des détails imparfaits plutôt qu'un résultat trop lisse |
+| « Est-ce que ça marche vraiment ? » | Un témoignage d'une personne dans une situation proche de la sienne (pas un cas extrême irreproductible), et le mécanisme expliqué plutôt qu'affirmé |
+| « Puis-je faire confiance à cette personne ? » | Expertise démontrée (précision du propos, pas l'affirmation « je suis expert »), cohérence entre tous les points de contact, signaux de vie réelle (hésitations, limites admises) |
+| « Et si ça ne marche pas pour moi ? » | La garantie, et au-delà du risque financier : réduire le risque de temps perdu et de déception (« tu sais en 10 minutes si ça s'applique à toi ») |
+| « Est-ce le bon moment ? » | Le coût réel de l'inaction (pas une urgence fabriquée) — chaque semaine sans agir a un coût réel et vérifiable, à nommer |
+| « Est-ce que ça vaut le prix ? » | L'ancrage — comparer au coût de continuer sans solution, pas seulement au prix d'un concurrent — et la décomposition de tout ce qui est inclus |
+
+**Rendre la décision facile compte autant que la convaincre.** Le cerveau qui vient de scroller pendant 20 minutes est en fatigue de décision — chaque effort cognitif supplémentaire demandé (comprendre une offre complexe, comparer plusieurs options, interpréter une ambiguïté) augmente la résistance, même quand l'émotion et la conviction rationnelle sont là. Une seule proposition de valeur claire, une seule action possible à la fois, aucune ambiguïté non résolue (délai de livraison, fonctionnement, prix) : chaque friction retirée est une décision rendue plus probable.
+
 ### 2.5 Le CTA — diriger, pas vendre
 
-À ce stade, il ne faut plus expliquer. Un bon CTA est compris en moins de deux secondes, ne casse pas le rythme émotionnel, et ressemble à un conseil plutôt qu'à un ordre.
+À ce stade, il ne faut plus expliquer. Un bon CTA est compris en moins de deux secondes, ne casse pas le rythme émotionnel, et ressemble à un conseil plutôt qu'à un ordre. Ce qu'il combat : l'**inertie de décision** — la conviction est là, mais passer de l'intention à l'action demande un effort, même minime, que le cerveau en mode scroll passif résiste spontanément à fournir. Un bon CTA ramène cet effort à near-zéro.
 
 **Le CTA de choix — le levier le plus sous-utilisé.** Le pire CTA est « Achetez maintenant » : il force une décision lourde, binaire. Un bon CTA ne demande pas *si*, il demande *quoi* : « Pack 1 ou Pack 2 ? », « Minimaliste ou performance ? ».
 
 Pourquoi ça marche : le cerveau résiste au oui/non mais adore comparer et choisir. Poser une question de choix réduit la résistance, active la projection (la personne s'imagine déjà en train de choisir) et déclenche l'action sans pression.
+
+**Sur une vidéo, mentionner le CTA deux fois — pas seulement à la fin.** La rétention vidéo décroît en continu : un CTA placé uniquement dans les toutes dernières secondes n'est vu que par ceux qui regardent jusqu'au bout, souvent 20-30 % des spectateurs initiaux. Le glisser une première fois vers le milieu, léger et naturel (« je t'explique ça juste après, le lien est en dessous si tu veux aller plus loin »), capture ceux qui décrochent avant la fin — sans dupliquer l'appel final, plus complet.
 
 ### 2.6 L'amorçage — éviter que le mot lui-même déclenche la mauvaise émotion
 
@@ -295,9 +318,19 @@ Cinq choses que les gens sont prêts à faire beaucoup pour obtenir de quelqu'un
 - **Justifier leurs échecs** — enlever la culpabilité : « ce n'est pas que tu manques de volonté, c'est que les solutions classiques sont mal conçues » (application directe de la confirmation de croyance ci-dessus)
 - **Apaiser leurs peurs** — nommer ce qu'ils redoutent en silence avant qu'ils n'aient à le dire eux-mêmes : « tu as peur que ce soit encore une déception, c'est normal »
 - **Confirmer leurs soupçons** — valider une intuition qu'ils avaient déjà : « tu savais que quelque chose clochait, tu avais raison »
-- **Les aider à blâmer un ennemi** — une méthode dépassée, une industrie, une croyance reçue plutôt qu'eux-mêmes
+- **Les aider à blâmer un ennemi** — une méthode dépassée, une industrie, une croyance reçue plutôt qu'eux-mêmes. ⚠️ **L'ennemi doit rester un système ou une croyance, jamais une personne ou une marque nommée** — au-delà du risque de dénigrement déloyal, cibler un concurrent précis lit comme mesquin et fragilise la confiance au lieu de la construire.
 
 **Ce qui les relie :** aucun des cinq ne porte sur le produit. Tous portent sur la relation entre le prospect et lui-même — c'est pour ça qu'ils fonctionnent avant même que le produit soit nommé, et qu'ils se combinent naturellement avec le travail sur les croyances ci-dessus.
+
+**Les émotions qui convertissent le mieux spécifiquement en e-commerce** — un cran plus concret que les dimensions Mood × Intensité déjà posées en §2.1 bis, utile pour choisir *quelle* émotion précise activer plutôt que juste sa famille et son intensité :
+
+| Émotion | Le ressort | Registre |
+|---|---|---|
+| **Aspiration** | Devenir une version meilleure de soi — plus confiant, plus libre, plus reconnu | « Imagine être le genre de personne qui... » |
+| **Frustration** | Universelle sur un marché qui cherche une solution depuis longtemps — avoir essayé, ne pas comprendre pourquoi ça ne marche pas | Décrire la frustration chronique avec précision, pas la nommer abstraitement |
+| **FOMO** | Peur réelle de prendre du retard sur des concurrents qui avancent — à utiliser seulement si le retard est vérifiable, jamais fabriqué | « Chaque semaine sans ça, l'écart se creuse » |
+| **Soulagement** | La tension qui se résout enfin, après une recherche longue et épuisante | « Enfin une explication qui fait sens » |
+| **Confiance en soi** | Ne plus décider dans le doute — un système, des règles claires, plus d'instinct au hasard | « Un protocole qui indique exactement quand agir » |
 
 ### L'autorité — le raccourci qui fait sauter les objections
 
@@ -388,11 +421,15 @@ Empiler deux ou trois de ces leviers sur la même phrase — sans jamais franchi
 
 Trois familles d'objections, dans l'ordre où elles apparaissent dans la tête du prospect : **sur le produit** (« j'ai déjà essayé, ça n'a pas marché »), **sur l'allégation** (« trop beau pour être vrai »), **sur soi** (« ça ne marchera pas pour moi »). **Tant que la première n'est pas désamorcée, les suivantes ne sont même pas entendues** — répondre à l'objection 3 quand l'objection 1 bloque encore ne sert à rien.
 
-Deux mécaniques, en complément des faits vérifiables déjà vus plus haut :
+**La préemption — nommer soi-même l'objection avant qu'elle ne se formule.** « Tu te demandes peut-être pourquoi ce n'est pas plus connu si c'est aussi efficace » ou « je sais ce que certains pensent en ce moment : j'ai déjà entendu ce genre de promesse. » Le fait de la formuler à sa place, avant que le prospect n'ait à l'avouer, envoie deux signaux à la fois : que le message comprend vraiment sa position (renforce la reconnaissance déjà couverte plus haut), et implicitement « si j'avais quelque chose à cacher, je ne l'aurais pas soulevé moi-même. » Les objections à préempter en priorité se trouvent au même endroit que le langage de la reconnaissance — avis, commentaires, messages SAV — classées par fréquence.
+
+Trois mécaniques, en complément des faits vérifiables déjà vus plus haut :
 
 - **Le renversement (reversal)** — transformer l'objection en argument plutôt que la nier. « Mes enfants verront que c'est sain et refuseront » devient « les enfants savent qu'il y a des légumes dedans, et en redemandent. » « Je craque trop souvent pour perdre du poids » devient « conçu pour fonctionner même si tu craques. »
-- **Le mot « parce que »** — une affirmation suivie d'une raison, même simple, se croit nettement plus qu'une affirmation seule. « Le plus facile à nettoyer parce qu'il est fait d'une seule pièce d'acier inoxydable. »
+- **Le mot « parce que »** — une affirmation suivie d'une raison, même simple, se croit nettement plus qu'une affirmation seule. « Le plus facile à nettoyer parce qu'il est fait d'une seule pièce d'acier inoxydable. » **Sa version développée, pour les prospects les plus sceptiques : la preuve par le mécanisme.** Au lieu d'affirmer un résultat, expliquer en détail *pourquoi* il se produit — le cerveau rationnel qui peut suivre un raisonnement et le valider lui-même génère une conviction plus solide que n'importe quelle affirmation externe, parce qu'il se convainc lui-même plutôt que d'être convaincu. C'est plus long à écrire et à regarder, mais ça marche précisément sur l'audience que les formulations courtes ne convainquent jamais.
 - **Réassigner la cause** — le cerveau généralise une déception passée à toute une catégorie ; on casse la généralisation en la redirigeant vers un détail précis. « J'ai déjà pris des probiotiques, rien n'a changé » devient « la plupart meurent dans l'acidité de l'estomac avant d'atteindre les intestins — celui-ci survit grâce à [mécanisme précis]. » L'objection n'est plus sur la catégorie, elle est sur un détail technique résolu.
+
+**Ce qui fait un bon témoignage — la preuve sociale répond à elle seule à plusieurs des six questions rationnelles ci-dessus (réel, efficace, digne de confiance, risque limité), ce qui en fait l'outil au meilleur rendement.** Un témoignage générique (« ce produit est incroyable ») n'en répond aucune — le cerveau rationnel le filtre comme potentiellement fabriqué. Ce qui le rend crédible, à demander explicitement en le collectant (cross-réf. `Customer_Research_SOP.md` sur la collecte d'avis ciblés par doute) : la spécificité du problème *avant* (un chiffre ou un vécu précis, pas « je stagnais »), la spécificité du résultat *après* (délai et montant précis), la description du changement concret entre les deux — pas juste le résultat mais ce qui l'a causé, donnant au prospect un mécanisme à suivre — et un profil crédible proche de la situation du prospect plutôt qu'un cas extrême irreproductible. Les imperfections (un doute initial mentionné, une limite reconnue) sont un signal d'authenticité, pas une faiblesse à corriger — déjà la même logique que l'avis imparfait gardé comme preuve SAV (`Customer_Research_SOP.md`).
 
 **La gradualisation appliquée à l'objection** (`Schwartz_Breakthrough_Advertising.md` §5) : faire dire « oui » au prospect sur une série d'affirmations acceptables avant de nommer l'objection elle-même — « les légumes verts sont bons pour la santé » (oui) → « on devrait en manger tous les jours » (oui) → « mais on n'y arrive pas, et voici pourquoi » (on nomme l'objection à sa place, avant qu'il n'ait à l'avouer) → la solution arrive après une série d'accords déjà obtenus.
 
@@ -485,6 +522,8 @@ La plupart des visiteurs scrollent peu. Ce qui est visible immédiatement doit r
 
 **Le vrai job de cette section :** obtenir la micro-décision « ok, je continue ». Le prospect ne décide pas encore d'acheter — et cette micro-décision vaut cher.
 
+**Sur l'image principale précisément : montrer le résultat, pas le produit.** Un packshot sur fond blanc ne projette personne ; une scène de vie qui montre la transformation ou le contexte d'usage continue la projection déjà amorcée par la créative — cohérent avec la congruence créative → page déjà posée en §1.
+
 ### Le carrousel d'images — chaque image est une mini landing page
 
 Point sous-estimé : beaucoup de visiteurs ne descendent jamais sous le bouton d'ajout au panier. Ils parcourent les images comme sur Amazon. Le carrousel porte donc une part disproportionnée de la vente.
@@ -496,6 +535,8 @@ Le cerveau traite l'image plus vite que le texte : les images déclenchent l'ém
 ### Réduire le risque perçu
 
 Chaque achat en ligne contient une peur — que ça ne marche pas, que la qualité soit mauvaise, que ce soit une arnaque. La page doit y répondre **avant** que le client ne les formule : avis avec photos, note visible, témoignages orientés résultat, chiffres d'utilisateurs, FAQ qui traite les objections réelles.
+
+**La garantie mérite un traitement à part — c'est l'outil qui a l'impact le plus immédiat et le plus mesurable sur la conversion, et le plus souvent sous-exploité.** Elle fonctionne parce qu'elle inverse l'asymétrie du risque : sans elle, toute la perte potentielle repose sur le client ; avec elle, une partie du risque passe au vendeur, et un downside limité rend l'essai beaucoup plus facile à accepter. Ce qui la rend efficace concrètement : **visible et bien placée** — dans le flux de la page, entre ce qui construit le désir et le bouton d'achat, jamais reléguée aux conditions générales ; **formulée positivement** — « satisfait ou remboursé » porte plus qu'une « politique de retour » neutre ; **crédible** — une promesse trop large ou trop belle déclenche le scepticisme plutôt que de le désamorcer ; et **ciblée sur la peur réelle du prospect** plutôt que générique — si la peur dominante porte sur la qualité, la garantie doit le dire explicitement plutôt que rester vague sur la satisfaction.
 
 ### S'inspirer de structures validées
 
