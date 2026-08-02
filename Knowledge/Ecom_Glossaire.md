@@ -33,6 +33,9 @@ Référence rapide. BOS l'utilise pour rester lisible : **on emploie l'abréviat
 | **ATC** | Add To Cart | Ajout au panier |
 | **VC** | View Content | Vue d'une page produit sans achat |
 | **PUR** | Purchase | Achat |
+| **PPC** | Pay-Per-Click | Le modèle publicitaire où on paie au clic (par opposition au CPM, où on paie à l'affichage) |
+| **SEM** | Search Engine Marketing | La publicité payante sur les moteurs de recherche (Google Ads principalement) |
+| **SEO** | Search Engine Optimization | Le référencement naturel — être visible dans les résultats de recherche sans payer par clic. Voir `SEO_Content_Playbook.md` |
 
 ## Structure des campagnes
 
