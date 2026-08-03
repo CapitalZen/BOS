@@ -1996,6 +1996,29 @@ C'est lui qui produit l'essentiel du réachat. Minimum vital :
 
 **Rythme :** ~3 emails par semaine. Tous les jours rapporte plus à court terme et abîme l'image — donc le profit — à long terme.
 
+### Un gros lancement (Black Friday, soldes majeures) : liste VIP + concours + WhatsApp
+
+**À ne déployer que sur un shop qui tourne déjà un minimum** — cette mécanique amplifie une base existante, elle ne la crée pas. Elle est distincte de la « liste VIP » évoquée plus haut (§ flux feedback), qui est un actif permanent nourri en continu par les clients satisfaits : celle-ci est une liste **dédiée et bornée dans le temps**, ouverte à toute visiteuse ou tout visiteur (pas seulement les clients déjà convertis), construite spécifiquement pour créer de la hype avant un temps fort commercial.
+
+**Le principe :** faire de l'inscription à la liste VIP un « no brainer » — une récompense évidente et désirable, directement liée à la marque, qui pousse à s'inscrire sans hésiter. Concrètement, un concours à lots multiples (« tickets d'or ») donné automatiquement à l'inscription : plusieurs lots plutôt qu'un seul entretient la FOMO au moment du lancement (« il reste encore X tickets à gagner » reste crédible plus longtemps). ⚠️ **Le nombre de lots restants annoncé doit être réel** — même principe que l'urgence et la rareté déjà posées comme non négociables ailleurs (`Ecom_Funnel_Architecture.md`) : un compteur de lots fictif est le même mensonge qu'un faux compte à rebours.
+
+**Le tunnel de capture, en deux temps :**
+1. **Landing page dédiée** expliquant le concours et les avantages VIP (produits exclusifs, meilleure promo de l'année, cadeaux inclus, mise en avant du concours) — formulaire simple : prénom + email.
+2. **Page de remerciement** (sur le site, pas un renvoi externe) qui pousse vers WhatsApp : « Double tes chances de gagner et reçois les avantages exclusifs sur WhatsApp. » Un clic ouvre WhatsApp avec un message **pré-rempli** — préciser en gras « (ENVOYER CE MESSAGE) » à la fin du texte pré-rempli, sinon une partie non négligeable des gens ne clique jamais sur envoyer et croit être inscrite alors que rien n'est parti.
+
+**Pourquoi ce détour par la page de remerciement plutôt qu'un lien direct :** l'économie de la messagerie professionnelle WhatsApp. Une fenêtre de 24 h s'ouvre gratuitement après que la personne a écrit en premier — envoyer un message à froid, à l'initiative de la marque, avant ce premier contact, est payant (tarif variable selon le pays, mais généralement inférieur au SMS). D'où l'intérêt de faire en sorte que ce soit toujours le prospect qui écrive en premier.
+
+**Calendrier type :**
+- **10 à 14 jours de leadgen** avant le jour J, pour chauffer la base.
+- Séquence email automatique à l'inscription (3 emails) : un mail instantané de remerciement/hype, un mail à +4 h avec avis et réassurance, un mail du fondateur le lendemain, personnel, qui rappelle que la liste VIP est limitée.
+- **À J-7**, bascule en mode campagne : un email quotidien à toute la liste, qui monte la hype et rappelle les informations pratiques du lancement (utile aussi aux nouveaux inscrits qui rejoignent en cours de route).
+- **Le jour J** : un WhatsApp 2 minutes avant l'ouverture (« préparez-vous »), un WhatsApp au moment de l'ouverture, puis 3 emails dans la journée (matin/midi/soir) avec urgence sur le temps restant et le nombre de lots restants.
+- **Complément :** un bouton « Préviens-moi sur WhatsApp du début du Black Friday » inséré dans les emails de la période de leadgen — ceux qui cliquent forment une liste encore plus qualifiée, avec un taux d'achat plus élevé au moment du lancement.
+
+**Sur Meta pendant l'opération :** prioriser le retargeting des personnes déjà tièdes (une simple visite du site suffit comme signal) pour optimiser le CPL, plus une campagne email à la base existante pour pousser l'inscription à la liste VIP avant qu'elle ne soit lancée. Le reste peut rester en ciblage large — l'algorithme fait le travail, comme d'habitude.
+
+**Rythme d'emailing, exception assumée :** le rythme habituel de ~3 emails/semaine (voir plus haut) ne s'applique pas à cette fenêtre resserrée — la densité (jusqu'à plusieurs emails le jour J) est volontaire et limitée dans le temps, pas un nouveau rythme de croisière à adopter après l'événement.
+
 ### Le flux feedback, et la récupération des mécontents
 
 Flux déclenché **3 jours après réception** du produit, avec une note en 5 niveaux directement cliquable dans l'email. Le clic oriente vers deux parcours :
