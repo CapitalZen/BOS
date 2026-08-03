@@ -46,6 +46,8 @@ Corollaire brutal : si un des quatre termes est proche de zéro, le résultat l'
 
 L'énergie est un actif business, pas un sujet de confort. Le protocole est optimisé pour la performance intellectuelle, pas pour la salle de sport.
 
+**Ce protocole est un point de départ à observer et ajuster, pas un calque à copier tel quel.** Tout le monde ne fonctionne pas pareil — certains sont le plus performants tôt le matin, d'autres tard le soir ; certains ont besoin de silence et de solitude pour se concentrer, d'autres d'être entourés. Copier la routine de quelqu'un d'autre sans avoir vérifié qu'elle correspond à son propre fonctionnement produit une discipline qui ne tient pas, parce qu'elle va à contre-courant de ce qui marche réellement pour la personne. **La pratique concrète : observer sur quelques semaines à quel moment les meilleures décisions sont prises, ce qui vide mentalement et ce qui recharge** — puis organiser les blocs de travail (`Étape 2` ci-dessous) autour de ces constats plutôt que d'un horaire type. Le même principe s'applique quand une contrainte externe impose son propre rythme (horaires irréguliers d'un métier, par exemple) : la contrainte réelle de la personne prime sur le modèle générique, un plancher adapté à sa situation concrète bat un horaire type qu'elle ne peut pas tenir.
+
 - **Sommeil** — 7 à 8 h de sommeil, 8 à 9 h au lit. Se coucher 1 à 2 h avant l'heure de sommeil visée. Éventuellement magnésium bisglycinate.
 - **Nutrition** — le plus de nutriments bruts possible, beaucoup de fruits et légumes, sources de protéines variées, 3-4 repas. Matin : protéines élevées, glucides bas. Midi : protéines élevées, glucides modérés. Soir : équilibré.
 - **Entraînement** — musculation + cardio, 3 à 5 fois par semaine.
