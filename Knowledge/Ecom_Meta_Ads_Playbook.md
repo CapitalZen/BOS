@@ -1463,6 +1463,22 @@ L'agent est le fondement opérationnel : produit, qualité, délais, packaging, 
 |---|---|
 | 0-10 commandes/jour | Agents spécialisés petits volumes — les agents privés chinois ne s'intéressent pas encore à ce niveau |
 | > 10 commandes/jour | **Agent privé chinois** : négociation du COGS au volume (chaque euro gagné améliore directement le ROAS), stocks tampons, packaging brandé, contrôle qualité renforcé |
+| > 200-300 commandes/jour | La plupart des agents montrent leurs limites à ce stade (voir ci-dessous) — le passage vers un 3PL, ou une solution hybride, devient à évaluer |
+
+### Agent ou 3PL — deux fonctions différentes, pas deux concurrents
+
+Le mot « logistique » recouvre à tort deux métiers distincts. Confondre les deux fait choisir le mauvais prestataire au mauvais moment.
+
+**L'agent** est un intermédiaire opérationnel (personne ou petite structure, en Chine ou près de la zone d'achat) : il source, négocie MOQ/prix/délais, réceptionne depuis plusieurs usines, fait éventuellement du contrôle qualité, organise l'expédition. Il **n'a pas nécessairement d'infrastructure propre** — il s'appuie sur des partenaires (entrepôts tiers, transporteurs).
+
+**Le 3PL** (*Third-Party Logistics*) est une société logistique avec un entrepôt physique, des équipes internes, un système de gestion (WMS/OMS/TMS), des process définis pour réception/stockage/picking/packing/expédition, et des contrats formalisés. **Il ne source pas, ne négocie pas pour le compte de la marque, et ne joue aucun rôle dans le développement produit** — il exécute, de façon stable et structurée, ce qu'on lui livre déjà prêt à expédier.
+
+| | Agent | 3PL |
+|---|---|---|
+| **Force** | Flexibilité totale (changer de produit, d'usine, de packaging à tout moment), accompagnement humain, sourcing et négociation intégrés, barrière à l'entrée très basse | Structure professionnelle, traçabilité fine, délais maîtrisés (réception/expédition souvent sous 24h), contrats et coûts clairs, tient jusqu'à plusieurs milliers de commandes/jour |
+| **Limite** | Dépendance forte à une seule personne, peu de formalisation (souvent à l'oral ou par messagerie), traçabilité faible, **montre ses limites au-delà de ~200-300 commandes/jour** | Aucun sourcing (il faut déjà avoir ses fournisseurs), peu de personnalisation, relation moins humaine, volume minimum souvent exigé pour être accepté comme client |
+
+**La règle de choix : ce n'est jamais l'un contre l'autre dans l'absolu, c'est une question de stade.** Au démarrage et tant que le catalogue bouge (nouveaux produits testés, changements de packaging fréquents), l'agent reste la bonne réponse — c'est exactement la logique déjà posée pour le volume ci-dessus. Une fois un ou plusieurs produits stabilisés à fort volume, où la priorité devient la fiabilité d'exécution plutôt que la flexibilité, le 3PL (ou un modèle hybride qui combine les deux fonctions) prend le relais. Certains prestataires combinent aujourd'hui les deux rôles — sourcing/négociation **et** infrastructure d'entrepôt propre — à évaluer au cas par cas comme n'importe quel agent (§ ci-dessous, les trois signaux d'un agent fiable s'appliquent tout autant).
 
 ### Où trouver un agent — les 7 canaux, avec leurs pièges
 
