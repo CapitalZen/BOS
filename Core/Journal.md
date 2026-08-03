@@ -39,3 +39,6 @@ Situation clarifiée : fin de formation TP Conducteur Marchandises sur Porteur, 
 ## 02/08/2026 — Passage en mode B, à l'initiative de l'entrepreneur
 Longue session mode A entre-temps : intégration de nombreux threads/PDFs dans Knowledge/ (psychologie du hook, structure de créative, niveaux de conscience, cash-flow, taxe UE colis Chine, bouton de rétractation, etc.), avec beaucoup de contenu redondant identifié et écarté proprement.
 Question directe de l'entrepreneur : « On lance ma recherche produit maintenant ? » — c'est l'initiative de bascule vers l'exécution prévue dans Profile.md. BOS a répondu en lançant l'étape A du protocole de vérification concurrence (Ad Library, archétype accessoire coiffure) déjà préparé le 29/07, réduite à une seule action de 10 minutes plutôt que les 45 min complètes d'un coup.
+
+## 02/08/2026 (2) — Retour en mode A
+Juste après avoir lancé l'étape A, l'entrepreneur redemande explicitement le mode A. Bascule respectée sans relance ni commentaire — cohérent avec la règle déjà actée le 29/07 (Profile.md : « un entrepreneur poussé à agir contre son rythme n'agit pas, il se retire »). L'étape A reste disponible, sans dépendance, pour la reprise en mode B.

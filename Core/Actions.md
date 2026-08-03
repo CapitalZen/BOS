@@ -13,7 +13,7 @@
 | 2 | **Compléter le profil : temps dispo/semaine, compétences, objectif chiffré** | Sans ça, tout plan proposé est du hasard | Toi (5 min) | À faire |
 | 3 | **Construire le plan de trésorerie** (délai jusqu'au seuil de lancement, options d'accélération) | Transforme « le budget me bloque » en une date | **BOS** | En attente de #1 |
 | 4 | **Recherche produit — phase demande** : analyse de marché et shortlist d'archétypes scorés | Retire le blocage n°2 de ses épaules | **BOS** | **Fait** — `Output/Recherche_Produit_Shortlist_2026-07-29.md` |
-| 4b | **Vérification concurrence** : Ad Library, TikTok Creative Center, Amazon, Google Trends sur les 3 archétypes retenus | Seule partie qui exige une session navigateur. C'est le tri final | Toi (45 min) | **En cours** — démarrée le 02/08, étape A / archétype 1 (accessoire coiffure) lancée en premier |
+| 4b | **Vérification concurrence** : Ad Library, TikTok Creative Center, Amazon, Google Trends sur les 3 archétypes retenus | Seule partie qui exige une session navigateur. C'est le tri final | Toi (45 min) | En pause — étape A lancée le 02/08, reprise au retour en mode B |
 | 5 | Définir le critère d'arrêt de la recherche produit (deadline + nombre de candidats max) | La recherche produit sans critère d'arrêt ne se termine jamais — c'est ce qui la rend anxiogène | **BOS** propose, toi tu valides | Fait — 10 candidats, 5 jours |
 | 6 | **Filmer et publier la première vidéo** (hooks fournis, produit possédé suffisant) | L'objectif de la semaine 1 est de trouver le format qui répond, pas de vendre. Ne dépend d'aucun achat ni d'aucun budget | Toi (10 min) | À faire |
 | 7 | Sourcing de 20-30 marques du territoire | Alimente le scoring et l'analyse | Toi (~1 h) | À faire |
