@@ -1508,6 +1508,37 @@ On n'y va pas pour acheter, on y va pour **savoir**. Sans référence de prix, o
 
 **Et la règle qui prime sur tout : tester sur une petite commande avant d'aller plus loin.** Ne jamais engager un volume avec quelqu'un qu'on n'a pas encore vu livrer. Un agent se juge sur une expédition réelle, pas sur une conversation.
 
+### La grille d'évaluation étendue — au-delà des trois signaux de base
+
+Les trois signaux ci-dessus suffisent pour un premier tri. Pour une relation appelée à durer, une grille plus fine existe — **sans viser un agent qui coche 100 % des cases : ça n'existe pas, et le chercher coûte des semaines et de l'argent pour rien.** Certains critères ne s'observent qu'après plusieurs semaines de collaboration ; ne pas essayer de tout vérifier avant de démarrer (voir la règle de séquençage en fin de section).
+
+**Structure et légitimité :**
+- **Structure légale** — une société enregistrée (Chine, Hong Kong ou ailleurs) capable d'émettre une facture conforme. Envoyer des montants importants à quelqu'un sans existence légale est un vrai risque, pas un détail administratif.
+- **Présence physique** — bureau ou entrepôt réel, photos ou vidéos à l'appui. Beaucoup d'agents opèrent 100 % en ligne sans base fixe ; une structure physique permet une intervention si besoin.
+- **Accès direct aux usines** — un agent qui sous-traite lui-même à un autre agent ajoute un intermédiaire, donc une marge de plus et un contrôle en moins (cohérent avec la règle d'or déjà posée sur le pouvoir de négociation). Demander s'il a déjà visité l'usine ou travaillé avec elle sur d'autres projets.
+
+**Compétence opérationnelle :**
+- **Connaissance des shipping lines** — transporteurs utilisés, différence entre les lignes proposées, maîtrise de DDP/DDU et de l'IOSS. Le shipping représente une part énorme du business ; un agent qui ne maîtrise pas ce volet ne peut pas accompagner dessus.
+- **Sourcing multi-usine** — capable de proposer plusieurs options comparables pour un même produit, pas un fournisseur unique imposé.
+- **Capacité à centraliser/consolider** — regrouper plusieurs produits ou packagings venant d'usines différentes en un seul point d'expédition, utile dès qu'il y a des bundles.
+- **Contrôle qualité, interne ou externe** — capacité à détecter un défaut avant l'expédition, pas après.
+- **Précision logistique** — rigueur sur le picking, le packing, les étiquettes, la gestion de stock : c'est souvent là, plus que sur le sourcing, que les erreurs coûteuses se produisent.
+- **Capacité à absorber la croissance** — certains agents gèrent bien 20 colis/jour et décrochent à 500. Demander comment ils gèrent les pics (Q4, lancement produit) — cohérent avec le seuil de ~200-300 commandes/jour déjà posé plus haut où la plupart des agents montrent leurs limites.
+
+**Jugement et qualité de la relation :**
+- **Capacité à dire non** — un agent qui accepte tout sans jamais alerter sur un délai irréaliste ou un MOQ intenable emmène droit dans le mur plutôt que de prévenir.
+- **Questions pertinentes posées en retour** — signale qu'il cherche à comprendre le besoin réel plutôt qu'à simplement exécuter.
+- **Clarté et structure des réponses** — au-delà de la transparence sur les prix déjà citée, la capacité à expliquer simplement une option complexe plutôt que d'envoyer des chiffres bruts.
+- **Proactivité** — signale un changement de prix ou une meilleure option sans attendre d'être sollicité.
+- **Gestion des imprévus** — un retard fournisseur ou un colis défectueux annoncé immédiatement, avec une solution proposée, plutôt que découvert trop tard.
+- **Sang-froid en période critique** — reste clair et professionnel sous tension, ne disparaît pas et ne panique pas.
+- **Posture humaine face à l'erreur** — assume, s'excuse, corrige, plutôt que de nier ou de reporter la faute.
+- **Respect du cadre de travail imposé** — à l'aise avec des tableaux de suivi, capable de suivre une SOP détaillée plutôt que d'imposer sa propre façon de faire.
+
+**Confidentialité — un red flag simple à repérer :** un agent qui cite spontanément des noms de marques clientes dans les premiers échanges fera très probablement la même chose ailleurs avec les informations de la marque. Demander s'il signe des NDA avec ses clients ; s'il balance des références sans qu'on lui demande, c'est le signal à retenir, pas la preuve d'expérience qu'il croit démontrer.
+
+**La règle de séquençage : ne pas tout vérifier d'un coup.** Poser toutes ces questions dès le premier échange fait fuir n'importe quel agent sérieux. Beaucoup de ces critères ne s'observent que dans la durée, au fil des situations réelles (un imprévu, un pic de volume, une erreur). Si les critères de base (les trois signaux, la structure légale, l'accès direct usine) sont là, démarrer la relation et laisser le reste se révéler avec le temps — c'est exactement pour ça que la règle de la petite commande test, déjà posée, prime sur toute grille théorique.
+
 ### Ce qu'un agent peut négocier, et ce qu'il ne peut pas
 
 Son pouvoir de négociation dépend de sa relation avec l'usine, de son ancienneté, de son volume — et de l'attitude qu'on a avec lui.
