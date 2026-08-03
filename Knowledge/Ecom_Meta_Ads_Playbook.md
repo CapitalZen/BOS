@@ -1667,6 +1667,8 @@ Une mauvaise communication avec un partenaire chinois coûte des semaines et de 
 
 Ce que fait un agent quand on lui demande un produit : il va chercher sur ces mêmes plateformes. Savoir le faire soi-même sert à deux choses — se constituer la base de négociation déjà mentionnée, et à terme juger si l'agent apporte une vraie valeur ou se contente de relayer.
 
+**Un écart de prix entre deux usines n'est presque jamais arbitraire — les usines restent en concurrence entre elles, une marge injustifiée les sortirait vite du marché.** Avant de conclure qu'une usine « prend plus de marge », chercher la vraie raison : matériaux plus résistants, garantie incluse, certifications que l'autre usine n'a pas, MOQ plus bas, délai de production plus court. Ce sont des questions à poser, pas des suppositions à faire — accepter un « here is the total price » sans détail revient à négocier et choisir à l'aveugle, en marge brute, sans jamais savoir sur quoi porte réellement l'écart.
+
 **1688 plutôt qu'Alibaba pour aller à la source.** Alibaba est tourné vers l'international ; 1688 est la plateforme que les agents chinois eux-mêmes utilisent en interne, avec davantage d'usines référencées. **AliExpress n'est pas un outil de sourcing** — uniquement des revendeurs, à des prix majorés, sans accès à l'usine réelle.
 
 **Distinguer une usine (manufacturer) d'une trading company — et nuancer : l'une n'est pas systématiquement meilleure que l'autre.** Une trading company revend le catalogue de plusieurs usines partenaires. Ce qui détermine si elle vaut le coup n'est pas son statut, mais son volume et son réseau réels :
