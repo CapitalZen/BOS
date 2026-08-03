@@ -1767,13 +1767,22 @@ Après avoir testé assez d'angles et dépensé de quoi rendre la donnée repré
 | **1,5×** | Dangereux, mais opérable |
 | **1,1 à 1,4×** | Très difficile de pousser la marque haut |
 
-### Organiser la TVA : le compte séparé
+### Organiser la trésorerie par sous-comptes — généraliser le principe au-delà de la seule TVA
 
-Erreur qui détruit des business : ne pas isoler la TVA, l'utiliser pour scaler, et découvrir la dette au moment de la déclaration.
+Erreur qui détruit des business : ne pas isoler la TVA, l'utiliser pour scaler, et découvrir la dette au moment de la déclaration. Le même mécanisme — un virement automatique quotidien, en pourcentage des encaissements, vers un sous-compte dédié qu'on ne touche jamais — se généralise à l'ensemble des postes de dépense plutôt qu'à la seule taxe :
 
-**Le protocole :** virement automatique quotidien de **20 % des encaissements** sur un sous-compte dédié. On n'y touche jamais. (Le montant réellement dû sur un prix TTC est d'environ 16,67 % — mettre 20 de côté laisse une marge de sécurité.)
+| Sous-compte | Repère | Ce qu'il couvre |
+|---|---|---|
+| **Publicité** | ~30 % | Le budget média du mois suivant, déjà provisionné plutôt que prélevé dans l'urgence |
+| **Fournisseurs** | ~25 % | Réassort et paiements fournisseurs, pour ne jamais dépendre de la trésorerie du jour pour passer une commande |
+| **Taxes** | ~20 % | La TVA (le protocole déjà en place : le montant réellement dû sur un prix TTC est d'environ 16,67 % — mettre 20 de côté laisse une marge de sécurité) |
+| **Trésorerie** | ~25 % | La réserve de sécurité — ce qui absorbe le décalage entre dépense et encaissement déjà décrit plus haut, sans quoi un excellent mois peut quand même se solder par un découvert |
 
-> Cet argent ne t'appartient pas. Le raisonnement « je l'utilise maintenant, je rembourserai plus tard » est celui qui tue.
+Les pourcentages sont un point de départ à ajuster à la réalité du compte — chaque business a sa propre structure de coûts — mais la logique ne bouge pas : chaque euro qui rentre a déjà une destination avant même d'être consulté, ce qui retire la décision (et la tentation) du quotidien.
+
+**Outil pratique pour l'implémenter sans complexité comptable :** une banque business qui propose nativement des sous-comptes avec répartition automatique (Revolut Business et équivalents) rend ce découpage mécanique — configuré une fois, appliqué à chaque encaissement, sans geste manuel récurrent.
+
+> Cet argent ne t'appartient pas. Le raisonnement « je l'utilise maintenant, je rembourserai plus tard » est celui qui tue — vrai pour la TVA, tout aussi vrai pour la publicité et les fournisseurs.
 
 ### Email marketing — le socle de la récurrence
 
