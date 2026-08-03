@@ -86,6 +86,18 @@ Référence rapide. BOS l'utilise pour rester lisible : **on emploie l'abréviat
 | **KPI** | Indicateur clé de performance |
 | **OSS** | Guichet unique de TVA pour les ventes intracommunautaires en UE |
 
+## Sourcing et logistique
+
+| Terme | Signification |
+|---|---|
+| **MOQ** | Minimum Order Quantity — quantité minimale qu'une usine impose pour lancer une production. Existe même en dropshipping, même quand on ne le voit pas directement |
+| **Fournisseur** | Celui à qui on achète le produit — sur AliExpress, presque jamais l'usine elle-même, plutôt un revendeur. Les usines réelles se trouvent sur Alibaba ou 1688 (`Ecom_Meta_Ads_Playbook.md` §7) |
+| **Agent** | Intermédiaire qui gère la relation avec l'usine et l'expédition pour le compte de la marque — il coordonne, il ne fabrique pas (§7, avec la négociation détaillée) |
+| **3PL** | Third-Party Logistics — société avec entrepôt et infrastructure propres qui stocke et expédie les commandes ; ne source pas, contrairement à l'agent (§7) |
+| **Shipping line** | La compagnie qui transporte le colis jusqu'au pays du client — c'est elle qui détermine délais et fiabilité |
+| **Tracking number** | Le numéro de suivi transmis au client pour suivre son colis |
+| **Fulfillment** | La préparation d'une commande ; une commande « fulfilled » est prête à être expédiée |
+
 ---
 
 **Note d'usage BOS :** ne jamais utiliser une abréviation sans l'expliquer devant quelqu'un qui débute. Le jargon donne l'illusion de la compétence et empêche la compréhension — or c'est la compréhension qui permet de décider.
