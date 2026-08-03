@@ -42,3 +42,8 @@ Question directe de l'entrepreneur : « On lance ma recherche produit maintenant
 
 ## 02/08/2026 (2) — Retour en mode A
 Juste après avoir lancé l'étape A, l'entrepreneur redemande explicitement le mode A. Bascule respectée sans relance ni commentaire — cohérent avec la règle déjà actée le 29/07 (Profile.md : « un entrepreneur poussé à agir contre son rythme n'agit pas, il se retire »). L'étape A reste disponible, sans dépendance, pour la reprise en mode B.
+
+## 03/08/2026 — Documents vivants créés en préparation
+Session mode A : intégration de plusieurs threads sourcing/agent/négociation dans `Ecom_Meta_Ads_Playbook.md`, puis construction du document de validation d'échantillon (`Output/Document_Validation_Echantillon_2026-08-03.md`) rendu auto-évolutif à la demande de l'entrepreneur (journal des enseignements qui s'enrichit à chaque échantillon testé, même logique que CLAUDE.md).
+Discussion sur la généralisation du principe : clarifié que le mécanisme vivant ne s'applique qu'aux documents qui accumulent de vrais cas répétés dans le temps (Core/, échantillons, SAV) — pas aux fichiers Knowledge/ qui sont des playbooks distillés de sources externes.
+À la demande de l'entrepreneur, création de deux nouveaux fichiers Core/ vides et prêts à l'emploi : `Journal_Creatives.md` et `Journal_Clients.md` — explicitement vides tant qu'aucune créative ne tourne et qu'aucun client réel n'existe, pour éviter de simuler du travail (problème n°3 du diagnostic). À commencer à remplir dès les premières données réelles.
