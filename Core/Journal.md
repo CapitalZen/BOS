@@ -35,3 +35,7 @@ Rectification : les 1 500 € ne sont pas détenus, c'est un objectif à fin dé
 
 ## 01/08/2026 (5)
 Situation clarifiée : fin de formation TP Conducteur Marchandises sur Porteur, suite envisagée ADR de base + spécialisation citernes. Aucun budget avant l'entrée en poste ; les 1 500 € viendront de l'épargne sur ce futur emploi. Objectif 1-3 k€/mois rephasé au S1 2027 ; fin décembre 2026 devient : boutique en ligne, audience, premières ventes, trésorerie constituée. Bottleneck confirmé sur la constance, avec un plancher différencié jours travaillés / jours de repos. Nouveau jalon décisif : la date d'entrée en poste.
+
+## 02/08/2026 — Passage en mode B, à l'initiative de l'entrepreneur
+Longue session mode A entre-temps : intégration de nombreux threads/PDFs dans Knowledge/ (psychologie du hook, structure de créative, niveaux de conscience, cash-flow, taxe UE colis Chine, bouton de rétractation, etc.), avec beaucoup de contenu redondant identifié et écarté proprement.
+Question directe de l'entrepreneur : « On lance ma recherche produit maintenant ? » — c'est l'initiative de bascule vers l'exécution prévue dans Profile.md. BOS a répondu en lançant l'étape A du protocole de vérification concurrence (Ad Library, archétype accessoire coiffure) déjà préparé le 29/07, réduite à une seule action de 10 minutes plutôt que les 45 min complètes d'un coup.
