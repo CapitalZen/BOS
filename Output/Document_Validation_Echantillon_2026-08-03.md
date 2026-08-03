@@ -2,6 +2,8 @@
 
 **À remplir à chaque réception d'échantillon, avant tout engagement sur un volume.** Un seul principe : rien ne se valide à l'oral ou par un « OK » envoyé à la volée — chaque ligne ci-dessous se coche et se date. En cas de désaccord ou de correction demandée à l'agent/fournisseur, ce document est la référence écrite qui évite le malentendu au moment de lancer la production (cf. `Ecom_Meta_Ads_Playbook.md` §7 — l'échantillon, et la communication écrite avec un agent).
 
+**Ce document est vivant, pas figé — même logique que le document de templates SAV déjà posé dans `Knowledge/AI_Ecom_Ops_Stack.md`, et que la boucle d'auto-amélioration de `CLAUDE.md`.** Chaque échantillon testé est une occasion d'affiner les grilles ci-dessous : un défaut découvert qui n'était pas dans la liste s'ajoute à la grille de la catégorie concernée (section 3) et se journalise (section 6), pour qu'il soit vérifié systématiquement sur tous les échantillons suivants — de la même famille de produit ou non. Le document ne repart jamais de zéro ; il s'enrichit à chaque usage, sans qu'il soit besoin de le reconstruire.
+
 ---
 
 ## 1. Identification
@@ -55,7 +57,7 @@
 - [ ] Durabilité du matériau après compression répétée
 - [ ] Absence d'odeur après plusieurs heures d'usage
 
-*(Cette section est un point de départ — l'ajuster précisément une fois le produit final choisi, avec les défauts réellement observés sur des produits comparables déjà vendus, cf. la méthode de lecture des avis négatifs concurrents.)*
+*(Cette section est un point de départ — elle s'ajuste au fil des échantillons réellement testés (section 6) et des défauts réellement observés sur des produits comparables déjà vendus, cf. la méthode de lecture des avis négatifs concurrents. Tout défaut rencontré qui n'est pas encore listé ici s'ajoute à la grille de la catégorie concernée, immédiatement.)*
 
 ---
 
@@ -81,6 +83,18 @@
 | **Délai de renvoi d'un nouvel échantillon corrigé (si applicable)** | |
 | **Décision finale et date** | |
 | **Validé par** | |
+
+---
+
+## 6. Journal des enseignements — à enrichir à chaque échantillon
+
+**Une ligne par échantillon testé, quel que soit le verdict.** C'est ce qui transforme ce document en mémoire cumulative plutôt qu'en formulaire à usage unique — chaque nouvelle ligne est un raccourci offert à l'échantillon suivant, sur ce produit ou sur un autre.
+
+| Date | Produit | Défaut ou point positif marquant découvert | Grille mise à jour ? (section 3) | Leçon pour la prochaine fois |
+|---|---|---|---|---|
+| | | | | |
+
+**Comment l'utiliser :** après chaque décision en section 5, revenir ici et ajouter une ligne — même pour un échantillon validé sans réserve (noter alors simplement ce qui a bien fonctionné, pour le reproduire). Avec quelques échantillons accumulés, cette table devient la meilleure base pour écrire le cahier des charges d'une nouvelle commande — bien plus fiable qu'un souvenir approximatif de ce qui avait posé problème trois mois plus tôt.
 
 ---
 
