@@ -1562,6 +1562,32 @@ Un agent est un partenaire logistique, pas un employé ni un homme à tout faire
 
 C'est à ce stade que le sourcing devient un avantage compétitif réel — et ce qui transforme une boutique qui tourne en business qui dure.
 
+### Bien communiquer avec un agent ou une usine chinoise — outils, rythme, langage
+
+Une mauvaise communication avec un partenaire chinois coûte des semaines et de l'argent, pas parce que la relation est mauvaise, mais parce que les outils, le rythme et la formulation par défaut d'un e-commerçant occidental ne sont pas adaptés à l'interlocuteur.
+
+**Les outils, du plus indispensable au plus accessoire :**
+- **WeChat, non négociable.** L'app que les interlocuteurs chinois utilisent toute la journée — au-delà de l'usage pratique, avoir un compte WeChat est lu comme un signal qu'on comprend les codes et qu'on prend la relation au sérieux.
+- **WhatsApp** existe surtout côté agents habitués aux clients internationaux, mais reste secondaire pour eux : réponses plus lentes, oublis plus fréquents que sur WeChat. Les usines proposeront presque toujours de basculer sur WeChat dès le premier contact.
+- **Alibaba/1688** servent à la prise de contact initiale avec une usine — pratique et rapide, mais à quitter pour WeChat dès que possible, pour sortir du flux de prospects que l'usine traite en masse.
+- **Un tableur (Excel/Google Sheets)** pèse plus qu'un message pour transmettre des chiffres et des prévisionnels — un tableau clair convainc là où un message descriptif se perd.
+- **Un support visuel simple (schéma, mindmap)** compense la perte d'information quasi systématique dans un échange en anglais non natif des deux côtés : un process décrit dans un message à plusieurs interprétations s'oublie en deux jours, un schéma ou un PDF clair reste.
+- **Google Drive** pour centraliser design, process, prévisionnels, packing list — particulièrement utile tant que tout n'est pas encore géré par un 3PL, où les documents sont nativement conservés plutôt que dispersés dans une messagerie.
+- Slack a sa place seulement pour l'organisation interne d'une équipe déjà conséquente — jamais en remplacement du contact direct en 1-to-1 avec l'usine ou l'agent.
+
+**Le rythme et le décalage horaire.** Un bon agent répond parfois à 2h ou 3h du matin heure chinoise — signe d'implication, pas une norme à exiger en retour : ne jamais réclamer une réactivité permanente, l'agent a une famille, des horaires, un besoin de sommeil comme n'importe qui. Avec un décalage de 6-7h (Chine en avance sur l'Europe), envoyer les demandes tôt le matin heure française maximise la fenêtre de réponse le jour même — après le début d'après-midi côté français, il est déjà tard en Chine et la réponse attendra le lendemain.
+
+**Anticiper le calendrier chinois, pas seulement le calendrier français.** Le Nouvel An chinois (fermeture d'1 à 4 semaines, vers février) et la Golden Week (1er-7 octobre, fermeture nationale) sont les deux échéances à connaître absolument et à intégrer dans tout planning de production ou d'expédition — demander directement à l'agent les prochaines dates plutôt que de découvrir un blocage de plusieurs semaines au mauvais moment.
+
+**Le langage : simple, direct, jamais implicite ni ironique.** Les interlocuteurs ne sont pas anglophones natifs et passent souvent par de la traduction automatique — un second degré ou une blague finit prise au premier degré (et parfois même notée comme une consigne). Trois réflexes qui réduisent les erreurs de façon disproportionnée par rapport à leur simplicité :
+- **Une seule question par message**, ou des questions numérotées si plusieurs sont nécessaires — un message qui empile 3-4 questions dans un même bloc se fait généralement mal comprendre.
+- **Un visuel systématique plutôt qu'un adjectif seul.** « I want the box to be luxurious » ne dit rien d'exploitable ; une photo de référence annotée avec la finition et la couleur précises se comprend sans ambiguïté.
+- **Demander la reformulation, toujours**, même quand la consigne semblait claire : « Can you explain what you understood, step by step ? » avant de lancer une production coûte une phrase et évite une erreur qui coûte, elle, des semaines.
+
+**Structure de message qui fonctionne, sans prétendre au message parfait :** contextualiser en une phrase (éviter de faire remonter l'historique de la conversation) → une demande claire, une par message → un visuel ou document joint → une demande de validation explicite en fin de message.
+
+**Construire la relation dans la durée plutôt que d'optimiser le premier échange.** Se présenter professionnellement dès le premier contact (projet, structure, vision long terme) plutôt que d'ouvrir par « combien ? » puis « trop cher, baisse » — cohérent avec le levier de perception déjà posé pour la négociation : une relation qui démarre sur le seul prix ferme la porte aux marges de manœuvre futures. Valoriser explicitement le travail fourni (un message ou un appel suffit) est sous-estimé mais entretient la relation dans la durée, indépendamment de la culture de l'interlocuteur.
+
 ### Sourcer directement sur 1688 et Alibaba — un savoir-faire qui dépasse l'agent
 
 Ce que fait un agent quand on lui demande un produit : il va chercher sur ces mêmes plateformes. Savoir le faire soi-même sert à deux choses — se constituer la base de négociation déjà mentionnée, et à terme juger si l'agent apporte une vraie valeur ou se contente de relayer.
