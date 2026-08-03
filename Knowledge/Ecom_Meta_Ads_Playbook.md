@@ -1776,6 +1776,8 @@ Trois failles, toutes dans le back :
 2. **SAV non anticipé** — le volume de mails explose, le support n'a pas été renforcé. Réponses tardives ou bâclées, clients mécontents, confiance rompue. Plus le feu dure, moins il s'éteint.
 3. **Conformité légale négligée** — découverte en plein scaling : le produit exigeait des mentions légales précises sur le packaging dans plusieurs pays. **Des centaines de colis déjà expédiés étaient non conformes.** Irrattrapable.
 
+⚠️ **Cas spécifique aux produits cosmétiques (crème, soin, maquillage, tout ce qui s'applique sur la peau ou les cheveux) : la notification CPNP n'est valide que pour la configuration exacte déclarée, pas « à vie ».** Changer le packaging, l'étiquette, la formule, le site de fabrication, ou traduire pour un nouveau pays européen oblige à mettre à jour la notification — vendre sur une notification obsolète est une non-conformité réglementaire (Règlement CE 1223/2009), indépendamment du fait que le produit soit physiquement identique ou non. Un accessoire (coiffure, bijou, textile) n'est pas concerné — la CPNP ne couvre que les produits cosmétiques au sens réglementaire.
+
 **Et la décision qui a tout achevé : continuer à scaler malgré les alertes.** Lancer des campagnes pendant que le back s'effondrait — l'illusion d'un business performant.
 
 **Résultat final : site suspendu, processeur de paiement bloqué, litiges en cascade, remboursements massifs, marque détruite.** Pas à cause du produit. Pas à cause du ROAS.
