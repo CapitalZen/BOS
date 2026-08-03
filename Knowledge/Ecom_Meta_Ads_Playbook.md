@@ -1508,6 +1508,54 @@ On n'y va pas pour acheter, on y va pour **savoir**. Sans référence de prix, o
 
 **Et la règle qui prime sur tout : tester sur une petite commande avant d'aller plus loin.** Ne jamais engager un volume avec quelqu'un qu'on n'a pas encore vu livrer. Un agent se juge sur une expédition réelle, pas sur une conversation.
 
+### Ce qu'un agent peut négocier, et ce qu'il ne peut pas
+
+Son pouvoir de négociation dépend de sa relation avec l'usine, de son ancienneté, de son volume — et de l'attitude qu'on a avec lui.
+
+**Ce qu'un bon agent peut généralement obtenir :** un meilleur prix usine (si le volume ou l'engagement long terme sont crédibles — commander 100 pièces ne fait pas de miracle) ; des conditions de paiement plus souples (30/70, voire Net-15/30, mais seulement avec de la crédibilité — prévisionnel, historique, structure claire) ; une priorité ou une ligne de production dédiée sur les délais, pour un client régulier ou stratégique ; les détails logistiques (regroupement de commandes, contrôle qualité renforcé, photos pendant le picking).
+
+**Ce qu'il ne peut généralement pas négocier :** les frais de la shipping line (sauf partenariat direct de l'agent avec une ligne, auquel cas c'est son propre tarif préférentiel qui profite au client) ; le MOQ — c'est l'usine qui le fixe, l'agent peut au mieux « arranger » en regroupant avec une autre commande en cours, sans garantie ; les taxes et frais de douane, qu'il peut expliquer mais jamais fixer.
+
+**Règle d'or :** plus l'agent est en contact direct avec l'usine — par opposition à un sous-agent ou un agent d'agent — plus sa marge de manœuvre réelle est grande. Et plus l'interlocuteur est professionnel, clair et fiable, plus l'agent a intérêt à se battre pour lui.
+
+### Comprendre où et comment l'agent se rémunère
+
+Un agent travaille, prend des risques logistiques, fait gagner du temps — sa marge est légitime. Ce qui compte n'est pas *pourquoi* il en prend une, c'est *où* et *comment*, pour pouvoir comparer les offres et négocier sur des bases réelles.
+
+**Trois modèles de rémunération, à distinguer :**
+- **Commission intégrée au prix produit et/ou au shipping** — la plus discrète : le prix annoncé est légèrement gonflé par rapport au prix réel usine ou ligne DDP, sans que ce soit visible.
+- **Frais fixe affiché** (« je prends 1 $ par pièce, tout compris ») — plus lisible, mais n'exclut pas qu'une petite commission soit aussi glissée ailleurs : c'est ce qui rend ce modèle parfois trompeur malgré son apparence de transparence.
+- **Un mix des deux** — prix légèrement gonflés **et** frais fixe affiché : donne un sentiment de transparence tout en combinant les deux marges.
+
+**Bonnes pratiques :** demander systématiquement une décomposition claire (prix produit / prix shipping / main-d'œuvre / commission séparée si possible) ; comparer avec d'autres agents ou d'autres sources (1688, RFQ ailleurs) pour se construire un référentiel — cohérent avec la base de négociation déjà posée plus haut ; ne jamais accepter un tarif global sans comprendre sa composition.
+
+### Le vrai levier de négociation : changer la perception que l'agent a du projet
+
+Le volume prime toujours — il sera difficile d'obtenir les prix d'un client qui fait 2 000 commandes/jour en en faisant 100. Mais avant même le volume, il y a un filtre plus déterminant : quand un agent reçoit une demande, il se pose la même question qu'un investisseur — *ce projet est-il sérieux, ou est-ce un client de passage qui va disparaître après 20 commandes ?* Plus le projet paraît éphémère, plus la marge de départ est haute — c'est de la prudence commerciale, pas de l'opportunisme.
+
+**Le levier n'est donc pas d'abord le prix, c'est la perception.** Avant de demander une réduction de marge, « pré-onboarder » l'agent en partageant : un historique d'activité (volume passé, résultats), un prévisionnel ou business plan, la taille de la communauté ou du réseau, les fonds déjà engagés, et une vision claire (« je construis une marque, pas un coup rapide »). Concrètement : un document propre — quelques pages suffisent — qui montre que le projet est pris au sérieux avant même de parler chiffres. Une fois ce prisme changé, l'agent ne voit plus un client à rentabiliser à court terme mais un partenaire dans lequel investir du temps — c'est ce basculement qui ouvre les vraies négociations, pas l'insistance sur le prix au kilo.
+
+### Négocier le MOQ, les délais de paiement et les services — trois leviers distincts du prix produit
+
+**Le MOQ (Minimum Order Quantity)** répond toujours à une contrainte précise, et la négociation dépend de laquelle :
+- **Filtrage stratégique** (agent ou usine trient les petits projets) — le plus négociable : montrer un projet structuré et crédible suffit souvent à le faire bouger.
+- **Contrainte sur la matière première** — l'usine doit acheter un minimum pour lancer sa propre production, indépendamment de la commande client. Plus dur, parfois contournable en mutualisant la matière avec d'autres clients de l'agent.
+- **Rentabilité de la ligne de production** — lancer une petite production coûte presque autant qu'une grande en temps et en setup. Levier possible : proposer un paiement anticipé sur la matière première, ou s'insérer dans une fenêtre de production déjà planifiée plutôt que d'en ouvrir une nouvelle.
+
+**Les conditions de paiement du shipping évoluent avec la confiance, pas d'un coup.** Au départ, 100 % à la commande est la norme — l'agent avance lui-même le cash à la ligne de transport et ne le fera pas pour un client inconnu. La progression naturelle avec la régularité : paiement tous les 2-3 jours → paiement hebdomadaire global → Net-15 ou Net-30. Ne jamais le demander trop tôt ; rester proactif sur le sujet dès qu'un vrai volume est démontré.
+
+**Les services annexes (sourcing, contrôle qualité, entreposage, repackaging) se négocient séparément de la commission produit.** Demander explicitement s'ils sont inclus ou facturés à part, obtenir certains gratuitement contre un engagement de volume, faire baisser une commission fixe à mesure que le volume grossit. Nuance à garder en tête : un service qui semble anodin ponctuellement (un test produit avant le packing) représente un vrai coût de temps cumulé sur le volume — ne pas s'étonner qu'il finisse facturé.
+
+### Ce qui est raisonnable de demander à un agent — et ce qui ne l'est pas
+
+Un agent est un partenaire logistique, pas un employé ni un homme à tout faire.
+
+**Raisonnable :** un devis détaillé (produit, shipping, main-d'œuvre) ; des photos ou vidéos du produit, du packaging, de l'envoi ; une explication claire des délais et des enjeux ; un contrôle qualité basique à réception ; des suggestions d'alternatives en cas de rupture fournisseur ; un contact réactif aux heures ouvrées.
+
+**Pas raisonnable, ou à rémunérer explicitement si demandé :** une disponibilité permanente (nuits, week-ends) ; la gestion du SAV client B2C ou des remboursements ; des décisions prises à sa place faute d'informations claires de la marque ; du design de packaging ou du branding ; des modifications en cours de production sans compensation ; des allers-retours usine répétés sans engagement derrière.
+
+**Le test à deux questions avant de demander quoi que ce soit :** est-ce qu'une personne plus compétente existerait pour cette tâche (le design de packaging, par exemple, revient à un designer, pas à l'agent) ? Si non, quel est l'enjeu de temps réel derrière la demande — un contrôle qualité poussé qui prend 2-3 heures de sa journée mérite d'être rémunéré, pas obtenu gratuitement par habitude.
+
 **Le fil rouge des sept canaux :** la question n'est jamais « où le trouver » mais **« qui gère réellement mes commandes »**. Un agent qui ne peut pas dire précisément où sont ses entrepôts, qui manipule ses colis, et comment il gère un litige, est un intermédiaire de plus dans la chaîne — donc une marge de plus et un contrôle de moins.
 
 **Ce que BOS fait sur cette étape :** rédiger le message de premier contact, la liste des questions de qualification (présence terrain, entrepôts, délais de traitement, gestion des litiges, conditions de paiement, capacité de contrôle qualité), et la grille de comparaison des devis. L'entrepreneur envoie les messages et juge la réactivité — qui est en soi l'un des meilleurs signaux.
