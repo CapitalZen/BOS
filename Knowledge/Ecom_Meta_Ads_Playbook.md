@@ -1681,7 +1681,7 @@ Ce que fait un agent quand on lui demande un produit : il va chercher sur ces m�
 
 **Les signaux de sérieux d'une fiche usine, avant même le premier message :** photos réelles du produit, du packaging et du site de production (pas des visuels stock) · dimensions et matériaux précisés · certifications d'usine (BSCI, ISO, Sedex) · certifications produit selon la catégorie (FDA, RoHS, CE, CPNP). ⚠️ **Ne jamais commander avant d'avoir reçu ces certifications en main** — un fournisseur qui pousse à commander sans les fournir, même en affirmant que « c'est la procédure habituelle », est un signal d'alarme à traiter comme tel.
 
-**Le badge « Gold Supplier » sur 1688** certifie une capacité de production, une chaîne logistique intégrée et un service pensé pour l'international — un statut payant pour l'usine (de l'ordre de plusieurs dizaines de milliers de RMB par an), donc un signal de sérieux réel mais **pas une garantie** : la qualité des échanges et du produit reste à vérifier indépendamment.
+**Le badge « Gold Supplier » sur 1688** certifie une capacité de production, une chaîne logistique intégrée et un service pensé pour l'international — un statut payant pour l'usine (**106 800 RMB/an**, soit de l'ordre de 13-14 000 €), donc un signal de sérieux réel mais **pas une garantie** : la qualité des échanges et du produit reste à vérifier indépendamment.
 
 **Ce qu'une bonne communication doit produire, sans zone floue :** un prix clair, le MOQ (quantité minimale de commande), le coût d'un échantillon, la matière — le tout cohérent et donné sans détour. Une réponse vague ou évasive sur l'un de ces points vaut pour tout le reste de la relation.
 
