@@ -96,6 +96,10 @@ Référence rapide. BOS l'utilise pour rester lisible : **on emploie l'abréviat
 | **3PL** | Third-Party Logistics — société avec entrepôt et infrastructure propres qui stocke et expédie les commandes ; ne source pas, contrairement à l'agent (§7) |
 | **Shipping line** | La compagnie qui transporte le colis jusqu'au pays du client — c'est elle qui détermine délais et fiabilité |
 | **Tracking number** | Le numéro de suivi transmis au client pour suivre son colis |
+| **Trading company** | Société qui revend le catalogue de plusieurs usines partenaires en se présentant comme fabricant — marge incluse dans le prix, contrôle qualité généralement moindre (§7) |
+| **DDP / DDU** | Delivered Duty Paid / Unpaid — la ligne d'expédition inclut (DDP) ou non (DDU) les droits de douane et taxes déjà réglés à l'arrivée. En DDU, le client peut se voir réclamer des frais surprise à la livraison |
+| **IOSS** | Import One-Stop Shop — guichet de TVA pour les importations hors UE de moins de 150 €, distinct de l'OSS (ventes intracommunautaires) |
+| **EORI** | Numéro d'identification douanière obligatoire pour importer commercialement dans l'UE — à ne pas confondre avec l'IOSS, qui concerne la TVA |
 | **Fulfillment** | La préparation d'une commande ; une commande « fulfilled » est prête à être expédiée |
 
 ---
