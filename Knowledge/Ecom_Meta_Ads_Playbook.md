@@ -607,6 +607,7 @@ Sur la marge : le repère minimal cité par cette source est **3× en marge brut
 Ne pas se perdre dans les setups complexes (comptes agence, proxies, structures multicouches) — ni au lancement, ni pour scaler à des chiffres sérieux. Ce qui compte :
 - **Un profil Facebook sain** : compte ancien avec de l'activité, ou compte récent chauffé 2-3 semaines par un usage normal.
 - **3 admins de backup sur le Business Manager** (proches, famille). 5 minutes à mettre en place, filet de sécurité en cas de blocage.
+- **L'API de Conversions (CAPI), en plus du pixel, pas à sa place.** Depuis la perte de tracking post-iOS 14 (déjà évoquée en amont de ce document), le pixel seul — basé sur le navigateur — manque une partie réelle des achats. La CAPI envoie l'information d'achat directement depuis le serveur Shopify, une donnée que les bloqueurs de trackers et les réglages de confidentialité du navigateur n'affectent pas. Résultat concret : une partie des campagnes qui semblent sous le ROAS BE sont en réalité rentables, coupées à tort faute de données complètes. Activation native via l'intégration Shopify ↔ Meta, quelques minutes, aucun développement requis — à vérifier dans l'Event Manager (statut de correspondance des événements) plutôt qu'à supposer actif par défaut.
 
 ### ROAS Break-Even et ROAS Target
 
@@ -730,6 +731,8 @@ Le paramétrage donné plus haut (100 €/jour, 10-15 créatives) suppose un bud
 
 **Le mécanisme derrière la règle « ne toucher à rien avant 48 h » :** ce n'est pas une question de patience, c'est technique. Chaque modification apportée à une campagne active **relance sa phase d'apprentissage depuis le début** — l'algorithme perd la donnée déjà accumulée et recommence à explorer. Couper ou modifier avant 48 h ne fait donc pas qu'arrêter un test qui semblait mauvais : ça détruit l'apprentissage déjà payé. Avec un budget qui ne permet qu'un ou deux tests au total, cette règle n'est pas négociable.
 
+**Ce que dit Meta officiellement sur cette phase d'apprentissage : elle se sort par un nombre d'événements, pas par un compte de jours.** Le seuil cité est d'environ **50 conversions (achats) sur une fenêtre glissante de 7 jours**. C'est pour ça qu'on lit parfois « attendez 7 à 14 jours » comme règle générale : c'est le temps qu'il faut, *en moyenne*, à un compte qui convertit normalement pour atteindre ce seuil — pas une durée fixe en soi. Sur un tout petit budget, 48 h peuvent ne pas suffire à sortir de l'apprentissage, et ce n'est pas grave : la règle des 48 h ci-dessus protège le premier palier de décision (couper ou laisser tourner), elle n'implique pas que la campagne a fini d'apprendre. Le statut réel se lit directement dans le gestionnaire de publicités (colonne « Diffusion » : *en apprentissage* / *apprentissage limité* / *actif*) plutôt que de se calculer soi-même.
+
 ### L'environnement du compte — ce qui influence les résultats avant même la créative
 
 Deux personnes peuvent lancer la même campagne, la même créative, la même offre et le même funnel, et obtenir des résultats opposés. L'environnement Meta n'est jamais neutre.
@@ -791,6 +794,8 @@ Sans cette grille, on tue systématiquement les publicités qui créent la deman
 **Le process de testing correspondant :** définir le persona et ce qui peut résonner chez lui → lancer un mélange de concepts, angles et formats dans une même CBO → laisser Meta désigner l'opportunité par le spend → **itérer sur le pattern qui prend** (message qui marche → autres formats et autres personas ; format qui marche → autres messages).
 
 **Deux précisions opérationnelles convergentes avec le reste du document :** ne pas dépasser **15 à 20 publicités par ad set** — au-delà, les performances se dégradent ; et **regrouper les ad sets par concept ou par stade de conscience** (haut, milieu, bas de funnel) plutôt que tout mélanger, ce qui accélère nettement l'apprentissage.
+
+⚠️ **Précision utile si un chiffre plus large circule (« 15 à 50 créatives actives »).** Ce volume plus élevé se lit au niveau du **compte**, pas de l'ad set — réparti sur plusieurs ad sets regroupés par concept ou par niveau de conscience (règle ci-dessus), pas empilé dans un seul. Le plafond de 15-20 par ad set reste la règle qui protège l'apprentissage.
 
 **Ne pas innover pendant le testing.** En testing on cherche la validation, pas l'originalité : reprendre les structures, scripts et angles déjà validés dans la niche. ⚠️ Reprendre les **rushes** d'un concurrent, en revanche, est à la fois une contrefaçon et un handicap technique — Meta détecte les créatives similaires et les regroupe. Toujours produire son propre matériel.
 
@@ -982,6 +987,8 @@ Le mécanisme est cognitif : l'audience a déjà vu ces images. Elle ne les reco
 - Le scaling devient impossible
 
 **Le seul remède est le contenu original.** Et c'est pour ça que le contenu n'est pas une dépense, c'est du carburant : sans lui, la machine s'arrête, quelle que soit la qualité de la stratégie.
+
+**Le repère à retenir pour du contenu réellement original, hors fatigue des rushes : 14 à 21 jours de durée de vie moyenne avant essoufflement.** C'est la référence normale — le 48 h ci-dessus est spécifiquement ce qui arrive quand le matériel est déjà vu ailleurs, pas le rythme de base. Conséquence pratique : avoir la prochaine créative prête avant que l'actuelle ne montre les premiers signes de fatigue (CTR qui baisse, CPM qui monte), pas après.
 
 ### La règle des 2 % — et ce qu'elle révèle
 
