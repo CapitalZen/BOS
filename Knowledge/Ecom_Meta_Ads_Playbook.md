@@ -1784,6 +1784,18 @@ Les pourcentages sont un point de départ à ajuster à la réalité du compte �
 
 > Cet argent ne t'appartient pas. Le raisonnement « je l'utilise maintenant, je rembourserai plus tard » est celui qui tue — vrai pour la TVA, tout aussi vrai pour la publicité et les fournisseurs.
 
+### La taxe de 3 € sur les colis importés hors UE — déjà en vigueur depuis le 1er juillet 2026
+
+**Déjà applicable, pas une échéance à venir.** Depuis le 1er juillet 2026, un droit de douane forfaitaire de **3 € s'applique à chaque catégorie tarifaire d'article** contenue dans un colis de moins de 150 € importé hors UE — la franchise qui exemptait ces petits colis est supprimée. Mesure provisoire jusqu'au 1er juillet 2028, qui vise directement les modèles Shein/Temu/AliExpress, très pertinente pour tout sourcing direct en Chine (`§7`, sourcing 1688/Alibaba/AliExpress).
+
+**Le point technique qui change le calcul :** ce n'est pas 3 € par colis, mais 3 € **par catégorie douanière d'article** à l'intérieur du colis. Deux t-shirts identiques = une seule fois 3 €. Un t-shirt + un pantalon = 6 €. Ça pousse mécaniquement vers des commandes mono-catégorie plutôt que des colis mélangés, et ça change la lecture d'un bundle multi-produits sourcés séparément.
+
+**L'impact concret sur la marge, à intégrer dans le calcul de COGS (§2, marge x4-4,5) :** sur un produit à faible valeur, la taxe s'ajoute à la TVA habituelle et peut représenter **30 à 50 % de hausse du coût réel**, un poids proportionnellement bien plus lourd sur un article à 10 € que sur un article à 50 €.
+
+**Deux postures selon le stade :**
+- **En phase de test/validation produit** — le réflexe le plus rentable est d'**intégrer les 3 € dans le calcul de marge dès maintenant** plutôt que de découvrir l'écart après coup, d'ajuster le prix ou le panier moyen en conséquence, et d'être prudent sur les produits à très faible valeur unitaire (10 € ou moins) où la taxe pèse proportionnellement le plus.
+- **Une fois un produit validé, à fort volume** — envisager le **stock en Europe via un 3PL** (import groupé, puis expédition locale) plutôt que l'envoi unitaire depuis la Chine à chaque commande : livraison plus rapide (2-3 jours), moins de mauvaise surprise douanière pour le client, meilleure image. ⚠️ **Non rentable sur un volume faible** — les frais de stockage et la trésorerie immobilisée dans un stock avant même sa vente ne se justifient qu'une fois la demande prouvée (cohérent avec le seuil de 50-100 ventes déjà posé pour la transition vers la semi-marque, §6 bis).
+
 ### Email marketing — le socle de la récurrence
 
 C'est lui qui produit l'essentiel du réachat. Minimum vital :
