@@ -1184,6 +1184,17 @@ Ce n'est pas un petit plus : c'est ce qui décide qui reste sur le marché.
 
 **Le CRO est incrémental.** +3 %, +5 %, +2 %, +1 % — cumulés, ils rendent une boutique très difficile à concurrencer. Aucun de ces gains n'est spectaculaire isolément, et c'est exactement pour ça que la plupart ne les font jamais.
 
+### Le mobile n'est pas un canal, c'est le canal — quatre leviers CRO spécifiques
+
+**Le repère qui change la priorité :** l'essentiel des ventes Shopify se fait désormais sur mobile, et l'écart de comportement est net — l'abandon de panier y est nettement plus élevé que sur ordinateur (repère cité : ~80 % contre ~66 %). Penser le site « ordinateur d'abord, mobile en bonus » revient à optimiser pour la minorité du trafic. Quatre ajustements concrets, sans toucher au trafic ni au budget :
+
+- **Le bouton « Ajouter au panier » collant (sticky).** Sur mobile, si le bouton disparaît dès qu'on scroll pour lire les avis ou les photos, une partie des clients n'a pas le réflexe de remonter — la vente se perd sur un détail d'ergonomie, pas sur l'offre. Le fixer en bas de l'écran, avec le prix et le sélecteur de variante visibles, et le faire apparaître une fois le bouton principal dépassé. Plusieurs apps gratuites existent (rechercher « sticky add to cart » sur le Shopify App Store).
+- **Le paiement express en un geste (Shop Pay, Apple Pay, Google Pay).** Ce qui les rend décisifs sur mobile spécifiquement : ils suppriment la corvée de saisie (adresse, numéro de carte, expiration) qui est bien plus pénible sur petit écran qu'au clavier. À activer dans Réglages → Paiements, avec les boutons directement dans le tiroir panier (cart drawer) pour raccourcir le trajet ajout → achat — pas seulement sur la page de paiement finale. Vérifier que les boutons font au moins 44-48 px de haut, pour éviter les erreurs de clic sur petit écran.
+- **La barre de progression vers la livraison gratuite** — déjà couverte en « Optimiser le panier » (§6) : sur mobile, l'afficher aussi en haut du site, pas seulement dans le panier, puisque c'est là que l'essentiel du trafic se trouve.
+- **La vitesse de chargement, en dessous de 3 secondes, idéalement 2.** Chaque seconde de moins compte fortement sur la conversion mobile spécifiquement (l'attention y est plus volatile qu'au clavier). Tester sa page produit sur **Google PageSpeed Insights** (gratuit), et s'attaquer d'abord aux images non compressées — la cause la plus fréquente, déjà nommée en « Vitesse du site » ci-dessous.
+
+**Le réflexe qui vaut plus que n'importe quel audit théorique : commander un produit sur sa propre boutique, depuis son téléphone, comme un vrai client, jusqu'au paiement.** Deux minutes suffisent à repérer ce qui bloque réellement — bien plus fiable qu'une checklist lue sans jamais tester son propre tunnel.
+
 ### Les priorités, dans l'ordre
 
 **L'above the fold** (ce qui est visible sans scroller) concentre l'essentiel du gain :
@@ -1355,6 +1366,8 @@ Juste après l'achat : pic d'engagement maximal, carte déjà sortie, résistanc
 ### Vitesse du site
 
 Un site lent tue la conversion avant que le produit soit vu, et augmente le coût d'acquisition (on paie des visiteurs qui repartent). Causes fréquentes : trop d'apps Shopify (chacune charge des scripts), images non compressées, thème surchargé d'éléments dynamiques.
+
+**Repère chiffré et outil pour agir dessus :** viser un chargement de page produit sous **3 secondes, idéalement 2** — au-delà, chaque seconde supplémentaire coûte cher en conversion, particulièrement sur mobile. Tester gratuitement sur **Google PageSpeed Insights**, et traiter en priorité les images non compressées (format WebP) avant de suspecter le thème ou les apps.
 
 ### A/B tests
 
