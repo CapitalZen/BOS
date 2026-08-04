@@ -28,3 +28,4 @@
 | — | Recherche produit — phase demande | Shortlist de 3 archétypes scorés — `Output/Recherche_Produit_Shortlist_2026-07-29.md` | 29/07/2026 |
 | — | Critère d'arrêt recherche produit | 10 candidats maximum, 5 jours maximum | 29/07/2026 |
 | — | Construction de la base de connaissance BOS | Dizaines de sources installées et câblées dans les skills (`Knowledge/`) — phase close le 04/08 | 29/07 → 04/08/2026 |
+| — | Programme complet écrit (0 → bascule payante → scaling → équipe) | Carte des 6 phases avec déclencheurs et références Knowledge, journal auto-évolutif — `Output/Programme_Ecom_2026-08-04.md` | 04/08/2026 |
