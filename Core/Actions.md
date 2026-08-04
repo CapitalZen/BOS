@@ -11,7 +11,7 @@
 |---|--------|----------|-----|--------|
 | 1 | **Vérification concurrence — Étape A (Meta Ad Library, archétype accessoire coiffure)** | Seule partie qui exige une session navigateur ; le tri final avant de trancher le produit | Toi (10 min) | **Reprise maintenant** |
 | 2 | Étapes B/C/D du protocole (TikTok Creative Center, Amazon, Google Trends) | Complète le dossier de décision produit | Toi (~25 min) | À faire après l'étape A |
-| 3 | **Filmer et publier la première vidéo** (hooks déjà fournis, produit possédé suffisant) | Démarre l'horloge de régularité — le bottleneck du projet. Ne dépend d'aucun achat ni d'aucun budget | Toi (10 min) | À faire |
+| 3 | **Filmer et publier la première vidéo — format « humour complice », sans produit** | Démarre l'horloge de régularité — le bottleneck du projet. Ne dépend d'aucun achat ni d'aucun budget. **Correction du 04/08 : aucun produit du territoire possédé actuellement** — on démarre sur les formats qui n'en ont pas besoin | Toi (10 min) | À faire |
 | 4 | Sourcing de 20-30 marques du territoire | Alimente le scoring et l'analyse | Toi (~1 h) | À faire |
 | 5 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — portable presque intégralement par BOS | **BOS** | Prêt à déclencher, non lancé |
 
