@@ -97,7 +97,7 @@ Pour les rôles opérationnels répétitifs d'un e-commerce (SAV, vérification 
 
 **Déléguer dans le désordre coûte du temps et de l'argent.** L'ordre qui fonctionne part des tâches répétitives à faible valeur ajoutée vers les rôles stratégiques, jamais l'inverse :
 
-1. **SAV** — dès les tout premiers chiffres. En 3 étapes internes : mails clients → réponses aux commentaires et DM réseaux sociaux → gestion des litiges (PayPal, Stripe). ⚠️ Éviter l'agence pour ce poste : solution facile à court terme, mais qui plafonne vite — un SAV bien optimisé s'internalise, et le volume à un stade avancé (plusieurs centaines de commandes/jour) demande une petite équipe dédiée, pas une seule personne.
+1. **SAV** — dès les tout premiers chiffres. En 3 étapes internes : mails clients → réponses aux commentaires et DM réseaux sociaux → gestion des litiges (PayPal, Stripe). ⚠️ Éviter l'agence pour ce poste : solution facile à court terme, mais qui plafonne vite — un SAV bien optimisé s'internalise, et le volume à un stade avancé (plusieurs centaines de commandes/jour) demande une petite équipe dédiée, pas une seule personne. **Dès que ce pôle dépasse 2-3 VA**, ajouter un chef de pôle SAV entre le COO et les VA plutôt que de les faire tous remonter directement — c'est le même principe de délégation par palier que pour le reste de l'équipe, appliqué à l'intérieur d'un seul pôle une fois qu'il grossit.
 2. **Finance & suivi** — vérification des factures fournisseur/agent, suivi et mise à jour du P&L.
 3. **Product page maker** — création des fiches produit en testing.
 4. **Video editor (testing)** — traduction/adaptation des créatives concurrentes pour le testing (voix IA + sous-titres).
