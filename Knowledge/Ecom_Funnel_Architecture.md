@@ -451,6 +451,8 @@ Trois angles pour y répondre :
 
 **Le test :** si quelqu'un achète ce produit, qui devient-il aux yeux des autres ? Si la réponse est « rien de particulier », le message reste au niveau du problème et n'active jamais cette couche.
 
+**Application concrète au casting visuel (photos, vidéos, mannequins) : montrer le résultat idéal, pas un miroir de l'état actuel du prospect.** L'intuition la plus commune est de montrer quelqu'un qui ressemble au client visé pour qu'il se reconnaisse — ex. montrer un homme en surpoids pour vendre à des hommes en surpoids. En pratique, c'est souvent l'inverse qui convertit mieux : montrer la version aboutie que le prospect veut devenir. Une personne en surpoids et une personne déjà proche de la forme visée se projettent toutes les deux sur le même mannequin idéal — l'une par aspiration, l'autre parce que ça confirme ce qu'elle est en train de devenir. *Exemple concret : une marque de vêtements taille ajustée ciblant les hommes de 40 ans qui font du sport pour retrouver leur jeunesse mais gardent un peu de ventre choisit systématiquement des mannequins au corps abouti sur ses visuels — pas des hommes avec le même ventre que le persona réel.* Cohérent avec le principe déjà posé plus loin de montrer le résultat plutôt que le produit sur l'image principale de la page produit — ici appliqué au choix de la personne représentée, pas seulement à la mise en scène du produit.
+
 **La condition de cohérence :** un Self-Concept se construit sur la durée et sur tous les points de contact — publicité, page, email, packaging (le même principe de congruence que §1 et que la transition semi-marque, `Ecom_Meta_Ads_Playbook.md` §6 bis). En changer chaque mois revient à n'en construire aucun.
 
 ---
