@@ -258,6 +258,8 @@ Deux leviers d'amélioration : **négocier le COGS au volume** (à ~200 commande
 
 **4. Contenu disponible en volume.** Plus il existe de contenu autour du produit, moins la production coûte. Une créative UGC de qualité coûte 50 à 300 € ; pour scaler il en faut des dizaines. Sur un produit sans contenu existant, on peut dépenser 3 000 à 5 000 € en production avant d'avoir validé quoi que ce soit.
 
+**Le mécanisme derrière la « forte valeur perçue » citée un peu partout dans cette grille, sans jamais être expliqué :** ce qui compte n'est pas le prix affiché, c'est l'écart entre le prix et ce que le produit *semble* valoir. Un produit qui fait cheap reste dur à vendre même à 20-30 €, alors qu'un produit qui paraît premium peut faire sentir au client qu'il fait une bonne affaire à 60 €. Ce n'est pas figé au lancement : le packaging, le branding et les collaborations avec des créateurs/influenceurs sont les leviers qui font monter cette perception au fil du développement de la marque — un produit qui coche peu ce critère au départ n'est pas éliminé pour autant.
+
 ### Deux critères produit que presque personne ne vérifie
 
 **1. Le market timing — la saisonnalité se subit ou s'organise**
@@ -302,7 +304,7 @@ Les 4 critères précédents sont le socle. Pour viser une boutique qui tient da
 | **COGS** | **< 25 % du prix de vente.** Au-delà, les marges ne supportent pas la hausse inévitable du coût d'acquisition |
 | **Contenu déjà disponible en masse** | Réduit le coût de production créative à presque zéro |
 | **Bundle / upsell / cross-sell performant** | Facultatif mais décisif sur l'AOV |
-| **Récurrence** | Facultatif — un consommable ou un abonnement change l'économie du business |
+| **Récurrence** | Facultatif — un consommable ou un abonnement change l'économie du business. **Pas réservée aux niches de consommables** : un shop mode/accessoires génère aussi de la récurrence via des sorties régulières de nouveaux produits plutôt que via le réachat du même article |
 
 **⚠️ Un produit léger n'est pas automatiquement un produit à faible coût d'expédition — le poids volumétrique décide, pas le poids réel seul.** Les lignes de transport facturent le montant **le plus élevé entre** le poids réel et le poids volumétrique, calculé sur l'encombrement (longueur × largeur × hauteur en cm ÷ un diviseur qui varie généralement entre 6000 et 9000 selon la ligne — plus le diviseur est bas, plus le poids volumétrique retenu est élevé, donc plus l'écart avec le poids réel peut être défavorable). Un produit qui prend du volume — un coussin, un objet qui ne se compresse pas — peut ainsi être facturé comme s'il pesait plusieurs fois son poids réel malgré une légèreté apparente. Conséquence directe pour la sélection produit et le packaging : privilégier ce qui se compresse ou s'aplatit à l'expédition, et concevoir un carton ajusté plutôt que surdimensionné — un emballage mal pensé peut à lui seul faire gonfler durablement le coût d'acquisition sans que le produit ait changé.
 
