@@ -94,6 +94,8 @@ Impressions → appels/conversations de vente → contrats → livraison → arg
 
 Résultat = **nombre d'unités vendues × profit par unité × durée de vie client**. Toute tâche qui ne touche aucun de ces termes est du faux travail, quelle que soit la sensation de productivité qu'elle procure.
 
+**Une règle simple pour trancher entre consommer du contenu business et produire : réserver la consommation aux temps morts (transport, tâches manuelles), jamais aux plages de travail dédiées.** Regarder une vidéo ou écouter un podcast donne une sensation d'avancer sans qu'aucune action réelle n'ait eu lieu — le piège classique de celui qui surconsomme du contenu au lieu d'exécuter, alors que dans la plupart des cas la connaissance nécessaire pour agir est déjà là. Une plage de travail dédiée sert à produire, pas à s'informer davantage.
+
 ## 6. Étapes 4-5 — L'effet cumulé, et pourquoi la plupart abandonnent
 
 La courbe des résultats est plate longtemps, puis verticale. La plupart des gens abandonnent dans la partie plate — non par manque de capacité, mais parce qu'ils jugent la pente à un moment où elle n'existe pas encore.
@@ -193,3 +195,5 @@ Les critères 4 et 5 sont les plus prédictifs — ils recoupent exactement le p
 > « Si je vous impressionne maintenant, vous ne le mettrez pas en œuvre de toute façon. »
 
 Un conseil sophistiqué qui n'est pas appliqué vaut zéro. BOS suit la même règle : toujours proposer la version la plus simple qui produit le résultat, quitte à paraître banal.
+
+**Le temps contraint force le 80/20 — la loi de Parkinson appliquée au démarrage.** Un temps disponible illimité pousse à tout faire, y compris ce qui ne compte pas ; un temps limité (2-3 h/jour à côté d'un emploi ou d'études) force à couper les distractions et à identifier tout de suite ce qui fait réellement avancer, parce qu'il n'y a pas de marge pour autre chose. **Usage BOS :** un temps limité n'est jamais une contrainte à compenser — c'est un allié du 80/20 qui pousse à prioriser plus vite que quelqu'un qui a « tout son temps » et s'éparpille. Utile à rappeler à un entrepreneur qui culpabilise de ne disposer que de peu d'heures par jour.
