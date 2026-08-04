@@ -21,6 +21,8 @@ Le playbook Meta Ads pose un seuil de ~3 000 € pour tester correctement, et c'
 
 ⚠️ **L'organique ne remplace pas le payant, il le prépare.** Il fait de l'argent, il ne scale pas. Le scaling se fait ensuite sur Meta — mais avec des créatives déjà validées et une audience déjà constituée, donc à un coût d'acquisition sans commune mesure.
 
+**Une deuxième façon d'utiliser l'organique, distincte de la construction de marque : s'entraîner sur des produits jetables avant de dépenser en publicité sur son vrai produit.** Plutôt que d'apprendre à faire des créatives percutantes directement sur son budget pub (où chaque erreur coûte cher et décourage), commander 2 à 5 produits génériques sur Amazon sans intention de les vendre sérieusement, et produire du contenu organique dessus dans le seul but de comprendre ce qui capte une audience et génère de l'interaction. La compétence développée — cerner une audience type, capter son attention, la faire réagir — se transfère ensuite directement au payant, où l'objectif change juste de nature : interaction et visibilité en organique deviennent CPA, CTR et CPM bas en payant. Utile en particulier pour quelqu'un qui n'a jamais fait de publicité et risquerait de brûler un budget de test à apprendre les bases plutôt qu'à valider un produit.
+
 ## 1. Le type de produit décide de la faisabilité
 
 Deux familles, et l'organique ne les sert pas également :
