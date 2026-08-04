@@ -1379,6 +1379,8 @@ Relevé sur une série de boutiques auditées. Ces points ne sont pas des raffin
 
 **Trois offres, jamais deux.** L'effet de leurre (`Ecom_Funnel_Architecture.md` §6) suppose un choix à trois branches, dont celle du milieu est mise en avant. **Avec deux offres seulement, le client prend la première** — la moins chère, la moins rentable. Passer de deux à trois options change le panier moyen sans changer le produit.
 
+**Un double badge plutôt qu'un seul pousse plus loin le même effet.** L'offre du milieu porte un badge de preuve sociale (« Best-seller », « Le plus populaire ») pendant que l'offre la plus haute porte un badge de valeur (« Meilleure offre », « Meilleur prix »). Les deux badges n'activent pas le même ressort — le premier rassure (« les autres ont choisi ça »), le second attire l'appât du gain (« celle-ci en donne le plus pour le prix ») — et combinés, ils tirent le choix vers le haut du tableau depuis deux directions différentes plutôt qu'une seule.
+
 **Les trois types d'images sont obligatoires**, et il en manque presque toujours un :
 
 | Type | Ce qu'il règle |
@@ -2160,7 +2162,7 @@ C'est lui qui produit l'essentiel du réachat. Minimum vital :
 **Tout est affaire de perception, pas de rabais absolu.** Une remise ne se juge jamais dans l'absolu mais par rapport à ce à quoi le prospect la compare. Quelques leviers de perception qui ne coûtent rien de plus en marge réelle :
 - **Cumuler (« stack ») plutôt qu'annoncer un seul chiffre** : « jusqu'à 50 % sur tout + 20 % additionnel sur la sélection soldes + livraison et retour gratuits + 72h seulement » paraît plus généreux qu'un simple « -50 % », à remise moyenne identique.
 - **« Jusqu'à X% »** crée un effet de gros deal même quand peu de références atteignent réellement ce taux.
-- **Sur un produit à prix élevé, chiffrer la remise en montant plutôt qu'en pourcentage** (« 400 € de rabais » plutôt que « -40 % ») — le montant absolu paraît plus impressionnant sur un panier élevé.
+- **Sur un produit à prix élevé, chiffrer la remise en montant plutôt qu'en pourcentage** (« 400 € de rabais » plutôt que « -40 % ») — le montant absolu paraît plus impressionnant sur un panier élevé. **La même règle s'applique aux badges « économisez X€ » sur un tableau d'offres à plusieurs paliers, même sur des produits à prix modeste** : ce n'est pas le prix unitaire qui doit être élevé pour que le montant en euros batte le pourcentage, c'est l'écart affiché qui doit être le plus concret possible — un « économisez 74,98 € » sur un panier à 84,98 € frappe plus qu'un « -47 % » à réduction strictement identique.
 - **Ne jamais tester une offre inédite pendant l'opération elle-même** — le pic de trafic n'est pas le moment de découvrir qu'un bundle ne convertit pas. N'utiliser que des offres et des paniers dont la performance est déjà connue par des tests antérieurs, cohérent avec la discipline du testing déjà posée plus haut (§2).
 
 **Repère de profondeur de remise par secteur** (moyennes observées, à ajuster à sa propre structure de marge) : mode ~40 %, beauté ~34 %, petit électroménager ~37 %, maison/déco ~38 %, électronique ~33 %, sport ~31 %. Utile pour calibrer une offre qui paraisse compétitive sans descendre plus bas que nécessaire.
