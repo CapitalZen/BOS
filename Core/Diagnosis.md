@@ -1,7 +1,7 @@
 # Diagnostic
 
-**Dernière MAJ :** 01/08/2026
-**Bottleneck :** **La régularité de publication, sur un budget nul jusqu'à l'entrée en poste.** Révisé le 01/08 (soir) après clarification complète de la situation.
+**Dernière MAJ :** 04/08/2026
+**Bottleneck :** **La régularité de publication, sur un budget nul jusqu'à l'entrée en poste.** Révisé le 01/08 (soir) après clarification complète de la situation. **Devient actionnable dès le 04/08 : fin de la phase de collecte, passage à l'exécution.**
 
 Le tableau réel : trésorerie zéro jusqu'à l'emploi de conducteur ; 2 h/jour aujourd'hui mais une cadence qui sera bousculée par l'entrée en poste ; aucun levier payant disponible avant cette date. **Rien de tout ça n'empêche de démarrer** — le contenu organique ne coûte que du temps, et la cartographie de marché est portée par BOS. Mais **l'unique moteur du projet pendant plusieurs mois sera la constance**, sans accélérateur possible. C'est le point exact où ce plan réussit ou échoue, et il coïncide avec le pattern déjà identifié chez cet entrepreneur (problème n°3).
 
@@ -22,11 +22,11 @@ Le tableau réel : trésorerie zéro jusqu'à l'emploi de conducteur ; 2 h/jour 
 - **Preuves :** déclaré le 29/07 comme « mon plus gros blocage ».
 - **Cause racine :** cause n°5 du cadre BOS (ne sait pas COMMENT faire) doublée d'une paralysie de décision : aucun produit n'est garanti, donc aucun choix ne se sent jamais assez sûr pour être arrêté. La méthode existe pourtant déjà dans `Knowledge/Ecom_Meta_Ads_Playbook.md` §2 — le manque n'est pas l'information, c'est l'exécution et un critère d'arrêt.
 
-### 3. Préférence pour la construction de connaissance plutôt que l'exécution
-- **Impact :** Consomme du temps et de l'énergie sans produire de résultat, tout en donnant la sensation d'avancer. Retarde le moment de la confrontation au marché.
-- **Preuves :** 11 documents de méthode chargés en une session avant toute décision ; plusieurs questions directes contournées par l'envoi d'un document supplémentaire.
-- **Cause racine :** la collecte est sans risque, l'exécution engage. **Statut clarifié le 29/07 au soir :** interrogé directement sur ce qui bloquait, l'entrepreneur a choisi explicitement le mode « construction de la base » plutôt que l'exécution guidée. Ce n'est donc plus un problème non identifié — c'est une préférence assumée.
-- **Position de BOS :** respecter le mode choisi, ne plus relancer. Continuer à produire de la valeur sur ce terrain (intégration, structuration, raisonnement explicité), et rester prêt à basculer le jour où l'entrepreneur le demande. Un rythme imposé produit du retrait, pas de l'action.
+### 3. Préférence pour la construction de connaissance plutôt que l'exécution — ✅ résolu le 04/08/2026
+- **Impact (historique) :** Consommait du temps et de l'énergie sans produire de résultat, tout en donnant la sensation d'avancer. Retardait le moment de la confrontation au marché.
+- **Preuves :** plusieurs dizaines de documents de méthode chargés sur près d'une semaine avant toute exécution ; plusieurs questions directes contournées par l'envoi d'un document supplémentaire ; un aller-retour le 02/08 (bascule vers l'exécution puis retour immédiat en mode A).
+- **Cause racine :** la collecte est sans risque, l'exécution engage.
+- **✅ Résolu le 04/08/2026 :** l'entrepreneur a explicitement clos la phase de collecte — « pas d'envoi pour aujourd'hui, on débute réellement et dans l'ordre de préférence. » Initiative propre, sans relance de BOS. La base de connaissance est désormais considérée comme suffisante ; la priorité bascule sur l'exécution du plan déjà écrit (recherche produit §4b, tournage/publication §6 des Actions).
 
 ### 4. Territoire non habité — coût d'immersion à payer avant la couche message
 - **Impact :** Ne bloque pas le choix du produit (les critères économiques restent premiers), mais expose la partie la plus décisive du business : les angles et le copy. Une audience sent immédiatement un message écrit de l'extérieur, et c'est précisément là que se joue l'écart face à un concurrent qui fait partie du marché.
@@ -50,3 +50,4 @@ Le tableau réel : trésorerie zéro jusqu'à l'emploi de conducteur ; 2 h/jour 
 |------|-----------|--------|
 | 29/07/2026 | Diagnostic initial créé | Première session — direction e-commerce arrêtée, deux blocages déclarés |
 | 01/08/2026 | Ajout du problème n°4 : territoire identifié mais non habité | Réponse de l'entrepreneur — coût d'immersion à intégrer avant la couche message |
+| 04/08/2026 | Problème n°3 passé en résolu | L'entrepreneur clôt lui-même la phase de collecte et bascule vers l'exécution, sans relance de BOS |
