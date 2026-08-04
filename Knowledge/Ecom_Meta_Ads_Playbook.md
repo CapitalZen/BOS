@@ -344,6 +344,8 @@ On ne cherche pas un produit à copier : on cherche **des patterns, des tendance
 
 **Sortie :** tout produit qui coche les critères à vue d'œil entre dans une liste brute, puis on applique la grille complète pour en faire une shortlist. Chaque produit de la shortlist est bon — on les teste **un par un**, jamais en parallèle.
 
+⚠️ **Le trafic affiché sur la plupart des outils de veille (dont SimilarWeb, la source de beaucoup d'entre eux) est une estimation, pas une mesure exacte — et elle est structurellement en retard.** Un site qui affiche un trafic modeste peut déjà avoir 3 à 4 fois ce volume réel et être en pleine accélération sans que l'outil l'ait encore rattrapé. Conséquence pratique : ne pas écarter un candidat sur le seul chiffre de trafic affiché — croiser avec la tendance (nombre d'annonces actives qui grimpe, courbe en crosse de hockey plutôt que plate) plutôt que de se fier au chiffre absolu à un instant T.
+
 ### Partir d'une marque, pas d'un produit — et viser le bon niveau
 
 **Le produit miracle n'existe pas.** On peut faire de gros chiffres sur des marchés saturés avec des produits banals — ce qui compte, c'est **la façon dont on s'insère**. On ne trouvera pas un produit révolutionnaire page 47 d'un annuaire de fournisseurs : les meilleurs produits sont **déjà vendus**, et c'est justement le bon signal — demande prouvée, marché validé, angles marketing éprouvés.
@@ -376,6 +378,12 @@ L'analyse du site et des publicités ne montre que la vitrine. **Tout ce qui fai
 | **Passer commande** | Les **upsells post-achat**, les emails de confirmation et d'expédition, la carte glissée dans le colis, le packaging, la demande d'avis, la séquence de réachat — c'est-à-dire **toute leur stratégie de LTV** |
 | **S'inscrire à la newsletter** | Leur rythme d'envoi, leurs angles saisonniers, leurs offres réservées |
 | **Contacter le SAV** | Leur délai de réponse, leur ton, leur politique de geste commercial |
+
+### Partir d'une douleur connue plutôt que d'un produit trouvé — la recherche assistée par IA
+
+**Une approche complémentaire aux méthodes ci-dessus, utile quand on veut un produit moins directement copié d'un concurrent.** Plutôt que de partir d'un produit déjà repéré sur un outil de veille, partir d'une douleur ou d'un problème déjà identifié (ex. « boutons/acné du visage chez les femmes ») et demander à une IA en mode recherche approfondie de faire le travail de cartographie qu'un humain ferait en scrollant manuellement Reddit, TikTok et Amazon pendant des heures : taille du marché, sous-niches, tendances (Google Trends), signaux e-commerce déjà existants, réglementation applicable. Le résultat est un rapport structuré avec des sous-niches et des pistes de produits concrets — un point de départ à affiner, pas une réponse finale prête à lancer.
+
+**Pourquoi ça complète plutôt que ça ne remplace la veille concurrentielle :** cette méthode est plus lente à donner un produit précis, mais elle produit des angles moins vus parce qu'elle ne part pas de ce qui tourne déjà chez un concurrent. Elle demande aussi un marché déjà connu ou une catégorie où les problèmes se recoupent facilement (le cosmétique, par exemple, où la plupart des douleurs de peau sont documentées en profondeur) — moins évidente à appliquer à un marché totalement inconnu de l'entrepreneur.
 
 **Le rapport coût/information est imbattable :** une commande à quelques dizaines d'euros donne accès à des mois de travail d'optimisation d'une boutique qui scale. C'est **l'investissement le plus rentable de toute la phase de recherche**, et l'un des rares que la contrainte budgétaire ne bloque pas.
 
@@ -1720,7 +1728,7 @@ Ce que fait un agent quand on lui demande un produit : il va chercher sur ces m�
 
 **Ce qu'une bonne communication doit produire, sans zone floue :** un prix clair, le MOQ (quantité minimale de commande), le coût d'un échantillon, la matière — le tout cohérent et donné sans détour. Une réponse vague ou évasive sur l'un de ces points vaut pour tout le reste de la relation.
 
-**Les RFQ (Request For Quotation) sur Alibaba** inversent la démarche : on publie ce qu'on cherche, les fournisseurs démarchent. Les fournisseurs ont un quota mensuel de réponses aux RFQ — ils choisissent donc à qui répondre. **Un message professionnel, structuré, qui montre un projet de marque sérieux et l'intention de construire une relation durable** obtient nettement plus de réponses qu'une demande générique : se présenter comme responsable d'une marque en croissance qui cherche un partenaire de confiance, pas comme un acheteur ponctuel.
+**Les RFQ (Request For Quotation) sur Alibaba** inversent la démarche : on publie ce qu'on cherche, les fournisseurs démarchent. Les fournisseurs ont un quota mensuel de réponses aux RFQ — ils choisissent donc à qui répondre. ⚠️ **Les réponses mélangent usines et trading companies** (distinction déjà posée plus haut) — trier les profils par ce critère avant de comparer les devis, au même titre que l'ancienneté et les avis. **Un message professionnel, structuré, qui montre un projet de marque sérieux et l'intention de construire une relation durable** obtient nettement plus de réponses qu'une demande générique : se présenter comme responsable d'une marque en croissance qui cherche un partenaire de confiance, pas comme un acheteur ponctuel.
 
 **Trame de message RFQ, à adapter au produit réel** (se présenter comme fondateur, situer le projet, chiffrer la demande, poser des questions précises plutôt que rester vague) :
 
