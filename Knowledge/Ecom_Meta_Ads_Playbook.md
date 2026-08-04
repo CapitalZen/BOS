@@ -757,6 +757,8 @@ Le paramétrage donné plus haut (100 €/jour, 10-15 créatives) suppose un bud
 
 **Ce que dit Meta officiellement sur cette phase d'apprentissage : elle se sort par un nombre d'événements, pas par un compte de jours.** Le seuil cité est d'environ **50 conversions (achats) sur une fenêtre glissante de 7 jours**. C'est pour ça qu'on lit parfois « attendez 7 à 14 jours » comme règle générale : c'est le temps qu'il faut, *en moyenne*, à un compte qui convertit normalement pour atteindre ce seuil — pas une durée fixe en soi. Sur un tout petit budget, 48 h peuvent ne pas suffire à sortir de l'apprentissage, et ce n'est pas grave : la règle des 48 h ci-dessus protège le premier palier de décision (couper ou laisser tourner), elle n'implique pas que la campagne a fini d'apprendre. Le statut réel se lit directement dans le gestionnaire de publicités (colonne « Diffusion » : *en apprentissage* / *apprentissage limité* / *actif*) plutôt que de se calculer soi-même.
 
+**Lire les règles publicitaires de la plateforme avant de lancer, pas après un blocage.** Une part importante des blocages vient de violations évitables — visuels avant/après trop explicites, promesses de santé non autorisées, mentions interdites — qui ne demandent qu'à être connues à l'avance. Ajouter plusieurs personnes de confiance sur le Business Manager (pas une seule) réduit aussi le risque de blocage total en cas de problème sur un compte personnel. Ce sont quelques dizaines de minutes de lecture qui évitent des semaines de compte suspendu.
+
 ### L'environnement du compte — ce qui influence les résultats avant même la créative
 
 Deux personnes peuvent lancer la même campagne, la même créative, la même offre et le même funnel, et obtenir des résultats opposés. L'environnement Meta n'est jamais neutre.
@@ -1162,6 +1164,8 @@ Deux types d'itération, à ne pas confondre :
 - **Thème** : ce n'est pas là que se gagne une vente. Un thème rapide, épuré, cohérent, qui ne demande pas dix apps pour fonctionner. Ne pas y passer des semaines.
 - **Sections sur mesure** : une IA reproduit une section à partir d'un screenshot en quelques secondes — gain de temps massif sans compétence technique. **À éviter pour tout ce qui est sensible** (bundles, panier, checkout) : passer par des apps dédiées, la plupart gratuites jusqu'à un certain volume, pour ne pas introduire de bugs sur le tunnel d'achat.
 - **Nom de domaine** : `.com`, acheté chez un registrar externe plutôt que via Shopify. Le `.com` inspire confiance sur tous les marchés et n'impacte pas la conversion même en vendant en France ou en Espagne.
+
+**Le test du tunnel complet, avant de lancer le premier euro de pub — étape trop souvent sautée.** Ajouter le produit au panier, aller jusqu'au checkout, en navigation privée, avec une carte de test si possible, et vérifier qu'une commande passe réellement sans erreur. **L'erreur classique et coûteuse : un site en français avec la zone de livraison configurée sur un autre pays** — les clients arrivent au checkout et ne peuvent tout simplement pas commander, sans qu'aucune alerte ne prévienne. Quelques minutes de vérification avant de lancer évitent de dépenser un budget de test entier sur un tunnel cassé sans avoir généré une seule vente possible.
 
 ### Conformité légale — le bouton de rétractation, obligatoire depuis le 19 juin 2026
 
