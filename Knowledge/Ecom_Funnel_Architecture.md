@@ -553,6 +553,15 @@ Ce qu'elle fait : transformer la curiosité en compréhension émotionnelle, ré
 
 Une landing page ne « fait pas joli ». Elle guide vers une seule conclusion logique, le plus vite possible : **réduire le doute, augmenter le désir, aucune friction.**
 
+### Cinq structures possibles pour la page de destination
+
+« Landing page » ne désigne pas une seule structure — le choix dépend du produit et de l'angle. Deux des cinq sont déjà couvertes en détail : le **listicle** et l'**advertorial** (§4 ci-dessus, comme formats de pre-landing) peuvent aussi servir directement de page de destination plutôt que de simple préchauffe — même contenu, même logique, une étape de moins dans le tunnel. La structure « classique » à un seul produit est celle détaillée juste en dessous. Deux formats supplémentaires, distincts de tout ce qui précède :
+
+- **La page de collection** — regroupe plusieurs produits d'une même niche plutôt qu'un seul. Donne au prospect la liberté de choisir, augmente le temps passé sur le site, et se prête bien à la mise en avant de bundles et de produits complémentaires. Pertinente quand plusieurs produits tournent déjà dans la même niche et que l'objectif est de faire monter l'AOV plutôt que de maximiser la conversion sur une seule référence — le choix inverse de la page classique, qui retire volontairement toute option pour ne laisser qu'une seule action possible.
+- **Le quiz** — le prospect répond à une série de questions avant d'arriver sur une recommandation personnalisée qui mène à l'achat. Fonctionne parce qu'il fait investir du temps et de l'attention au prospect *avant* de lui présenter une offre (effet d'engagement), et parce que la recommandation qui en sort semble sur-mesure — la valeur perçue du produit choisi « pour moi » est plus haute que la même offre présentée directement. Pertinent quand la personnalisation est un argument de vente crédible, ou pour qualifier le prospect avant de lui montrer un prix.
+
+**Le critère de choix commun aux cinq :** la structure doit être cohérente avec le niveau de conscience de l'audience amenée par la créative (§4, mapping niveau de conscience) — un trafic froid qui a besoin d'être éduqué se prête mieux au listicle ou à l'advertorial ; un trafic déjà convaincu qui hésite entre plusieurs options se prête mieux à la collection ; un produit dont l'intérêt principal est la personnalisation se prête au quiz ; un produit déjà validé où l'objectif est de maximiser la conversion pure se prête à la structure classique développée ci-dessous.
+
 ### Les premières secondes
 
 Le cerveau vérifie trois choses, presque instinctivement : suis-je au bon endroit, est-ce pour moi, est-ce que ça vaut mon temps.
