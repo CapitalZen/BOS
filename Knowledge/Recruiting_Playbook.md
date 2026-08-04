@@ -81,6 +81,10 @@ L'objectif n'est pas de passer une heure avec chacun. Un premier filtre par quel
 
 Sur les plateformes qui affichent un taux de réussite des missions passées, ne pas descendre sous un seuil élevé (de l'ordre de 95 %) — c'est un signal agrégé sur beaucoup de missions, donc plus fiable qu'un avis isolé.
 
+**Trame d'appel de présélection rapide (15-30 minutes), avant l'entretien approfondi :** objectifs de carrière (un candidat qui ne fait que répéter la fiche de poste ou qui n'a pas de réponse est un signal négatif) ; 8 à 12 points forts avec exemples concrets ; 5 à 8 vraies faiblesses — si la personne reste évasive, reformuler : *« Si on avance dans le process, on va appeler tes anciens managers — qu'est-ce qu'ils vont nous dire que tu n'es pas doué à faire ? »* ; les trois derniers managers, avec la note sur 10 qu'ils donneraient à sa performance, en creusant systématiquement le pourquoi de la note. Objectif du filtre : éliminer vite, pas convaincre à tout prix — mieux vaut rater un bon profil que perdre des heures sur un profil moyen.
+
+⚠️ **Questions à ne jamais poser, en filtrage comme en entretien** (au-delà d'être contraires à l'éthique, elles exposent à un risque juridique — discrimination à l'embauche, article L.1132-1 du Code du travail) : situation familiale, projet d'enfant, grossesse, âge, origine, religion, orientation sexuelle, état de santé ou handicap. Rester strictement sur ce qui prédit la performance dans le poste.
+
 ## 5. Entretien orienté preuves, pas feeling
 
 Le feeling est utile ; il devient dangereux comme critère unique. Quelqu'un de très à l'aise à l'oral peut être totalement inefficace une fois recruté.
@@ -104,6 +108,12 @@ Le feeling est utile ; il devient dangereux comme critère unique. Quelqu'un de 
 
 **Faire passer plusieurs entretiens, avec différents managers de la boîte.** Plusieurs regards sur la même personne valent mieux qu'un seul, surtout celui du fondateur qui a envie que ça marche.
 
+**L'entretien chronologique — reconstituer le film du parcours plutôt que poser des questions isolées.** Repris de la méthode Topgrading (méthode de référence en recrutement outre-Atlantique) : reprendre chaque poste occupé, du plus ancien au plus récent, et poser systématiquement les mêmes cinq questions pour chacun — *Pour quoi as-tu été embauché ? Quelles réussites en es-tu le plus fier ? Quels ont été les points bas ? Avec qui as-tu travaillé (nom du manager, des pairs, de l'équipe) ? Pourquoi es-tu parti ?* Prévenir la personne en amont qu'on va contacter ces références précises — ça rend les réponses plus honnêtes immédiatement, avant même l'appel de référence.
+
+**Le test push/pull sur chaque changement de poste.** Un départ « pull » (recruté par un ancien manager, embauché par un client) signale quelqu'un qu'on est venu chercher pour ses résultats. Un départ « push » (« c'était mutuel », licenciement, tension) n'est pas disqualifiant en soi, mais mérite qu'on creuse pourquoi — la fréquence des « push » sur un parcours est plus informative qu'un cas isolé.
+
+**Les signaux d'alerte à repérer pendant l'entretien, indépendamment des réponses sur le fond :** ne mentionne jamais d'échec passé · exagère systématiquement ses résultats · s'attribue le travail d'une équipe · dénigre ses anciens managers · ne sait pas expliquer pourquoi il a changé de poste · pour un poste managérial, n'a jamais eu à recruter ou à se séparer de quelqu'un · s'intéresse davantage au titre et à la rémunération qu'au poste lui-même · en fait trop pour paraître expert · ne pose aucune question sur l'entreprise ou l'équipe (signe d'un candidat centré sur lui-même). Aucun de ces signaux n'est éliminatoire seul, mais leur accumulation l'est.
+
 ## 6. Un test concret sur les postes importants
 
 Pas un travail gratuit de trois jours — un exercice assez précis pour comprendre la façon de réfléchir.
@@ -122,6 +132,21 @@ Pas un travail gratuit de trois jours — un exercice assez précis pour compren
 
 *(Garde-fou BOS, issu de `digestion` : au-delà d'un exercice court, un test qui produit de la valeur utilisable pour l'entreprise se rémunère.)*
 
+## 6 bis. Les entretiens de référence — l'étape qu'on saute presque toujours, et la plus fiable
+
+**Ne jamais sauter les vérifications de référence.** Ce sont elles qui donnent l'image la plus fidèle de la performance future d'un candidat — plus fiable que l'entretien lui-même, parce qu'elles portent sur des faits observés par d'autres plutôt que sur ce que le candidat choisit de raconter.
+
+**Ne jamais utiliser la liste de références fournie par le candidat.** Elle est forcément biaisée en sa faveur. Utiliser les noms de managers, pairs et membres d'équipe obtenus pendant l'entretien chronologique ci-dessus — et viser au moins 3 appels, idéalement plus, en croisant plusieurs niveaux (manager, pair, subordonné).
+
+**Trame d'appel de référence :**
+1. *Dans quel contexte as-tu travaillé avec cette personne ?*
+2. *Quelles étaient ses plus grandes forces ?*
+3. *Quels étaient ses axes d'amélioration, à l'époque ?* — le « à l'époque » libère la parole : ça permet à l'interlocuteur de nommer une vraie faiblesse sans avoir l'impression de plomber définitivement quelqu'un.
+4. *Sur une échelle de 0 à 10, comment évaluerais-tu sa performance globale dans ce poste ? Qu'est-ce qui justifie cette note ?*
+5. *Il/elle m'a dit avoir eu des difficultés sur [sujet mentionné en entretien]. Tu peux m'en dire plus ?*
+
+**Ce qui trahit une référence mitigée : les gens détestent dire du mal de quelqu'un, donc ça se lit dans l'hésitation plus que dans les mots.** Un éloge tiède, une pause avant de répondre, une réponse qui reste en surface — ce sont des signaux à prendre au sérieux, souvent plus parlants que des critiques explicites qui n'arrivent presque jamais.
+
 ## 7. Le filtre final : soustraction ou addition de problèmes ?
 
 Beaucoup de gens sont intelligents ; peu savent exécuter vite et proprement. Ce qu'on cherche : quelqu'un capable de prendre un problème, le découper, proposer un plan, l'exécuter, et remonter l'information importante **sans surveillance constante**.
@@ -129,6 +154,17 @@ Beaucoup de gens sont intelligents ; peu savent exécuter vite et proprement. Ce
 > Après chaque échange, une seule question : **est-ce que cette personne va retirer des problèmes de mon quotidien, ou en ajouter ?**
 
 C'est souvent le meilleur filtre disponible.
+
+## 7 bis. Vendre le poste ne s'arrête pas à l'offre
+
+**Décider de recruter quelqu'un n'est que la moitié du travail — le convaincre de nous rejoindre est l'autre moitié, et elle se joue à chaque étape, pas seulement au moment de l'offre.** Se mettre à la place du candidat et adresser ce qui compte vraiment pour lui :
+- **La trajectoire** — où va l'entreprise, et où sa trajectoire personnelle recoupe la nôtre (rejoint la construction d'attractivité du §1).
+- **L'entourage du candidat** — ce qui facilite la transition pour ses proches ; une question simple change beaucoup : *qu'est-ce qu'on peut faire pour rendre ce changement plus simple pour toi ?*
+- **L'autonomie réelle promise** — pas juste l'affirmer, mais proposer au candidat de vérifier lui-même en échangeant avec l'équipe déjà en place.
+- **La dimension humaine** — ce qui rend l'équipe agréable à rejoindre, pas seulement le travail.
+- **La perspective à moyen terme** — ce que la personne peut raisonnablement espérer si elle et l'entreprise atteignent leurs objectifs, sans survendre.
+
+**Les moments où ça se joue vraiment, et où la plupart des recruteurs relâchent l'effort trop tôt :** entre l'offre orale et l'acceptation écrite (recontacter activement, ne pas attendre en silence) ; entre l'acceptation et le premier jour (la personne n'est pas encore vraiment arrivée, elle continue d'évaluer) ; et les 100 premiers jours après l'arrivée (elle évalue toujours). **Le motif le plus fréquent de perte d'un bon candidat : se sentir abandonné une fois l'offre faite ou le premier jour passé** — pas un désaccord sur le fond, juste un silence qui laisse le doute s'installer.
 
 ## 8. Le recrutement continue après la signature
 
