@@ -317,6 +317,10 @@ Les 4 critères précédents sont le socle. Pour viser une boutique qui tient da
 
 **Estimer le TAM avant de s'engager :** poser la question « combien de personnes ont le problème que ce produit résout ? ». *Douleurs plantaires → des dizaines de millions de personnes rien qu'aux États-Unis (15-20 % des adultes) : le marché absorbe un scaling ambitieux. Un accessoire de niche très marqué esthétiquement → quelques centaines de milliers : le plafond arrive en quelques mois, quel que soit le talent d'exécution.* Un TAM trop petit n'est pas un problème d'exécution — c'est une limite structurelle qu'aucune optimisation ne dépasse. Si le TAM est volontairement restreint, l'accepter comme un **quick win** et avoir le produit suivant déjà en préparation plutôt que de s'acharner à en tirer plus qu'il ne peut donner.
 
+### La discipline du testing : un produit bien testé plutôt que cinq mal testés
+
+**Tester 4 ou 5 produits par semaine ne va pas plus vite — ça va plus lentement, avec des résultats pires.** Un produit mal testé (créatives bâclées, angle unique, checklist de sélection sautée) ne prouve rien : s'il échoue, on ne sait pas si c'était le produit ou l'exécution qui a échoué. Mieux vaut **un seul produit par semaine, vérifié sur chaque critère de cette grille et testé avec plusieurs angles et formats**, que cinq lancés à la va-vite. C'est aussi une question de rythme soutenable : enchaîner cinq échecs mal préparés en une semaine tape sur la motivation bien plus que cinq semaines avec un vrai apprentissage à chaque test — cohérent avec l'effet cumulé déjà posé dans `Entrepreneur_Success_Factors.md` §6 : ce qui compte, c'est ce qui s'apprend à chaque cycle, pas le nombre de cycles bâclés.
+
 ### Sourcing : chercher ceux qui ont les mêmes armes que soi
 
 **Les produits evergreen ont eux aussi des cycles**, micro et macro. L'enjeu n'est pas seulement « quel produit marche », mais **« qu'est-ce qui marche le mieux ce mois-ci et le mois prochain »** — pour démarrer dans les meilleures conditions.
@@ -447,6 +451,8 @@ Nuance décisive, et elle contredit en apparence le critère « plusieurs concur
 
 ⚠️ **Nuance à ne pas rater :** « personne ne le vend » ≠ « personne ne le vend sur Meta ». Le premier cas signifie généralement que **ça ne se vend pas**. Le second est une opportunité.
 
+**Méthode concrète pour vérifier la qualité avant de commander un échantillon :** chercher le produit sur Amazon et viser **au moins 3,5/5, sur un minimum de quelques centaines d'avis**. En dessous, la qualité du produit lui-même est probablement en cause — creuser les commentaires pour distinguer un problème réglable (livraison, délai) d'un problème structurel (matière qui casse, ne tient pas). Vérifier sur **plusieurs fournisseurs différents** pour isoler la qualité du produit de la qualité d'un fournisseur en particulier. ⚠️ **Ne jamais se fier aux avis AliExpress** — trop souvent manipulés pour être un signal fiable.
+
 ### Les deux seules façons d'innover
 
 Face à un produit, on tombe toujours dans l'une des deux :
@@ -509,6 +515,10 @@ Le même schéma revient sur la quasi-totalité des marques qui chiffrent : **bo
 - **Marchés de niche** (Tchéquie, Finlande, Pologne) : peu de concurrence, CPM bas, bons pour un premier volume avec budget limité.
 
 **Blue ocean vs red ocean** : un marché saturé n'est pas à fuir — c'est souvent le signe que l'argent est là. La demande y est validée, la place se mérite. Ce qui compte, c'est de savoir dans quel type de marché on entre et d'adapter la stratégie.
+
+**En dehors de l'Europe, un critère supplémentaire devient décisif : l'accès aux moyens de paiement locaux.** Un marché avec un bon pouvoir d'achat et une vraie demande peut rester inexploitable si les moyens de paiement dominants n'y sont pas Stripe/PayPal — au Mexique par exemple, une part significative des achats passe par des solutions locales (portefeuilles numériques, paiement en espèces via un réseau de points relais type OXXO), qui demandent parfois une structure locale pour y avoir accès. Ne pas les proposer peut coûter 15 à 25 % de taux de conversion sur ce marché précis — pas rédhibitoire pour démarrer un test avec Stripe/PayPal seuls, mais un point à vérifier avant d'investir sérieusement sur un marché non-européen, et à activer dès que le volume le justifie.
+
+**Vérifier la timing de la demande avant de choisir la date de lancement, pas seulement la saison.** Sur Google Trends, la courbe d'un produit saisonnier ne démarre jamais au moment où la demande est la plus haute — elle grimpe plusieurs semaines ou mois avant. *Exemple : les maillots de bain en France grimpent dès début mars, pas en juin.* Se positionner au début de la montée capture la demande avant que la concurrence sature le marché ; attendre le pic visible, c'est arriver après tout le monde. Cohérent avec le principe déjà posé plus haut d'utiliser la basse saison pour préparer plutôt que d'attendre le pic pour agir.
 
 ### Lire les patterns (analyse du volume d'ads concurrent)
 
@@ -1350,6 +1360,8 @@ Un client qui achète 60 € au lieu de 30 € = même coût d'acquisition, deux
 Le cerveau n'aime pas l'effort. Une offre se comprend en une seconde ou elle ne se comprend pas. C'est pour ça que les formats les plus simples surperforment les mécaniques astucieuses : « 2 achetés, 1 offert », « 3 pour 49,90 € », « −20 % sur 2, −30 % sur 3 », un cadeau à partir d'un montant, ou une durée (1 mois / 2 mois / 3 mois) pour un consommable.
 
 **Où les bundles fonctionnent le mieux :** compléments (effet cure, LTV élevée), sport (produits complémentaires naturels), soin et cosmétique (effet routine, achats répétés), produits pour animaux (émotion + récurrence). **Leur point commun : des produits qu'on consomme, qu'on renouvelle ou qu'on offre** — le client a déjà l'habitude d'acheter en quantité, on ne lui apprend rien.
+
+**Pourquoi les bundles font plus que juste augmenter l'AOV : le coût de livraison par unité chute.** L'agent ou le fournisseur regroupe plusieurs unités dans un seul colis, donc seul le premier produit paie le plein tarif de livraison — chaque unité supplémentaire n'ajoute que le poids marginal, pas un nouveau forfait complet. *Exemple : un produit à 2 € + 5 € de livraison individuelle (7 € l'unité) peut revenir à environ 4,70 € l'unité sur un bundle de 3 (2 € × 3 + 5 € + ~1,50 € × 2 de livraison marginale, soit 14 € pour 3 au lieu de 21 € au tarif unitaire).* C'est ce qui rend un bundle « 3 achetés » rentable à un prix qui semble déjà être un cadeau pour le client.
 
 - **Offres en volume** : 1x · 1+1 · 2+2 · 2+1 offert · 3+2 offert. Le mot « offert » déclenche un sentiment de gain immédiat, plus fort qu'un pourcentage équivalent
 - **Offres avec cadeaux** : accessoire complémentaire à partir d'un montant · e-book (coût quasi nul, valeur perçue élevée) · la combinaison des deux, la plus efficace
