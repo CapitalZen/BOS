@@ -530,6 +530,8 @@ Le même schéma revient sur la quasi-totalité des marques qui chiffrent : **bo
 - **Allemagne, Pays-Bas** : paniers moyens plus élevés, acheteurs plus exigeants, SAV plus sollicité.
 - **Marchés de niche** (Tchéquie, Finlande, Pologne) : peu de concurrence, CPM bas, bons pour un premier volume avec budget limité.
 
+**Les moyens de paiement attendus varient aussi à l'intérieur de l'Europe, pas seulement entre l'Europe et le reste du monde.** Carte bancaire (Shopify Payments/Stripe) et PayPal suffisent en France, Italie, Espagne, République Tchèque et Finlande. L'Allemagne attend en plus **PayPal quasi obligatoire** et **Klarna fortement recommandé** (Sofort en complément facultatif) — un marché où le paiement différé fait partie des habitudes d'achat courantes. Les Pays-Bas attendent **iDeal et Bancontact**, les moyens de paiement locaux dominants, au-delà de la carte et de PayPal. Ne pas les proposer sur ces marchés spécifiques coûte en conversion de la même façon que l'absence de moyens de paiement locaux hors Europe déjà évoquée plus haut.
+
 **Blue ocean vs red ocean** : un marché saturé n'est pas à fuir — c'est souvent le signe que l'argent est là. La demande y est validée, la place se mérite. Ce qui compte, c'est de savoir dans quel type de marché on entre et d'adapter la stratégie.
 
 **En dehors de l'Europe, un critère supplémentaire devient décisif : l'accès aux moyens de paiement locaux.** Un marché avec un bon pouvoir d'achat et une vraie demande peut rester inexploitable si les moyens de paiement dominants n'y sont pas Stripe/PayPal — au Mexique par exemple, une part significative des achats passe par des solutions locales (portefeuilles numériques, paiement en espèces via un réseau de points relais type OXXO), qui demandent parfois une structure locale pour y avoir accès. Ne pas les proposer peut coûter 15 à 25 % de taux de conversion sur ce marché précis — pas rédhibitoire pour démarrer un test avec Stripe/PayPal seuls, mais un point à vérifier avant d'investir sérieusement sur un marché non-européen, et à activer dès que le volume le justifie.
@@ -1023,6 +1025,15 @@ La première dit qu'un seul terme à zéro annule tout : beaucoup de créas méd
 
 **Quand ça fonctionne, acheter du contenu** pour ne pas tourner en rond, tout en continuant à collecter en continu.
 
+**Une version chiffrée de cette progression, utile pour savoir précisément quand investir davantage :**
+1. **Testing initial — ne rien produire.** Récupérer les créatives déjà gagnantes ailleurs (traduction propre, voix IA, sous-titres) plutôt que de produire à partir de zéro pour un produit dont la traction n'est pas encore prouvée — produire avant de valider la demande est le gaspillage le plus fréquent en démarrage.
+2. **Traction confirmée → élargir la récolte** à tous les canaux (Meta, TikTok, organique) et tous les marchés pertinents, toujours en traduction, pour construire une bibliothèque de contenus prouvés avant de produire quoi que ce soit soi-même.
+3. **Test structuré du static-friendly** une fois cette bibliothèque en main : lancer un volume conséquent de statiques originales (plusieurs dizaines) en variant formats, angles et headlines, puis lire le winrate — la part rentable, même à petite échelle. Sous ~3 % : le produit n'est pas static-friendly pour l'instant, basculer l'effort sur la vidéo. Entre 3 et 7 % : potentiel réel, itérer sur ce qui marche en continuant à tester du nouveau. Au-dessus de 7 % : doubler la cadence, le static devient le levier principal.
+4. **Mashup vidéo à partir du contenu récupéré**, sans encore commander de contenu sur-mesure — recomposer hooks, corps et CTA à partir des rushes déjà en main suffit généralement à tenir jusqu'à un palier de chiffre confortable, avant d'avoir besoin de produire quoi que ce soit en propre.
+5. **UGC sur-mesure une fois ce palier dépassé**, pas avant — c'est le moment où le contrôle créatif et le branding deviennent le facteur limitant, plus le manque de matière première.
+
+**Repère de tarif pour un UGC de test :** autour de 150 € pour 3 hooks + 10-12 b-rolls + 1-2 CTA ; jusqu'à 200 € si la disponibilité de bons profils est plus rare sur le marché ciblé.
+
 ### Le contenu est le carburant — et la fatigue des rushes est le vrai plafond
 
 **Le mur que rencontrent tous ceux qui démarrent avec du contenu emprunté** porte un nom : la **fatigue des rushes** (*footage fatigue*).
@@ -1180,6 +1191,7 @@ Deux types d'itération, à ne pas confondre :
 - **Thème** : ce n'est pas là que se gagne une vente. Un thème rapide, épuré, cohérent, qui ne demande pas dix apps pour fonctionner. Ne pas y passer des semaines.
 - **Sections sur mesure** : une IA reproduit une section à partir d'un screenshot en quelques secondes — gain de temps massif sans compétence technique. **À éviter pour tout ce qui est sensible** (bundles, panier, checkout) : passer par des apps dédiées, la plupart gratuites jusqu'à un certain volume, pour ne pas introduire de bugs sur le tunnel d'achat.
 - **Nom de domaine** : `.com`, acheté chez un registrar externe plutôt que via Shopify. Le `.com` inspire confiance sur tous les marchés et n'impacte pas la conversion même en vendant en France ou en Espagne.
+- **Le service de calcul automatique de taxe de Shopify est payant, et peu le savent.** Shopify prélève des frais sur ce service au-delà d'un certain volume de commandes. Basculer en calcul manuel (Paramètres → Taxes et frais de douane → sélectionner les pays de vente → rétrograder vers « Manual Tax ») désactive ce prélèvement — ⚠️ ça ne change rien à l'obligation de déclarer et reverser la TVA réellement due, seulement à qui calcule le taux appliqué au panier ; la responsabilité de la déclaration reste entière et inchangée.
 
 **Le test du tunnel complet, avant de lancer le premier euro de pub — étape trop souvent sautée.** Ajouter le produit au panier, aller jusqu'au checkout, en navigation privée, avec une carte de test si possible, et vérifier qu'une commande passe réellement sans erreur. **L'erreur classique et coûteuse : un site en français avec la zone de livraison configurée sur un autre pays** — les clients arrivent au checkout et ne peuvent tout simplement pas commander, sans qu'aucune alerte ne prévienne. Quelques minutes de vérification avant de lancer évitent de dépenser un budget de test entier sur un tunnel cassé sans avoir généré une seule vente possible.
 
@@ -1199,6 +1211,8 @@ Si le processeur bloque, le cash-flow s'arrête et les fonds peuvent être gelé
 - Combinaison recommandée : **Shopify Payments + PayPal**, la plus stable au lancement et pendant le scaling
 - **Stripe en backup uniquement**, jamais en principal (gel possible des fonds jusqu'à 6 mois)
 - **Ne pas scaler trop fort trop vite si le compte a moins de 3 à 6 mois** : une croissance brutale déclenche des vérifications automatiques et des blocages. Préserver ses comptes est une décision stratégique, pas une précaution mineure
+
+**Réduire les litiges PayPal avant qu'ils ne s'ouvrent.** PayPal permet de personnaliser le message affiché juste avant qu'un client valide l'ouverture d'un litige (Paramètres du compte → Préférences du compte → Message de service clientèle). Un message qui redirige d'abord vers le SAV — en expliquant que le traitement y sera plus rapide qu'une procédure de litige — détourne une partie des demandes qui, sinon, seraient devenues un litige formel, avec le coût de réputation et de gel de fonds que cela implique. ⚠️ Fonctionne uniquement sur un compte PayPal classique, pas sur PayPal intégré via Shopify Payments. Ça ne remplace pas un bon SAV et un bon produit — ça capte seulement les cas qui, avec un peu de friction en moins, se seraient réglés à l'amiable.
 
 ### Email & SMS — à partir de ~5 k€/jour
 
@@ -1405,6 +1419,8 @@ Tous les clients y passent, et c'est l'endroit le plus négligé. Quatre éléme
 - **Badges de réassurance** — garantie, paiement et livraison sécurisés, avis. À placer en haut du panier et juste sous le bouton de validation
 
 *(Un timer ou un compteur de stock doit correspondre à une contrainte réelle — voir « Réserves ».)*
+
+**Les add-ons de service — distincts des bumps produit ci-dessus, et à marge quasi 100 %.** Là où le bump ajoute un produit ou une unité, l'add-on vend un service annexe qui ne coûte presque rien à fournir : assurance transport (2-5 € sous 50 € d'AOV, 5-10 € entre 50 et 120 €, davantage sur un produit fragile où l'assurance semble plus légitime) · packaging discret pour les produits sensibles, intimes ou santé (2-4 €) · priorité de traitement pour les commandes urgentes ou personnalisées (2-6 €) · prolongation de garantie sur produits techniques ou paniers élevés, avec plusieurs paliers de durée jusqu'à la garantie à vie — fort levier psychologique — (5-15 €) · emballage cadeau, particulièrement efficace sur les périodes de fêtes (2-4 €) · livraison à impact réduit pour l'audience sensible aux enjeux environnementaux (2-5 €). Chacun se propose au choix, pré-coché ou non selon la stratégie, et s'ajoute au panier sans quasiment toucher au COGS.
 
 ### Upsells
 
@@ -1786,6 +1802,8 @@ Le service client est un contact direct avec l'acheteur, donc un levier de marge
 Le dernier est celui qu'on oublie et qui rapporte : un client dont le problème vient d'être bien résolu est **le meilleur moment** pour demander un avis public.
 
 **BOS écrit ces modèles adaptés à la marque et au ton** — c'est une heure de travail qui sert des années.
+
+**Sur « commande non reçue » spécifiquement : la déclaration sur l'honneur, un filtre simple contre les abus.** Impossible de vérifier avec certitude si un client qui affirme ne rien avoir reçu dit vrai. Demander systématiquement une déclaration sur l'honneur écrite, mentionnant explicitement qu'une fausse déclaration expose à des sanctions pénales, dissuade une partie des tentatives d'abus sans braquer les clients honnêtes — un remboursement ou un renvoi reste dû dans tous les cas légitimes, l'outil sert seulement à filtrer, pas à refuser par principe.
 
 ### Le NPS — la métrique qui montre ce que le ROAS ne voit pas
 
@@ -2180,6 +2198,10 @@ Deux volets, à ne pas confondre :
 
 *(Sur les tactiques d'intimidation évoquées par la source, voir Réserves.)*
 
+**La procédure concrète face à un site copie conforme.** Un cas fréquent en scaling : quelqu'un clone le site (logo, identité visuelle, fiches produit, avis clients) et se positionne sur le nom de marque en recherche Google, pour intercepter le trafic et vendre à sa place — avec, souvent, aucune livraison réelle derrière. Shopify propose un outil de signalement DMCA dédié (`shopify.com/legal/tools/report-an-issue/dmca`), qui demande de documenter précisément l'atteinte plutôt que de rester vague. Les catégories à couvrir dans le signalement : le nom de domaine (similarité volontaire pour créer la confusion), le logo (typographie, design, couleurs copiés sans modification), l'identité visuelle du site (palette, mise en page), les fiches produit (photos, descriptions, avis clients dupliqués tels quels), et le cas échéant les campagnes Google Ads du site copieur qui ciblent le nom de marque original. Documenter chaque point avec un lien vers l'original et l'équivalent copié rend le signalement traitable rapidement plutôt que rejeté pour manque de preuves.
+
+**En prévention, une campagne Google Search sur son propre nom de marque** protège directement contre ce risque dès que le volume devient significatif : elle assure qu'un client qui tape le nom de la marque tombe sur le vrai site en premier résultat, plutôt que sur un clone qui aurait raflé la position. Google Ads reste un canal technique (structure de campagne, flux produit, mots-clés négatifs, enchères) assez différent de Meta — déléguer à un spécialiste plutôt que l'apprendre soi-même en parallèle du reste du business est presque toujours le bon calcul, sauf si Google Ads devient un canal d'acquisition à part entière et justifie l'investissement en compétence.
+
 ### Financer la croissance
 
 Le bootstrap intégral est un idéal peu réaliste en marque : le cash est immobilisé dans les stocks, les comptes publicitaires, les délais d'encaissement. Deux voies : **investisseurs** (accessible quand la rentabilité est prouvée, au prix de parts) et **prêts** — banque classique (qui comprend mal le e-commerce) ou sociétés de financement spécialisées D2C (plus chères, mais rapides et calibrées pour ça). L'objet du financement : stocks et publicité, pour soutenir la croissance **sans dégrader la qualité de service**. Scaler au-delà de son cash-flow dégrade les délais, donc les avis, donc la marque.
@@ -2225,6 +2247,10 @@ Le corps de la méthode est solide. Les points ci-dessous sont faux, illégaux o
 14 bis. **Télécharger des vidéos TikTok organiques ou des photos d'avis Amazon pour les utiliser directement comme créatives publicitaires** — recommandé par une source comme économie de démarrage sur budget serré. C'est la même contrefaçon que le point suivant, seulement présentée pour un public déjà sous contrainte budgétaire, donc plus tentant. Le contenu appartient à son auteur (créateur TikTok, client qui a posté l'avis), qu'il soit UGC commandé par un concurrent ou publication spontanée. **Ce qui est légitime et gratuit :** analyser ce contenu pour son angle et sa structure, puis produire son propre équivalent — un tournage même simple au téléphone coûte 0 €, contrairement à ce que suggère la source.
 
 14. **« Utilisez les publicités de vos concurrents, adaptées » — non.** La même source le recommande en phase de validation. C'est le point 2 des présentes réserves : s'inspirer d'un angle, d'une structure ou d'un script est légitime ; réutiliser le matériel filmé d'un concurrent est une contrefaçon, et Andromeda regroupe désormais les créatives similaires sous un même identifiant (§3), ce qui la rend en plus inefficace. Produire son propre contenu dès le premier jour est aujourd'hui à la fois la seule voie légale et la plus performante.
+
+15. **Acheter des avis Trustpilot, des abonnés Instagram ou des likes pour simuler une preuve sociale.** Une source recommande d'acheter des faux avis Trustpilot pour « booster rapidement sa note », ainsi que des abonnés et des likes Instagram au lancement pour ne pas avoir « une page qui affiche 23 abonnés ». C'est la même logique que le point 5 ci-dessus, appliquée à d'autres canaux : Trustpilot est présenté ailleurs dans ce document comme un actif de conversion précisément parce qu'il reflète de vrais retours — l'acheter en sape la valeur et expose à la suppression du compte et à des sanctions pour pratique commerciale trompeuse. Un compte Instagram qui démarre à zéro abonné n'est pas un problème à masquer artificiellement : c'est l'état normal d'un lancement, et la meilleure réponse reste la collecte réelle d'avis déjà décrite (§8) et une cadence de publication organique sincère plutôt qu'un chiffre gonflé.
+
+16. **Déguiser une créative reprise d'un concurrent pour tromper la détection de doublon de Meta.** Une source recommande de changer la voix (voix IA), réécrire légèrement les sous-titres, appliquer un effet miroir et un filtre quasi invisible sur une publicité concurrente performante, dans le but explicite de la faire passer pour un contenu unique aux yeux de l'algorithme. Ce n'est pas la même chose que reprendre une structure ou un angle (légitime, voir point 14) : ici, c'est le fichier vidéo lui-même — la propriété d'autrui — qui est repris, avec des modifications pensées uniquement pour échapper à la détection technique, pas pour créer un contenu réellement différent. Contrefaçon, doublée d'un contournement délibéré des règles de la plateforme. Le contenu unique se produit, il ne se maquille pas.
 
 **Deux nuances méthodologiques**, moins graves mais à garder en tête :
 
