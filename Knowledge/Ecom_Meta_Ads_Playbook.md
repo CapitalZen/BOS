@@ -2120,6 +2120,22 @@ C'est lui qui produit l'essentiel du réachat. Minimum vital :
 
 **Sur Meta pendant l'opération :** prioriser le retargeting des personnes déjà tièdes (une simple visite du site suffit comme signal) pour optimiser le CPL, plus une campagne email à la base existante pour pousser l'inscription à la liste VIP avant qu'elle ne soit lancée. Le reste peut rester en ciblage large — l'algorithme fait le travail, comme d'habitude.
 
+### La couche offre et calendrier, en complément de la liste VIP ci-dessus
+
+**Les incitatifs qui pèsent le plus, avec des ordres de grandeur réels à connaître :** la livraison gratuite reste citée comme l'incitatif n°1 par une large majorité d'acheteurs (de l'ordre de 90 % dans les études citées) — à ne jamais sacrifier sur une grosse opération, quitte à l'intégrer dans le prix. Le paiement en plusieurs fois (Buy Now Pay Later) peut faire grimper l'AOV d'environ 20 % lorsqu'il est proposé — les gens dépensent plus quand la douleur du paiement est étalée. Les retours gratuits et faciles sont un argument d'accroche fort en soi, à mettre en avant dans la créative plutôt qu'à laisser en petites lignes dans la politique de retour.
+
+**Tout est affaire de perception, pas de rabais absolu.** Une remise ne se juge jamais dans l'absolu mais par rapport à ce à quoi le prospect la compare. Quelques leviers de perception qui ne coûtent rien de plus en marge réelle :
+- **Cumuler (« stack ») plutôt qu'annoncer un seul chiffre** : « jusqu'à 50 % sur tout + 20 % additionnel sur la sélection soldes + livraison et retour gratuits + 72h seulement » paraît plus généreux qu'un simple « -50 % », à remise moyenne identique.
+- **« Jusqu'à X% »** crée un effet de gros deal même quand peu de références atteignent réellement ce taux.
+- **Sur un produit à prix élevé, chiffrer la remise en montant plutôt qu'en pourcentage** (« 400 € de rabais » plutôt que « -40 % ») — le montant absolu paraît plus impressionnant sur un panier élevé.
+- **Ne jamais tester une offre inédite pendant l'opération elle-même** — le pic de trafic n'est pas le moment de découvrir qu'un bundle ne convertit pas. N'utiliser que des offres et des paniers dont la performance est déjà connue par des tests antérieurs, cohérent avec la discipline du testing déjà posée plus haut (§2).
+
+**Repère de profondeur de remise par secteur** (moyennes observées, à ajuster à sa propre structure de marge) : mode ~40 %, beauté ~34 %, petit électroménager ~37 %, maison/déco ~38 %, électronique ~33 %, sport ~31 %. Utile pour calibrer une offre qui paraisse compétitive sans descendre plus bas que nécessaire.
+
+**Le « Black November » — étaler plusieurs offres tout au long de novembre plutôt qu'une seule le jour J.** Pertinent surtout pour une marque avec plusieurs collections ou catégories : une offre différente chaque semaine (ex. -30 % sur la catégorie A la première semaine, BOGO sur la catégorie B la deuxième, -50 % sur une sélection la troisième), avec l'offre du Black Friday lui-même réservée comme le temps fort le plus généreux — un rabais storewide sur une durée courte (24-48h). ⚠️ Point de vigilance : ne jamais proposer un rabais plus élevé sur un produit qui vient tout juste d'être soldé à un taux inférieur — l'effet frustration (« j'ai acheté trop tôt et moins bien ») abîme la confiance plus que ne rapporte la vente suivante.
+
+**Calendrier de préparation, pour une opération ambitieuse (à adapter à l'échelle du budget) :** réchauffement et acquisition froide dès début août jusqu'à début novembre · contenu vidéo TOFU/reciblage de début septembre à mi-novembre · ouverture de la liste VIP à partir de mi-octobre · lancement d'un éventuel concours début novembre · offres de pré-Black Friday à partir de la première semaine de novembre · accès anticipé VIP dans la dernière semaine avant le Black Friday · le Black Friday et son weekend · Cyber Monday · prolongation jusqu'à la première semaine de décembre. Une opération plus modeste compresse cette séquence, mais garde le même ordre : réchauffer avant de vendre, jamais l'inverse.
+
 **Rythme d'emailing, exception assumée :** le rythme habituel de ~3 emails/semaine (voir plus haut) ne s'applique pas à cette fenêtre resserrée — la densité (jusqu'à plusieurs emails le jour J) est volontaire et limitée dans le temps, pas un nouveau rythme de croisière à adopter après l'événement.
 
 ### Le flux feedback, et la récupération des mécontents
