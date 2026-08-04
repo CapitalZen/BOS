@@ -38,4 +38,11 @@ La spécialisation ADR citernes n'est pas un détail de contexte, c'est **la pi�
 **Ce que ça dit du profil :** la phase de maîtrise avant l'action est un besoin réel chez cette personne, pas une simple procrastination. Le respecter est plus productif que le forcer — un entrepreneur poussé à agir contre son rythme n'agit pas, il se retire.
 
 ## Motivation
-À compléter — le « pourquoi » personnel n'a pas encore été exprimé.
+
+**Premier signal direct (03/08/2026) :** 7 visuels motivationnels envoyés spontanément, présentés comme « des choses qui me motivent et que je souhaite atteindre ». Ce que ça dit du profil, au-delà du contenu générique de chaque image prise isolément :
+- **L'effort et le sacrifice comme prix accepté, pas comme repoussoir** (iceberg « succès » : nuits blanches, doutes, échecs, rejets, risques sous la ligne de flottaison). Il n'a pas besoin qu'on lui cache la dureté du chemin — il s'attend déjà à ce qu'elle en fasse partie.
+- **Conviction et intensité comme registre qui parle** (« je vais tout déchirer », « crois en toi »). Le ton direct et affirmatif fonctionne mieux chez lui qu'un discours prudent.
+- **Le risque vu comme condition de la grande histoire**, pas comme un danger à éviter (« pas de risque pas d'histoire », « ne pas s'entourer d'esprit à 1 centime »).
+- **Attrait pour l'objectif chiffré et décomposé** (1M€/an → mois → semaine → jour, « un objectif bien défini est à moitié atteint ») — cohérent avec la manière dont Goal.md a été construit avec lui (paliers chiffrés, décomposition en commandes/jour).
+
+**⚠️ Point de vigilance nommé par BOS, à surveiller dans les prochaines sessions :** ce registre valorise l'intensité continue comme identité (nuits blanches, tout déchirer) — à ne pas confondre avec le rythme d'exécution qui marche réellement pour lui, déjà calibré plus haut : un **plancher quotidien modéré et tenu** (50 min jours travaillés / 2-3h jours de repos), pas un régime d'intensité permanente. `Knowledge/Entrepreneur_Success_Factors.md` §3 est explicite sur ce point : les pics d'intensité sont l'exception au service d'un objectif nommé, jamais le régime par défaut, et ne se prescrivent pas à un débutant. Si dans une session future il exprime de la culpabilité de ne pas « tout déchirer » alors qu'il tient juste son plancher, c'est ce tiraillement identité/méthode qu'il faudra nommer et désamorcer — pas une remise en cause de la méthode.

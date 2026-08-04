@@ -52,4 +52,7 @@ Décembre est le meilleur mois de l'année en e-commerce, et particulièrement e
 - **Copilote :** BOS, qui porte la majorité du travail non irréductible
 
 ## Pourquoi personnel
-À compléter — le « pourquoi » n'a pas encore été exprimé. C'est ce qui tient quand la motivation baisse ; à récupérer en cours de route.
+
+**Premier signal (03/08/2026) :** pas encore un « pourquoi » explicite et personnel, mais un premier indice via des visuels motivationnels envoyés spontanément (détail complet dans `Core/Profile.md` §Motivation). Un chiffre y ressort comme horizon symbolique : **1 M€/an** (≈ 83 000 €/mois), présenté décomposé jusqu'au jour. **À ne pas confondre avec l'objectif opérationnel actuel** (1 000-3 000 €/mois, glissé au S1 2027 — voir ci-dessus) : c'est un « nord » long terme qui donne du sens, pas le prochain jalon à viser. Utile de le garder en tête sans le mentionner comme cible court terme — le rappeler prématurément créerait un écart démotivant avec l'objectif réellement atteignable en 2026-2027.
+
+Le vrai « pourquoi » personnel (ce qui tient quand la motivation baisse — une personne, une situation à changer, un mode de vie visé) reste à exprimer. À récupérer en cours de route, sans forcer la question.
