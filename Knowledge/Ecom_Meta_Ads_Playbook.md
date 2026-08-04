@@ -1124,6 +1124,8 @@ Deux types d'itération, à ne pas confondre :
 
 **Veille cross-niche, spécifique à l'idéation :** regarder les meilleures marques hors de sa niche pour repérer une structure, un concept ou un style de copywriting qui n'existe pas encore chez soi. Être le premier à l'importer sur son marché est un des leviers les plus puissants de différenciation — voir aussi `Customer_Research_SOP.md` Étape 1.
 
+**Technique concrète pour alimenter l'inspiration organique : se fabriquer un FYP dédié à l'avatar.** En interagissant volontairement avec le type de contenu que le persona regarderait (compléter les recherches, les likes, les comptes suivis), l'algorithme finit par proposer un fil représentatif de ce que l'avatar voit réellement défiler — un raccourci pour repérer les formats et angles qui l'accrochent, sans attendre l'immersion complète déjà décrite dans `Customer_Research_SOP.md` (Étape 1 bis). Utile en complément de l'immersion, pas à sa place : ça révèle des formats qui marchent sur l'avatar, pas le vocabulaire exact de ses frustrations.
+
 **Comment doser les trois — trois facteurs, pas une règle fixe :**
 - **La densité concurrentielle.** Peu de concurrents → peu de matière à inspiration, plus d'itération et d'idéation par nécessité. Beaucoup de concurrents actifs → l'inspiration devient une machine à donnée gratuite, ce qui accélère l'itération sur toutes les poches d'audience qu'ils ont déjà validées.
 - **Le produit lui-même** — certains produits offrent naturellement plus d'angles et de concepts que d'autres.
