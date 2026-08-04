@@ -1471,7 +1471,9 @@ Juste après l'achat : pic d'engagement maximal, carte déjà sortie, résistanc
 
 Un site lent tue la conversion avant que le produit soit vu, et augmente le coût d'acquisition (on paie des visiteurs qui repartent). Causes fréquentes : trop d'apps Shopify (chacune charge des scripts), images non compressées, thème surchargé d'éléments dynamiques.
 
-**Repère chiffré et outil pour agir dessus :** viser un chargement de page produit sous **3 secondes, idéalement 2** — au-delà, chaque seconde supplémentaire coûte cher en conversion, particulièrement sur mobile. Tester gratuitement sur **Google PageSpeed Insights**, et traiter en priorité les images non compressées (format WebP) avant de suspecter le thème ou les apps.
+**Repère chiffré et outil pour agir dessus :** viser un chargement de page produit sous **3 secondes, idéalement 2** — au-delà, chaque seconde supplémentaire coûte cher en conversion, particulièrement sur mobile. Tester gratuitement sur **Google PageSpeed Insights** (ou GTmetrix), et traiter en priorité les images non compressées (format WebP) avant de suspecter le thème ou les apps.
+
+**Un poste oublié : les GIFs.** Souvent ce qui ralentit le plus une page sans qu'on le remarque, parce qu'ils échappent au réflexe « compresser les images » — un GIF se compresse à part avant d'être mis en ligne. **Automatiser plutôt que traiter au cas par cas :** une app Shopify de compression d'images tourne en fond, compresse les nouveaux uploads automatiquement et rattrape les fichiers déjà en ligne oubliés — plus fiable qu'une vérification manuelle qui saute une image sur cinq.
 
 ### A/B tests
 
