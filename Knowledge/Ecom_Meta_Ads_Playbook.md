@@ -128,9 +128,15 @@ Il existe deux façons de structurer une boutique, et elles ne s'opposent qu'en 
 | Niche large | Ce qu'elle couvre |
 |---|---|
 | **« Rose »** | Tout ce qui touche aux femmes (beauté, bien-être, accessoires, soin) |
-| **Santé** | Bien-être, performance, confort, douleurs |
+| **Santé** | Bien-être, performance, confort, douleurs — ⚠️ demande plus de rigueur (compte publicitaire solide, qualité produit irréprochable), moins recommandée pour un premier lancement |
 | **Maison** | Confort, rangement, entretien, décoration utile |
 | **Mode à utilité** | Le vêtement, mais avec un bénéfice fonctionnel en plus |
+| **Bébé / parentalité** | Audience très impliquée, dépense peu regardante sur la sécurité et le confort de l'enfant — exigence de qualité renforcée (contact peau) |
+| **Sport** | Performance, remise en forme, bien-être — acheteurs réguliers, bonne base pour de la récurrence |
+| **Animaux** | Propriétaires très impliqués émotionnellement, achats réguliers voire urgents |
+| **Automobile / moto** | Passion et entretien personnel, audience majoritairement masculine |
+
+**La cohérence de marque doit suivre la même logique de largeur que le catalogue.** Le nom de marque et la direction artistique (palette de couleurs, ton) doivent évoquer l'univers de la niche entière, pas le premier produit testé — même principe que la vigilance déjà posée sur le nom de domaine. Une DA cohérente avec la niche entière (ex. palette « médicale » vert/bleu pour la santé, tons féminins pour le « rose », palette sombre/masculine pour l'automobile) permet d'ajouter des produits très différents sans jamais casser l'identité déjà construite.
 
 **Pourquoi c'est le levier n°1 quand on n'a ni temps ni argent :** la page d'accueil ne change plus. Le site ne change plus. Les réglages et les applications ne changent plus. **À chaque nouveau test, on n'a qu'une fiche produit à créer.**
 
