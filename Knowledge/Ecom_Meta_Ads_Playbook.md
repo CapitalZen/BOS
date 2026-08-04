@@ -1988,6 +1988,14 @@ Les pourcentages sont un point de départ à ajuster à la réalité du compte �
 
 > Cet argent ne t'appartient pas. Le raisonnement « je l'utilise maintenant, je rembourserai plus tard » est celui qui tue — vrai pour la TVA, tout aussi vrai pour la publicité et les fournisseurs.
 
+### Séparer l'argent personnel de l'argent business, dès le premier euro
+
+**Un niveau au-dessus des sous-comptes ci-dessus : avant de répartir le profit entre publicité/fournisseurs/taxes/réserve, il ne doit déjà plus être considéré comme un revenu personnel.** Même à 2 000 €/mois de bénéfice, ce n'est pas une somme qui permet de vivre confortablement de l'e-commerce — et c'est de toute façon l'argent de la société, pas le sien, même en auto-entreprise (statut qui confond juridiquement les deux patrimoines, mais où la discipline doit rester la même que dans une société classique).
+
+**Le piège concret :** dépenser chaque mois le bénéfice généré pour vivre revient à ne jamais pouvoir scaler — la trésorerie manque systématiquement au moment où un réinvestissement (stock, budget pub) devient possible, exactement le mécanisme déjà posé plus haut sur le paradoxe de trésorerie au scaling.
+
+**La discipline qui évite ça :** deux comptes séparés dès le lancement — un compte business qui reçoit les encaissements et qu'on « oublie » (pas une source de revenu courant), et un revenu personnel qui vient d'ailleurs (un emploi salarié, une autre activité) pendant la phase de lancement. Tout le bénéfice du compte business est réinvesti dans la croissance, sans exception, jusqu'à ce que le shop génère un bénéfice mensuel suffisant et régulier — **c'est à ce moment-là seulement qu'un salaire personnel devient pertinent à se verser**, pas avant.
+
 ### La taxe de 3 € sur les colis importés hors UE — déjà en vigueur depuis le 1er juillet 2026
 
 **Déjà applicable, pas une échéance à venir.** Depuis le 1er juillet 2026, un droit de douane forfaitaire de **3 € s'applique à chaque catégorie tarifaire d'article** contenue dans un colis de moins de 150 € importé hors UE — la franchise qui exemptait ces petits colis est supprimée. Mesure provisoire jusqu'au 1er juillet 2028, qui vise directement les modèles Shein/Temu/AliExpress, très pertinente pour tout sourcing direct en Chine (`§7`, sourcing 1688/Alibaba/AliExpress).
