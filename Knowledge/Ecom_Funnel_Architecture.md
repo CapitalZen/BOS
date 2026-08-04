@@ -36,6 +36,20 @@ Ordre de grandeur du temps total : **quelques minutes** entre la publicité et l
 
 Le message décide de l'audience, pas les réglages. Une créative qui parle d'appareils auditifs amène Meta vers des gens concernés ; une créative qui met en scène un persona précis attire ce persona. **Changer de hook, c'est changer d'audience** — c'est pourquoi les grosses marques font tourner des dizaines ou des centaines de créatives actives en parallèle plutôt qu'une seule « meilleure ».
 
+## 1 bis. Positionner le produit avant d'écrire — trois façons d'exister dans le marché
+
+Avant le hook, une décision plus en amont : **comment ce produit existe-t-il face à ce que le prospect connaît déjà ?** Trois réponses possibles, et elles ne s'écrivent pas de la même façon.
+
+1. **Le même mécanisme, en mieux** — le prospect a déjà essayé des solutions comparables ; le message prouve la supériorité (comparatif direct, avant/après, preuve chiffrée). C'est la logique d'un nouveau lancement iPhone : personne ne réinvente le smartphone, chaque version prouve juste l'amélioration sur les critères qui comptent déjà pour l'acheteur.
+2. **Un nouveau mécanisme** — introduire une explication ou une méthode que le marché n'a pas encore vue pour satisfaire un désir déjà connu. Un nom donné à une méthode inédite (même construite à partir de principes existants) crée de la curiosité chez une audience déjà lassée des approches classiques — c'est un des rares cas où **inventer un terme est utile plutôt que du jargon inutile** (ne pas confondre avec l'usage générique de vocabulaire vide déjà signalé ailleurs dans ce document). Fonctionne particulièrement bien sur une audience qui a déjà tout essayé sans résultat : la nouveauté relance l'espoir là où « encore une méthode classique » ne le ferait pas.
+3. **Une nouvelle identité** — quand le produit n'est pas objectivement supérieur, se positionner sur une identité de niche plutôt que sur la performance. **C'est le seul des trois qui ne demande pas un meilleur produit.**
+
+**Le levier n°3 en détail — se positionner sur l'identité quand on n'a pas de supériorité produit.** Deux cas connus : une marque de café militarisée par un ancien agent de la CIA (packaging, vocabulaire et visuels 100 % orientés communauté pro-armée/pro-militaire) devenue une entreprise valorisée plus d'un milliard de dollars sans jamais prétendre à un meilleur café — et une marque de vêtements de sport devenue leader du marché « gym wear » en étant la première à s'adresser spécifiquement à la culture de la muscu, alors que les grandes marques généralistes de sport existaient déjà. Dans les deux cas, le produit n'était pas supérieur : **la communauté ciblée était plus étroite et plus reconnue qu'elle par personne d'autre.** Se recentrer sur une sous-identité (« pour les propriétaires de boutique Shopify » plutôt que « pour les e-commerçants ») permet aussi de facturer plus cher, en échange d'un marché adressable plus petit mais qui se reconnaît davantage dans le message.
+
+**Dépositionnement — sortir d'une position avant qu'elle ne plafonne, un geste différent du repositionnement produit.** `Ecom_Meta_Ads_Playbook.md` §2 couvre déjà le repositionnement d'un produit existant vers un nouveau persona ou un nouveau désir (la créatine repositionnée des hommes vers les femmes). Le dépositionnement est un geste voisin mais distinct : **se désolidariser d'une position qu'on occupe soi-même**, en tant que marque ou en tant que personnalité publique, avant qu'elle ne devienne un plafond. Un expert qui s'est fait connaître sur une méthode devenue commune à tout le marché doit se repositionner sur autre chose (un système, une nouvelle approche) pour rester différenciant — rester sur la position initiale, même si elle a bien marché, revient à devenir une voix de plus parmi d'autres qui disent la même chose.
+
+**Ce que ça change concrètement pour écrire un hook :** avant de choisir un angle, décider explicitement dans laquelle des trois cases on se trouve. Un hook « mécanisme amélioré » et un hook « nouvelle identité » ne se rédigent pas avec les mêmes mots ni ne ciblent pas la même audience — mélanger les deux dans un seul message dilue les deux.
+
 ---
 
 ## 2. La créative comme stimulus psychologique
@@ -151,6 +165,19 @@ Chaque hook active deux dimensions indépendantes du contenu qu'il transmet :
 **Construire le lot de créatives en couvrant les niveaux, pas en empilant des variations du même niveau.** La plupart des comptes ne produisent, sans s'en rendre compte, que des créatives niveau 4-5 (Product-Aware, Most-Aware) — parce qu'ils écrivent en supposant que le prospect les connaît déjà. Un lot de démarrage équilibré : 1-2 créatives niveau 1-2 (éducatives, ouvrent la prise de conscience, sans mentionner le produit), 1-2 niveau 3 (différenciation face aux solutions déjà connues), 1-2 niveau 4-5 (témoignages, offre, urgence). Pas besoin de dizaines de créatives — une par niveau suffit pour commencer à couvrir l'ensemble du marché plutôt que les seuls 5-10 % déjà prêts à acheter.
 
 **Ne pas juger ces créatives avec les mêmes métriques.** Une créative niveau 1-2 fait un travail de fond — construire la reconnaissance et réchauffer l'audience pour les créatives niveau 4-5 qui suivent — et se lit sur l'engagement, le reach, le CPM, jamais sur le ROAS direct : elle génère structurellement moins de conversions immédiates, ce n'est pas un signal d'échec. Une créative niveau 4-5 se lit sur le ROAS et le CVR, elle. Comparer les deux sur le même tableau de bord fait paraître les créatives de fond comme des échecs alors qu'elles remplissent un rôle différent — cette distinction est ce qui empêche de couper trop vite un budget qui construit, plutôt que qui convertit.
+
+### Acteurs et environnements — un levier de perception sous-exploité
+
+Qui filme et où sont deux variables qu'on néglige souvent au profit du seul script, alors qu'elles changent la performance indépendamment du texte.
+
+**L'environnement porte une charge de sens avant le premier mot.** Le même contenu tourné dans un environnement générique (chambre, salon quelconque) et dans un environnement qui installe une autorité perçue (un décor qui signale l'expertise ou le statut du sujet) ne performe pas pareil — le second établit une crédibilité immédiate que le premier doit construire avec des mots. Filmer une créative produit dans un environnement perçu comme haut de gamme (appartement soigné, ville qui évoque le luxe, arrière-plan qualitatif) augmente la valeur perçue du produit avant même que le prix soit montré — un levier utilisé volontairement par des marques qui veulent surclasser leur positionnement prix réel.
+
+**Trois types d'acteurs à tester, une grille distincte de la personnalisation par avatar déjà couverte plus haut (§ Self-Concept) :**
+1. **La personne à qui le client cible est attiré** — pas le client lui-même, mais le profil qu'il regarde avec envie ou admiration. Fonctionne particulièrement bien sur des produits qui ne résolvent pas un problème fonctionnel mais qui vendent une esthétique ou un univers (déco, objets identitaires).
+2. **La personne que le client cible veut devenir** — l'aspiration plutôt que l'identification directe ; on ne montre pas le client tel qu'il est, on montre la version de lui-même qu'il vise.
+3. **La personne à qui le client cible ressemble déjà** — l'identification directe classique (même profil, même situation).
+
+Le bon choix dépend du produit et du désir visé, pas d'une règle fixe — la seule façon de savoir est de tester les trois sur une même créative de base plutôt que d'en présumer un a priori. Ne pas couper les coins ronds ici : le choix de l'acteur et du décor peut faire une différence de performance aussi grande que le script lui-même, pour un coût de production quasi identique.
 
 ### 2.2 Maintenir — « est-ce que c'est pour moi ? »
 
@@ -275,6 +302,19 @@ La différence n'est pas cosmétique. La structure par défaut parle du produit 
 5. **Parler à la troisième personne.** « Beaucoup de gens ont du mal à... » dilue la reconnaissance ; « tu as du mal à... » l'adresse directement. Un changement mesurable sur la rétention à lui seul.
 
 **La reconnaissance a aussi une dimension visuelle, avant même le premier mot.** Une image traite en parallèle, sans l'effort séquentiel de la lecture — montrer une personne et un environnement qui ressemblent à la vraie vie du prospect crée une identification immédiate (un costume de bureau corporate pour cibler un entrepreneur qui travaille depuis chez lui crée une dissonance qui affaiblit tout le reste, même si le copy est parfait). C'est une des raisons pour lesquelles l'UGC filmé dans de vrais environnements de vie sur-performe le studio — au-delà de l'authenticité déjà couverte en §2.1, l'environnement lui-même est un signal de reconnaissance.
+
+### Le processus de réécriture en 6 passes — comment on obtient la version finale, pas seulement à quoi elle ressemble
+
+La structure Situation → Douleur → Reconnaissance → Tentatives passées → Espoir → Solution ci-dessus dit **quoi** mettre dans un script. Ce qui manque souvent, c'est **comment** un premier jet devient la version qu'on tourne. Un script ne sort jamais bon du premier coup — il se construit par passes successives, chacune avec un objectif unique, jamais toutes en même temps :
+
+1. **Le jet** — écrire vite, sans se relire, en s'autorisant explicitement à écrire mal. Le seul but de cette passe : faire exister quelque chose sur quoi retravailler. Se mettre à la place du prospect qui vient de trouver la solution à un problème qui le travaillait depuis longtemps et qui a hâte de le raconter à quelqu'un.
+2. **Renforcer le désir** — reprendre chaque affirmation et se demander si elle peut être appuyée par un exemple concret supplémentaire (voir la liste de leviers ci-dessous). La répétition sous des angles différents construit la croyance ; une seule preuve, même bonne, convainc moins que trois preuves complémentaires.
+3. **Muscler le vocabulaire** — remplacer les mots plats par des mots plus précis et plus imagés, **sans** tomber dans le jargon ou les grands mots qui flattent l'ego de qui écrit plutôt que de servir le lecteur. L'objectif reste la clarté, pas l'épate.
+4. **Couper le gras** — chaque phrase doit se justifier dans le processus de vente ; ce qui n'ajoute rien au pouvoir de persuasion se supprime, même si la phrase est bien écrite.
+5. **Le flow** — lire à voix haute. Chaque hésitation ou blocage à la lecture signale une phrase à reformuler. Le script doit rouler comme une conversation naturelle, jamais comme un texte qu'on récite.
+6. **La visualisation** — repasser ligne par ligne en demandant : comment est-ce que j'illustre visuellement ça ? Cette dernière passe transforme le script en brief de tournage exploitable par un monteur ou un créateur de contenu qui n'a pas écrit le texte.
+
+**Renforcer le désir (passe 2) — les leviers qui font la différence entre une affirmation et une preuve vécue**, à piocher selon ce qui manque au jet initial plutôt qu'à empiler tous en même temps : montrer le résultat obtenu, montrer qu'il se répète (pas un coup de chance), préciser où et quand il se produit, préciser à quelle vitesse et dans quelle ampleur, faire appel aux sens (donner à voir, sentir, goûter le résultat), comparer à la difficulté de l'alternative sans le produit, nommer ce que le succès entraîne comme "problème" désirable (trop de demande, plus assez de stock), et faire témoigner un tiers plutôt que l'affirmer soi-même. Ces leviers intensifient le **corps** du script — à ne pas confondre avec les patterns de hook déjà couverts en §2.1, qui eux ouvrent l'attention.
 
 ### Parler, ne pas écrire
 
@@ -426,6 +466,12 @@ Empiler deux ou trois de ces leviers sur la même phrase — sans jamais franchi
 ### Gérer une objection avant qu'elle ne se formule
 
 Trois familles d'objections, dans l'ordre où elles apparaissent dans la tête du prospect : **sur le produit** (« j'ai déjà essayé, ça n'a pas marché »), **sur l'allégation** (« trop beau pour être vrai »), **sur soi** (« ça ne marchera pas pour moi »). **Tant que la première n'est pas désamorcée, les suivantes ne sont même pas entendues** — répondre à l'objection 3 quand l'objection 1 bloque encore ne sert à rien.
+
+**Une deuxième grille, complémentaire, pour diagnostiquer un blocage précis quand les trois familles ci-dessus ne suffisent pas à cerner le problème — trois raisons concrètes de ne pas acheter :**
+
+- **Trop cher** — la solution paraît chère dans l'absolu. Le contre montre le coût réel de l'alternative plus chère qu'on ne remarque pas : le cumul de plusieurs rendez-vous payants coûte largement plus qu'un seul paiement pour un produit qui les remplace, une fois le total additionné plutôt que comparé prix unitaire contre prix unitaire.
+- **Pas assez important** — le prospect ne conteste pas le bénéfice, il ne le trouve pas assez urgent pour agir maintenant. Le levier : remonter d'un cran vers **le bénéfice du bénéfice**. Une meilleure isolation de toiture n'excite personne ; une facture d'électricité plus basse parce que la climatisation tourne moins, si. On ne change pas le produit, on change quel bénéfice de la chaîne on met en avant. ⚠️ **Garde-fou :** chaque cran remonté dans la chaîne dilue un peu la crédibilité du lien de cause à effet — s'arrêter au premier cran qui crée assez d'urgence, ne pas empiler les crans jusqu'à perdre la vraisemblance.
+- **Trop compliqué** — le prospect n'a pas compris comment ça marche, et l'incompréhension fait fuir plutôt que la complexité elle-même. Le levier est de simplifier la métaphore, pas d'ajouter des explications techniques : PayPal a longtemps peiné à expliquer l'envoi d'argent « par adresse IP » avant de basculer sur « envoyer de l'argent par email » — même mécanisme, image radicalement plus simple.
 
 **La préemption — nommer soi-même l'objection avant qu'elle ne se formule.** « Tu te demandes peut-être pourquoi ce n'est pas plus connu si c'est aussi efficace » ou « je sais ce que certains pensent en ce moment : j'ai déjà entendu ce genre de promesse. » Le fait de la formuler à sa place, avant que le prospect n'ait à l'avouer, envoie deux signaux à la fois : que le message comprend vraiment sa position (renforce la reconnaissance déjà couverte plus haut), et implicitement « si j'avais quelque chose à cacher, je ne l'aurais pas soulevé moi-même. » Les objections à préempter en priorité se trouvent au même endroit que le langage de la reconnaissance — avis, commentaires, messages SAV — classées par fréquence.
 

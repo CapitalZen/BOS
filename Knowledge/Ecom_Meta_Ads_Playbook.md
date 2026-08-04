@@ -1017,6 +1017,14 @@ La première dit qu'un seul terme à zéro annule tout : beaucoup de créas méd
 
 **Le préalable non négociable :** la market research. Étudier le produit, les problèmes, les audiences **avant** de produire quoi que ce soit (procédure : `Customer_Research_SOP.md`). Sans elle, on produit du volume au hasard.
 
+### Le rythme visuel, et la relecture à froid avant publication
+
+**Benchmark de rythme pour une vidéo :** l'industrie du film change de plan toutes les 10 secondes environ. Sur les réseaux sociaux, où l'attention est bien plus volatile, viser **un nouvel élément visuel toutes les 3 secondes** (nouveau plan, nouveau texte à l'écran, nouveau b-roll) — une vidéo qui garde le même cadre plus longtemps perd du monde en cours de route indépendamment de la qualité du script.
+
+**Avant de publier une créative finalisée, deux réflexes à froid, peu coûteux et sous-utilisés :**
+- **La montrer à quelqu'un d'extérieur au projet** (pas besoin d'expertise publicitaire) et regarder sa réaction à chaud plutôt que de demander un avis — ce qui se passe dans la tête de quelqu'un qui découvre la créative pour la première fois est justement ce qu'on ne peut plus voir soi-même après l'avoir écrite et revue vingt fois.
+- **Si personne n'est disponible, laisser reposer 72 heures et la revisionner à froid.** La distance fait apparaître des longueurs, des incohérences ou des passages faibles invisibles en sortie de montage — un correctif gratuit contre le biais du créateur qui vient de finir sa propre production.
+
 ### Par où commencer : la stratégie de media mix
 
 **Bombarder en statics d'abord.** C'est le format le plus rapide, le moins cher et le plus intensif à produire — on prend la température du format sur sa marque. Si les statics fonctionnent, c'est le levier le plus rentable qui existe : avec une bonne market research, la montée peut être très rapide.
