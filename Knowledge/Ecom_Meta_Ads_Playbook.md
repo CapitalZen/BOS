@@ -890,6 +890,8 @@ Une petite augmentation donne une croissance plus stable ; une grosse augmentati
 
 **Une trajectoire type quand ça prend :** 300 → 500 → 750 → 1 000 → 1 500 → 2 200 → 3 000. On peut aussi dupliquer la campagne 2-3 fois au lancement pour laisser Meta désigner celle qui démarre le mieux, puis ne garder que celle-là.
 
+**Le même principe s'applique à la granularité adset, pas seulement campagne — et se transpose à TikTok Ads.** Dupliquer un même adset 2-3 fois avec exactement les mêmes créatives ne produit pas les mêmes audiences dans chaque copie : l'algorithme explore des poches différentes à chaque instance, malgré un contenu identique. Résultat pratique : les créatives qui gagnent ressortent généralement comme gagnantes dans les 2-3 duplicatas — un signal de robustesse supplémentaire avant de couper les perdantes et de réinjecter de nouveaux angles à leur place. **Laisser tourner un minimum de 3 jours avant de juger**, cohérent avec le principe déjà posé de ne jamais couper sur un seul jour de data.
+
 ### De 5 k à 100 k/jour — passer d'une trouvaille à un système
 
 Avant 5 k/jour, on cherche des gagnantes. Après, on transforme ce qui marche en système. **Trois leviers, dans cet ordre strict :**
