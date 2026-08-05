@@ -1,7 +1,7 @@
 # Actions
 
 **Semaine du :** 04/08/2026
-**Focus :** Produit tranché (sous-vêtement sans armature). Deux fronts en parallèle : préparer le sourcing 1688/Alibaba (angle qualité contre les défauts connus de Leishape), et publier la première vidéo pour démarrer l'horloge de régularité.
+**Focus :** Cadence de publication (J1-J3 prêts, faceless) pendant que BOS prépare la boutique et le sourcing en fond. Bascule sur boutique + RFQ fournisseurs d'ici 2-3 jours.
 
 ---
 
@@ -9,10 +9,11 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Sourcing 1688/Alibaba — shortlist de fournisseurs + RFQ ciblé sur la qualité (tailles de bonnets, maintien des bretelles)** | L'angle retenu est de faire mieux que Leishape sur les défauts réels qu'ils se sont pris en avis négatifs. Coût trouvé : 0,99-3,27 $/unité, MOQ 50-100, échantillon 10-50 $ | **BOS** (recherche fournisseurs), **Toi** (contact + validation quand budget dispo) | À lancer |
-| 2 | **Filmer et publier la première vidéo — format « humour complice », sans produit** | Démarre l'horloge de régularité — le bottleneck du projet. Ne dépend d'aucun achat ni d'aucun budget | Toi (10 min) | À faire |
-| 3 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — portable presque intégralement par BOS | **BOS** | Prêt à déclencher, non lancé |
-| 4 | Commander un échantillon produit validé | Nécessite un budget réel (échantillon + livraison) | Toi | **Bloqué — attend le début des revenus de l'emploi** |
+| 1 | **Publier le visuel débat (J1), puis Avant/Après (J2), puis Le savais-tu (J3)** — 1 par jour, faceless, légendes fournies | Démarre l'horloge de régularité — le bottleneck du projet. Zéro coût, zéro tournage | Toi (5 min/jour) | **J1 prêt à poster ce soir** |
+| 2 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — déjà amorcée, alimente directement les visuels et le futur copy boutique | **BOS** | **En cours, en fond** |
+| 3 | **Dans 2-3 jours : monter la boutique Shopify** (structure, copy, pixel, capture email) | Sortie de la Phase 0 du programme | **BOS** prépare, **Toi** valides | À venir |
+| 4 | **Dans 2-3 jours : lancer les RFQ fournisseurs 1688/Alibaba** | Gratuit d'envoyer — seule la commande d'échantillon attend le budget | **BOS** rédige, **Toi** envoies | À venir |
+| 5 | Commander un échantillon produit validé | Nécessite un budget réel (échantillon + livraison) | Toi | **Bloqué — attend le début des revenus de l'emploi** |
 
 ---
 
