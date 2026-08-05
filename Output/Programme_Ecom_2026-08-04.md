@@ -103,6 +103,21 @@ Ce document est la carte complète du projet, construite à partir de tout ce qu
 
 ---
 
+## Pilotage autonome de la boutique — à activer dès que la boutique existe
+
+**Objectif :** que BOS surveille et améliore le site en continu, sans attendre une session pour repérer un problème.
+
+**Trois briques :**
+1. **Connexion Shopify** (outils déjà disponibles dans cet environnement) — lecture continue du CVR, panier moyen, taux d'abandon panier, pages qui font fuir. À proposer dès que la boutique existe (intégration quasi instantanée).
+2. **Grille de diagnostic déjà écrite** — les tables symptôme → cause probable → correctif déjà posées dans `Ecom_Meta_Ads_Playbook.md` §3 et `Ecom_Funnel_Architecture.md` (ex. clic → ajout panier faible = positionnement/page à revoir). BOS applique cette grille plutôt que de rejuger à chaque fois.
+3. **Routine programmée** (quotidienne ou hebdo selon le volume réel) qui tire les chiffres, applique seule les changements réversibles à faible risque (copy, badges, réassurance), et **remonte à validation** tout ce qui touche prix, checkout ou structure d'offre — jamais de changement irréversible sans accord.
+
+**Garde-fou sur la fréquence :** l'analyse à l'heure n'a aucun sens tant que le volume est faible (1-2 ventes/jour = bruit statistique, pas signal) — même logique que le seuil déjà posé pour les tests publicitaires (2 semaines / ~1000 commandes avant de trancher). Au début, l'optimisation vient de l'application des checklists CRO déjà écrites, pas de l'analyse de données en temps réel. La fréquence se resserre à mesure que le volume réel augmente.
+
+**Le journal des changements** vit dans le Journal du programme ci-dessous — une ligne par changement appliqué : quoi, pourquoi, résultat au prochain point.
+
+---
+
 ## Stratégies transverses — à tout moment, quelle que soit la phase
 
 | Sujet | Référence | Quand s'en servir |
