@@ -1,7 +1,7 @@
 # Actions
 
 **Semaine du :** 04/08/2026
-**Focus :** Fin de la phase de collecte — bascule en exécution. Deux fronts en parallèle : valider les 3 archétypes produit sur la concurrence réelle, et publier la première vidéo pour démarrer l'horloge de régularité.
+**Focus :** Produit tranché (sous-vêtement sans armature). Deux fronts en parallèle : préparer le sourcing 1688/Alibaba (angle qualité contre les défauts connus de Leishape), et publier la première vidéo pour démarrer l'horloge de régularité.
 
 ---
 
@@ -9,11 +9,10 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Vérification concurrence — Étape A (Meta Ad Library, les 4 archétypes)** | Seule partie qui exige une session navigateur ; le tri final avant de trancher le produit. **Corrigé le 04/08 : ne pas se limiter au mieux noté — les 4 archétypes du shortlist restent en lice, aucun raccourci de vitesse ne remplace la vérification concurrence** | Toi (~20-25 min pour les 4) | **Reprise maintenant** |
-| 2 | Étapes B/C/D du protocole (TikTok Creative Center, Amazon, Google Trends) | Complète le dossier de décision produit | Toi (~25 min) | À faire après l'étape A |
-| 3 | **Filmer et publier la première vidéo — format « humour complice », sans produit** | Démarre l'horloge de régularité — le bottleneck du projet. Ne dépend d'aucun achat ni d'aucun budget. **Correction du 04/08 : aucun produit du territoire possédé actuellement** — on démarre sur les formats qui n'en ont pas besoin | Toi (10 min) | À faire |
-| 4 | Sourcing de 20-30 marques du territoire | Alimente le scoring et l'analyse | Toi (~1 h) | À faire |
-| 5 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — portable presque intégralement par BOS | **BOS** | Prêt à déclencher, non lancé |
+| 1 | **Sourcing 1688/Alibaba — shortlist de fournisseurs + RFQ ciblé sur la qualité (tailles de bonnets, maintien des bretelles)** | L'angle retenu est de faire mieux que Leishape sur les défauts réels qu'ils se sont pris en avis négatifs. Coût trouvé : 0,99-3,27 $/unité, MOQ 50-100, échantillon 10-50 $ | **BOS** (recherche fournisseurs), **Toi** (contact + validation quand budget dispo) | À lancer |
+| 2 | **Filmer et publier la première vidéo — format « humour complice », sans produit** | Démarre l'horloge de régularité — le bottleneck du projet. Ne dépend d'aucun achat ni d'aucun budget | Toi (10 min) | À faire |
+| 3 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — portable presque intégralement par BOS | **BOS** | Prêt à déclencher, non lancé |
+| 4 | Commander un échantillon produit validé | Nécessite un budget réel (échantillon + livraison) | Toi | **Bloqué — attend le début des revenus de l'emploi** |
 
 ---
 
@@ -29,3 +28,4 @@
 | — | Critère d'arrêt recherche produit | 10 candidats maximum, 5 jours maximum | 29/07/2026 |
 | — | Construction de la base de connaissance BOS | Dizaines de sources installées et câblées dans les skills (`Knowledge/`) — phase close le 04/08 | 29/07 → 04/08/2026 |
 | — | Programme complet écrit (0 → bascule payante → scaling → équipe) | Carte des 6 phases avec déclencheurs et références Knowledge, journal auto-évolutif — `Output/Programme_Ecom_2026-08-04.md` | 04/08/2026 |
+| — | Vérification concurrence + choix du produit | Archétype tranché : sous-vêtement sans armature/sans couture. Accessoire coiffure éliminé (marché verrouillé par Lotta Curls, 4 ans) | 04/08/2026 |
