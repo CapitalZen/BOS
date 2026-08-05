@@ -8,6 +8,8 @@
 
 Le produit doit corriger les deux défauts qui reviennent dans les avis négatifs de Leishape (concurrent identifié, `Core/Diagnosis.md` #2) : **bonnets trop petits par rapport à la taille annoncée**, et **bretelles sans maintien réel**. Ce n'est pas un détail — c'est tout l'angle de différenciation retenu. Toute la sélection fournisseur doit filtrer là-dessus, pas sur le prix le plus bas.
 
+**Confirmation chiffrée (TrendTrack, 04/08/2026) :** Leishape est noté **2,5/5 sur Trustpilot (52 avis)**, et son trafic s'est effondré de **-80 %** — pic à ~53k visiteurs/mois en février-mars 2026, ~5k aujourd'hui. Le déclin est très probablement lié à la réputation, pas à la demande (le marché reste solide, voir plus bas). Ça confirme que l'angle qualité n'est pas une hypothèse — c'est une faiblesse déjà mesurable chez le concurrent le plus proche.
+
 ## Ce que je n'ai pas pu faire
 
 Je n'ai pas de session authentifiée sur 1688 ou Alibaba (même limite que l'Ad Library) — donc pas de recherche visuelle, pas de messages RFQ envoyés, pas de comparatif de fiches en direct. Ce qui suit vient de recherche web ouverte : des repères de prix réels et des pistes de fabricants, à vérifier et approfondir toi-même une fois sur les plateformes.
