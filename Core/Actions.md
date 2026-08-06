@@ -9,7 +9,7 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Créer les 2 comptes (IG + TikTok) avec un pseudo temporaire, PUIS publier J1, J2, J3** — le pseudo n'a pas besoin d'être identique ni définitif, il est modifiable gratuitement à tout moment sur les deux plateformes | Démarre l'horloge de régularité — le bottleneck du projet. Bloqué depuis 2 jours par la recherche d'un nom parfait (perfectionnisme identifié, voir Diagnosis.md) | Toi (10 min, cf. algorithme ci-dessous) | **À faire maintenant — plus de raison d'attendre** |
+| 1 | **Publier J1, J2, J3** — comptes créés (`velune.fwi` sur Instagram), visuels refaits avec un vrai système de marque (`Output/Velune_Content_System/`) cohérent avec la photo de profil | Démarre l'horloge de régularité — le bottleneck du projet | Toi (5 min/jour) | **Prêt — comptes créés, visuels livrés, plus de raison d'attendre** |
 | 2 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — déjà amorcée, alimente directement les visuels et le futur copy boutique | **BOS** | **En cours, en fond** |
 | 3 | **Dans 2-3 jours : monter la boutique Shopify** (structure, copy, pixel, capture email) | Sortie de la Phase 0 du programme | **BOS** prépare, **Toi** valides | À venir |
 | 4 | **Dans 2-3 jours : lancer les RFQ fournisseurs 1688/Alibaba** | Gratuit d'envoyer — seule la commande d'échantillon attend le budget | **BOS** rédige, **Toi** envoies | À venir |
