@@ -1,7 +1,7 @@
 # Actions
 
 **Semaine du :** 04/08/2026
-**Focus :** Cadence de publication (J1-J3 prêts, faceless) pendant que BOS prépare la boutique et le sourcing en fond. Bascule sur boutique + RFQ fournisseurs d'ici 2-3 jours.
+**Focus :** Cadence de publication démarrée (J1 en ligne sur Instagram le 06/08) pendant que BOS prépare la boutique et le sourcing en fond. Bascule sur boutique + RFQ fournisseurs d'ici 2-3 jours.
 
 ---
 
@@ -9,7 +9,9 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Publier J1, J2, J3** — comptes créés (`velune.fwi` sur Instagram), visuels refaits avec un vrai système de marque (`Output/Velune_Content_System/`) cohérent avec la photo de profil | Démarre l'horloge de régularité — le bottleneck du projet | Toi (5 min/jour) | **Prêt — comptes créés, visuels livrés, plus de raison d'attendre** |
+| 1 | **Publier J1 sur TikTok** (même visuel/légende, déjà posté sur Instagram) | Démarre l'horloge de régularité sur les deux plateformes | Toi (2 min) | À faire maintenant |
+| 1b | **Publier J2 demain, J3 le jour d'après** — visuels et légendes déjà prêts (`Output/Velune_Content_System/`) | Tient la cadence 1/jour | Toi (5 min/jour) | À venir |
+| 1c | Répondre aux premiers commentaires sous J1 dès qu'ils arrivent | Chaque réponse construit la relation et donne du vrai vocabulaire client — gratuit, à fort effet | Toi | En continu |
 | 2 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — déjà amorcée, alimente directement les visuels et le futur copy boutique | **BOS** | **En cours, en fond** |
 | 3 | **Dans 2-3 jours : monter la boutique Shopify** (structure, copy, pixel, capture email) | Sortie de la Phase 0 du programme | **BOS** prépare, **Toi** valides | À venir |
 | 4 | **Dans 2-3 jours : lancer les RFQ fournisseurs 1688/Alibaba** | Gratuit d'envoyer — seule la commande d'échantillon attend le budget | **BOS** rédige, **Toi** envoies | À venir |
@@ -40,3 +42,4 @@ Base : **velune** (déjà proposé, mot inventé — forte chance d'être libre)
 | — | Construction de la base de connaissance BOS | Dizaines de sources installées et câblées dans les skills (`Knowledge/`) — phase close le 04/08 | 29/07 → 04/08/2026 |
 | — | Programme complet écrit (0 → bascule payante → scaling → équipe) | Carte des 6 phases avec déclencheurs et références Knowledge, journal auto-évolutif — `Output/Programme_Ecom_2026-08-04.md` | 04/08/2026 |
 | — | Vérification concurrence + choix du produit | Archétype tranché : sous-vêtement sans armature/sans couture. Accessoire coiffure éliminé (marché verrouillé par Lotta Curls, 4 ans) | 04/08/2026 |
+| — | **Premier post publié — J1 (débat)** | Compte `velune.fwi` créé, photo de profil, bio, système de marque construit, blocage perfectionnisme sur le pseudo dépassé | 06/08/2026 |
