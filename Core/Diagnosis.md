@@ -5,6 +5,8 @@
 
 Le tableau réel : trésorerie zéro jusqu'à l'emploi de conducteur ; 2 h/jour aujourd'hui mais une cadence qui sera bousculée par l'entrée en poste ; aucun levier payant disponible avant cette date. **Rien de tout ça n'empêche de démarrer** — le contenu organique ne coûte que du temps, et la cartographie de marché est portée par BOS. Mais **l'unique moteur du projet pendant plusieurs mois sera la constance**, sans accélérateur possible. C'est le point exact où ce plan réussit ou échoue, et il coïncide avec le pattern déjà identifié chez cet entrepreneur (problème n°3).
 
+**Instance concrète du bottleneck, captée le 06/08/2026 :** le premier post (prêt depuis le 04/08) n'est toujours pas sorti. Cause identifiée par l'entrepreneur lui-même : la recherche d'un nom de compte identique et parfait sur Instagram ET TikTok, sans solution trouvée. C'est un blocage de perfectionnisme (cause n°3 du Cadre des 6 Causes, sous-cause perfectionnisme) qui s'est déguisé en tâche technique — une tâche annexe (trouver LE nom) retient l'action réelle (publier). Traitement : dissocier le pseudo de compte (modifiable gratuitement à tout moment sur les deux plateformes, aucun enjeu de définitif) du nom de marque (à trancher plus tard, à froid, avec de vrais retours terrain). Voir Actions.md.
+
 ---
 
 ## Problèmes (par impact sur l'objectif)

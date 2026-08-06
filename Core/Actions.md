@@ -9,11 +9,21 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Publier le visuel débat (J1), puis Avant/Après (J2), puis Le savais-tu (J3)** — 1 par jour, faceless, légendes fournies | Démarre l'horloge de régularité — le bottleneck du projet. Zéro coût, zéro tournage | Toi (5 min/jour) | **J1 prêt à poster ce soir** |
+| 1 | **Créer les 2 comptes (IG + TikTok) avec un pseudo temporaire, PUIS publier J1, J2, J3** — le pseudo n'a pas besoin d'être identique ni définitif, il est modifiable gratuitement à tout moment sur les deux plateformes | Démarre l'horloge de régularité — le bottleneck du projet. Bloqué depuis 2 jours par la recherche d'un nom parfait (perfectionnisme identifié, voir Diagnosis.md) | Toi (10 min, cf. algorithme ci-dessous) | **À faire maintenant — plus de raison d'attendre** |
 | 2 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — déjà amorcée, alimente directement les visuels et le futur copy boutique | **BOS** | **En cours, en fond** |
 | 3 | **Dans 2-3 jours : monter la boutique Shopify** (structure, copy, pixel, capture email) | Sortie de la Phase 0 du programme | **BOS** prépare, **Toi** valides | À venir |
 | 4 | **Dans 2-3 jours : lancer les RFQ fournisseurs 1688/Alibaba** | Gratuit d'envoyer — seule la commande d'échantillon attend le budget | **BOS** rédige, **Toi** envoies | À venir |
 | 5 | Commander un échantillon produit validé | Nécessite un budget réel (échantillon + livraison) | Toi | **Bloqué — attend le début des revenus de l'emploi** |
+
+### Algorithme pour débloquer le pseudo (2 min, pas de créativité requise)
+
+Base : **velune** (déjà proposé, mot inventé — forte chance d'être libre). Essayer dans cet ordre, sur chaque plateforme séparément, s'arrêter au premier libre :
+1. `velune`
+2. `velune.officiel` (Instagram accepte les points) / `velune_officiel` (TikTok — pas de points, seulement underscore)
+3. `velune.paris` / `velune_paris`
+4. `shop.velune` / `shop_velune`
+
+**Le pseudo n'a pas besoin d'être identique sur les deux plateformes.** Le lien en bio unifie tout. Prendre le premier libre sur chacune, même si ça donne `velune.officiel` sur Instagram et `velune_paris` sur TikTok — zéro impact sur le business. Une fois les 2 comptes créés, poster J1 dans la foulée.
 
 ---
 
