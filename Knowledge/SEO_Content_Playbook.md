@@ -49,6 +49,17 @@ Tout ce qui précède (Étapes 1 à 8) construit le contenu. Mais Google évalue
 
 **L'EMD (Exact Match Domain) — un nom de domaine qui contient le mot-clé principal.** Son impact a diminué depuis les années où il suffisait à lui seul à ranker, mais il reste un vrai avantage sur une niche peu concurrentielle : il indique instantanément à Google et au visiteur le sujet du site, et il est plus mémorable. Limites à connaître : deux mots-clés maximum dans le nom, en veillant à sa lisibilité et à sa longueur ; l'EMD ne remplace jamais un contenu de qualité et un maillage soigné — il amplifie une bonne stratégie, il n'en tient pas lieu seul.
 
+### Construire de l'autorité sans backlinks (ou avant d'en avoir)
+
+**Le point de départ à ne pas perdre : les backlinks amplifient une base solide, ils ne la remplacent pas.** Un site avec un contenu mal structuré et aucune stratégie sémantique ne sera pas sauvé par des backlinks — sinon ce serait trop simple. Construire la base (Étapes 1-8) d'abord ; le off-site vient ensuite renforcer, pas compenser.
+
+**Le marketing 360 comme levier SEO indirect.** Google indexe directement des contenus sociaux dans ses résultats (posts LinkedIn, threads X, vidéos YouTube) — chaque publication sur un réseau est donc une surface de visibilité Google en plus, pas seulement une audience sociale. Trois mécanismes derrière ça, aucun ne dépendant d'un lien direct :
+- **Le trafic de marque** — les recherches du nom de la marque directement sur Google. Signal fort qu'une audience connaît la marque et la cherche activement, qui se construit par la présence sur les réseaux et le bouche-à-oreille.
+- **Les signaux comportementaux depuis la SERP** — le CTR (taux de clic sur le résultat plutôt que sur les concurrents) et le *dwell time* (temps passé sur la page avant de retourner aux résultats). Une notoriété construite ailleurs (réseaux, mentions) améliore mécaniquement ces deux métriques.
+- **Les mentions de marque sans lien.** Google détecterait une marque citée sur le web même sans backlink pointant vers le site — une marque mentionnée régulièrement dans des articles, posts et forums est perçue comme une entité reconnue du secteur, un signal de confiance à part entière.
+
+**Le contenu citable — la façon d'obtenir des backlinks sans en demander.** Études avec données propriétaires, statistiques originales sur la niche, guides exhaustifs qui deviennent la référence, outils gratuits utiles : ces formats donnent aux autres sites une raison spontanée de citer et de lier, sans prospection de liens. C'est le même principe que la préférence pour le format « Meilleurs X » en GEO ci-dessous — être la source qu'on a envie de citer plutôt que d'aller chercher la citation.
+
 ### Le GEO — être cité par ChatGPT, Claude, Gemini, pas seulement classé par Google
 
 **⚠️ Chiffres cités tels que rapportés dans une étude Ahrefs relayée par un thread (source secondaire, non vérifiée directement par BOS) — à traiter comme des ordres de grandeur indicatifs, pas des constantes garanties.**
@@ -98,6 +109,12 @@ Tout ce qui précède (Étapes 1 à 8) construit le contenu. Mais Google évalue
 - **Identifier le TYPE de page qui domine** : collections → créer une collection ; articles → créer un article ; fiches produit → créer une fiche produit ; vidéos → envisager une version vidéo. **Si Google veut des articles et qu'on publie une page produit, on ne rankera jamais** — peu importe la qualité. C'est une erreur de format, pas de contenu.
 - Analyser les 3 premiers en détail : leurs H2, les sujets traités, et **surtout ce qu'aucun n'a traité**. C'est là qu'est l'avantage concurrentiel. L'article doit couvrir au minimum tout ce qu'ils couvrent.
 
+**6. Forums et communautés (Reddit, groupes Facebook, Discord de la niche).** Les questions qui s'y posent sont, mot pour mot, ce que la même audience tape ensuite sur Google — une source gratuite de sujets réels, pas déduits.
+
+**7. Avis clients (Google, Trustpilot, avis produit).** Pas pour la recherche de mots-clés au sens strict, mais pour le vocabulaire exact — les mots que les clients utilisent spontanément pour décrire leur problème, à réinjecter dans le champ lexical (Étape 5) plutôt qu'un vocabulaire déduit de l'extérieur.
+
+**Règle de fond sur le volume, avant même les 7 sources : tout volume est bon à prendre.** Un mot-clé à 30 recherches/mois avec la bonne intention vaut souvent plus qu'un mot-clé à 3 000 recherches mal ciblé — éliminer systématiquement les petits volumes revient à écarter la partie la plus qualifiée du trafic potentiel.
+
 ## Étape 2 — La règle absolue : 1 mot-clé = 1 page
 
 Chaque page cible **un seul** mot-clé principal. Deux pages sur le même mot-clé se font concurrence, Google reçoit deux signaux contradictoires et finit souvent par n'en montrer aucune. C'est la **cannibalisation**, une des causes les plus fréquentes de stagnation SEO.
@@ -125,6 +142,16 @@ La plupart des sites se battent uniquement sur leurs mots-clés évidents. Le gr
 
 **La question qui débloque les angles : « Quels sont TOUS les problèmes que mon produit résout ? »** Pas le produit — les problèmes. Une console retrogaming ne résout pas « vouloir jouer aux vieux jeux » : elle résout la nostalgie, le manque de jeux simples pour toute la famille, le besoin d'un cadeau original, l'envie de découvrir les classiques sans configurer un émulateur. Chaque problème = un angle = de nouveaux mots-clés = une nouvelle audience.
 
+**Grille en 6 catégories pour cartographier systématiquement les angles d'un seul produit** (avant même la recherche de mots-clés — sauter cette étape, comme le fait la majorité des e-commerçants, produit une stratégie construite sur le seul mot-clé évident) :
+1. **Angles produit direct** — toutes les façons dont le produit lui-même se nomme (ex. bijoux personnalisés : « collier prénom », « bracelet gravé », « bague ajustable », « bijou avec message »).
+2. **Angles par occasion** — le produit comme cadeau, calé sur un calendrier saisonnier (« cadeau fête des mères pas cher », « idée cadeau demoiselle d'honneur »). Publier l'article avant la saison, pas pendant.
+3. **Angles par destinataire** — qui le reçoit change le parcours d'achat même pour le même produit (« bijou personnalisé maman » vs « bracelet prénom ado » : deux profils, deux intentions).
+4. **Angles émotionnels et de signification** — le registre le plus délaissé, et le plus qualifié : volume faible, intention d'achat quasi maximale (« bijou pour se souvenir d'une personne disparue », « collier couple longue distance »).
+5. **Angles matériaux et technique** — les acheteurs qui filtrent et comparent avant d'acheter, taux de conversion le plus élevé de tous (« argent 925 », « waterproof », « acier inoxydable »).
+6. **Angles comparatifs et de décision** — la phase juste avant l'achat (« meilleur site [catégorie] France », « avis [marque] », « livraison rapide »).
+
+**Ce que ça produit sur un seul produit :** des dizaines de mots-clés répartis sur 6 intentions différentes, largement de quoi couvrir plusieurs mois de cadence sans jamais répéter le même angle — et ça, avant même d'avoir ouvert un outil de recherche de mots-clés.
+
 ## Étape 4 — Le plan d'article
 
 **H1 — le titre.** Mot-clé principal dans les 5 premiers mots, 65 caractères max (au-delà, tronqué).
@@ -141,6 +168,10 @@ La plupart des sites se battent uniquement sur leurs mots-clés évidents. Le gr
 **FAQ** — en fin d'article, avant la conclusion. 5 à 9 questions. Titre contenant le sujet précis (« FAQ sur la console retrogaming portable ») : ça dit à Google de quoi parle la section et ça renforce la pertinence sémantique.
 
 **Liens internes** — 1 à 2 par article, pas plus (10 liens diluent la valeur de chacun). Priorité vers la page commerciale la plus pertinente. **Ancre = le mot-clé exact de la page de destination.** Jamais « cliquez ici », « en savoir plus », « voir ici ».
+
+**La structure qui organise tout ça à l'échelle du site : le silo thématique.** Une page pilier centrale traite le sujet principal en profondeur ; des articles satellites couvrent chaque sous-thématique en détail ; chaque satellite pointe vers le pilier, et le pilier pointe vers ses satellites. Ce maillage bidirectionnel concentre le jus SEO sur la structure entière plutôt que de le laisser se disperser entre des articles isolés qui ne se renforcent jamais — c'est ce qui fait qu'un site avec 20 articles organisés en silo dépasse souvent un site avec 40 articles éparpillés sans hiérarchie.
+
+**Optimiser aussi les pages business, pas seulement les articles de blog.** Les pages produit, collection ou service sont ce qui convertit directement — et pourtant elles restent souvent avec un contenu vide ou générique pendant que tout l'effort SEO va aux articles. Même discipline à leur appliquer : un H1 avec le mot-clé exact que les clients tapent, une description qui couvre le champ lexical complet du sujet, une FAQ en bas de page pour lever les objections avant l'achat, des éléments de réassurance (avis, certifications, garanties), et surtout **une page dédiée par produit/collection/service** — une page qui essaie de tout couvrir ne se positionne sur rien. Les articles de blog doivent aussi faire remonter le jus SEO vers ces pages via leurs liens internes (voir ci-dessus) : c'est le blog qui construit l'autorité, mais ce sont les pages commerciales qui doivent en hériter pour que ça se traduise en chiffre d'affaires.
 
 ## Étape 5 — Topical SEO
 
@@ -188,7 +219,9 @@ Même information, même thématique, mauvais ton pour le persona = pas de résu
 - **Chaque article est un canal d'acquisition.** 1 article = 1 flux de trafic depuis un mot-clé différent. 300 articles = 300 flux qui s'additionnent.
 - **Google aime les sites actifs.** Publication quotidienne = crawl plus fréquent = indexation plus rapide = trafic capté avant les concurrents.
 
-**Indexation manuelle :** 10 demandes gratuites par jour dans la Search Console. Les utiliser à chaque publication force le crawl immédiat au lieu d'attendre.
+**La cadence se réduit avec la maturité du site, elle ne reste pas fixe indéfiniment :** lancement (mois 1-3) — 1 article/jour si possible, 3/semaine au minimum ; croissance (mois 4-12) — 3 articles/semaine, indexation manuelle systématique ; maturité (12 mois+) — 2 nouveaux articles/semaine + 1 article existant rafraîchi par semaine (cohérent avec la règle « réécrire plutôt que créer » posée plus haut). Le rythme de démarrage sert à construire l'autorité thématique de zéro ; une fois construite, l'entretien pèse plus que la pure création.
+
+**Indexation manuelle :** 10 demandes gratuites par jour dans la Search Console. Les utiliser à chaque publication force le crawl immédiat au lieu d'attendre — ça fait passer le délai d'indexation d'une fourchette de 2 à 6 semaines à environ 24-72 h.
 
 ## Résumé opérationnel
 
