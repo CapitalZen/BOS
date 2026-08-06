@@ -195,6 +195,8 @@ Même information, même thématique, mauvais ton pour le persona = pas de résu
 
 C'est l'argument à lui donner tel quel : *« La cadence d'un article par jour est ce qui fait échouer 95 % des gens sur ce canal. Toi, tu as un copilote qui fait la recherche, le plan et la rédaction — ton job c'est 15 minutes de publication et ta connaissance métier. Les autres font tout ça à la main. »*
 
+**Le dernier maillon (publication + indexation) est automatisable une fois la boutique connectée.** Des outils comme PushRank vendent exactement ça : lire Search Console, prioriser les mots-clés à faible effort, rédiger, publier directement sur le CMS (Shopify, WordPress...) via webhook, sans copier-coller. Ce n'est pas une stratégie différente de celle déjà posée ci-dessus — c'est la même méthode, avec le dernier maillon automatisé. Une fois la boutique Shopify de l'entrepreneur en place et connectée (accès admin API), BOS peut publier directement les pages/articles sans passer par l'entrepreneur, fermant cet écart sans abonnement payant — avec un avantage que ces outils génériques n'ont pas : le contexte business, la voix de marque et la recherche client déjà accumulés dans `Core/` et `Knowledge/`, pas seulement des données Search Console. **Non applicable tant que le SEO n'est pas le canal retenu** (canal actuel : organique social, une chose à la fois) — à activer si/quand `traffic` route vers le SEO.
+
 ---
 
 ## Réserves — ce que BOS doit nuancer
