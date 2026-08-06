@@ -9,13 +9,12 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Publier J1 sur TikTok** (même visuel/légende, déjà posté sur Instagram) | Démarre l'horloge de régularité sur les deux plateformes | Toi (2 min) | À faire maintenant |
-| 1b | **Publier J2 demain, J3 le jour d'après** — visuels et légendes déjà prêts (`Output/Velune_Content_System/`) | Tient la cadence 1/jour | Toi (5 min/jour) | À venir |
-| 1c | Répondre aux premiers commentaires sous J1 dès qu'ils arrivent | Chaque réponse construit la relation et donne du vrai vocabulaire client — gratuit, à fort effet | Toi | En continu |
-| 2 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — déjà amorcée, alimente directement les visuels et le futur copy boutique | **BOS** | **En cours, en fond** |
-| 3 | **Dans 2-3 jours : monter la boutique Shopify** (structure, copy, pixel, capture email) | Sortie de la Phase 0 du programme | **BOS** prépare, **Toi** valides | À venir |
-| 4 | **Dans 2-3 jours : lancer les RFQ fournisseurs 1688/Alibaba** | Gratuit d'envoyer — seule la commande d'échantillon attend le budget | **BOS** rédige, **Toi** envoies | À venir |
-| 5 | Commander un échantillon produit validé | Nécessite un budget réel (échantillon + livraison) | Toi | **Bloqué — attend le début des revenus de l'emploi** |
+| 1 | **Publier J2 demain, J3 le jour d'après** — visuels et légendes déjà prêts (`Output/Velune_Content_System/`) | Tient la cadence 1/jour sur Instagram et TikTok | Toi (5 min/jour) | À venir |
+| 2 | Répondre aux premiers commentaires sous J1 (IG + TikTok) dès qu'ils arrivent | Chaque réponse construit la relation et donne du vrai vocabulaire client — gratuit, à fort effet | Toi | En continu |
+| 3 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Diagnostic #4 — déjà amorcée, alimente directement les visuels et le futur copy boutique | **BOS** | **En cours, en fond** |
+| 4 | **Dans 2-3 jours : monter la boutique Shopify** (structure, copy, pixel, capture email) | Sortie de la Phase 0 du programme | **BOS** prépare, **Toi** valides | À venir |
+| 5 | **Dans 2-3 jours : lancer les RFQ fournisseurs 1688/Alibaba** | Gratuit d'envoyer — seule la commande d'échantillon attend le budget | **BOS** rédige, **Toi** envoies | À venir |
+| 6 | Commander un échantillon produit validé | Nécessite un budget réel (échantillon + livraison) | Toi | **Bloqué — attend le début des revenus de l'emploi** |
 
 ### Algorithme pour débloquer le pseudo (2 min, pas de créativité requise)
 
@@ -42,4 +41,4 @@ Base : **velune** (déjà proposé, mot inventé — forte chance d'être libre)
 | — | Construction de la base de connaissance BOS | Dizaines de sources installées et câblées dans les skills (`Knowledge/`) — phase close le 04/08 | 29/07 → 04/08/2026 |
 | — | Programme complet écrit (0 → bascule payante → scaling → équipe) | Carte des 6 phases avec déclencheurs et références Knowledge, journal auto-évolutif — `Output/Programme_Ecom_2026-08-04.md` | 04/08/2026 |
 | — | Vérification concurrence + choix du produit | Archétype tranché : sous-vêtement sans armature/sans couture. Accessoire coiffure éliminé (marché verrouillé par Lotta Curls, 4 ans) | 04/08/2026 |
-| — | **Premier post publié — J1 (débat)** | Compte `velune.fwi` créé, photo de profil, bio, système de marque construit, blocage perfectionnisme sur le pseudo dépassé | 06/08/2026 |
+| — | **Premier post publié — J1 (débat)** | En ligne sur Instagram ET TikTok (`velune.fwi`), compte TikTok repassé en Creator pour l'accès aux sons tendance, blocage perfectionnisme sur le pseudo dépassé | 06/08/2026 |
