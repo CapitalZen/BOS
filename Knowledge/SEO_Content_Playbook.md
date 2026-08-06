@@ -91,6 +91,8 @@ Chaque page cible **un seul** mot-clé principal. Deux pages sur le même mot-cl
 
 *Cas type :* « programme musculation débutant » et « programme fitness débutant » à 82 % → fusion en un article plus complet → positions en progression immédiate.
 
+**Le même réflexe s'applique en amont, avant même d'écrire.** Avant de créer un nouvel article sur un mot-clé, vérifier si une page existante (à soi) est déjà positionnée à proximité du top 3 pour ce même sujet. Si oui, **rafraîchir cette page plutôt que d'en publier une nouvelle** — un nouvel article lui ferait concurrence et freinerait sa progression, avec un coût réel : plusieurs mois perdus le temps que Google redistribue son autorité entre les deux. Le rafraîchissement (mise à jour du contenu, du champ lexical, du maillage) capitalise sur l'autorité déjà acquise par la page au lieu de repartir de zéro. **Repère pratique :** une page déjà en page 2 (positions ~8-15) sur le mot-clé visé est presque toujours un meilleur candidat au rafraîchissement qu'à un nouvel article.
+
 ## Étape 3 — La stratégie sémantique (le vrai gisement)
 
 La plupart des sites se battent uniquement sur leurs mots-clés évidents. Le gros gain est ailleurs : **les gens qui ont le même besoin mais le formulent autrement**, et ceux qui ne connaissent pas encore le produit mais en ont besoin.
