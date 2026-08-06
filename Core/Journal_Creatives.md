@@ -4,6 +4,8 @@
 
 **Quand commencer à le remplir :** dès la première créative publiée qui génère des données lisibles (vues, CTR, commentaires, ou premières ventes en organique). Une ligne par créative testée, qu'elle ait fonctionné ou non — un échec documenté est aussi utile qu'un succès pour la créative suivante.
 
+**Couvre aussi les posts organiques du système de contenu (06/08/2026) :** `Output/Velune_Content_System/` génère les visuels (débat, avant/après, savais-tu...) avec un template de marque fixe. Ce journal est le mécanisme qui fait évoluer ce template avec de vraies données — mêmes principes que l'auto-évolution des créatives publicitaires (`Knowledge/AI_Ecom_Ops_Stack.md`) : on n'improve jamais sur une intuition, seulement sur un pattern qui se répète dans les vrais résultats.
+
 ---
 
 ## Log des créatives testées
