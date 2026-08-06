@@ -18,3 +18,7 @@ Le mécanisme n'est pas dans ce dossier — il est dans `Core/Journal_Creatives.
 4. **Ce qui ne doit jamais déclencher un changement de template :** une impression, une comparaison avec un autre compte, une envie de nouveauté. Seule une donnée répétée compte.
 
 BOS applique cette boucle de lui-même dès qu'il y a assez de lignes dans `Core/Journal_Creatives.md` — pas besoin de le redemander à chaque fois.
+
+## La bio suit la même logique, avec son propre tableau
+
+La bio (Instagram + TikTok) a sa boucle dédiée dans `Bio_et_Legendes.md` plutôt que dans `Core/Journal_Creatives.md` — la métrique n'est pas la même (conversion visite de profil → abonnement, pas engagement par post) et la fréquence de changement est plus basse. Même règle de fond : jamais de changement sur une intuition, seulement sur une donnée qui se répète, avec un seuil minimum de volume avant de toucher au texte.
