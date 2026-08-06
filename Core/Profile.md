@@ -37,6 +37,20 @@ La spécialisation ADR citernes n'est pas un détail de contexte, c'est **la pi�
 
 **Ce que ça dit du profil :** la phase de maîtrise avant l'action est un besoin réel chez cette personne, pas une simple procrastination. Le respecter est plus productif que le forcer — un entrepreneur poussé à agir contre son rythme n'agit pas, il se retire.
 
+## Pattern comportemental confirmé — perfectionnisme et peur de l'échec (06/08/2026)
+
+Déclenché par deux vidéos envoyées sans commentaire, puis nommé explicitement par l'entrepreneur lui-même à la question directe de BOS :
+- **Peur de rester coincé malgré l'excellence, et de reproduire ce schéma dans le business à venir** — pas seulement dans le job actuel.
+- **« Mon problème de vouloir que tout soit aligné »** — cité mot pour mot. Se manifeste concrètement par : temps passé à attendre/réfléchir plutôt qu'à avancer malgré l'absence de certitude, et une reconnaissance explicite que la peur de l'échec agit même en sachant intellectuellement que l'échec rend fort.
+
+**Recoupe deux patterns déjà documentés en général dans `Knowledge/Common_Problems.md` (#7 Perfectionnisme, #21 Peur de l'échec)** — la nouveauté n'est pas la théorie, c'est la confirmation par l'entrepreneur lui-même, avec ses propres mots et ses propres exemples, ce qui en fait un diagnostic vérifié et réutilisable plutôt qu'une hypothèse.
+
+**Manifestations concrètes déjà observées avant même cette confirmation :**
+- Blocage du premier post organique pendant plusieurs jours à cause d'un nom de compte cherché "parfait" sur Instagram et TikTok à la fois.
+- Le pattern historique déjà nommé dans `Core/Diagnosis.md` (problème n°3, collecte de méthode plutôt qu'exécution) est probablement la même racine sous une forme antérieure — la collecte donne l'impression d'avancer sans exposer au risque d'un résultat imparfait ou d'un jugement.
+
+**Usage BOS :** quand une action traîne sans raison logistique claire, vérifier d'abord cette piste avant toute autre — poser la question "qu'est-ce qui se passerait vraiment de grave si c'était imparfait ?" plutôt que d'ajouter de la méthode ou des options. Réduire la décision à zéro choix plutôt que d'ajouter des critères de sélection, qui nourrissent le perfectionnisme au lieu de le désamorcer.
+
 ## Motivation
 
 **Premier signal direct (03/08/2026) :** 7 visuels motivationnels envoyés spontanément, présentés comme « des choses qui me motivent et que je souhaite atteindre ». Ce que ça dit du profil, au-delà du contenu générique de chaque image prise isolément :
