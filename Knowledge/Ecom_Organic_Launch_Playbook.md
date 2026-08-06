@@ -62,7 +62,7 @@ Sur chaque vidéo qui performe, noter trois choses :
 1. **Identifier l'émotion** visée
 2. **Choisir le format** (POV, humour, before/after…)
 3. **Filmer ou récupérer** le contenu — 7 secondes suffisent
-4. **Choisir le son** — punchy, ou accordé à l'émotion, et connu
+4. **Choisir le son** — punchy, ou accordé à l'émotion, et connu. **Sur TikTok, ça vaut aussi pour les posts photo/carrousel (débat, avant/après, stat...), pas seulement la vidéo** — TikTok les lit avec autoplay et son, et un son qui gagne en popularité pousse aussi la découverte via sa propre page. **Piège à connaître avant de chercher un son précis : un compte TikTok en type "Entreprise" est restreint à la Commercial Music Library (bibliothèque libre de droits, sélection plus limitée), alors qu'un compte "Creator" a accès à la bibliothèque complète, y compris les sons viraux du moment.** Tant qu'aucune pub n'est lancée, le compte Creator est généralement le meilleur choix pour l'organique pur — l'accès aux sons tendance pèse plus que les fonctionnalités business, et rebasculer en Entreprise plus tard (au moment de faire de la pub) est gratuit et immédiat.
 5. **Publier** avec une description qui fait réagir : une question, un avis demandé, un appel à l'action
 
 Rythme visé : **4 à 5 publications par jour.**
