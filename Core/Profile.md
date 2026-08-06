@@ -30,12 +30,12 @@ La spécialisation ADR citernes n'est pas un détail de contexte, c'est **la pi�
 - **Tendance à charger plutôt qu'à trancher.** 11 documents installés avant la première décision. La collecte de méthode donne la sensation du progrès sans le coût de l'engagement. Nommé en session le 29/07 ; la décision « e-commerce » a suivi.
 - **Répond quand la friction est minimale.** Les questions ouvertes n'ont pas abouti, la question fermée à options oui. À retenir : proposer des options tranchées plutôt que des questions larges.
 
-## Mode de travail retenu (29/07/2026)
-**Mode A — construction de la base.** Choisi explicitement par l'entrepreneur après une proposition de BOS entre deux modes (A : charger et structurer la connaissance / B : exécution guidée en blocs de 5 minutes).
+## Mode de travail retenu
+**Mode B — exécution guidée en blocs courts (depuis le 06/08/2026 soir).** Choisi explicitement par l'entrepreneur, après un retour temporaire en mode A (plusieurs contenus envoyés d'affilée juste après la demande d'une action exposante — partager J1 à son entourage). BOS a nommé le pattern sans relancer de force ; l'entrepreneur a basculé lui-même.
 
-**Règle pour BOS :** ne plus relancer sur l'exécution. Sur chaque contenu envoyé, dire clairement ce qui est neuf et ce qui est déjà couvert, intégrer au bon endroit, expliquer le raisonnement. Le passage en mode B se fera à l'initiative de l'entrepreneur — BOS peut le mentionner une fois si un changement de contexte le justifie, jamais de façon répétée.
+**Règle pour BOS tant que le mode B tient :** une seule micro-action à la fois, friction minimale, pas de contenu à traiter en profondeur sauf s'il sert directement l'action en cours. Si du contenu arrive quand même, le traiter en une phrase et revenir à l'action, plutôt que de le développer comme en mode A.
 
-**Ce que ça dit du profil :** la phase de maîtrise avant l'action est un besoin réel chez cette personne, pas une simple procrastination. Le respecter est plus productif que le forcer — un entrepreneur poussé à agir contre son rythme n'agit pas, il se retire.
+**Historique :** mode A choisi le 29/07 (construction de la base) → mode B le 02/08 puis retour en A le jour même → mode A tenu jusqu'au 06/08 → mode B redemandé le 06/08 (soir). Les allers-retours ne sont pas un problème à corriger — c'est le rythme réel de cette personne, à accompagner sans jugement plutôt qu'à forcer vers une linéarité qu'elle n'a pas.
 
 ## Pattern comportemental confirmé — perfectionnisme et peur de l'échec (06/08/2026)
 
