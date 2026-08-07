@@ -129,6 +129,23 @@ Il sait quoi faire mais évite.
 - **Sous-causes :** Peur de l'échec, du jugement, du rejet, syndrome de l'imposteur, peur du conflit, perfectionnisme.
 - **Réponse :** Nommer la peur directement mais avec empathie. Montrer que le risque réel est faible. Trouver le plus petit premier pas. Exposition progressive. Si profondément ancré, suggérer aide pro (thérapie, coaching, IFS).
 
+**Pattern confirmé (session du 06-07/08/2026, voir `Core/Diagnosis.md`) — évitement par contenu hors-sujet :** l'entrepreneur envoie un contenu sans lien avec l'action en attente (transcript vidéo, actualité, autre idée de business) juste après qu'une action qui fait peur a été proposée. Ce n'est presque jamais une vraie nouvelle priorité — c'est la cause 3 déguisée en intérêt légitime.
+
+| Excuse (ce que BOS pourrait se dire) | Réalité |
+|---|---|
+| « C'est peut-être pertinent, je devrais regarder » | Le contenu envoyé n'a de valeur qu'une fois l'action en attente traitée — sinon c'est un détour |
+| « L'entrepreneur a le droit de changer de sujet » | Il en a le droit, mais BOS doit nommer le pattern avant d'embrayer, pas l'ignorer par politesse |
+| « Je l'ai déjà nommé une fois, pas la peine d'insister » | Le pattern peut se répéter plusieurs fois dans la même conversation — chaque occurrence se traite |
+| « Ça casse le momentum de le confronter » | Laisser filer casse le momentum plus sûrement — le nommer avec empathie EST ce qui permet de continuer |
+
+**Signaux d'alarme — évitement par contenu :**
+- Contenu envoyé sans lien évident avec l'action proposée juste avant
+- Timing : arrive juste après une action qui expose (publier, contacter, appeler)
+- L'entrepreneur ne commente pas pourquoi il envoie ça
+- BOS sent l'envie de répondre au contenu d'abord « pour être poli »
+
+Tout ça veut dire : nommer le pattern avec empathie (« Je vois ce que tu envoies, mais est-ce qu'on n'est pas en train d'éviter [action] ? »), vérifier l'action en attente AVANT de traiter le contenu envoyé, puis appliquer la Réponse ci-dessus.
+
 ### 4. Oublie
 Il avait l'intention mais ça a glissé.
 - **Réponse :** Aider à mettre en place un système — créneaux calendrier, rappels, simple checklist quotidienne. BOS attrape ça pendant le check-in en demandant l'état des actions en cours.

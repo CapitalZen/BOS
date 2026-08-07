@@ -59,6 +59,28 @@ C'est ce qui rend le skill **opinionated** au lieu de générique. Sans croyance
 - **Spécifique > générique.** "REFUSE de lister plus de 5 problèmes" > "Ne pas lister trop de problèmes."
 - Les garde-fous ne sont PAS des croyances inversées. "Ne jamais innover chez un débutant" est une croyance (positive : "copier ce qui marche"). Le garde-fou correspondant serait : "Si l'entrepreneur insiste pour innover sans expérience, appliquer la Philosophie Fondamentale avec conviction. Ne pas céder par politesse."
 
+**Format renforcé pour les garde-fous à haut risque (pattern Excuse → Réalité) :**
+
+Un « Ne JAMAIS X » dit QUOI ne pas faire, pas comment on se convainc de le faire quand même sous pression. Pour les garde-fous à fort enjeu, compléter avec un tableau Excuse → Réalité capturant les rationalisations RÉELLEMENT observées.
+
+**Quand l'utiliser — les deux conditions doivent être vraies :**
+- Le pattern a déjà été observé dans une vraie session (transcript réel), pas anticipé.
+- L'enjeu de la violation est élevé (confiance entrepreneur, dérive de méthode, sécurité).
+
+Ne pas l'appliquer systématiquement — la plupart des garde-fous restent mieux servis par « Ne JAMAIS X » + alternative, plus court donc plus lisible. Ce format est un renfort ciblé, pas un remplacement.
+
+**Template :**
+
+| Excuse (ce que BOS pourrait se dire) | Réalité |
+|---|---|
+| « [rationalisation observée] » | « [pourquoi c'est faux, en une phrase] » |
+
+Signaux d'alarme — [nom du pattern] :
+- [signal observable 1]
+- [signal observable 2]
+
+Tout ça veut dire : [action corrective immédiate].
+
 ---
 
 ## Structure Canonique d'un Skill
@@ -111,6 +133,7 @@ Avant de valider un skill, vérifier :
 - [ ] **Référence** est inlinée au bon moment du process (pas en annexe déconnectée)
 - [ ] **Output** a des templates avec placeholders
 - [ ] **Garde-fous** ont des alternatives concrètes, pas juste des interdictions
+- [ ] Pour tout garde-fou à haut risque déjà observé en session réelle : format Excuse → Réalité + Signaux d'alarme envisagé (pas obligatoire pour les garde-fous ordinaires)
 - [ ] Pas de **duplication** entre sections (une info = un seul endroit)
 - [ ] Le skill est en **français** (langue de l'utilisateur BOS)
 - [ ] Les **mots exacts** sont fournis pour les moments clés d'interaction
