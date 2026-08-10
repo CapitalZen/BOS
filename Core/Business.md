@@ -24,6 +24,17 @@
 
 **Question de diagnostic à poser en premier contact, pas à supposer :** est-ce que le cabinet a une liste patient exploitable (contact, dernière visite, devis en cours) en dehors de Doctolib, ou tout est enfermé dans Doctolib sans export simple ? Conditionne la faisabilité technique réelle.
 
+**Recherche approfondie sourcée le 07/08/2026 — verdict par angle :**
+- **Rappel de RDV / no-show : angle à écarter.** 4,7 % de no-show chez les dentistes en 2024 (source primaire Doctolib, confirmée par la presse professionnelle — `information-dentaire.fr`, `lequotidiendumedecin.fr`) — chiffre réel, mais Doctolib vend déjà cette solution et communique dessus (rappels automatiques, taux divisé par 3). Terrain occupé.
+- **Relance des devis en attente : plausible mais concurrencé.** Le chiffre « 50 % des devis jamais suivis » vient de **La Fraise**, éditeur spécialisé (3000+ dentistes clients) — c'est un chiffre marketing d'un concurrent déjà bien implanté, pas une étude indépendante. Le problème est réel (la concurrence en vit), mais le marché n'est plus vierge.
+- **Rappel des patients inactifs (6-12 mois sans RDV) : angle le plus différencié.** Fréquence clinique légitime (Cochrane), aucun concurrent spécialisé identifié dessus — mais zéro donnée externe sur le taux de perte ou l'impact CA. À prouver avec les données du cabinet pilote, pas avec une stat nationale (elle n'existe pas).
+- **Liste d'attente sur annulation : à vérifier au cas par cas.** Peut-être déjà couvert par les offres Doctolib récentes (source secondaire, non confirmée à 100 %) — à demander directement au cabinet.
+- **⚠️ Avis Google automatique — angle à reformuler, pas à garder tel quel.** Risque déontologique réel : le décret 2020-1658 (art. R.4127-215 CSP) interdit aux chirurgiens-dentistes de solliciter des témoignages à but promotionnel, et l'Ordre national milite activement en 2026 pour faire supprimer les avis Google des praticiens (`information-dentaire.fr`, `ordre-chirurgiens-dentistes.fr`). Une relance automatique systématique après chaque RDV correspond exactement à la pratique visée. **Reformulation nécessaire :** questionnaire de satisfaction interne (détection d'irritants), envoi vers Google non systématique/non filtré sur la note — c'est ce que font les concurrents existants (Carescore 39,50€/mois, DentalIAssist) pour rester conformes.
+
+**Stratégie de pitch qui en découle :** au premier contact, demander ce qui est déjà inclus dans l'abonnement Doctolib du cabinet (tranche le flou sur devis/liste d'attente) ; remplacer les statistiques nationales absentes par un comptage réel sur les données du cabinet (devis en attente, patients sans RDV depuis 6-12 mois) — preuve locale, plus convaincante qu'un chiffre national de toute façon.
+
+Sources principales : information-dentaire.fr, lequotidiendumedecin.fr, media.doctolib.com (communiqué officiel), ordre-chirurgiens-dentistes.fr, cochrane.org, indy.fr (comparatif logiciels dentaires).
+
 **Ce qui reste à faire, dans l'ordre :** repérer 3-5 cabinets précis autour de la gare de Franconville ; en parallèle, méthode Reddit ; produire la première solution gratuite ; convertir en premier client payant. Suivi des missions réelles : `Core/Journal_Missions_IA.md`.
 
 ## Historique — E-commerce / Velune (en pause depuis le 07/08/2026)
