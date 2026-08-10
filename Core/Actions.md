@@ -10,9 +10,12 @@
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
 | 1 | ~~Confirmer le secteur~~ ✅ **Cabinets dentaires confirmé** — angle : libérer du temps à la secrétaire (no-show, RDV hors horaires, relance devis), jamais la remplacer | Nuance apportée par l'entrepreneur : ils ont déjà une secrétaire mais un vrai budget | — | **Fait** |
-| 2 | Repérer 3-5 cabinets dentaires précis autour de la gare de Franconville (rue de la Station en priorité), sur place ou en ligne | Vérification terrain — BOS n'a pas d'accès carte/géoloc, patterns de densité seulement | Toi | À faire maintenant |
-| 3 | **En parallèle : trouver un premier vrai post de douleur sur r/smallbusiness** (ou équivalent) dans le secteur choisi | Deuxième canal d'entrée, zéro déplacement | Toi trouve/partage le post, **BOS** aide à construire la solution | À venir |
-| 4 | Construire la première solution gratuite avec Claude Code (site maquette ou automatisation) | Pied dans la porte, zéro coût | **BOS** construit, Toi valides et envoies | À venir |
+| 2 | ~~Construire une démo concrète~~ ✅ **Démo « Suivi Patient » livrée** — relance devis + rappel patients inactifs, personnalisable en direct (nom/téléphone du cabinet), publiée en Artifact partageable | Matériel concret pour aborder un premier cabinet | **BOS** a construit | **Fait — 07/08/2026** |
+| 3 | Repérer 3-5 cabinets dentaires précis autour de la gare de Franconville (rue de la Station en priorité), sur place ou en ligne | Vérification terrain — BOS n'a pas d'accès carte/géoloc, patterns de densité seulement | Toi | À faire maintenant |
+| 4 | Montrer la démo à un premier cabinet, avec les 3 questions de diagnostic déjà intégrées à la page | Premier contact réel, converti en mission dans `Core/Journal_Missions_IA.md` | Toi | À venir |
+| 5 | **En parallèle : trouver un premier vrai post de douleur sur r/smallbusiness** (ou équivalent) dans le secteur choisi | Deuxième canal d'entrée, zéro déplacement | Toi trouve/partage le post, **BOS** aide à construire la solution | À venir |
+| 6 | Préparer les messages d'approche (Reddit + démarchage local) autour de la démo | Étape validée avec l'entrepreneur : démo d'abord, messages ensuite | **BOS** rédige | À venir |
+| — | Réserve : secteurs auto-écoles / opticiens (peu ciblés par la concurrence IA, recherche sourcée le 07/08) | Option B si le dentaire ne convertit pas — `Core/Business.md` | — | En réserve |
 
 ---
 

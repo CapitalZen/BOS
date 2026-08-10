@@ -35,6 +35,10 @@
 
 Sources principales : information-dentaire.fr, lequotidiendumedecin.fr, media.doctolib.com (communiqué officiel), ordre-chirurgiens-dentistes.fr, cochrane.org, indy.fr (comparatif logiciels dentaires).
 
+**Secteurs de réserve identifiés le 07/08/2026 (recherche sourcée), si le dentaire ne convertit pas :** auto-écoles (douleur documentée — paiements élèves irréguliers, relances de dossiers, suivi révisions/examens — un seul concurrent IA dédié trouvé, marché quasi vierge) et opticiens (douleur plausible — cycle de renouvellement lunettes/lentilles peu suivi — zéro concurrent IA dédié trouvé, mais aussi moins de preuves concrètes, à valider sur le terrain). Garages auto écartés malgré la douleur la plus documentée (RDV manqué ~200€) : c'est le secteur le PLUS ciblé des 6 étudiés (7+ agences IA dédiées déjà identifiées). Sources : klaxo.fr, airlabs.fr, demarretonaventure.com, axiumhq.io.
+
+**Démo construite le 07/08/2026 :** `Output/Demo_Suivi_Patient_Dentaire_2026-08-07.html`, publiée en Artifact — outil interactif montrant la relance de devis et le rappel de patients inactifs sur des données 100% fictives, personnalisable en direct (nom/téléphone du cabinet) devant un prospect. Premier matériel concret pour aborder un cabinet, au-delà de la seule méthode.
+
 **Ce qui reste à faire, dans l'ordre :** repérer 3-5 cabinets précis autour de la gare de Franconville ; en parallèle, méthode Reddit ; produire la première solution gratuite ; convertir en premier client payant. Suivi des missions réelles : `Core/Journal_Missions_IA.md`.
 
 ## Historique — E-commerce / Velune (en pause depuis le 07/08/2026)

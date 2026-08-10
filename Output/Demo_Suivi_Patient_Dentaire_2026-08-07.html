@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Suivi Patient — Démonstration cabinet dentaire</title>
+<style>
+  :root {
+    --bg: #FAF9F6;
+    --surface: #FFFFFF;
+    --surface-alt: #F1EFEA;
+    --text: #212A2E;
+    --text-muted: #5C6870;
+    --text-faint: #8D97A0;
+    --border: #E3E0D9;
+    --primary: #0E7C7B;
+    --primary-dark: #0A5F5E;
+    --primary-tint: #E1F1EF;
+    --accent: #D9723F;
+    --accent-tint: #FAEAE0;
+    --sem-good: #3D8F5B;
+    --sem-good-tint: #E5F3E9;
+    --sem-warn: #B98A22;
+    --sem-warn-tint: #FBF1DD;
+    --sem-danger: #B44B3E;
+    --sem-danger-tint: #FAEAE7;
+    --banner-bg: #FBF1DD;
+    --banner-text: #6B4E12;
+    --banner-border: #E9D6A0;
+    --cta-bg: #0A5F5E;
+    --cta-text: #FFFFFF;
+    --shadow: 0 1px 2px rgba(33,42,46,0.04), 0 6px 16px rgba(33,42,46,0.06);
+    --radius: 12px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #14191B;
+      --surface: #1C2225;
+      --surface-alt: #232A2D;
+      --text: #EAEDEC;
+      --text-muted: #A6B0B0;
+      --text-faint: #71797B;
+      --border: #2D3538;
+      --primary: #3FADA6;
+      --primary-dark: #6FC6BF;
+      --primary-tint: #17302E;
+      --accent: #E39468;
+      --accent-tint: #362521;
+      --sem-good: #63B384;
+      --sem-good-tint: #1B2E20;
+      --sem-warn: #D6A94E;
+      --sem-warn-tint: #332A15;
+      --sem-danger: #DE7E70;
+      --sem-danger-tint: #362320;
+      --banner-bg: #332A15;
+      --banner-text: #E9CD87;
+      --banner-border: #4A3D1D;
+      --cta-bg: #0D4E4D;
+      --cta-text: #F3FBFA;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 6px 20px rgba(0,0,0,0.35);
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg: #14191B;
+    --surface: #1C2225;
+    --surface-alt: #232A2D;
+    --text: #EAEDEC;
+    --text-muted: #A6B0B0;
+    --text-faint: #71797B;
+    --border: #2D3538;
+    --primary: #3FADA6;
+    --primary-dark: #6FC6BF;
+    --primary-tint: #17302E;
+    --accent: #E39468;
+    --accent-tint: #362521;
+    --sem-good: #63B384;
+    --sem-good-tint: #1B2E20;
+    --sem-warn: #D6A94E;
+    --sem-warn-tint: #332A15;
+    --sem-danger: #DE7E70;
+    --sem-danger-tint: #362320;
+    --banner-bg: #332A15;
+    --banner-text: #E9CD87;
+    --banner-border: #4A3D1D;
+    --cta-bg: #0D4E4D;
+    --cta-text: #F3FBFA;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 6px 20px rgba(0,0,0,0.35);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3 {
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+    color: var(--text);
+  }
+
+  .eyebrow {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: var(--primary-dark);
+  }
+
+  a { color: var(--primary-dark); }
+
+  button {
+    font-family: inherit;
+    cursor: pointer;
+  }
+  button:focus-visible,
+  input:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 2px;
+  }
+
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  /* ---------- sticky demo banner ---------- */
+  .demo-banner {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: var(--banner-bg);
+    color: var(--banner-text);
+    border-bottom: 1px solid var(--banner-border);
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-align: center;
+    padding: 9px 16px;
+  }
+
+  /* ---------- hero / controls ---------- */
+  .hero {
+    padding: 56px 0 32px;
+  }
+  .hero .eyebrow { margin-bottom: 14px; }
+  .hero h1 {
+    font-size: clamp(1.9rem, 4vw, 2.5rem);
+    margin-bottom: 14px;
+  }
+  .hero .lede {
+    font-size: 1.08rem;
+    color: var(--text-muted);
+    max-width: 60ch;
+    margin-bottom: 28px;
+  }
+  .hero .lede strong { color: var(--text); }
+
+  .control-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 28px;
+  }
+  @media (max-width: 560px) {
+    .control-card { grid-template-columns: 1fr; }
+  }
+  .field label {
+    display: block;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: var(--text-muted);
+    margin-bottom: 6px;
+  }
+  .field input {
+    width: 100%;
+    font-size: 1rem;
+    font-family: inherit;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+  }
+
+  .stat-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  @media (max-width: 560px) {
+    .stat-row { grid-template-columns: 1fr; }
+  }
+  .stat-tile {
+    background: var(--primary-tint);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+  }
+  .stat-tile .num {
+    font-family: -apple-system, "Segoe UI", sans-serif;
+    font-variant-numeric: tabular-nums;
+    font-size: 1.7rem;
+    font-weight: 800;
+    color: var(--primary-dark);
+    display: block;
+    margin-bottom: 2px;
+  }
+  .stat-tile .label {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+  }
+  .stat-tile .example-tag {
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--text-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* ---------- sections ---------- */
+  section.block {
+    padding: 40px 0;
+    border-top: 1px solid var(--border);
+  }
+  .block-head {
+    margin-bottom: 8px;
+  }
+  .block-head h2 {
+    font-size: 1.4rem;
+    margin-bottom: 6px;
+  }
+  .block-head p {
+    color: var(--text-muted);
+    max-width: 65ch;
+  }
+  .fictif-tag {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+    background: var(--accent-tint);
+    padding: 3px 9px;
+    border-radius: 999px;
+    margin: 14px 0 12px;
+  }
+
+  /* ---------- table / cards ---------- */
+  .table-scroll {
+    overflow-x: auto;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    background: var(--surface);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 560px;
+  }
+  thead th {
+    text-align: left;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--border);
+  }
+  tbody td {
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.95rem;
+    vertical-align: middle;
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  td.num, th.num { font-variant-numeric: tabular-nums; text-align: right; }
+
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .pill.good { background: var(--sem-good-tint); color: var(--sem-good); }
+  .pill.warn { background: var(--sem-warn-tint); color: var(--sem-warn); }
+  .pill.danger { background: var(--sem-danger-tint); color: var(--sem-danger); }
+
+  .btn-see {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--primary-dark);
+    background: var(--primary-tint);
+    border: none;
+    border-radius: 8px;
+    padding: 7px 12px;
+    white-space: nowrap;
+  }
+  .btn-see:hover { filter: brightness(0.96); }
+
+  /* message panel */
+  tr.panel-row td {
+    padding: 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .panel {
+    display: none;
+    padding: 18px 18px 20px;
+    background: var(--surface-alt);
+  }
+  .panel.open { display: block; }
+  .panel-tabs {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  .tab-btn {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    font-weight: 700;
+    padding: 6px 14px;
+    border-radius: 999px;
+  }
+  .tab-btn.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: #fff;
+  }
+  .panel-body {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    font-size: 0.92rem;
+    color: var(--text);
+    white-space: pre-wrap;
+    margin-bottom: 10px;
+  }
+  .panel-body .subject {
+    font-weight: 700;
+    display: block;
+    margin-bottom: 6px;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .btn-copy {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: #fff;
+    background: var(--primary);
+    border: none;
+    border-radius: 8px;
+    padding: 8px 14px;
+  }
+  .btn-copy:hover { background: var(--primary-dark); }
+  .btn-copy.copied { background: var(--sem-good); }
+
+  /* mobile: table -> stacked cards */
+  @media (max-width: 640px) {
+    thead { display: none; }
+    table, tbody, tr, td { display: block; width: 100%; }
+    table { min-width: 0; }
+    .table-scroll { overflow-x: hidden; }
+    .panel-body { word-break: break-word; }
+    tbody tr:not(.panel-row) {
+      padding: 14px;
+      border-bottom: 1px solid var(--border);
+    }
+    tbody td {
+      border: none;
+      padding: 3px 0;
+    }
+    td.num { text-align: left; }
+    td[data-label]::before {
+      content: attr(data-label);
+      display: block;
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--text-faint);
+      margin-bottom: 2px;
+    }
+    .btn-see { margin-top: 6px; }
+    tr.panel-row td { padding: 0; }
+  }
+
+  /* ---------- how it works ---------- */
+  .steps {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    counter-reset: step;
+  }
+  .step {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 16px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .step:last-child { border-bottom: none; }
+  .step-num {
+    counter-increment: step;
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    background: var(--primary-tint);
+    color: var(--primary-dark);
+    font-weight: 800;
+    font-size: 0.9rem;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .step-num::before { content: counter(step); }
+  .step h3 { font-size: 1rem; margin-bottom: 3px; }
+  .step p { color: var(--text-muted); font-size: 0.92rem; }
+  .step.emphasis {
+    background: var(--accent-tint);
+    border-radius: 10px;
+    padding: 16px 16px;
+    border-bottom: none;
+  }
+  .step.emphasis h3 { color: var(--accent); }
+
+  /* ---------- trust ---------- */
+  .trust-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 22px 24px;
+  }
+  .trust-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 4px;
+  }
+  .trust-list li {
+    display: grid;
+    grid-template-columns: 20px 1fr;
+    gap: 10px;
+    font-size: 0.94rem;
+    color: var(--text);
+  }
+  .trust-list li .mark { color: var(--primary); font-weight: 800; }
+  .trust-note {
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 0.88rem;
+    color: var(--text-muted);
+  }
+
+  /* ---------- CTA ---------- */
+  .cta-card {
+    background: var(--cta-bg);
+    color: var(--cta-text);
+    border-radius: var(--radius);
+    padding: 30px 26px;
+  }
+  .cta-card h2 { color: var(--cta-text); font-size: 1.3rem; margin-bottom: 8px; }
+  .cta-card p.lede { color: var(--cta-text); opacity: 0.82; margin-bottom: 20px; max-width: 60ch; }
+  .cta-contact {
+    background: rgba(255,255,255,0.08);
+    border: 1px dashed rgba(255,255,255,0.35);
+    border-radius: 10px;
+    padding: 14px 16px;
+    font-size: 0.9rem;
+    color: var(--cta-text);
+    opacity: 0.85;
+    margin-bottom: 22px;
+  }
+  .diag-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .diag-list li {
+    background: rgba(255,255,255,0.08);
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 0.92rem;
+    color: var(--cta-text);
+  }
+
+  footer {
+    padding: 26px 0 50px;
+    font-size: 0.8rem;
+    color: var(--text-faint);
+    max-width: 65ch;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .panel { transition: none; }
+  }
+</style>
+</head>
+<body>
+
+  <div class="demo-banner">🔎 DÉMONSTRATION — données 100&nbsp;% fictives, aucune connexion à Doctolib ni à vos données réelles</div>
+
+  <div class="wrap">
+
+    <!-- HERO / CONTROLS -->
+    <div class="hero">
+      <div class="eyebrow">Suivi Patient · automatisation pour cabinets dentaires</div>
+      <h1>Ce que votre secrétaire n'a pas le temps de faire, automatisé — pas ce qu'elle fait déjà.</h1>
+      <p class="lede">Doctolib gère la prise de rendez-vous. Cet outil s'occupe de ce qui reste : <strong>relancer les devis en attente</strong> et <strong>rappeler les patients qui n'ont pas repris rendez-vous depuis 6 à 12 mois</strong>. Tapez le nom de votre cabinet ci-dessous pour voir les messages se personnaliser en direct.</p>
+
+      <div class="control-card">
+        <div class="field">
+          <label for="cabName">Nom du cabinet</label>
+          <input id="cabName" type="text" value="Cabinet Dentaire" autocomplete="off">
+        </div>
+        <div class="field">
+          <label for="cabPhone">Téléphone du cabinet</label>
+          <input id="cabPhone" type="text" value="01 39 XX XX XX" autocomplete="off">
+        </div>
+      </div>
+
+      <div class="stat-row">
+        <div class="stat-tile">
+          <span class="num" id="statDevisTotal">—</span>
+          <span class="label">de devis en attente sur <span id="statDevisCount">—</span> patients</span>
+          <div class="example-tag">Exemple</div>
+        </div>
+        <div class="stat-tile">
+          <span class="num" id="statInactifsCount">—</span>
+          <span class="label">patients sans rendez-vous depuis 6 à 13 mois</span>
+          <div class="example-tag">Exemple</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SECTION A : DEVIS -->
+    <section class="block" id="section-devis">
+      <div class="block-head">
+        <h2>Devis en attente</h2>
+        <p>Le suivi des devis n'est pas automatique dans la plupart des cabinets — Doctolib ne s'en charge pas. Un devis qui traîne sans relance, c'est un soin qui ne se fera peut-être jamais.</p>
+        <span class="fictif-tag">Exemple fictif — 6 patients</span>
+      </div>
+      <div class="table-scroll">
+        <table id="tableDevis">
+          <thead>
+            <tr>
+              <th>Patient</th>
+              <th>Soin</th>
+              <th class="num">Montant</th>
+              <th>Ancienneté</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="devisBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- SECTION B : INACTIFS -->
+    <section class="block" id="section-inactifs">
+      <div class="block-head">
+        <h2>Patients sans rendez-vous depuis 6-12 mois</h2>
+        <p>Un contrôle régulier est recommandé tous les 6 à 12 mois. Le vrai calcul du nombre de patients concernés et du revenu récupérable se fait avec vos données réelles, pas avec une moyenne nationale — c'est justement ce que cet outil ferait avec votre fichier patient.</p>
+        <span class="fictif-tag">Exemple fictif — 6 patients</span>
+      </div>
+      <div class="table-scroll">
+        <table id="tableInactifs">
+          <thead>
+            <tr>
+              <th>Patient</th>
+              <th>Dernière visite</th>
+              <th>Ancienneté</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="inactifsBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- SECTION C : COMMENT CA MARCHE -->
+    <section class="block" id="section-comment">
+      <div class="block-head">
+        <h2>Comment ça marche</h2>
+        <p>Quatre étapes, dans cet ordre — aucune ne saute la précédente.</p>
+      </div>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num"></div>
+          <div>
+            <h3>Connexion à votre fichier patient existant</h3>
+            <p>Export Doctolib ou tableur — aucun changement de logiciel, aucune intégration technique lourde.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num"></div>
+          <div>
+            <h3>Détection automatique</h3>
+            <p>Devis en attente depuis plus de 30 jours, patients sans rendez-vous depuis 6 à 12 mois.</p>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num"></div>
+          <div>
+            <h3>Génération d'un message personnalisé</h3>
+            <p>Un SMS et un e-mail prêts à l'emploi pour chaque patient concerné, comme dans les exemples ci-dessus.</p>
+          </div>
+        </div>
+        <div class="step emphasis">
+          <div class="step-num"></div>
+          <div>
+            <h3>Relecture et envoi validés par le cabinet</h3>
+            <p>Rien ne part automatiquement sans votre accord. Votre secrétaire garde la main — l'outil lui fait gagner le temps de préparation, pas sa décision.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION D : CADRE DE CONFIANCE -->
+    <section class="block" id="section-confiance">
+      <div class="block-head">
+        <h2>Cadre de confiance</h2>
+      </div>
+      <div class="trust-card">
+        <ul class="trust-list">
+          <li><span class="mark">✓</span><span>Vos données restent chez vous — aucune base patient hébergée ailleurs par défaut.</span></li>
+          <li><span class="mark">✓</span><span>Aucun message n'est envoyé sans validation humaine préalable.</span></li>
+          <li><span class="mark">✓</span><span>Pas de boîte noire connectée en direct à Doctolib — l'outil travaille sur un export que vous contrôlez.</span></li>
+          <li><span class="mark">✓</span><span>Finalité de suivi de soin, encadrée RGPD — pas une base de prospection déguisée.</span></li>
+        </ul>
+        <div class="trust-note">Cette démonstration exclut volontairement la demande d'avis Google automatique après rendez-vous : le décret n° 2020-1658 encadre strictement la sollicitation de témoignages par un chirurgien-dentiste, et l'Ordre national plaide activement pour la suppression des avis Google des praticiens. Un sujet qu'on peut aborder autrement, mais pas sous cette forme.</div>
+      </div>
+    </section>
+
+    <!-- SECTION E : CTA -->
+    <section class="block" id="section-cta">
+      <div class="cta-card">
+        <h2>On regarde ensemble ce que ça donnerait sur votre cabinet ?</h2>
+        <p class="lede">Quinze minutes suffisent pour savoir si c'est pertinent chez vous.</p>
+        <div class="cta-contact">À personnaliser avant envoi : nom, téléphone, e-mail de contact.</div>
+        <ul class="diag-list">
+          <li>Avez-vous déjà, dans votre abonnement Doctolib actuel, un suivi de devis ou une liste d'attente sur annulation ?</li>
+          <li>Avez-vous une liste patient exploitable (contact, dernière visite, devis en cours) en dehors de Doctolib ?</li>
+          <li>Combien de temps votre secrétariat consacre-t-il aujourd'hui aux relances, toutes formes confondues ?</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>
+      Démonstration à but commercial. Tous les noms de patients, montants, dates et statistiques affichés sur cette page sont fictifs et servent uniquement à illustrer le fonctionnement de l'outil. Aucune donnée réelle de patient n'a été utilisée ou consultée pour produire cette page.
+      <!-- Avant envoi à un cabinet précis : remplacer "Cabinet Dentaire" par le nom réel dans les champs ci-dessus, et compléter les coordonnées de contact dans la section finale. -->
+    </footer>
+
+  </div>
+
+<script>
+(function () {
+  "use strict";
+
+  var devis = [
+    { nom: "Sophie Lambert",    soin: "Couronne céramique",        montant: 890,  jours: 69 },
+    { nom: "Marc Petitjean",    soin: "Implant",                   montant: 1450, jours: 51 },
+    { nom: "Nathalie Roussel",  soin: "Blanchiment",                montant: 350,  jours: 87 },
+    { nom: "Claire Dumont",     soin: "Appareil ortho enfant",      montant: 2200, jours: 43 },
+    { nom: "Amina Rahmouni",    soin: "Carie + composite",          montant: 180,  jours: 36 },
+    { nom: "Julien Bosc",       soin: "Détartrage approfondi",      montant: 240,  jours: 23 }
+  ].sort(function (a, b) { return b.jours - a.jours; });
+
+  var inactifs = [
+    { nom: "Elodie Marchand",  mois: 13 },
+    { nom: "Isabelle Meunier", mois: 12 },
+    { nom: "Thierry Fontaine", mois: 11 },
+    { nom: "Sandrine Caron",   mois: 10 },
+    { nom: "Karim Belhadj",    mois: 8 },
+    { nom: "Paul Vasseur",     mois: 7 }
+  ].sort(function (a, b) { return b.mois - a.mois; });
+
+  var elCabName = document.getElementById("cabName");
+  var elCabPhone = document.getElementById("cabPhone");
+
+  function euros(n) {
+    return n.toLocaleString("fr-FR") + " €";
+  }
+
+  function devisPillClass(j) {
+    if (j > 60) return "danger";
+    if (j >= 30) return "warn";
+    return "good";
+  }
+
+  function inactifPillClass(m) {
+    if (m >= 12) return "danger";
+    if (m >= 9) return "warn";
+    return "good";
+  }
+
+  function firstName(full) {
+    return full.split(" ")[0];
+  }
+
+  function msgDevisSMS(p) {
+    return "Bonjour " + firstName(p.nom) + ", nous n'avons pas eu de retour sur votre devis " +
+      p.soin.toLowerCase() + " (" + euros(p.montant) + "). Une question, un délai à voir ensemble ? " +
+      "Répondez à ce message ou appelez-nous au " + elCabPhone.value + ". " + elCabName.value;
+  }
+
+  function msgDevisEmailSubject(p) {
+    return "Votre devis " + p.soin.toLowerCase() + " — on en parle ?";
+  }
+
+  function msgDevisEmailBody(p) {
+    return "Bonjour " + firstName(p.nom) + ",\n\n" +
+      "Nous avons préparé votre devis pour : " + p.soin.toLowerCase() + " (" + euros(p.montant) + "), " +
+      "et nous n'avons pas encore eu de retour de votre part.\n\n" +
+      "S'il y a une question sur le tarif, un besoin d'échelonner le règlement, ou simplement de reprogrammer, " +
+      "on en discute ensemble sans engagement — appelez-nous au " + elCabPhone.value + " ou répondez à cet e-mail.\n\n" +
+      "L'équipe " + elCabName.value;
+  }
+
+  function msgInactifSMS(p) {
+    return "Bonjour " + firstName(p.nom) + ", cela fait environ " + p.mois + " mois que nous ne vous avons pas vu(e) " +
+      "pour votre contrôle. Un bilan régulier permet de prévenir des soins plus lourds. " +
+      "Réservez sur Doctolib ou appelez-nous au " + elCabPhone.value + ". " + elCabName.value;
+  }
+
+  function msgInactifEmailSubject() {
+    return "Un petit contrôle, ça fait du bien";
+  }
+
+  function msgInactifEmailBody(p) {
+    return "Bonjour " + firstName(p.nom) + ",\n\n" +
+      "Un contrôle dentaire tous les 6 à 12 mois permet de repérer tôt ce qui, laissé de côté, coûte plus cher " +
+      "à traiter plus tard. Cela fait environ " + p.mois + " mois que vous n'êtes pas venu(e) chez nous.\n\n" +
+      "Vous pouvez réserver directement sur Doctolib, ou nous appeler au " + elCabPhone.value + ".\n\n" +
+      "L'équipe " + elCabName.value;
+  }
+
+  function renderStats() {
+    var total = devis.reduce(function (s, p) { return s + p.montant; }, 0);
+    document.getElementById("statDevisTotal").textContent = euros(total);
+    document.getElementById("statDevisCount").textContent = devis.length;
+    document.getElementById("statInactifsCount").textContent = inactifs.length;
+  }
+
+  function panelHTML(kind, idx) {
+    return (
+      '<tr class="panel-row" data-panel-for="' + kind + idx + '">' +
+        '<td colspan="6">' +
+          '<div class="panel" id="panel-' + kind + idx + '">' +
+            '<div class="panel-tabs">' +
+              '<button class="tab-btn active" data-tab="sms" data-kind="' + kind + '" data-idx="' + idx + '">SMS</button>' +
+              '<button class="tab-btn" data-tab="email" data-kind="' + kind + '" data-idx="' + idx + '">E-mail</button>' +
+            '</div>' +
+            '<div class="panel-body" data-body="' + kind + idx + '"></div>' +
+            '<button class="btn-copy" data-copy="' + kind + idx + '">Copier le message</button>' +
+          '</div>' +
+        '</td>' +
+      '</tr>'
+    );
+  }
+
+  function fillPanel(kind, idx, tab) {
+    var body = document.querySelector('[data-body="' + kind + idx + '"]');
+    if (!body) return;
+    var p = kind === "d" ? devis[idx] : inactifs[idx];
+    if (tab === "sms") {
+      var sms = kind === "d" ? msgDevisSMS(p) : msgInactifSMS(p);
+      body.innerHTML = "";
+      body.textContent = sms;
+    } else {
+      var subject = kind === "d" ? msgDevisEmailSubject(p) : msgInactifEmailSubject(p);
+      var emailBody = kind === "d" ? msgDevisEmailBody(p) : msgInactifEmailBody(p);
+      body.innerHTML = '<span class="subject">Objet : ' + subject + '</span>';
+      body.appendChild(document.createTextNode(emailBody));
+    }
+  }
+
+  function renderDevisRow(p, idx) {
+    var cls = devisPillClass(p.jours);
+    var label = p.jours > 60 ? "🔴 " + p.jours + " j" : (p.jours >= 30 ? "🟠 " + p.jours + " j" : "🟢 " + p.jours + " j");
+    var row = document.createElement("tr");
+    row.innerHTML =
+      '<td data-label="Patient">' + p.nom + '</td>' +
+      '<td data-label="Soin">' + p.soin + '</td>' +
+      '<td class="num" data-label="Montant">' + euros(p.montant) + '</td>' +
+      '<td data-label="Ancienneté du devis"><span class="pill ' + cls + '">' + label + '</span></td>' +
+      '<td><button class="btn-see" data-open="d" data-idx="' + idx + '">Voir le message</button></td>';
+    return row;
+  }
+
+  function renderInactifRow(p, idx) {
+    var cls = inactifPillClass(p.mois);
+    var label = p.mois + " mois";
+    var row = document.createElement("tr");
+    row.innerHTML =
+      '<td data-label="Patient">' + p.nom + '</td>' +
+      '<td data-label="Dernière visite">il y a ' + p.mois + ' mois</td>' +
+      '<td data-label="Statut"><span class="pill ' + cls + '">' + label + '</span></td>' +
+      '<td><button class="btn-see" data-open="i" data-idx="' + idx + '">Voir le message</button></td>';
+    return row;
+  }
+
+  function renderTables() {
+    var devisBody = document.getElementById("devisBody");
+    var inactifsBody = document.getElementById("inactifsBody");
+    devisBody.innerHTML = "";
+    inactifsBody.innerHTML = "";
+
+    devis.forEach(function (p, idx) {
+      devisBody.appendChild(renderDevisRow(p, idx));
+      var tr = document.createElement("template");
+      tr.innerHTML = panelHTML("d", idx);
+      devisBody.appendChild(tr.content.firstChild);
+    });
+
+    inactifs.forEach(function (p, idx) {
+      inactifsBody.appendChild(renderInactifRow(p, idx));
+      var tr = document.createElement("template");
+      tr.innerHTML = panelHTML("i", idx);
+      inactifsBody.appendChild(tr.content.firstChild);
+    });
+  }
+
+  function openPanel(kind, idx) {
+    var panel = document.getElementById("panel-" + kind + idx);
+    if (!panel) return;
+    var wasOpen = panel.classList.contains("open");
+    document.querySelectorAll(".panel.open").forEach(function (p) { p.classList.remove("open"); });
+    if (!wasOpen) {
+      panel.classList.add("open");
+      fillPanel(kind, idx, "sms");
+    }
+  }
+
+  document.addEventListener("click", function (e) {
+    var openBtn = e.target.closest("[data-open]");
+    if (openBtn) {
+      openPanel(openBtn.getAttribute("data-open"), parseInt(openBtn.getAttribute("data-idx"), 10));
+      return;
+    }
+    var tabBtn = e.target.closest(".tab-btn");
+    if (tabBtn) {
+      var kind = tabBtn.getAttribute("data-kind");
+      var idx = parseInt(tabBtn.getAttribute("data-idx"), 10);
+      tabBtn.parentElement.querySelectorAll(".tab-btn").forEach(function (b) { b.classList.remove("active"); });
+      tabBtn.classList.add("active");
+      fillPanel(kind, idx, tabBtn.getAttribute("data-tab"));
+      return;
+    }
+    var copyBtn = e.target.closest("[data-copy]");
+    if (copyBtn) {
+      var key = copyBtn.getAttribute("data-copy");
+      var bodyEl = document.querySelector('[data-body="' + key + '"]');
+      var text = bodyEl ? bodyEl.textContent : "";
+      var done = function () {
+        var original = "Copier le message";
+        copyBtn.textContent = "Copié ✓";
+        copyBtn.classList.add("copied");
+        setTimeout(function () {
+          copyBtn.textContent = original;
+          copyBtn.classList.remove("copied");
+        }, 1600);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(done).catch(function () { fallbackCopy(text, done); });
+      } else {
+        fallbackCopy(text, done);
+      }
+    }
+  });
+
+  function fallbackCopy(text, cb) {
+    var ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand("copy"); } catch (err) { /* noop */ }
+    document.body.removeChild(ta);
+    cb();
+  }
+
+  function refreshOpenPanels() {
+    document.querySelectorAll(".panel.open").forEach(function (panel) {
+      var id = panel.id.replace("panel-", "");
+      var kind = id.charAt(0);
+      var idx = parseInt(id.slice(1), 10);
+      var activeTab = panel.querySelector(".tab-btn.active");
+      fillPanel(kind, idx, activeTab ? activeTab.getAttribute("data-tab") : "sms");
+    });
+  }
+
+  elCabName.addEventListener("input", refreshOpenPanels);
+  elCabPhone.addEventListener("input", refreshOpenPanels);
+
+  renderStats();
+  renderTables();
+  // Pré-ouvre le devis le plus ancien pour que la mécanique soit visible sans aucun clic.
+  openPanel("d", 0);
+})();
+</script>
+
+</body>
+</html>
