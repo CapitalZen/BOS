@@ -9,10 +9,10 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Choisir un secteur/niche unique** (ex. restaurants, cabinets dentaires, artisans du bâtiment...) | La spécialisation accélère la conversion — `Knowledge/AI_Integration_Playbook.md` | Toi (préférence/réseau), **BOS** valide avec des critères marché | À faire maintenant |
-| 2 | **Trouver un premier vrai post de douleur sur r/smallbusiness** (ou équivalent) dans le secteur choisi | Première application concrète de la méthode Reddit | Toi trouve/partage le post, **BOS** aide à construire la solution | À venir |
-| 3 | Construire la solution gratuite avec Claude Code à partir du post trouvé | Pied dans la porte, zéro coût | **BOS** construit, Toi valides et publies la réponse | À venir |
-| 4 | En parallèle : repérer 3-5 commerces locaux avec un site absent/médiocre | Deuxième canal d'entrée, complémentaire | Toi (physique/en ligne) | À venir |
+| 1 | **Confirmer le secteur : cabinets dentaires** (recherche BOS sur Franconville 95130 — cluster réel rue de la Station) | La spécialisation accélère la conversion — `Knowledge/AI_Integration_Playbook.md`. Secours : agences immobilières (cluster confirmé aussi) | Toi valides ou ajustes | À faire maintenant |
+| 2 | Repérer 3-5 cabinets dentaires (ou agences immo) précis autour de la gare de Franconville, sur place ou en ligne | Vérification terrain — BOS n'a pas d'accès carte/géoloc, patterns de densité seulement | Toi | À venir |
+| 3 | **En parallèle : trouver un premier vrai post de douleur sur r/smallbusiness** (ou équivalent) dans le secteur choisi | Deuxième canal d'entrée, zéro déplacement | Toi trouve/partage le post, **BOS** aide à construire la solution | À venir |
+| 4 | Construire la première solution gratuite avec Claude Code (site maquette ou automatisation) | Pied dans la porte, zéro coût | **BOS** construit, Toi valides et envoies | À venir |
 
 ---
 

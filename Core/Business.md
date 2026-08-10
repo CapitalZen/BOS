@@ -12,7 +12,9 @@
 
 **Méthodologie complète déjà disponible :** `Knowledge/AI_Integration_Playbook.md` — diagnostic chiffré, cadre légal (AI Act), formation, premiers gains mesurés, sur-mesure, pilotage. Couvre largement plus en profondeur que les contenus qui ont déclenché le pivot (déjà distillé et évalué de façon critique avant même ce soir).
 
-**Ce qui reste à faire, dans l'ordre :** choisir une niche/secteur (un seul, cf. le playbook — la spécialisation accélère plutôt qu'elle ne limite) ; lancer la méthode Reddit ou le repérage de commerces locaux ; produire la première solution gratuite ; convertir en premier client payant.
+**Secteur recommandé (07/08/2026, recherche BOS sur la zone Franconville 95130/gare) :** **cabinets dentaires** — cluster réel identifié sur rue de la Station (au moins 5 cabinets), tâches de fond répétitives (prise de RDV, relances patients, devis) exactement adaptées à l'automatisation, marges solides (pas de mono-commerce fragile). **Secours : agences immobilières** — cluster confirmé jusque sur la place de la Gare elle-même, mêmes atouts (suivi client, génération de documents). Artisans (plombiers/électriciens) écartés en premier choix : forte concurrence de plateformes de leads nationales, plus difficile de différencier. **Limite de cette recherche à connaître :** pas d'accès à une carte/API de géolocalisation — ce sont des patterns de densité par annuaires (PagesJaunes, mairie), pas une liste d'entreprises géolocalisées à 5 km exacts. Vérification terrain à faire par l'entrepreneur avant le premier contact.
+
+**Ce qui reste à faire, dans l'ordre :** confirmer le secteur (dentaire proposé) ; lancer la méthode Reddit ou le repérage de commerces locaux ; produire la première solution gratuite ; convertir en premier client payant. Suivi des missions réelles : `Core/Journal_Missions_IA.md`.
 
 ## Historique — E-commerce / Velune (en pause depuis le 07/08/2026)
 
