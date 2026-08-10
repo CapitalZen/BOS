@@ -1,8 +1,28 @@
 # Business
 
-**Stade :** pré-lancement. Direction arrêtée le 29/07/2026 : **e-commerce produit**.
+**Stade :** pivot en cours (07/08/2026). L'e-commerce (Velune) est **mis en pause** après ses tout premiers signaux réels (voir Historique ci-dessous) — nouvelle direction retenue : **vente d'intégration/automatisation IA aux PME**, business de service.
 
-## Modèle visé
+## Direction actuelle — Intégration/automatisation IA pour PME (depuis le 07/08/2026)
+
+**Modèle :** vendre des automatisations et outils construits avec Claude Code à des petites entreprises (artisans, commerces locaux, PME) — pas de produit physique, pas de stock, pas d'avance de trésorerie nécessaire. Business de service à marge quasi totale, ce qui règle structurellement la contrainte de budget zéro qui pesait sur l'e-commerce.
+
+**Deux méthodes d'entrée retenues :**
+1. **Méthode Reddit** — vivre dans r/smallbusiness (et équivalents : r/entrepreneur, r/SaaS, r/NoCode), repérer une vraie douleur exprimée par un dirigeant, construire gratuitement une solution avec Claude Code, la proposer sans démarchage préalable. Pied dans la porte → upsell vers des projets payants.
+2. **Sites web pour commerces locaux** — repérer des entreprises locales avec un site absent ou médiocre, construire une maquette gratuite avec Claude Code, l'envoyer directement. Conversion en projet payant (quelques centaines d'euros), puis upsell vers des automatisations (prise de rendez-vous, suivi client, etc.).
+
+**Méthodologie complète déjà disponible :** `Knowledge/AI_Integration_Playbook.md` — diagnostic chiffré, cadre légal (AI Act), formation, premiers gains mesurés, sur-mesure, pilotage. Couvre largement plus en profondeur que les contenus qui ont déclenché le pivot (déjà distillé et évalué de façon critique avant même ce soir).
+
+**Ce qui reste à faire, dans l'ordre :** choisir une niche/secteur (un seul, cf. le playbook — la spécialisation accélère plutôt qu'elle ne limite) ; lancer la méthode Reddit ou le repérage de commerces locaux ; produire la première solution gratuite ; convertir en premier client payant.
+
+## Historique — E-commerce / Velune (en pause depuis le 07/08/2026)
+
+Direction retenue le 29/07/2026, produit tranché le 04/08/2026 (sous-vêtement sans armature/sans couture, archétype « Velune »), marque construite et lancée le 06/08/2026 : comptes Instagram et TikTok créés (`velune.fwi`), système de contenu et de marque livré (`Output/Velune_Content_System/`), premier post publié sur les deux plateformes, premier signal réel obtenu (un like, après avoir dépassé un blocage réel de peur du jugement — voir `Core/Diagnosis.md`). Sourcing 1688/Alibaba préparé (`Output/Sourcing_Soutien_Gorge_Sans_Armature_2026-08-04.md`) mais RFQ jamais envoyées.
+
+**Raison de la pause :** préférence exprimée pour la vente d'automatisation IA après plusieurs contenus reçus sur le sujet, le 07/08/2026 — au moment même où Velune obtenait sa toute première traction. Nommé et discuté avant la décision (voir `Core/Diagnosis.md`) ; décision prise consciemment par l'entrepreneur, pas un abandon silencieux.
+
+**Condition de reprise :** tout le travail est conservé en l'état (comptes, contenu, sourcing) — reprise possible à tout moment sans repartir de zéro si la nouvelle direction ne convient pas ou en complément plus tard.
+
+## Modèle visé (historique, e-commerce)
 Boutique de niche brandée construite autour d'un produit à fort potentiel, acquisition Meta Ads, marché européen. Référence méthodologique : `Knowledge/Ecom_Meta_Ads_Playbook.md`.
 
 ## Territoire
@@ -17,14 +37,14 @@ Raison du choix : c'est le seul croisement qui active les deux moteurs — ident
 - **C'est très largement portable par BOS** — cartographier les écoles de pensée d'un marché, ses points de friction et son vocabulaire est exactement ce que BOS sait faire à la place de l'entrepreneur. À produire avant toute écriture de créative.
 - **Option restée ouverte, non tranchée :** si un univers réellement habité par l'entrepreneur passe aussi les critères économiques, il l'emporterait sur celui-ci. La question n'a pas été posée et ne sera pas relancée (mode A).
 
-## Stratégie d'entrée
+## Stratégie d'entrée (historique Velune)
 **Organique d'abord**, bascule payante ensuite (`Knowledge/Ecom_Organic_Launch_Playbook.md`). Décision prise après révision du diagnostic : la trésorerie ne bloque plus, la régularité devient le facteur critique.
 
-## Produit
-Non choisi. Recherche produit à mener — c'est du travail BOS (analyse des patterns de dépense publicitaire concurrente, croisement avec les 4 critères, shortlist argumentée).
+## Produit (historique Velune)
+**Tranché le 04/08/2026 :** sous-vêtement sans armature/sans couture, marque Velune. Voir Historique plus haut.
 
-## Marché
-Non choisi. Orientation par défaut vu le profil et le budget : France / Italie / Espagne (codes marketing transposables, CPM accessibles), ou marché de niche européen à faible concurrence pour un premier volume à budget réduit. À trancher après la recherche produit.
+## Marché (historique Velune)
+France, orientation retenue avec le lancement organique. À trancher plus précisément si Velune reprend.
 
 ## Finances
 - **Trésorerie disponible aujourd'hui :** **quasi nulle** (rectifié le 01/08/2026 — les 1 500 € sont un objectif, pas un capital détenu)
@@ -51,12 +71,14 @@ Non choisi. Orientation par défaut vu le profil et le budget : France / Italie 
 ## Temps disponible
 **2 h par jour** (~14 h/semaine, ~300 h sur l'horizon de l'objectif). Format de travail recommandé : un bloc unique de 2 h en concentration totale, ou 3 × 50 min si le rythme de la journée l'impose (`.claude/skills/organize/SKILL.md`). **Tournage en lots** — une session de tournage alimente plusieurs jours de publication.
 
-## Acquisition
-Meta Ads prévu (canal unique au lancement). Aucun compte, aucune boutique, aucun actif en place à ce jour.
+## Acquisition (historique Velune)
+Organique lancé (Instagram + TikTok, `velune.fwi`), Meta Ads prévu plus tard si reprise.
 
 ## Actifs déjà en place
-- **Une base de méthode complète et à jour** — PMF, recherche client, offre, SEO, e-commerce, IA. C'est un actif réel : la plupart des débutants paient une formation pour moins que ça.
-- **Un copilote IA** capable d'exécuter recherche produit, analyse concurrentielle, angles, créas, copy, structure de boutique, flows email.
+- **Une base de méthode complète et à jour** — PMF, recherche client, offre, SEO, e-commerce, IA, intégration IA en entreprise. C'est un actif réel : la plupart des débutants paient une formation pour moins que ça.
+- **Un copilote IA** capable d'exécuter recherche, analyse concurrentielle, construction d'automatisations et d'outils (Claude Code), copy, structure de site, prospection.
+- **Velune** : marque construite, comptes créés, premier contenu en ligne — en pause, pas perdu.
 
 ## Outils
-Aucun à ce jour. À prévoir au lancement : Shopify, gestionnaire de publicités Meta, outil de veille concurrentielle, Klaviyo (plus tard).
+**Direction actuelle (intégration IA) :** Claude Code — coût quasi nul, c'est l'outil de production principal.
+**Historique Velune :** Instagram/TikTok (comptes créés). Shopify, gestionnaire de publicités Meta à prévoir si reprise.

@@ -1,5 +1,7 @@
 # Goal
 
+**⚠️ En pause le 07/08/2026 :** cet objectif était calibré sur la direction e-commerce (Velune), elle-même mise en pause ce jour (voir `Core/Business.md` et `Core/Diagnosis.md`). Objectif conservé tel quel pour reprise éventuelle. Un nouvel objectif chiffré reste à poser pour la direction intégration/automatisation IA — pas encore fait, à ne pas inventer à la place de l'entrepreneur.
+
 **Fixé le :** 01/08/2026 · **Rephasé le :** 01/08/2026 (soir), après clarification de la situation financière
 
 ## Objectif déclaré
