@@ -9,8 +9,8 @@
 
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
-| 1 | **Confirmer le secteur : cabinets dentaires** (recherche BOS sur Franconville 95130 — cluster réel rue de la Station) | La spécialisation accélère la conversion — `Knowledge/AI_Integration_Playbook.md`. Secours : agences immobilières (cluster confirmé aussi) | Toi valides ou ajustes | À faire maintenant |
-| 2 | Repérer 3-5 cabinets dentaires (ou agences immo) précis autour de la gare de Franconville, sur place ou en ligne | Vérification terrain — BOS n'a pas d'accès carte/géoloc, patterns de densité seulement | Toi | À venir |
+| 1 | ~~Confirmer le secteur~~ ✅ **Cabinets dentaires confirmé** — angle : libérer du temps à la secrétaire (no-show, RDV hors horaires, relance devis), jamais la remplacer | Nuance apportée par l'entrepreneur : ils ont déjà une secrétaire mais un vrai budget | — | **Fait** |
+| 2 | Repérer 3-5 cabinets dentaires précis autour de la gare de Franconville (rue de la Station en priorité), sur place ou en ligne | Vérification terrain — BOS n'a pas d'accès carte/géoloc, patterns de densité seulement | Toi | À faire maintenant |
 | 3 | **En parallèle : trouver un premier vrai post de douleur sur r/smallbusiness** (ou équivalent) dans le secteur choisi | Deuxième canal d'entrée, zéro déplacement | Toi trouve/partage le post, **BOS** aide à construire la solution | À venir |
 | 4 | Construire la première solution gratuite avec Claude Code (site maquette ou automatisation) | Pied dans la porte, zéro coût | **BOS** construit, Toi valides et envoies | À venir |
 
