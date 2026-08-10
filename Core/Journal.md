@@ -215,3 +215,6 @@ Recherche menée (WebSearch via agent dédié) sur les commerces autour de la ga
 
 ## 07/08/2026 (41) — Secteur dentaire confirmé, angle de pitch affiné
 Confirmation du secteur (cabinets dentaires) avec une nuance pertinente de l'entrepreneur : ils ont généralement déjà une secrétaire, mais un vrai budget. Angle de pitch ajusté en conséquence — ne jamais présenter l'automatisation comme un remplacement (objection n°1 du playbook), viser ce que la secrétaire n'a pas le temps de faire : relances anti no-show, RDV hors horaires, relance des devis en attente. `Core/Business.md` et `Core/Actions.md` mis à jour.
+
+## 07/08/2026 (42) — Angle de pitch dentaire corrigé (Doctolib déjà en place)
+L'entrepreneur a repéré à temps que la prise de RDV passe déjà par Doctolib (ou téléphone) — l'angle initial « RDV hors horaires » aurait été disqualifiant en conversation réelle, Doctolib le fait déjà. Corrigé avant tout contact client : nouveaux angles indépendants de Doctolib (relance devis en attente, rappel de contrôle 6-12 mois, remplissage créneaux annulés, demande d'avis Google automatique). Question de diagnostic ajoutée pour le premier contact : accès à une liste patient exploitable hors Doctolib ou non. `Core/Business.md` mis à jour.

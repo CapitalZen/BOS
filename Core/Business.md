@@ -14,7 +14,15 @@
 
 **Secteur recommandé (07/08/2026, recherche BOS sur la zone Franconville 95130/gare) :** **cabinets dentaires** — cluster réel identifié sur rue de la Station (au moins 5 cabinets), tâches de fond répétitives (prise de RDV, relances patients, devis) exactement adaptées à l'automatisation, marges solides (pas de mono-commerce fragile). **Secours : agences immobilières** — cluster confirmé jusque sur la place de la Gare elle-même, mêmes atouts (suivi client, génération de documents). Artisans (plombiers/électriciens) écartés en premier choix : forte concurrence de plateformes de leads nationales, plus difficile de différencier. **Limite de cette recherche à connaître :** pas d'accès à une carte/API de géolocalisation — ce sont des patterns de densité par annuaires (PagesJaunes, mairie), pas une liste d'entreprises géolocalisées à 5 km exacts. Vérification terrain à faire par l'entrepreneur avant le premier contact.
 
-**Secteur confirmé le 07/08/2026 : cabinets dentaires.** Nuance apportée par l'entrepreneur, pertinente et à garder : ils ont en général déjà une secrétaire, mais un vrai budget. **Conséquence sur l'angle de pitch :** ne jamais présenter l'automatisation comme un remplacement de la secrétaire (objection n°1 du playbook, « l'IA va me remplacer ») — viser ce qu'elle n'a pas le temps de faire : relances anti no-show (SMS/email avant le RDV, coût caché réel pour un cabinet), prise de RDV hors horaires du secrétariat, relance des devis en attente (montants souvent élevés, suivi rarement systématique). Cadrage : « libère du temps », jamais « remplace ».
+**Secteur confirmé le 07/08/2026 : cabinets dentaires.** Nuance apportée par l'entrepreneur, pertinente et à garder : ils ont en général déjà une secrétaire, mais un vrai budget. **Conséquence sur l'angle de pitch :** ne jamais présenter l'automatisation comme un remplacement de la secrétaire (objection n°1 du playbook, « l'IA va me remplacer ») — viser ce qu'elle n'a pas le temps de faire. Cadrage : « libère du temps », jamais « remplace ».
+
+**Correction du 07/08/2026 (soir) — la prise de RDV passe par Doctolib (ou téléphone).** Repéré à temps par l'entrepreneur avant tout contact client : Doctolib gère déjà la prise de RDV 24/7 et un rappel automatique basique — proposer ça comme angle aurait été immédiatement disqualifiant en conversation. **Angles qui restent réellement ouverts, indépendants de Doctolib :**
+- Relance des devis en attente (Doctolib ne fait pas de suivi commercial)
+- Rappel de contrôle pour les patients sans RDV depuis 6-12 mois (revenu récurrent qui se perd)
+- Remplissage des créneaux annulés à la dernière minute (liste d'attente non exploitée)
+- Demande d'avis Google automatique après RDV (levier d'acquisition locale, rarement systématisé)
+
+**Question de diagnostic à poser en premier contact, pas à supposer :** est-ce que le cabinet a une liste patient exploitable (contact, dernière visite, devis en cours) en dehors de Doctolib, ou tout est enfermé dans Doctolib sans export simple ? Conditionne la faisabilité technique réelle.
 
 **Ce qui reste à faire, dans l'ordre :** repérer 3-5 cabinets précis autour de la gare de Franconville ; en parallèle, méthode Reddit ; produire la première solution gratuite ; convertir en premier client payant. Suivi des missions réelles : `Core/Journal_Missions_IA.md`.
 
