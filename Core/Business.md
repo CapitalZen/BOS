@@ -4,6 +4,14 @@
 
 ## Direction actuelle — Intégration/automatisation IA pour PME (depuis le 07/08/2026)
 
+### Identité & Vision (13/08/2026)
+
+**Mission :** concevoir et déployer des agents IA sur mesure pour les petites entreprises. Pas d'agent catalogue configuré à la va-vite — chaque solution part des besoins, des contraintes et des outils déjà en place de l'entreprise cliente, puis construit ce qui lui correspond réellement : le persona (ton, limites de ce que l'agent peut dire), les compétences (les tâches qu'il sait vraiment faire, pas plus), les scripts et les intégrations (branchés sur l'existant, jamais un nouvel endroit où aller). Selon le besoin : un framework d'agent auto-hébergé (Hermes Agent, OpenClaw), de l'automatisation no-code (n8n), ou du développement entièrement sur mesure — l'outil se choisit après le diagnostic, jamais avant (`Knowledge/AI_Integration_Playbook.md` §8). Au-delà de la technique : accompagner les dirigeants pour qu'ils comprennent où l'IA leur fait vraiment gagner du temps et de l'argent — pas pour vendre un abonnement de plus.
+
+**Comment cette vision se relie au travail déjà fait :** c'est l'identité long terme du business, pas un nouveau pivot. Le secteur dentaire (Franconville) reste la **porte d'entrée choisie pour prouver cette méthode sur un premier cas réel** — deux angles validés par une recherche sourcée (relance devis, rappel patients inactifs), une démo qui fonctionne déjà. Se lancer directement sur un positionnement large et générique, sans un seul client, répéterait l'erreur classique du débutant qui sonne comme n'importe quelle autre agence IA de 2026 sans preuve à montrer. La vision s'élargira naturellement une fois 1-3 missions réelles conclues dans le dentaire — logique déjà prévue par `Core/Journal_Missions_IA.md` (patterns à synthétiser une fois plusieurs missions accumulées, avant de généraliser à d'autres secteurs).
+
+**Textes prêts à l'emploi (bio générique + pitch secteur dentaire) :** `Output/Positionnement_2026-08-13.md`.
+
 **Modèle :** vendre des automatisations et outils construits avec Claude Code à des petites entreprises (artisans, commerces locaux, PME) — pas de produit physique, pas de stock, pas d'avance de trésorerie nécessaire. Business de service à marge quasi totale, ce qui règle structurellement la contrainte de budget zéro qui pesait sur l'e-commerce.
 
 **Deux méthodes d'entrée retenues :**

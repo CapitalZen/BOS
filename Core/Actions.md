@@ -14,7 +14,8 @@
 | 3 | Repérer 3-5 cabinets dentaires précis autour de la gare de Franconville (rue de la Station en priorité), sur place ou en ligne | Vérification terrain — BOS n'a pas d'accès carte/géoloc, patterns de densité seulement | Toi | À faire maintenant |
 | 4 | Montrer la démo à un premier cabinet, avec les 3 questions de diagnostic déjà intégrées à la page | Premier contact réel, converti en mission dans `Core/Journal_Missions_IA.md` | Toi | À venir |
 | 5 | **En parallèle : trouver un premier vrai post de douleur sur r/smallbusiness** (ou équivalent) dans le secteur choisi | Deuxième canal d'entrée, zéro déplacement | Toi trouve/partage le post, **BOS** aide à construire la solution | À venir |
-| 6 | Préparer les messages d'approche (Reddit + démarchage local) autour de la démo | Étape validée avec l'entrepreneur : démo d'abord, messages ensuite | **BOS** rédige | À venir |
+| 6 | ~~Positionnement/bio rédigés~~ ✅ Identité & Vision ajoutée à `Business.md`, textes prêts dans `Output/Positionnement_2026-08-13.md` (bio générique + pitch secteur dentaire) | Base pour se présenter, cohérente avec le dentaire comme porte d'entrée | **BOS** a rédigé | **Fait — 13/08/2026** |
+| 7 | Préparer les messages d'approche spécifiques Reddit (post de douleur réel à trouver d'abord) | Deuxième canal d'entrée — reste à faire, distinct du positionnement général | **BOS** rédige une fois le post trouvé | À venir |
 | — | Réserve : secteurs auto-écoles / opticiens (peu ciblés par la concurrence IA, recherche sourcée le 07/08) | Option B si le dentaire ne convertit pas — `Core/Business.md` | — | En réserve |
 
 ---
