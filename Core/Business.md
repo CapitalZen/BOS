@@ -20,7 +20,20 @@
 
 **Méthodologie complète déjà disponible :** `Knowledge/AI_Integration_Playbook.md` — diagnostic chiffré, cadre légal (AI Act), formation, premiers gains mesurés, sur-mesure, pilotage. Couvre largement plus en profondeur que les contenus qui ont déclenché le pivot (déjà distillé et évalué de façon critique avant même ce soir).
 
-**Secteur recommandé (07/08/2026, recherche BOS sur la zone Franconville 95130/gare) :** **cabinets dentaires** — cluster réel identifié sur rue de la Station (au moins 5 cabinets), tâches de fond répétitives (prise de RDV, relances patients, devis) exactement adaptées à l'automatisation, marges solides (pas de mono-commerce fragile). **Secours : agences immobilières** — cluster confirmé jusque sur la place de la Gare elle-même, mêmes atouts (suivi client, génération de documents). Artisans (plombiers/électriciens) écartés en premier choix : forte concurrence de plateformes de leads nationales, plus difficile de différencier. **Limite de cette recherche à connaître :** pas d'accès à une carte/API de géolocalisation — ce sont des patterns de densité par annuaires (PagesJaunes, mairie), pas une liste d'entreprises géolocalisées à 5 km exacts. Vérification terrain à faire par l'entrepreneur avant le premier contact.
+**Secteur recommandé (07/08/2026, recherche BOS sur la zone Franconville 95130/gare) :** **cabinets dentaires** — cluster réel identifié sur rue de la Station (au moins 5 cabinets), tâches de fond répétitives (prise de RDV, relances patients, devis) exactement adaptées à l'automatisation, marges solides (pas de mono-commerce fragile). **Secours : agences immobilières** — cluster confirmé jusque sur la place de la Gare elle-même, mêmes atouts (suivi client, génération de documents). Artisans (plombiers/électriciens) écartés en premier choix : forte concurrence de plateformes de leads nationales, plus difficile de différencier.
+
+**Liste nominative confirmée le 13/08/2026 (recherche ciblée, remplace le pattern de densité du 07/08) :**
+
+| Adresse | Structure | Contact | Priorité |
+|---|---|---|---|
+| 98 bis rue de la Station | Cabinet Dentaire Franconville (Dr Le Quang Khai) | 01 34 13 74 60 — 5★/8 avis | **1 — praticien seul, décision rapide** |
+| 69 rue de la Station (Hall B) | Anne Demongeot, chirurgien-dentiste | — | **1 — praticienne seule** |
+| Franconville (adresse précise à vérifier sur place) | Dr Alain Dukan (implantologie, parodontologie, esthétique) | — | **1 — praticien seul** |
+| 71-73 rue de la Station | Centre dentaire de Franconville | 01 77 37 35 34 — gérante Sylvie Lecas — multi-praticiens (implanto, ortho, stomato, radio, parodonto), ouvert lun-ven 9h-19h | 2 — plus gros, décision plus lente, budget potentiellement plus solide |
+| 124 rue de la Station | Cabinet non identifié avec précision | — | À vérifier sur place |
+| 9 rue de la Station | CDS Municipal de Santé Franconville | — | **Écarté — structure publique/municipale, pas un dirigeant propriétaire** |
+
+Sources : [Mappy](https://fr.mappy.com/poi/50ae79f884ae277950753101), [rdvdentiste.net](https://rdvdentiste.net/franconville/cds-municipal-de-sante-franconville.html), [PagesJaunes](https://www.pagesjaunes.fr/annuaire/franconville-95/dentistes-chirurgiens-dentistes-et-docteurs-en-chirurgie-dentaire), [Dr Alain Dukan](https://dr-dukan-alain.chirurgiens-dentistes.fr/), [Cabinet Dentaire Franconville](https://www.cabinetdentairefranconville.com/acces-contact-horaires/). **Limite à connaître :** pas d'accès carte/API de géolocalisation — ces adresses viennent d'annuaires web, pas d'une vérification terrain. À confirmer sur place avant contact si possible, mais suffisant pour démarrer.
 
 **Secteur confirmé le 07/08/2026 : cabinets dentaires.** Nuance apportée par l'entrepreneur, pertinente et à garder : ils ont en général déjà une secrétaire, mais un vrai budget. **Conséquence sur l'angle de pitch :** ne jamais présenter l'automatisation comme un remplacement de la secrétaire (objection n°1 du playbook, « l'IA va me remplacer ») — viser ce qu'elle n'a pas le temps de faire. Cadrage : « libère du temps », jamais « remplace ».
 
