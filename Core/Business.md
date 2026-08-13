@@ -35,6 +35,8 @@
 
 Sources : [Mappy](https://fr.mappy.com/poi/50ae79f884ae277950753101), [rdvdentiste.net](https://rdvdentiste.net/franconville/cds-municipal-de-sante-franconville.html), [PagesJaunes](https://www.pagesjaunes.fr/annuaire/franconville-95/dentistes-chirurgiens-dentistes-et-docteurs-en-chirurgie-dentaire), [Dr Alain Dukan](https://dr-dukan-alain.chirurgiens-dentistes.fr/), [Cabinet Dentaire Franconville](https://www.cabinetdentairefranconville.com/acces-contact-horaires/). **Limite à connaître :** pas d'accès carte/API de géolocalisation — ces adresses viennent d'annuaires web, pas d'une vérification terrain. À confirmer sur place avant contact si possible, mais suffisant pour démarrer.
 
+**Cible retenue pour le premier contact (13/08/2026) : Cabinet Dentaire Franconville, 98 bis rue de la Station, Dr Le Quang Khai, 01 34 13 74 60.** Aucun email public trouvé (vérifié) — canal de contact réaliste : téléphone ou passage en personne.
+
 **Secteur confirmé le 07/08/2026 : cabinets dentaires.** Nuance apportée par l'entrepreneur, pertinente et à garder : ils ont en général déjà une secrétaire, mais un vrai budget. **Conséquence sur l'angle de pitch :** ne jamais présenter l'automatisation comme un remplacement de la secrétaire (objection n°1 du playbook, « l'IA va me remplacer ») — viser ce qu'elle n'a pas le temps de faire. Cadrage : « libère du temps », jamais « remplace ».
 
 **Correction du 07/08/2026 (soir) — la prise de RDV passe par Doctolib (ou téléphone).** Repéré à temps par l'entrepreneur avant tout contact client : Doctolib gère déjà la prise de RDV 24/7 et un rappel automatique basique — proposer ça comme angle aurait été immédiatement disqualifiant en conversation. **Angles qui restent réellement ouverts, indépendants de Doctolib :**
