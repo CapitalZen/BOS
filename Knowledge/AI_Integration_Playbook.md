@@ -129,6 +129,8 @@ Ne passer au niveau suivant qu'après avoir écarté le précédent **pour une r
 
 **Types de solutions et outillage** (repères, pas prescriptions) : agents conversationnels (support 24/7, qualification de leads, onboarding) ; automatisations avancées (rapports, prospection multicanale, traitement de documents, base clients) ; applications internes (dashboards, générateurs de propositions commerciales). Côté outils : SaaS génériques d'abord, puis no-code (Make, Zapier, n8n), puis développement. Les outils changent vite — **ne jamais vendre une liste d'outils, vendre des critères** (section 8).
 
+**Ce que « sur-mesure » veut dire concrètement**, au niveau développement : pas un agent générique reconfiguré, mais une configuration propre à l'entreprise cliente — persona (ton, limites de ce que l'agent peut dire), compétences (les tâches qu'il sait vraiment faire, pas plus), scripts et intégrations (connexion aux outils déjà en place, pas un nouvel endroit où aller). À ce niveau, à côté de n8n : des frameworks d'agents auto-hébergés comme **Hermes Agent** (Nous Research) ou **OpenClaw** permettent de construire un agent qui tourne chez le client plutôt que chez un tiers — intéressant sur la réversibilité (section 7), mais tous deux sortis ou renommés en 2026 : appliquer le critère Maturité (section 8) avec une vigilance renforcée avant de les proposer sur une mission facturée.
+
 ## 7. Piloter — 4 indicateurs, pas quinze
 
 | Indicateur | Mesure |
@@ -149,7 +151,7 @@ Une liste d'outils vieillit en quelques mois ; ces critères non.
 - **Réversibilité** — export dans un format exploitable, ce qui reste si on part
 - **Intégration** — s'insère dans les outils déjà utilisés, ou impose un nouvel endroit où aller ? Un outil qui exige de changer d'habitude sans gain immédiat ne sera pas adopté
 - **Coût réel** — par utilisateur, à l'usage, configuration initiale, entretien annuel
-- **Maturité** — depuis quand l'éditeur existe, qui le finance. Une part significative des outils IA de 2024 n'existe plus
+- **Maturité** — depuis quand l'éditeur existe, qui le finance. Une part significative des outils IA de 2024 n'existe plus. Exemple concret à surveiller : Hermes Agent et OpenClaw (cités en section 6) sont réels et fonctionnels, mais sortis/renommés en 2026 — aucun historique de continuité éprouvé. Les mentionner à un client, oui ; les recommander sans réserve sur ce critère précis, non
 - **Conformité** — l'éditeur documente-t-il sa position AI Act et fournit-il de quoi remplir vos obligations ?
 
 ## 9. Modes d'échec (ils se répètent)
