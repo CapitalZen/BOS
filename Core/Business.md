@@ -113,6 +113,8 @@ Décortiquage complémentaire à celui de Leishape (04/08, marque en déclin) : 
 
 Sources : [Ysé Paris](https://yse-paris.com/en-ww/categories/lingerie), [Nénés Paris](https://nenes-paris.com/en), [DNG — 6 DNVB lingerie](https://www.digitalnativegroup.com/en-us/blog-posts/lingerie-feminine-6-dnvb-sans-dessus-dessous).
 
+**Segment écarté le 17/08/2026 — le sans-armature en grands bonnets (E/F/G).** Semblait le gap le plus évident, ne l'est pas : Playtex (jusqu'au G, modèle Cœur Croisé), Darjeeling (Pia), RougeGorge (E-G), Blancheporte, Daxon et ToutesLesPoitrines l'occupent déjà, avec des décennies d'ingénierie. Et c'est le produit techniquement le plus dur du rayon — un maintien réel sans armature sur forte poitrine se joue dans la construction, pas dans le sourcing. Double motif d'élimination : bien servi **et** hors de portée d'un sourcing 1688 (filtre de transférabilité, porte 2). Ne pas y revenir sans contrôle de production.
+
 ## Modèle visé
 Boutique de niche brandée construite autour d'un produit à fort potentiel, acquisition Meta Ads, marché européen. Référence méthodologique : `Knowledge/Ecom_Meta_Ads_Playbook.md`.
 
