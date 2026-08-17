@@ -132,3 +132,5 @@ Organique lancé (Instagram + TikTok, `velune.fwi`), Meta Ads prévu plus tard s
 ## Outils
 **Direction actuelle (intégration IA) :** Claude Code — coût quasi nul, c'est l'outil de production principal.
 **Historique Velune :** Instagram/TikTok (comptes créés). Shopify, gestionnaire de publicités Meta à prévoir si reprise.
+
+**Skills de qualité visuelle installés le 13/08/2026 (`taste-skill`, 13 skills — `design-taste-frontend`, `high-end-visual-design`, `brandkit`, `redesign-existing-projects`, `minimalist-ui`, etc.) :** installés au niveau du repo, pas rattachés à une activité — se déclenchent automatiquement dès qu'un livrable visuel est construit (landing page, dashboard, brand kit, redesign), quel que soit le projet. S'appliquent donc aussi bien aux futurs livrables clients (intégration IA) qu'à une future boutique/refonte visuelle Velune si l'e-commerce reprend.
