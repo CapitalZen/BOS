@@ -413,3 +413,47 @@ séparément, avec son propre dénominateur.
 **Les acteurs installés** (Ysé, Nénés Paris, Playtex, Darjeeling, RougeGorge, Blancheporte, Daxon, ToutesLesPoitrines) — même prompt, une marque à la fois, et seulement si les 7 premières ont donné de la matière. Objectif différent : comprendre ce qu'attend un segment premium, pas repérer des failles.
 
 Puis **Prompt B** (forums et vécu) et **Prompt C** (synthèse MECLabs) — dans `Prompts_Perplexity_Message_Mining_2026-08-17.md`.
+
+---
+
+## Modèle et réglages Perplexity
+
+**Modèle : Perplexity-Adv-Deep-Research.** C'est le seul qui expose le paramètre qui décide réellement de la qualité du comptage.
+
+### Réglages pour le Prompt A (avis Trustpilot / Amazon)
+
+| Paramètre | Valeur | Pourquoi |
+|---|---|---|
+| **Jetons max par page** | **16384** (le maximum) | **Le réglage critique.** Par défaut il est à 4096 : le modèle ne lit alors qu'une fraction de la page d'avis, et son comptage porte sur ce fragment. Une page Trustpilot est longue — à 4096 jetons il lit une poignée d'avis et croit avoir tout vu. C'est le paramètre qui transforme un comptage réel en comptage bidon. |
+| **Jetons de sortie max** | **16000** (le maximum) | Le Prompt A demande 8 thèmes × 2-4 citations + 5 verbatims négatifs + 5 positifs + le vocabulaire. À 10000 (défaut), la sortie se fait tronquer et tu perds la fin — souvent le vocabulaire, qui est le plus utile. |
+| **Effort de raisonnement** | **élevé** (défaut) | À garder. |
+| **Filtre de domaine** | `trustpilot.com` | **Deuxième réglage important.** Sans lui, le modèle complète ses trous avec les blogs « avis Celyssia » — qui sont affiliés et touchent une commission. En verrouillant le domaine, il lit la source ou il déclare ne pas pouvoir. |
+| **Filtre de langue** | `fr` | Évite les avis d'autres marchés qui fausseraient le comptage. |
+| **Pays** | `FR` | Résultats localisés. |
+| Filtres de date | **aucun** | On veut du volume. Filtrer réduit le corpus, donc dégrade le comptage. |
+
+Pour la passe Amazon : remplacer le filtre de domaine par `amazon.fr`.
+
+### Réglages pour le Prompt B (forums, Reddit, vécu)
+
+Même modèle, mêmes jetons, mais **filtre de domaine élargi** :
+
+```
+reddit.com, doctissimo.fr, aufeminin.com, madmoizelle.com, minastorm.com,
+lingerie-claire.fr, celisette.fr, naturafeel.fr, echosverts.com, ohlesfemmes.com,
+leculdepoule.co, 88boutique.com, twinswomen.fr
+```
+
+Et **exclure explicitement les blogs affiliés**, qui pollueraient le corpus de témoignages :
+
+```
+-glowchicparis.com, -glowupbyparis.com, -amazing-beauty.fr, -allure-mag.fr, -mamandeteste.com
+```
+
+*(Le filtre n'accepte pas de mélanger inclusions et exclusions sur certains modèles — dans ce cas, faire deux passes : une avec la liste d'inclusion, une sans filtre mais avec les exclusions.)*
+
+### Variante haute fidélité, si un comptage te paraît suspect
+
+**Perplexity-Search** ne renvoie pas de réponse rédigée par un modèle — il renvoie le **contenu brut des pages**. Donc zéro risque d'invention, par construction. Réglages : `max_tokens` à 100000, `max_tokens_per_page` à 8192, `search_domain_filter` sur `trustpilot.com`.
+
+Tu récupères le texte brut des avis et tu me le colles : je fais le comptage moi-même sur des données que personne n'a résumées entre-temps. Plus lourd, mais c'est la seule chaîne où aucun modèle ne s'interpose entre l'avis et le chiffre.
