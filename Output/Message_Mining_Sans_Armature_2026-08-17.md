@@ -97,61 +97,86 @@ Thèmes convergents sur plusieurs sources :
 
 **Ce qui reste à valider par les vrais mots :** tout le vocabulaire exact. Les thèmes sont solides, les formulations sont à collecter — dans les commentaires sous les posts Velune, qui sont à ce jour la seule source de verbatims bruts accessible.
 
+
 ---
 
-# ANNEXE A — Celyssia, données Trustpilot réelles (collecte Perplexity, 17/08/2026)
+# ANNEXE — Verbatims Trustpilot réels (collecte Perplexity, 17/08/2026)
 
-**Source :** `fr.trustpilot.com/review/celyssia.com`, pages 1 à 5. **100 avis lus sur 2 189.** Pourcentages calculés sur les 100 lus, pas sur le total — la distinction est portée par la collecte elle-même.
+Deux corpus quasi complets. **Ces données remplacent les estimations de la section 3**, qui venaient de blogs affiliés et étaient fausses sur plusieurs points.
 
-## Contrôle qualité de la collecte : validée
-
-| Test | Résultat |
-|---|---|
-| Dénominateur fourni avant les pourcentages | ✅ « 100 avis sur 2 189 », avec avertissement explicite |
-| Citations authentiques | ✅ **Fautes réelles présentes** : « vous l'oublie complètement », « on tourne en bourique », « déçue de mettre fait avoir », « bon tissus agreable a porte », « à dix reprise », « FUYE! !!! ». Un modèle qui fabrique écrit du français propre. |
-| Cohérence des notes | ✅ Échantillon 81 % de 5★ contre 72 % en global — écart normal pour les pages récentes, et signalé |
-| Notes et dates par citation | ✅ Systématiques |
-
-**⚠️ Correction d'une donnée antérieure de ce document.** La section 3 indiquait « Celyssia 4,3/5 sur 90+ avis » — chiffre venant des blogs affiliés. **Le réel est 4,1/5 sur 2 189 avis** (72 % de 5★, **16 % de 1★**). L'écart de volume est d'un facteur 24. Confirmation que les blogs « avis Celyssia » ne valent rien comme source de mesure.
-
-## Le résultat central : la faille est opérationnelle, pas produit
-
-| Thème | Occurrences /100 | Polarité dominante |
+| | **Celyssia** | **Leishape** |
 |---|---|---|
-| **Service client** | **55** | Clivant — soit nominatif et loué (Manon, Sandra), soit absent |
-| Qualité matière | 39 | Positive |
-| **Confort / douleur** | **38** | **Très positive** |
-| Taille | 34 | Mitigée — « taille plutôt grand » |
-| Livraison | 30 | Négative (lenteur, blocages) |
-| Maintien | 28 | **Très positive** |
-| Retour / remboursement | 24 | **Très négative** |
-| Prix | 6 | Positive |
+| Avis lus / total | **200 / 2 190** | **158 / 160** (corpus quasi complet) |
+| Note | **4,1/5** | **2,3/5** |
+| 1★ | 16,1 % (~353 avis) | **62 %** |
+| Catalogue | Soutiens-gorge uniquement | Soutiens-gorge, maillots, leggings, jeans, polaires |
+| Marché | Francophone | **1 avis sur 158 en français** |
 
-**Les 5 verbatims les plus violents portent tous sur le remboursement ou le SAV. Aucun ne porte sur le produit.** Litiges non résolus sur 1 à 3 mois, remboursements promis à 14 jours jamais versés, menaces de signalement DGCCRF. Et un détail précis relevé par deux clientes distinctes : *« Les échanges mails sont gérés par une IA et renvoient toujours les mêmes informations en boucle. On tourne en bourique. »*
+## Corrections des données antérieures
 
-**⚠️ Seconde correction.** Ce document affirmait, d'après les blogs affiliés, que la faiblesse de Celyssia était un « maintien insuffisant au-delà du bonnet D ». **Les avis réels disent l'inverse** : *« le maintien est parfait même pour les poitrines tombantes et volumineuses, c'est incroyable »* (5/5, 09/08). La faiblesse produit supposée n'existe pas dans les données.
+| Affirmé (blogs affiliés) | Réel (Trustpilot) |
+|---|---|
+| Celyssia « 4,3/5 sur 90+ avis » | **4,1/5 sur 2 190 avis** |
+| Celyssia « maintien insuffisant au-delà du bonnet D » | **Faux** — le maintien est le thème le plus loué : 76/200 |
+| Celyssia « 6,90 € de frais déduits » | **8,90 €** |
+| Leishape « 2,5/5 sur 52 avis » | **2,3/5 sur 160 avis** |
+| Leishape traité comme concurrent français | **Non francophone** — 1 avis français sur 158 |
 
-## Le verbatim le plus important pour Velune
+## Comptage comparé
 
-> *« Je suis vraiment bluffée par cette marque de soutien-gorges, **j'étais sûre qu'ils n'auraient aucun maintien comme tous les soutien-gorges sans armatures que j'ai déjà essayés.** Mais non le maintien est parfait même pour les poitrines tombantes et volumineuses, c'est incroyable. Et quel confort, on ne le sent pas de la journée, pas de marques le soir, c'est parfait. »* (5/5 — 09/08/2026)
+| Thème | Celyssia /200 | Leishape /158 |
+|---|---|---|
+| Service client | **113 (57 %)** clivant | **91 (58 %)** négatif |
+| Maintien | **76 (38 %)** positif | 37 (23 %) **négatif** |
+| Confort | 68 (34 %) positif | 38 (24 %) mitigé |
+| Retour / remboursement | **64 (32 %)** négatif | **74 (47 %)** très négatif |
+| Livraison | 62 (31 %) mitigé | 56 (35 %) négatif |
+| Taille | 59 (30 %) | 58 (37 %) |
+| Qualité | 52 (26 %) | 56 (35 %) négatif |
 
-La croyance par défaut du marché est énoncée par la cliente elle-même : **sans armature = aucun maintien**, vérifié par elle sur tous les modèles essayés avant. C'est l'objection n°1 à renverser, et elle est désormais documentée en mots réels. **Confirme la couche mécanique de la légende J2**, écrite avant cette collecte.
+## Ce que la comparaison démontre
 
-Autres formulations à réutiliser :
-- *« j'ai enfin trouvé la manière d'être sexy tout en étant confortable »* — l'état désiré, dans ses mots : la fin d'un arbitrage subi.
-- *« au début, tout le monde a cru à une arnaque »* — le problème de crédibilité de la catégorie entière.
-- *« C'est une nouvelle sensation, que de porter des soutiens-gorge qui soutiennent réellement et sans tirer sur le dos ni les épaules ! »*
-- *« pas de marques le soir »* · *« on ne le sent pas de la journée »* · *« vous l'oublie complètement »*
+**Les deux échouent sur le même axe : le remboursement et le SAV.** L'un survit à 4,1, l'autre meurt à 2,3. Trois différences expliquent l'écart :
 
-## Vocabulaire mesuré (100 avis)
+1. **Le produit tient chez l'un, pas chez l'autre.** Celyssia : *« le maintien est parfait même pour les poitrines tombantes et volumineuses »*. Leishape : *« a flat piece of material, no support, no shape, no stitching »*, *« uni boob »*.
+2. **Des humains nommés.** Manon et Sandra sont citées par leur prénom dans des dizaines d'avis 5★ chez Celyssia. Chez Leishape, personne — juste l'absence de réponse.
+3. **La focalisation.** Celyssia ne vend que des soutiens-gorge. Leishape vend maillots, leggings, jeans et polaires : un catalogue de dropshipping généraliste. Le vocabulaire le trahit — `leggings` 24, `jeans` 13, `fleece` 11.
 
-`très` 85 · `confort` 36 · `taille` 35 · `service client` 30 · `qualité` 28 · `recommande` 28 · `rapide` 28 · `confortable` 24 · `merci` 24 · `parfait` 23 · `échange` 20 · `maintien` 19
+> **Conclusion opérationnelle : un produit qui tient + un humain identifiable achètent le pardon des ratés logistiques. Ni l'un ni l'autre ne suffit seul.**
 
-**Lecture :** `confort` (36) devance largement `maintien` (19). Le bénéfice que les clientes verbalisent spontanément est le confort ; le maintien est ce qu'elles **craignaient** de perdre. Conséquence pour le copy : **le maintien se traite comme une objection à lever, le confort comme la promesse à porter.** Inverser les deux serait une erreur de positionnement.
+## Signal d'alerte : Celyssia suit peut-être la trajectoire de Leishape
 
-## Ce que ça change pour Velune
+Les 1★ de Celyssia sont **récents et groupés** (juillet-août 2026), et ils montent en gravité : 4ᵉ relance sans remboursement, menaces de DGCCRF, signalements à SIGNAL.CONSO, litiges bancaires, accusation de suppression d'avis (*« ça fait la 3ème fois que vous la supprimer »*). Et le SAV est en partie automatisé — deux clientes distinctes : *« les échanges mails sont gérés par une IA et renvoient toujours les mêmes informations en boucle »*.
 
-1. **La différenciation produit n'est pas disponible.** Le produit de Celyssia satisfait. Sans échantillon en main, revendiquer « mieux » serait invérifiable — donc exactement le mensonge qui génère les 1★.
-2. **La faille réelle est opérationnelle** — et elle est chère à exploiter : rembourser vite exige de la trésorerie, répondre en humain exige du temps. **Ce qui est gratuit et immédiatement disponible : l'honnêteté d'annonce.** Délais réels affichés, politique de retour simple et tenue, un humain identifiable. Celyssia perd ses clientes sur l'écart entre promesse et exécution, pas sur la lenteur elle-même — *« la livraison était longue mais le produit est parfait »* (5/5).
-3. **La taille reste la faille universelle du marché** : « taille plutôt grand » chez Celyssia, bonnets trop petits chez Leishape. 34 % des avis en parlent. Un guide de tailles honnête et vérifié reste le différenciateur le moins cher du marché.
-4. **Le SAV automatisé est un piège documenté.** Deux clientes identifient une IA qui boucle. À budget nul la tentation sera forte — les avis disent le prix réel.
+C'est exactement le tableau de Leishape à un stade antérieur. **Le filtre de viabilité du skill `teardown` doit être repassé sur Celyssia dans 2-3 mois** avant d'en copier quoi que ce soit.
+
+## Points juridiques exploitables
+
+Deux pratiques relevées chez Celyssia sont douteuses au regard du droit européen de la consommation (rétractation 14 jours, remboursement intégral frais de livraison standard inclus) :
+- **8,90 € de « frais de dossier » déduits** du remboursement.
+- **Refus de remboursement au motif que la cliente n'a pas fourni ses mensurations.**
+
+Et une accusation formelle d'une cliente : *« usurpation d'identité de boutique française »* — étiquette « MADE IN CHINA », 80 % polyamide / 20 % élasthanne. Le SAV répond depuis **une adresse Gmail**.
+
+**Pour Velune : ce sont les trois choses à ne surtout pas reproduire**, et la conformité est gratuite quand elle est prévue dès le départ.
+
+## Verbatims à réutiliser
+
+**L'objection n°1, énoncée par la cliente elle-même :**
+> *« J'étais sûre qu'ils n'auraient aucun maintien comme tous les soutien-gorges sans armatures que j'ai déjà essayés. Mais non le maintien est parfait... »* (5/5)
+
+**L'état désiré, dans leurs mots :**
+> *« j'ai enfin trouvé la manière d'être sexy tout en étant confortable »* · *« Enfin un soutien gorge dans lequel je me sens bien »* · *« Une fois les seins bien en place, vous l'oubliez complètement »* · *« on ne le sent pas de la journée, pas de marques le soir »* · *« il est sans armatures, donc aucune gêne ni douleur »*
+
+**Chez Leishape (anglophone, même registre) :**
+> *« it does not press or hurt »* · *« no more pulling and adjusting »* · *« So comfortable I can wear it all day »* · *« they don't cut into my stomach »* · *« without making me feel squeezed »*
+
+**Limite produit avouée même dans les 5★ :** *« Seul bémol : ils tiennent un peu chaud en été. »* — à anticiper dans le sourcing (respirabilité) et à ne pas nier dans le copy.
+
+**Taille : le défaut est l'incohérence, pas le sens.** Chez Celyssia on lit *« Attention taille plutôt grand »* **et** *« les soutiens-gorge taillent un peu petit »* **et** *« ça taille vraiment au millimètre près »* — selon les modèles. Une cliente a reçu la taille en dessous et constaté *« aucune différence entre les 2 tailles »*. Un guide de tailles fiable **par modèle** reste le différenciateur le moins cher du marché.
+
+## L'avantage qui découle de tout ça, et il est temporaire
+
+Le marché entier échoue sur le remboursement et la réponse client. Ce sont précisément les deux choses **qu'une petite structure fait mieux qu'une grosse** : à 5 commandes par jour, on répond à chaque mail en personne et on rembourse le jour même. Celyssia ne peut plus — d'où l'IA qui boucle et les 353 avis 1★.
+
+**C'est un avantage réel, gratuit, et qui disparaît avec la croissance.** Il faut le convertir en avis 5★ et en bouche-à-oreille pendant qu'il existe.
