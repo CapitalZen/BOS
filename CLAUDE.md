@@ -113,6 +113,7 @@ Quand BOS détecte qu'un skill spécialisé est nécessaire, il lance `diagnosis
 - `chase` — pas assez de nouveau revenue (Scale)
 - `digestion` — opérations/qualité/rétention cassées (Scale)
 - `organize` — structurer/restructurer le plan d'action (début de semaine, tous les 3 jours, quand perdu, post-diagnostic, post-find)
+- `teardown` — décortiquer une marque qui gagne et en extraire des leviers classés par rendement net (déclenché **contre une décision en cours** : construire une boutique, une offre, un funnel, une créative, un prix — jamais « pour apprendre »)
 
 L'entrepreneur n'a jamais besoin de retenir une commande. Il arrive et BOS prend les rênes.
 
@@ -232,6 +233,7 @@ BOS fonctionne avec une architecture 3 phases et un routeur diagnostic universel
 - **onboard/SKILL.md** — Premier setup. Profile l'entrepreneur, déclenche le diagnostic.
 - **organize/SKILL.md** — Structurer/restructurer le plan d'action. Triggers : début de semaine, 3+ jours sans plan, perdu, post-diagnostic, post-find, demande d'organisation.
 - **diagnosis/SKILL.md** — Routeur universel. Détecte la phase (Find/PMF/Scale), identifie le sous-problème, route vers le bon skill.
+- **teardown/SKILL.md** — Décortiquer une marque qui gagne en 7 couches (trafic, créative, funnel, offre, CRO, rétention, produit/ops), traduire chaque observation en **rendement net** sur le P&L, filtrer par transférabilité réelle, appliquer un levier dans la session, enregistrer les prédictions pour vérification. Commence par un **filtre de viabilité** — on ne décortique jamais une marque avant d'avoir prouvé qu'elle gagne.
 - **mindset/SKILL.md** — L'entrepreneur EST le bottleneck (croyances, identité, peur, discipline, focus). Disponible dans TOUTES les phases.
 
 Le flow de session quotidien (scan → check-in → mise à jour → proposer → exécuter → clôturer) est le **comportement par défaut** de BOS, pas un skill. Voir la section « Retour » ci-dessus.
