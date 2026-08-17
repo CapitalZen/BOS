@@ -96,3 +96,62 @@ Thèmes convergents sur plusieurs sources :
 > **Angle de contenu qui en découle, non encore exploité :** « Tu n'as pas arrêté le soutien-gorge. Tu as arrêté *ceux qu'on te vendait*. » — à réserver pour un post J4+, après que J2 et J3 aient produit leurs premières données.
 
 **Ce qui reste à valider par les vrais mots :** tout le vocabulaire exact. Les thèmes sont solides, les formulations sont à collecter — dans les commentaires sous les posts Velune, qui sont à ce jour la seule source de verbatims bruts accessible.
+
+---
+
+# ANNEXE A — Celyssia, données Trustpilot réelles (collecte Perplexity, 17/08/2026)
+
+**Source :** `fr.trustpilot.com/review/celyssia.com`, pages 1 à 5. **100 avis lus sur 2 189.** Pourcentages calculés sur les 100 lus, pas sur le total — la distinction est portée par la collecte elle-même.
+
+## Contrôle qualité de la collecte : validée
+
+| Test | Résultat |
+|---|---|
+| Dénominateur fourni avant les pourcentages | ✅ « 100 avis sur 2 189 », avec avertissement explicite |
+| Citations authentiques | ✅ **Fautes réelles présentes** : « vous l'oublie complètement », « on tourne en bourique », « déçue de mettre fait avoir », « bon tissus agreable a porte », « à dix reprise », « FUYE! !!! ». Un modèle qui fabrique écrit du français propre. |
+| Cohérence des notes | ✅ Échantillon 81 % de 5★ contre 72 % en global — écart normal pour les pages récentes, et signalé |
+| Notes et dates par citation | ✅ Systématiques |
+
+**⚠️ Correction d'une donnée antérieure de ce document.** La section 3 indiquait « Celyssia 4,3/5 sur 90+ avis » — chiffre venant des blogs affiliés. **Le réel est 4,1/5 sur 2 189 avis** (72 % de 5★, **16 % de 1★**). L'écart de volume est d'un facteur 24. Confirmation que les blogs « avis Celyssia » ne valent rien comme source de mesure.
+
+## Le résultat central : la faille est opérationnelle, pas produit
+
+| Thème | Occurrences /100 | Polarité dominante |
+|---|---|---|
+| **Service client** | **55** | Clivant — soit nominatif et loué (Manon, Sandra), soit absent |
+| Qualité matière | 39 | Positive |
+| **Confort / douleur** | **38** | **Très positive** |
+| Taille | 34 | Mitigée — « taille plutôt grand » |
+| Livraison | 30 | Négative (lenteur, blocages) |
+| Maintien | 28 | **Très positive** |
+| Retour / remboursement | 24 | **Très négative** |
+| Prix | 6 | Positive |
+
+**Les 5 verbatims les plus violents portent tous sur le remboursement ou le SAV. Aucun ne porte sur le produit.** Litiges non résolus sur 1 à 3 mois, remboursements promis à 14 jours jamais versés, menaces de signalement DGCCRF. Et un détail précis relevé par deux clientes distinctes : *« Les échanges mails sont gérés par une IA et renvoient toujours les mêmes informations en boucle. On tourne en bourique. »*
+
+**⚠️ Seconde correction.** Ce document affirmait, d'après les blogs affiliés, que la faiblesse de Celyssia était un « maintien insuffisant au-delà du bonnet D ». **Les avis réels disent l'inverse** : *« le maintien est parfait même pour les poitrines tombantes et volumineuses, c'est incroyable »* (5/5, 09/08). La faiblesse produit supposée n'existe pas dans les données.
+
+## Le verbatim le plus important pour Velune
+
+> *« Je suis vraiment bluffée par cette marque de soutien-gorges, **j'étais sûre qu'ils n'auraient aucun maintien comme tous les soutien-gorges sans armatures que j'ai déjà essayés.** Mais non le maintien est parfait même pour les poitrines tombantes et volumineuses, c'est incroyable. Et quel confort, on ne le sent pas de la journée, pas de marques le soir, c'est parfait. »* (5/5 — 09/08/2026)
+
+La croyance par défaut du marché est énoncée par la cliente elle-même : **sans armature = aucun maintien**, vérifié par elle sur tous les modèles essayés avant. C'est l'objection n°1 à renverser, et elle est désormais documentée en mots réels. **Confirme la couche mécanique de la légende J2**, écrite avant cette collecte.
+
+Autres formulations à réutiliser :
+- *« j'ai enfin trouvé la manière d'être sexy tout en étant confortable »* — l'état désiré, dans ses mots : la fin d'un arbitrage subi.
+- *« au début, tout le monde a cru à une arnaque »* — le problème de crédibilité de la catégorie entière.
+- *« C'est une nouvelle sensation, que de porter des soutiens-gorge qui soutiennent réellement et sans tirer sur le dos ni les épaules ! »*
+- *« pas de marques le soir »* · *« on ne le sent pas de la journée »* · *« vous l'oublie complètement »*
+
+## Vocabulaire mesuré (100 avis)
+
+`très` 85 · `confort` 36 · `taille` 35 · `service client` 30 · `qualité` 28 · `recommande` 28 · `rapide` 28 · `confortable` 24 · `merci` 24 · `parfait` 23 · `échange` 20 · `maintien` 19
+
+**Lecture :** `confort` (36) devance largement `maintien` (19). Le bénéfice que les clientes verbalisent spontanément est le confort ; le maintien est ce qu'elles **craignaient** de perdre. Conséquence pour le copy : **le maintien se traite comme une objection à lever, le confort comme la promesse à porter.** Inverser les deux serait une erreur de positionnement.
+
+## Ce que ça change pour Velune
+
+1. **La différenciation produit n'est pas disponible.** Le produit de Celyssia satisfait. Sans échantillon en main, revendiquer « mieux » serait invérifiable — donc exactement le mensonge qui génère les 1★.
+2. **La faille réelle est opérationnelle** — et elle est chère à exploiter : rembourser vite exige de la trésorerie, répondre en humain exige du temps. **Ce qui est gratuit et immédiatement disponible : l'honnêteté d'annonce.** Délais réels affichés, politique de retour simple et tenue, un humain identifiable. Celyssia perd ses clientes sur l'écart entre promesse et exécution, pas sur la lenteur elle-même — *« la livraison était longue mais le produit est parfait »* (5/5).
+3. **La taille reste la faille universelle du marché** : « taille plutôt grand » chez Celyssia, bonnets trop petits chez Leishape. 34 % des avis en parlent. Un guide de tailles honnête et vérifié reste le différenciateur le moins cher du marché.
+4. **Le SAV automatisé est un piège documenté.** Deux clientes identifient une IA qui boucle. À budget nul la tentation sera forte — les avis disent le prix réel.
