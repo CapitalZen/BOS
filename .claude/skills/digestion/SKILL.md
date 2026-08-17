@@ -24,6 +24,10 @@ Couvre : recrutement complet (People), systématisation (Process), et boucle qua
 - **Tester petit avant d'engager gros.** VA 10h/semaine avant CDI ; mission freelance avant contrat long ; test rémunéré avant signature.
 - **Ne jamais embaucher pour des compétences qu'on ne sait pas juger.** Soit monter en compétence minimale, soit recruter un profil senior autonome.
 - **Les clients décrivent des symptômes, pas des causes.** Le client dit « l'interface est pas claire », le vrai besoin c'est « gagner du temps ». Résoudre le besoin profond.
+- **Une décision qui n'existe que dans la tête du fondateur n'est plus une décision — c'est une rumeur.** Le symptôme le plus courant du passage à l'échelle : l'informel, qui était une technologie formidable à 5 personnes (tout le monde sait tout, une question se règle en traversant la pièce), devient à 30 ou 50 le mécanisme qui bloque tout. Un manager tranche le mardi, quelqu'un contourne et obtient une autre réponse le mercredi, plus personne ne sait laquelle vaut le jeudi.
+  > **Le diagnostic à ne pas rater.** Le fondateur dit alors « personne n'est autonome ici » et croit avoir un problème de recrutement, de management ou de culture. Il a un problème d'**architecture décisionnelle** : il a gardé celle d'une petite structure dans une entreprise qui ne l'est plus. Les équipes ne manquent pas d'autonomie — elles sont devenues parfaitement rationnelles dans un système qui **récompense l'attente**, puisqu'une décision prise sans le fondateur peut être annulée le lendemain. Tant que le système récompense l'attente, recruter des gens plus autonomes ne change rien : ils apprendront la même chose en trois semaines.
+  >
+  > **Le traitement :** écrire qui décide quoi, et à quel niveau d'engagement une décision remonte. Accepter qu'une décision soit prise autrement qu'on l'aurait prise soi-même est le vrai coût, et c'est le plus dur à payer. Le job du fondateur cesse d'être « prendre les bonnes décisions » et devient « construire une structure capable d'en prendre de bonnes quand il n'est pas dans la pièce ». Sans ça, on n'a pas fait grandir l'entreprise, on a seulement agrandi la pièce.
 
 ## Process
 
