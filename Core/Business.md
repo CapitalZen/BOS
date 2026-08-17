@@ -1,8 +1,31 @@
 # Business
 
-**Stade :** pivot en cours (07/08/2026). L'e-commerce (Velune) est **mis en pause** après ses tout premiers signaux réels (voir Historique ci-dessous) — nouvelle direction retenue : **vente d'intégration/automatisation IA aux PME**, business de service.
+**Stade (mis à jour le 13/08/2026) :** **retour à Velune (e-commerce, sous-vêtement sans armature) comme direction active.** L'activité d'intégration IA passe en réserve : tout le travail est conservé (secteur dentaire recherché, cabinets identifiés, démo construite, positionnement rédigé) et reprenable à tout moment — voir la section dédiée plus bas. Piste des étiquettes autocollantes personnalisées évaluée le 13/08 puis écartée (marché saturé, aucun gap concurrentiel trouvé, modèle de production incompatible avec un budget nul).
 
-## Direction actuelle — Intégration/automatisation IA pour PME (depuis le 07/08/2026)
+## Chaîne de valeur et stratégie d'intégration (13/08/2026)
+
+Cadre apporté par l'entrepreneur : la logique Rockefeller — cartographier la chaîne maillon par maillon, repérer où la marge fuit, intégrer ce maillon plutôt que de le laisser à un intermédiaire. Cartographie faite avec recherche sourcée :
+
+| Maillon | Qui prend la marge | Ce qu'on sait |
+|---|---|---|
+| Usine (1688, marché domestique chinois) | L'usine | 0,99–3,27 $/unité pour cet archétype (`Output/Sourcing_Soutien_Gorge_Sans_Armature_2026-08-04.md`) |
+| **Alibaba (vitrine export)** | Trading companies | Le prix Alibaba est souvent **20-30 % au-dessus du prix domestique chinois** — ce n'est pas « le prix usine » ([newbuyingagent.com](https://www.newbuyingagent.com/resources/alibaba-vs-sourcing-agent-in-2026-which-one-to-use)) |
+| **Agent de sourcing** | L'agent | Commission affichée 5-10 %, mais **la vraie fuite est ailleurs : un agent à 3 % peut prendre 20-25 % via des accords sur le prix usine** ([docshipper](https://sourcing.docshipper.com/approvisionnement/agents-approvisionnement-qui-comment-combien/)) |
+| Transport + douane | Transitaire, État | Taxe 3 €/catégorie d'article sur colis hors UE depuis le 01/07/2026 (`Knowledge/Ecom_Meta_Ads_Playbook.md`) |
+| Plateforme + paiement | Shopify, Stripe/PayPal | ~2 % plateforme + ~1,5 % + 0,25 €/transaction |
+| **Acquisition (Meta Ads)** | **Meta** | Poste le plus lourd d'une marque DTC qui démarre — couramment 30-40 % du CA |
+| Retours / SAV | Toi | Variable |
+
+**Références de marge du secteur :** marge brute lingerie 45-70 % selon positionnement, **marge nette 8-15 % après tous les coûts** ([modelesdebusinessplan.com](https://modelesdebusinessplan.com/blogs/infos/lingerie-estimation-revenu-outil), [textileaddict](https://textileaddict.me/prix-de-vente-prix-de-revient-quels-prix-fixer-pour-sa-collection-de-mode/)).
+
+**Conclusion — quel maillon intégrer, et dans quel ordre :**
+1. **Production/usine : pas maintenant.** L'intégration amont demande volume et capital pour être rentable. C'est déjà la logique de la transition dropshipping → semi-marque (`Knowledge/Ecom_Meta_Ads_Playbook.md` §6 bis, déclencheur 50-100 ventes, 1-2 k€). Après la preuve, jamais avant.
+2. **Court-circuiter Alibaba/agent : gain immédiat de ~20-30 %, à coût zéro.** Seul maillon amont actionnable dès la première commande — sourcer directement sur 1688. Déjà préparé, RFQ écrites, jamais envoyées.
+3. **Le maillon où la marge fuit vraiment à ce stade : l'acquisition.** Une marque qui achète son trafic à Meta **loue** sa distribution à un intermédiaire qui augmente ses prix chaque année. La stratégie organique déjà retenue **est** l'intégration verticale de ce maillon : construire une audience qu'on possède. Ce n'est pas un plan B faute de budget — c'est le seul maillon de la chaîne possédable aujourd'hui à capital nul, et le seul qui prend de la valeur avec le temps au lieu d'en perdre.
+
+## En réserve — Intégration/automatisation IA pour PME (active du 07/08 au 13/08/2026)
+
+**Statut :** mise en réserve le 13/08/2026 au retour sur Velune. **Rien n'est perdu** — secteur dentaire recherché et sourcé, 5 cabinets identifiés nominativement rue de la Station, démo interactive construite et publiée, positionnement et pitch rédigés, playbook méthodologique prêt. Reprise possible sans repartir de zéro, notamment si Velune ne convertit pas ou en complément plus tard. Toute la section ci-dessous reste valide en l'état.
 
 ### Identité & Vision (13/08/2026)
 
@@ -64,15 +87,15 @@ Sources principales : information-dentaire.fr, lequotidiendumedecin.fr, media.do
 
 **Ce qui reste à faire, dans l'ordre :** repérer 3-5 cabinets précis autour de la gare de Franconville ; en parallèle, méthode Reddit ; produire la première solution gratuite ; convertir en premier client payant. Suivi des missions réelles : `Core/Journal_Missions_IA.md`.
 
-## Historique — E-commerce / Velune (en pause depuis le 07/08/2026)
+## Velune — direction active (reprise le 13/08/2026)
 
 Direction retenue le 29/07/2026, produit tranché le 04/08/2026 (sous-vêtement sans armature/sans couture, archétype « Velune »), marque construite et lancée le 06/08/2026 : comptes Instagram et TikTok créés (`velune.fwi`), système de contenu et de marque livré (`Output/Velune_Content_System/`), premier post publié sur les deux plateformes, premier signal réel obtenu (un like, après avoir dépassé un blocage réel de peur du jugement — voir `Core/Diagnosis.md`). Sourcing 1688/Alibaba préparé (`Output/Sourcing_Soutien_Gorge_Sans_Armature_2026-08-04.md`) mais RFQ jamais envoyées.
 
 **Raison de la pause :** préférence exprimée pour la vente d'automatisation IA après plusieurs contenus reçus sur le sujet, le 07/08/2026 — au moment même où Velune obtenait sa toute première traction. Nommé et discuté avant la décision (voir `Core/Diagnosis.md`) ; décision prise consciemment par l'entrepreneur, pas un abandon silencieux.
 
-**Condition de reprise :** tout le travail est conservé en l'état (comptes, contenu, sourcing) — reprise possible à tout moment sans repartir de zéro si la nouvelle direction ne convient pas ou en complément plus tard.
+**Reprise effective le 13/08/2026.** Rien n'avait été perdu : comptes actifs, J1 en ligne sur les deux plateformes, J2/J3 déjà produits et prêts à publier, sourcing 1688 documenté avec RFQ rédigées. La cartographie de chaîne de valeur ci-dessus (section en tête de fichier) donne l'ordre de priorité de la reprise.
 
-## Modèle visé (historique, e-commerce)
+## Modèle visé
 Boutique de niche brandée construite autour d'un produit à fort potentiel, acquisition Meta Ads, marché européen. Référence méthodologique : `Knowledge/Ecom_Meta_Ads_Playbook.md`.
 
 ## Territoire
