@@ -150,6 +150,26 @@ Dire : "Tu préfères un truc qui a 80% de chances de marcher mais qui plafonne 
 
 ### Phase 4 — Évaluer et scorer les idées (BOS travaille)
 
+**Préalable — la chaîne de validation d'un problème.** L'enchaînement souvent cité « énervement → problème → marché ignoré → fortune » saute un maillon, et c'est celui qui trie. Des gens énervés, il y en a partout ; des gens qui **paient** pour ne plus l'être, beaucoup moins. La chaîne réelle est :
+
+**Énervement répété → comportement de contournement → dépense existante → marché.**
+
+Le **comportement de contournement** est le signal le plus fiable, et le plus facile à observer : quelqu'un qui a bricolé une solution de fortune, développé une routine d'évitement, ou acheté plusieurs fois un produit qui ne marche pas a **déjà prouvé** que la douleur vaut un effort. Un énervement sans contournement est une préférence, pas un problème.
+
+Grille de qualification, à passer sur chaque piste avant les 3 filtres :
+
+| # | Validation | Ce qu'on cherche |
+|---|---|---|
+| 1 | Fréquence | Quotidien > hebdo > mensuel > annuel |
+| 2 | Intensité | Gênant / frustrant / humiliant / coûteux — noter sur 10 |
+| 3 | Coût actuel | Temps, argent, énergie ou statut social effectivement perdus |
+| 4 | Recherche active | Les gens cherchent-ils déjà une solution (Google, YouTube, Reddit, TikTok) ? |
+| 5 | **Dépense existante** | Paient-ils déjà pour ça, **même une mauvaise solution** ? Signal le plus fort |
+| 6 | Marché croissant | Le problème devient-il plus fréquent, plus visible, plus coûteux ? |
+| 7 | **Tenue dans la durée** | L'entrepreneur sera-t-il encore intéressé après 500 heures dessus ? |
+
+**Sur la validation 7 :** ne jamais la trancher par introspection — l'enthousiasme de départ ne prédit rien, et un entrepreneur qui a déjà lâché un projet au moment où la réalité est arrivée le refera si rien ne change. Ce qui prédit la tenue n'est pas la passion mais **la vitesse de retour du feedback** : un projet qui renvoie des signaux réels chaque semaine tient ; un projet qui ne renvoie rien pendant deux mois s'éteint, quelle que soit la passion initiale. Conséquence de design, pas de motivation : choisir la piste dont la boucle de feedback est la plus courte, et la raccourcir encore.
+
 3 filtres successifs :
 
 **Filtre 1 : Barrières à l'entrée**
