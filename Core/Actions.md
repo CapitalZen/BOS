@@ -10,8 +10,8 @@
 | # | Action | Pourquoi | Qui | Statut |
 |---|--------|----------|-----|--------|
 | 1 | **Envoyer les RFQ 1688 déjà rédigées** (`Output/Sourcing_Soutien_Gorge_Sans_Armature_2026-08-04.md`) — shortlist et message prêts, rien à écrire | Seul maillon amont actionnable dès maintenant : ~20-30 % de marge récupérée en court-circuitant Alibaba/agent, à coût zéro | Toi (envoi), **BOS** a déjà tout rédigé | À faire maintenant |
-| 2 | **Publier J2** (avant/après) — visuel et légende prêts dans `Output/Velune_Content_System/` | Construction du maillon distribution : la seule part de la chaîne possédable à capital nul | Toi | À faire maintenant |
-| 3 | Publier J3 (le savais-tu) le lendemain | Cadence — c'est la régularité qui construit l'audience, pas le volume ponctuel | Toi | À venir |
+| 2 | **Publier J2** (avant/après) — visuel **et légende** prêts dans `Output/Velune_Content_System/Bio_et_Legendes.md`, à copier-coller tel quel | Construction du maillon distribution : la seule part de la chaîne possédable à capital nul | Toi (2 min, plus rien à rédiger) | À faire maintenant |
+| 3 | Publier J3 (le savais-tu) le lendemain — légende également écrite | Cadence — c'est la régularité qui construit l'audience, pas le volume ponctuel | Toi (2 min) | À venir |
 | 4 | Répondre aux commentaires sous J1/J2 au fil de l'eau | Collecte de vocabulaire client réel (alimente le copy de la boutique plus tard) | Toi, **BOS** aide à formuler | En continu |
 | 5 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Amorcée le 04/08, à reprendre — alimente les prochains visuels et le copy boutique | **BOS** | Reprise |
 | 6 | Monter la boutique Shopify | À déclencher quand il y a de la demande à convertir, pas avant (`Core/Business.md`, séquence de financement) | **BOS** construit | Plus tard |

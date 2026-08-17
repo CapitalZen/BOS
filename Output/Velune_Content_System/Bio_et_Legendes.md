@@ -26,7 +26,35 @@ Dis-moi en commentaire — et si j'en ai oublié un pire, je veux le savoir. On 
 #lingerie #confort #soutiengorge #sansarmature #lingeriefrancaise
 ```
 
-*(J2 et J3 : légende à écrire au moment de poster, sur le même principe — reprendre le texte du visuel, l'étendre, finir par une question ou un CTA commentaire, mêmes hashtags de base.)*
+### J2 — Avant/après (renversement de croyance)
+```
+On t'a dit que serrer, c'était maintenir.
+
+C'est faux, et c'est même l'inverse. Une armature concentre tout le maintien sur une ligne de quelques millimètres — d'où le sillon rouge, l'oppression, la lourdeur à 18h. Un bon soutien-gorge sans armature fait le contraire : il répartit le maintien sur toute la surface du tissu, avec une bande sous-poitrine large qui porte réellement le poids. C'est la bande qui tient, pas le fil de fer.
+
+Personne ne te l'explique parce que c'est plus simple de te vendre du serrage et de te dire que la marque rouge est normale.
+
+Tu te reconnais dans laquelle des deux colonnes aujourd'hui ?
+
+#lingerie #confort #soutiengorge #sansarmature #lingeriefrancaise
+```
+
+**Pourquoi cette légende est écrite comme ça (niveau de sophistication) :** le visuel porte l'**identification** — « tu te reconnais ? », le renversement de croyance, le stade 5. Mais le marché français du sans-armature en est au stade 3-4 : les concurrents se battent tous sur le mécanisme (sans coutures, effet seconde peau, maintien invisible). Un message purement identitaire sur un marché qui en est au mécanisme, c'est l'erreur classique de sur-sophistication. **La légende porte donc la couche mécanique que le visuel ne porte pas** — *pourquoi* ça tient sans armature. Visuel = qui tu es, légende = pourquoi c'est vrai. Voir `Knowledge/Schwartz_Breakthrough_Advertising.md` §3.
+
+*Le mécanisme décrit (répartition sur la surface, bande sous-poitrine porteuse) est un principe de construction vérifiable et général — pas une spec du produit Velune, qui n'est pas encore sourcé. Rien à rectifier plus tard.*
+
+### J3 — Le savais-tu
+```
+51 % des femmes placent le confort avant tout le reste au moment d'acheter un soutien-gorge (étude M&S, 2025).
+
+Une femme sur deux. Et pourtant le marché continue de vendre du serrage, du push-up et de l'armature — puis nous explique que la marque rouge le soir, c'est le prix à payer.
+
+Ce n'est pas le prix à payer. C'est juste un produit mal conçu pour ce que la majorité des gens demandent.
+
+Toi aussi tu choisis le confort en premier, ou pas encore ?
+
+#lingerie #confort #soutiengorge #sansarmature #lingeriefrancaise
+```
 
 ---
 

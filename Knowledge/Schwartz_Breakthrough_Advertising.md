@@ -106,7 +106,18 @@ Promesses et mécanismes sont saturés. **On bascule sur l'identification** : le
 
 > C'est le stade où opèrent les marques de `Ecom_Brand_Operators_Cases.md` — « pro-age », l'esthétique premium accessible, l'écologie sans compromis. Et c'est pourquoi la marque n'est pas un supplément d'âme : c'est **la réponse technique à un marché de stade 5**.
 
-**Diagnostic express :** regarder les 10 publicités concurrentes qui dépensent le plus. Si elles annoncent toutes un résultat → stade 2. Si elles expliquent toutes un mécanisme → stade 3-4. Si elles vendent un univers → stade 5. **On se positionne un cran plus loin qu'elles.**
+**Diagnostic express :** regarder les 10 publicités concurrentes qui dépensent le plus, **en ne retenant que celles qui tournent depuis plus de 3 mois** — la longévité est un meilleur signal de rentabilité que le spend instantané, qui peut n'être qu'un test en cours. Si elles annoncent toutes un résultat → stade 2. Si elles expliquent toutes un mécanisme → stade 3-4. Si elles vendent un univers → stade 5. **On se positionne un cran plus loin qu'elles. Un seul cran, pas trois.**
+
+**Ce n'est pas une échelle de qualité, c'est une échelle de maturité du marché.** L'erreur de débutant est de croire que le stade 5 est « le niveau des pros ». Les deux erreurs sont symétriques et coûtent aussi cher l'une que l'autre :
+
+| Erreur | Ce qui se passe |
+|---|---|
+| **Message de stade 5 sur un marché de stade 2** | On sort un angle ultra-spécifique là où une promesse simple aurait converti plus large. On se complique la vie et on perd du volume sans raison. |
+| **Message de stade 1-2 sur un marché de stade 5** | On est purement ignoré. La promesse a déjà été vue 200 fois, le lecteur scrolle sans lire. |
+
+**Profil à risque, à surveiller chez l'entrepreneur accompagné :** celui qui a beaucoup lu de copywriting sur-sophistique presque systématiquement — il produit du stade 4-5 sur des marchés encore au stade 2-3. Le débutant qui n'a rien lu fait l'erreur inverse sans le savoir. **Le niveau se déduit du marché observé, jamais du niveau de culture marketing de celui qui écrit.**
+
+**L'arbitrage géographique — un même marché n'est pas au même stade partout.** Beaucoup de niches sont au stade 5 aux États-Unis et encore au stade 2-3 en France : le mécanisme devenu banal là-bas y est encore inédit. C'est souvent l'opportunité la plus accessible sur un marché francophone — **il n'y a pas besoin d'inventer un angle, il suffit d'importer un mécanisme déjà mature ailleurs sur un marché qui ne l'a jamais vu.** À ne pas confondre avec l'opportunité de *volume* décrite dans `Ecom_Meta_Ads_Playbook.md` (peu d'annonceurs américains présents en Europe) : celle-ci porte sur le **stade de sophistication du message**, pas sur le nombre de concurrents. Les deux se cumulent.
 
 ## 4. Ce que fait réellement un titre
 
