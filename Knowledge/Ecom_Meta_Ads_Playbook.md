@@ -519,6 +519,23 @@ Le même schéma revient sur la quasi-totalité des marques qui chiffrent : **bo
 
 **L'exercice à faire soi-même :** prendre 5 à 10 boutiques qui scalent, et lister pour chacune ces points. Les points communs sautent aux yeux au bout de quelques analyses — c'est ce qui installe le jugement, bien plus vite qu'une théorie.
 
+### Le risque de taille — le critère qui décide du coût d'entrée sur un marché saturé
+
+La stratégie « prendre une commodité ultra-saturée et y ajouter une feature ou un angle » est valide (voir la règle sur la saturation dans `CLAUDE.md`), mais **elle ne coûte pas le même prix selon la catégorie**. La variable qui décide est le **risque de taille** : la probabilité qu'un client reçoive un article qui ne lui va pas.
+
+| | Risque de taille faible | Risque de taille élevé |
+|---|---|---|
+| Exemples | T-shirt, mug, accessoire, gadget, consommable | Soutien-gorge, chaussure, jean, vêtement ajusté |
+| Le client connaît sa taille | Oui, S/M/L suffit | Non — ~70 % des femmes portent la mauvaise taille de soutien-gorge |
+| Taux de retour | Bas | Élevé, et **il mange la marge à chaque commande** |
+| Ce qui suffit à différencier | Une feature ou un angle | Une feature ou un angle **plus** une exécution logistique irréprochable |
+
+**Conséquence opérationnelle.** Sur un produit à faible risque de taille, l'angle marketing porte quasiment tout le résultat — c'est pourquoi la stratégie « t-shirt noir + une feature » marche si bien et si vite. Sur un produit à fort risque de taille, le même angle amène du trafic qui **convertit puis revient** : le guide de tailles, la précision du sourcing et la politique de retour ne sont pas des détails d'exécution, ce sont des composantes du produit. Une collecte de verbatims sur un concurrent viable du sans-armature donne 34 % d'avis mentionnant la taille — sur un t-shirt, ce chiffre serait proche de zéro.
+
+**Deuxième asymétrie, spécifique aux sous-vêtements :** la restriction de retour pour raison d'hygiène. Elle prive le client du filet de sécurité qui rend l'achat en ligne confortable partout ailleurs, et elle apparaît directement dans les avis négatifs du secteur (« non remboursable en tant que sous-vêtement »). Un marché où le retour est contraint exige donc **plus** de réassurance avant l'achat, pas moins.
+
+**Ce que ça ne veut pas dire :** que les catégories à fort risque de taille sont à éviter — elles ont en contrepartie des marges élevées et une fidélité forte une fois la bonne taille trouvée. Ça veut dire que **le budget d'effort se déplace** : moins sur la créative seule, davantage sur la précision de taille et la logistique de retour.
+
 **Le test de simplicité :** si on ne peut pas expliquer en deux secondes quel problème le produit résout et pourquoi les gens l'achètent, il y a déjà un problème fondamental. Les produits qui marchent s'expliquent en une phrase.
 
 **Et l'objectif une fois le produit choisi**, en deux points seulement : **améliorer les faiblesses du concurrent** (prix, qualité produit, SAV, site) et **mieux vendre que lui**.
