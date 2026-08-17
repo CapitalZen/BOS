@@ -95,6 +95,24 @@ Direction retenue le 29/07/2026, produit tranché le 04/08/2026 (sous-vêtement 
 
 **Reprise effective le 13/08/2026.** Rien n'avait été perdu : comptes actifs, J1 en ligne sur les deux plateformes, J2/J3 déjà produits et prêts à publier, sourcing 1688 documenté avec RFQ rédigées. La cartographie de chaîne de valeur ci-dessus (section en tête de fichier) donne l'ordre de priorité de la reprise.
 
+## Cartographie concurrentielle par strate (17/08/2026)
+
+Décortiquage complémentaire à celui de Leishape (04/08, marque en déclin) : cette fois sur des marques françaises **qui scalent** dans le sans-armature.
+
+| | Leishape (dropship) | **Velune — la place visée** | Ysé / Nénés Paris (DTC établies) |
+|---|---|---|---|
+| Prix | Bas | Accessible | Premium |
+| Argument | Mécanisme + prix | **Mécanisme + preuve de qualité** | Identité et valeurs |
+| Stade de sophistication | 2-3 | **3-4** | 5 |
+| Production | Chine, non contrôlée | Chine, sourcée sur critères qualité | Europe / France |
+| Résultat | 2,5/5 Trustpilot, −80 % de trafic | — | Durables, gammes larges (Ysé : bonnets A à E) |
+
+**Correction d'une affirmation antérieure :** le marché français n'est pas à un stade unique de sophistication — **il est stratifié par gamme de prix**. Le segment dropship est au stade 2-3 (promesses et mécanisme), les DTC établies au stade 5 (identité, écologie, fabrication européenne). Dire « le marché est au stade 3-4 » était une simplification.
+
+**Conséquence stratégique, et elle est contraignante :** à un prix accessible avec un sourcing chinois, Velune **ne peut pas** gagner sur le terrain de l'identité pure — Ysé et Nénés ont des preuves (fabrication européenne, fibres recyclées, GOTS) qu'un sourcing 1688 ne permet pas de revendiquer sans mentir. La place réellement disponible est celle que Leishape a laissée vide en échouant : **le mécanisme expliqué + la qualité effectivement tenue, à prix accessible.** C'est exactement la couche que porte la légende J2 déjà écrite — l'analyse valide ce choix de copy.
+
+Sources : [Ysé Paris](https://yse-paris.com/en-ww/categories/lingerie), [Nénés Paris](https://nenes-paris.com/en), [DNG — 6 DNVB lingerie](https://www.digitalnativegroup.com/en-us/blog-posts/lingerie-feminine-6-dnvb-sans-dessus-dessous).
+
 ## Modèle visé
 Boutique de niche brandée construite autour d'un produit à fort potentiel, acquisition Meta Ads, marché européen. Référence méthodologique : `Knowledge/Ecom_Meta_Ads_Playbook.md`.
 
