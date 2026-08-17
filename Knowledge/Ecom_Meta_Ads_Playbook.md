@@ -713,6 +713,16 @@ Objectif : **dépenser le moins possible pour obtenir le maximum de signaux.** O
 
 **Paliers de scaling :** 100 → 200 → 300 → 400 → 500 → 700 → 1 000 → 1 500 €, puis +500 ou +1 000 € selon les performances. On augmente **toutes les 24-48 h**, en analysant les **3-4 derniers jours**.
 
+**Variante : tester deux landing pages en parallèle dès le testing.** Au lieu d'envoyer tout le trafic sur la page produit, lancer **deux campagnes identiques** — l'une vers la page produit, l'autre vers un advertorial — avec **exactement les mêmes créatives, assets et variations**. C'est la seule façon d'isoler la variable « page » : si les créatives diffèrent, on ne mesure plus rien.
+
+- Budget : 50 €/jour sur chaque, ou 25 € + 25 € si la trésorerie est courte. On dilue le trafic volontairement pour obtenir un premier A/B test à faible coût.
+- À J2, couper celle qui convertit le moins — **sauf si les deux sont rentables**, auquel cas on garde et on scale les deux.
+- Bénéfice secondaire : Meta répartit le spend différemment entre les mêmes assets selon la page de destination. L'écart de CTR entre les deux campagnes révèle quel **angle** porte, pas seulement quelle page convertit.
+
+**Ne jamais couper un testing au break-even.** Un testing breakeven est un testing **gagnant** : le trafic est qualifié, le client est intéressé, il reste des optimisations de site et d'offre à faire. Ce qui manque est en aval de la publicité, pas dedans. C'est le même diagnostic qu'un testing non rentable, simplement plus proche du déblocage — et c'est cohérent avec le problème de sous-attribution décrit plus haut (une partie des campagnes sous le ROAS BE sont en réalité rentables, coupées à tort faute de CAPI).
+
+> **Prérequis de trésorerie, à énoncer avant de recommander cette section à qui que ce soit.** Cette structure suppose un budget publicitaire quotidien tenu sur plusieurs jours, et les données ne deviennent réellement fiables qu'au-delà d'environ 1 000 €/jour de dépense. À trésorerie nulle, la séquence applicable n'est pas celle-ci mais `Ecom_Organic_Launch_Playbook.md` — même ordre de grandeur de résultat documenté, avec quelques centaines d'euros de publicité au total au lieu de plusieurs milliers.
+
 ### Deuxième école de media buying (ABO, budget par adset)
 
 Une approche différente, également répandue chez des praticiens qui scalent. À connaître : ce n'est pas une contradiction, ce sont deux réglages du même moteur.
