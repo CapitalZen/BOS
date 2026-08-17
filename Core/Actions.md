@@ -39,7 +39,7 @@
 
 | Piste | Raison |
 |---|---|
-| Étiquettes autocollantes personnalisées (enfants, école/crèche) | Marché déjà occupé par 5+ acteurs français établis (Ludilabel : 60 000+ avis Trustpilot majoritairement positifs) ; l'angle « sans repassage, résiste au lavage » est l'argument standard de tous ; aucun gap concurrentiel trouvé ; production personnalisée incompatible avec un modèle à budget nul |
+| Étiquettes autocollantes personnalisées (enfants, école/crèche) | **Motif structurel, pas concurrentiel :** chaque unité est imprimée à la commande (prénom de l'enfant) — ni stock ni dropshipping possibles. Les trois voies de production sont fermées à ce stade : matériel d'impression (capital indisponible), partenaire POD (les acteurs français du secteur sont les concurrents), personnalisation en Chine (3-4 semaines, contre une fenêtre de rentrée à ~2 semaines). *Justification corrigée le 13/08 — la saturation du marché avait été invoquée à tort comme preuve à charge ; c'est une preuve de demande. Règle ajoutée dans `CLAUDE.md`.* |
 
 ---
 
