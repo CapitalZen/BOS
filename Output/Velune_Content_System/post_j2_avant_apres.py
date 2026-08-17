@@ -1,65 +1,70 @@
-import sys, os
+import os
+import sys
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from PIL import Image, ImageDraw
-from velune_brand import (
-    W, H, BURGUNDY, GOLD, CHARCOAL, WHITE, ROSE_DEEP,
-    F_BOLD, F_ITAL, F_SANS, font, wrap_to_width, draw_multiline_centered,
-    card, footer_prompt, base_canvas,
+
+from velune_brand import (  # noqa: E402
+    W, MARGIN, COL_GAP, COL_W,
+    BURGUNDY, GOLD, INK, MUTED, STONE,
+    F_SERIF, F_SERIF_B, F_SANS,
+    font, base_canvas, label_caps, rule, vrule, wrap_to_width,
 )
 
-img, draw = base_canvas()
+img, draw = base_canvas(index="02 / 03")
 
-f_hook = font(F_BOLD, 54)
-hook = "Sillons rouges, oppression thoracique, lourdeur en fin de journée."
-lines = wrap_to_width(draw, hook, f_hook, W - 160)
+# — Titre : une seule idée forte, en serif large
+f_hook = font(F_SERIF_B, 62)
 y = 150
-y = draw_multiline_centered(img, draw, lines, f_hook, y, CHARCOAL, line_gap=8)
+for line in wrap_to_width(draw, "On t'a dit que serrer, c'était maintenir.", f_hook, W - 2 * MARGIN):
+    draw.text((MARGIN, y), line, font=f_hook, fill=BURGUNDY)
+    y += 78
 
-f_sub = font(F_ITAL, 34)
-sub = "On t'a appris que c'était normal. Ça ne devrait pas l'être."
-sub_lines = wrap_to_width(draw, sub, f_sub, W - 200)
-y = draw_multiline_centered(img, draw, sub_lines, f_sub, y + 18, BURGUNDY, line_gap=6) + 10
+y += 26
+rule(draw, MARGIN, y, W - MARGIN, GOLD, 2)
+y += 62
 
-col_w = (W - 140 - 30) / 2
-col_h = 430
-y0 = y + 20
-left = (70, y0, 70 + col_w, y0 + col_h)
-right = (70 + col_w + 30, y0, 70 + col_w + 30 + col_w, y0 + col_h)
+# — Deux colonnes, séparées par un filet. Pas de carte, pas d'ombre.
+COL_TOP = y
+COL_BOTTOM = 800
+x_left = MARGIN
+x_right = MARGIN + COL_W + COL_GAP
+vrule(draw, W / 2, COL_TOP - 10, COL_BOTTOM, STONE, 1)
 
-img = card(img, left, radius=36, fill=WHITE)
-img = card(img, right, radius=36, fill=(250, 234, 224))
-draw = ImageDraw.Draw(img)
+f_item = font(F_SERIF, 30)
 
-f_label = font(F_BOLD, 30)
-f_item = font(F_SANS, 26)
 
-def draw_column(xy, label, label_color, items, mark, mark_color):
-    x0, y0, x1, y1 = xy
-    pad = 36
-    lb = draw.textbbox((0, 0), label, font=f_label)
-    draw.text((x0 + pad, y0 + 30), label, font=f_label, fill=label_color)
-    yy = y0 + 30 + (lb[3] - lb[1]) + 34
+def column(x, label, label_color, items, item_color):
+    label_caps(draw, (x, COL_TOP), label, fill=label_color, size=20, track=5)
+    yy = COL_TOP + 62
     for it in items:
-        draw.ellipse([x0 + pad, yy + 4, x0 + pad + 34, yy + 38], outline=mark_color, width=3)
-        mb = draw.textbbox((0, 0), mark, font=f_item)
-        draw.text((x0 + pad + 17 - (mb[2] - mb[0]) / 2 - mb[0], yy + 21 - (mb[3] - mb[1]) / 2 - mb[1]),
-                   mark, font=f_item, fill=mark_color)
-        it_lines = wrap_to_width(draw, it, f_item, (x1 - x0) - pad * 2 - 50)
-        ty = yy
-        for ln in it_lines:
-            draw.text((x0 + pad + 50, ty), ln, font=f_item, fill=CHARCOAL)
-            ty += 34
-        yy = ty + 22
+        for line in wrap_to_width(draw, it, f_item, COL_W - 30):
+            draw.text((x, yy), line, font=f_item, fill=item_color)
+            yy += 40
+        yy += 30
 
-draw_column(left, "ON T'A DIT", BURGUNDY,
-            ["Que serrer = maintenir", "Que la marque rouge, c'est normal", "Que le confort, c'est pour plus tard"],
-            "x", BURGUNDY)
 
-draw_column(right, "ÇA DEVRAIT ÊTRE", GOLD,
-            ["Un tissu qui suit sans comprimer", "Une bretelle qui reste où tu la mets", "Un soutif que t'oublies à 18h"],
-            "✓", GOLD)
+column(
+    x_left, "La norme", MUTED,
+    ["Que serrer = maintenir",
+     "Que la marque rouge, c'est normal",
+     "Que le confort, c'est pour plus tard"],
+    MUTED,
+)
 
-footer_prompt(img, draw, "Tu te reconnais dans laquelle des deux colonnes aujourd'hui ?")
+column(
+    x_right, "Ça devrait être", GOLD,
+    ["Un tissu qui suit sans comprimer",
+     "Une bretelle qui reste où tu la mets",
+     "Un soutif que t'oublies à 18h"],
+    INK,
+)
+
+# — Question de clôture, en italique serif sous un filet
+rule(draw, MARGIN, COL_BOTTOM + 24, W - MARGIN, STONE, 1)
+f_q = font(F_SERIF, 29)
+draw.text((MARGIN, COL_BOTTOM + 56),
+          "Tu te reconnais dans laquelle des deux colonnes ?",
+          font=f_q, fill=GOLD)
 
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "v2_j2_avant_apres.png")
 img.save(out)

@@ -1,46 +1,51 @@
-import sys, os
+import os
+import sys
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from PIL import Image, ImageDraw
-from velune_brand import (
-    W, H, BURGUNDY, GOLD, CHARCOAL, WHITE, ROSE_DEEP,
-    F_BOLD, F_ITAL, F_SANS, font, wrap_to_width, draw_multiline_centered,
-    card, footer_prompt, base_canvas,
+
+from velune_brand import (  # noqa: E402
+    W, MARGIN,
+    BURGUNDY, GOLD, INK, MUTED, STONE,
+    F_SERIF, F_SERIF_B, F_SANS, F_MONO,
+    font, base_canvas, label_caps, rule, wrap_to_width,
 )
 
-img, draw = base_canvas()
+img, draw = base_canvas(index="03 / 03")
 
-f_label = font(F_BOLD, 40)
-label = "LE SAVAIS-TU ?"
-lb = draw.textbbox((0, 0), label, font=f_label)
-draw.text((W / 2 - (lb[2] - lb[0]) / 2 - lb[0], 175), label, font=f_label, fill=BURGUNDY)
+label_caps(draw, (MARGIN, 168), "Le savais-tu", fill=GOLD, size=20, track=5)
 
-# big stat card
-card_xy = (100, 275, W - 100, 640)
-img = card(img, card_xy, radius=44, fill=WHITE)
-draw = ImageDraw.Draw(img)
+# — Chiffre héros : une seule idée, très grande
+f_num = font(F_SERIF_B, 260)
+draw.text((MARGIN - 12, 226), "51%", font=f_num, fill=BURGUNDY)
 
-f_stat = font(F_BOLD, 190)
-stat = "51%"
-sb = draw.textbbox((0, 0), stat, font=f_stat)
-draw.text((W / 2 - (sb[2] - sb[0]) / 2 - sb[0], 320), stat, font=f_stat, fill=GOLD)
+y = 520
+rule(draw, MARGIN, y, W - MARGIN, GOLD, 2)
+y += 46
 
-f_capt = font(F_SANS, 30)
-capt = "des femmes placent le confort avant tout le reste au moment d'acheter un soutien-gorge"
-capt_lines = wrap_to_width(draw, capt, f_capt, (card_xy[2] - card_xy[0]) - 120)
-y = 530
-y = draw_multiline_centered(img, draw, capt_lines, f_capt, y, CHARCOAL, line_gap=8)
+f_body = font(F_SERIF, 36)
+for line in wrap_to_width(
+    draw,
+    "des femmes placent le confort avant tout le reste au moment d'acheter un soutien-gorge.",
+    f_body, W - 2 * MARGIN,
+):
+    draw.text((MARGIN, y), line, font=f_body, fill=INK)
+    y += 50
 
-f_src = font(F_ITAL, 22)
-src = "— étude M&S, 2025"
-sb2 = draw.textbbox((0, 0), src, font=f_src)
-draw.text((W / 2 - (sb2[2] - sb2[0]) / 2 - sb2[0], 595), src, font=f_src, fill=GOLD)
+y += 34
+f_src = font(F_MONO, 17)
+draw.text((MARGIN, y), "— étude M&S, 2025", font=f_src, fill=MUTED)
 
-f_comment = font(F_BOLD, 42)
-comment = "Et pourtant, le marché continue de vendre du serrage."
-c_lines = wrap_to_width(draw, comment, f_comment, W - 200)
-y = draw_multiline_centered(img, draw, c_lines, f_comment, 700, CHARCOAL, line_gap=8)
+y += 76
+f_turn = font(F_SERIF, 34)
+for line in wrap_to_width(
+    draw, "Et pourtant, le marché continue de vendre du serrage.", f_turn, W - 2 * MARGIN
+):
+    draw.text((MARGIN, y), line, font=f_turn, fill=BURGUNDY)
+    y += 48
 
-footer_prompt(img, draw, "Toi aussi tu choisis le confort en premier, ou pas encore ?")
+rule(draw, MARGIN, 886, W - MARGIN, STONE, 1)
+f_q = font(F_SERIF, 29)
+draw.text((MARGIN, 918), "Toi aussi tu choisis le confort en premier ?", font=f_q, fill=GOLD)
 
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "v2_j3_savais_tu.png")
 img.save(out)

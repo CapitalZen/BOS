@@ -1,64 +1,48 @@
-import sys, os
+import os
+import sys
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from PIL import Image, ImageDraw
-from velune_brand import (
-    W, H, BURGUNDY, GOLD, CHARCOAL, WHITE, ROSE_DEEP,
-    F_BOLD, F_ITAL, font, wrap_to_width, draw_multiline_centered,
-    card, footer_prompt, base_canvas,
+
+from velune_brand import (  # noqa: E402
+    W, MARGIN,
+    BURGUNDY, GOLD, INK, MUTED, STONE,
+    F_SERIF, F_SERIF_B, F_MONO,
+    font, base_canvas, label_caps, rule, wrap_to_width,
 )
 
-img, draw = base_canvas()
+img, draw = base_canvas(index="01 / 03")
 
-# Hook
-f_hook = font(F_BOLD, 66)
-hook = "Le pire ennemi du soutif, c'est lequel pour toi ?"
-lines = wrap_to_width(draw, hook, f_hook, W - 160)
-y = 175
-y = draw_multiline_centered(img, draw, lines, f_hook, y, CHARCOAL, line_gap=10)
+label_caps(draw, (MARGIN, 168), "Le débat", fill=GOLD, size=20, track=5)
 
-options = [
+f_hook = font(F_SERIF_B, 60)
+y = 226
+for line in wrap_to_width(draw, "Le pire ennemi du soutif, c'est lequel pour toi ?", f_hook, W - 2 * MARGIN):
+    draw.text((MARGIN, y), line, font=f_hook, fill=BURGUNDY)
+    y += 76
+
+y += 30
+rule(draw, MARGIN, y, W - MARGIN, GOLD, 2)
+y += 58
+
+# — Options : la lettre en mono comme repère, pas de pastille ni de carte
+f_letter = font(F_MONO, 22)
+f_opt = font(F_SERIF, 36)
+
+for letter, opt in [
     ("A", "L'armature qui pique"),
     ("B", "La bretelle qui glisse toute la journée"),
     ("C", "La marque rouge qui reste le soir"),
-]
+]:
+    draw.text((MARGIN, y + 8), letter, font=f_letter, fill=GOLD)
+    yy = y
+    for line in wrap_to_width(draw, opt, f_opt, W - 2 * MARGIN - 74):
+        draw.text((MARGIN + 74, yy), line, font=f_opt, fill=INK)
+        yy += 46
+    y = yy + 74
 
-card_w = W - 140
-card_h = 118
-gap = 26
-start_y = y + 55
-badge_r = 34
-
-f_badge = font(F_BOLD, 34)
-f_opt = font(F_BOLD, 36)
-
-for i, (letter, opt_text) in enumerate(options):
-    y0 = start_y + i * (card_h + gap)
-    x0 = 70
-    x1 = x0 + card_w
-    y1 = y0 + card_h
-    img = card(img, (x0, y0, x1, y1), radius=32, fill=WHITE)
-    draw = ImageDraw.Draw(img)
-
-    bx = x0 + 70
-    by = y0 + card_h / 2
-    draw.ellipse([bx - badge_r, by - badge_r, bx + badge_r, by + badge_r], fill=BURGUNDY)
-    bb = draw.textbbox((0, 0), letter, font=f_badge)
-    draw.text((bx - (bb[2] - bb[0]) / 2 - bb[0], by - (bb[3] - bb[1]) / 2 - bb[1]), letter, font=f_badge, fill=WHITE)
-
-    tx = bx + badge_r + 34
-    ob = draw.textbbox((0, 0), opt_text, font=f_opt)
-    max_w = x1 - tx - 40
-    opt_lines = wrap_to_width(draw, opt_text, f_opt, max_w)
-    if len(opt_lines) == 1:
-        ty = by - (ob[3] - ob[1]) / 2 - ob[1]
-        draw.text((tx, ty), opt_text, font=f_opt, fill=CHARCOAL)
-    else:
-        ty = by - (len(opt_lines) * 40) / 2
-        for ln in opt_lines:
-            draw.text((tx, ty), ln, font=f_opt, fill=CHARCOAL)
-            ty += 40
-
-footer_prompt(img, draw, "Dis-moi lequel — et si j'en ai oublié un pire, je veux le savoir.")
+rule(draw, MARGIN, 886, W - MARGIN, STONE, 1)
+f_q = font(F_SERIF, 29)
+draw.text((MARGIN, 918), "Dis-moi lequel — ou si j'en ai oublié un pire.", font=f_q, fill=GOLD)
 
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "v2_j1_debat.png")
 img.save(out)

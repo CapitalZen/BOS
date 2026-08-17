@@ -1,32 +1,99 @@
-"""Système de template partagé pour les visuels Velune — cohérence de marque sur tous les posts."""
+"""Socle visuel Velune — mode éditorial « Luxury / Beauty » (standard brandkit).
+
+Principes appliqués : aplat + grain d'impression (pas de dégradé décoratif),
+grille explicite, filets fins comme système d'alignement (pas de cartes ni
+d'ombres), typographie serif sparse, micro-labels, respiration large.
+"""
+import random
+
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W = H = 1080
-CREAM = (251, 239, 233)
-ROSE = (232, 205, 202)
-ROSE_DEEP = (216, 178, 176)
-BURGUNDY = (109, 42, 52)
-GOLD = (183, 141, 92)
-CHARCOAL = (58, 46, 46)
-WHITE = (255, 250, 247)
 
-F_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+# Palette — un dominant, deux accents, des neutres. Rien d'autre.
+IVORY = (247, 242, 236)        # aplat de fond
+STONE = (214, 203, 194)        # neutre froid, filets secondaires
+ROSE = (232, 205, 202)
+BURGUNDY = (94, 38, 46)        # accent principal (texte fort)
+GOLD = (176, 137, 92)          # accent secondaire (filets, labels)
+INK = (46, 38, 38)             # texte courant
+MUTED = (132, 118, 114)        # texte tertiaire, sources
+
+# Serifs TrueType exploitables par PIL (Charter n'existe qu'en Type1 → illisible ici)
+F_SERIF = "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
+F_SERIF_B = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
 F_SANS = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+F_MONO = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"
 F_ITAL = "/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf"
-F_SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf"
+
+# Grille : marges larges, une gouttière centrale
+MARGIN = 110
+COL_GAP = 64
+COL_W = (W - 2 * MARGIN - COL_GAP) / 2
 
 
 def font(path, size):
     return ImageFont.truetype(path, size)
 
 
+def text_size(draw, s, f):
+    b = draw.textbbox((0, 0), s, font=f)
+    return b[2] - b[0], b[3] - b[1], b
+
+
+def paper_ground(seed=7):
+    """Aplat ivoire + grain fin. Remplace dégradé + vignette."""
+    img = Image.new("RGB", (W, H), IVORY)
+    rnd = random.Random(seed)
+    noise = Image.new("L", (W // 2, H // 2))
+    noise.putdata([rnd.gauss(128, 11) for _ in range((W // 2) * (H // 2))])
+    noise = noise.resize((W, H), Image.BILINEAR).filter(ImageFilter.GaussianBlur(0.4))
+    grain = Image.merge("RGB", (noise, noise, noise))
+    return Image.blend(img, grain, 0.055)
+
+
+def rule(draw, x0, y, x1, color=STONE, width=1):
+    draw.line([(x0, y), (x1, y)], fill=color, width=width)
+
+
+def vrule(draw, x, y0, y1, color=STONE, width=1):
+    draw.line([(x, y0), (x, y1)], fill=color, width=width)
+
+
+def tracked(draw, xy, s, f, fill, track=6):
+    """Texte avec interlettrage manuel — PIL ne gère pas le letter-spacing."""
+    x, y = xy
+    for ch in s:
+        draw.text((x, y), ch, font=f, fill=fill)
+        cw = draw.textlength(ch, font=f)
+        x += cw + track
+    return x - track
+
+
+def tracked_width(draw, s, f, track=6):
+    if not s:
+        return 0
+    return sum(draw.textlength(c, font=f) for c in s) + track * (len(s) - 1)
+
+
+def label_caps(draw, xy, s, fill=GOLD, size=21, track=6):
+    """Petite capitale espacée — label de section."""
+    return tracked(draw, xy, s.upper(), font(F_SANS, size), fill, track)
+
+
+def para(draw, x, y, text, f, fill, max_w, leading):
+    """Paragraphe aligné à gauche. Retourne le y final."""
+    for line in wrap_to_width(draw, text, f, max_w):
+        draw.text((x, y), line, font=f, fill=fill)
+        y += leading
+    return y
+
+
 def wrap_to_width(draw, text, f, max_width):
-    words = text.split()
     lines, cur = [], ""
-    for w in words:
+    for w in text.split():
         test = (cur + " " + w).strip()
-        bbox = draw.textbbox((0, 0), test, font=f)
-        if bbox[2] - bbox[0] <= max_width or not cur:
+        if draw.textlength(test, font=f) <= max_width or not cur:
             cur = test
         else:
             lines.append(cur)
@@ -36,91 +103,38 @@ def wrap_to_width(draw, text, f, max_width):
     return lines
 
 
-def draw_multiline_centered(img, draw, lines, f, y, fill, line_gap=14):
-    for line in lines:
-        bbox = draw.textbbox((0, 0), line, font=f)
-        w = bbox[2] - bbox[0]
-        h = bbox[3] - bbox[1]
-        draw.text((W / 2 - w / 2 - bbox[0], y), line, font=f, fill=fill)
-        y += h + line_gap
-    return y
-
-
-def gradient_bg(top=CREAM, bottom=ROSE):
-    base = Image.new("RGB", (1, H), top)
-    d = ImageDraw.Draw(base)
-    for y in range(H):
-        t = y / H
-        r = int(top[0] * (1 - t) + bottom[0] * t)
-        g = int(top[1] * (1 - t) + bottom[1] * t)
-        b = int(top[2] * (1 - t) + bottom[2] * t)
-        d.point((0, y), fill=(r, g, b))
-    return base.resize((W, H))
-
-
-def add_vignette(img, strength=30):
-    overlay = Image.new("L", (W, H), 0)
-    od = ImageDraw.Draw(overlay)
-    od.ellipse([-260, -260, W + 260, H + 260], fill=strength)
-    od.ellipse([90, 90, W - 90, H - 90], fill=0)
-    overlay = overlay.filter(ImageFilter.GaussianBlur(140))
-    dark = Image.new("RGB", (W, H), (45, 22, 24))
-    return Image.composite(dark, img, overlay)
-
-
-def moon_icon(size=40, color=GOLD):
-    s = size * 2
-    icon = Image.new("RGBA", (int(s * 1.4), s), (0, 0, 0, 0))
+def moon_icon(size=13, color=GOLD):
+    s = size * 4
+    icon = Image.new("RGBA", (s, s), (0, 0, 0, 0))
     d = ImageDraw.Draw(icon)
-    d.ellipse([0, 0, s, s], fill=color + (255,))
-    cut = int(s * 0.42)
-    d.ellipse([cut, 0, cut + s, s], fill=(0, 0, 0, 0))
-    return icon
+    d.ellipse([0, 0, s - 1, s - 1], fill=color + (255,))
+    cut = int(s * 0.40)
+    d.ellipse([cut, -1, cut + s, s], fill=(0, 0, 0, 0))
+    return icon.resize((size, size), Image.LANCZOS)
 
 
-def brand_header(img, draw, dark_on_light=True):
-    color = GOLD
-    m = moon_icon(15, color)
-    f = font(F_SANS, 26)
-    text = "V E L U N E"
-    bbox = draw.textbbox((0, 0), text, font=f)
-    tw = bbox[2] - bbox[0]
-    total_w = m.width + 14 + tw
-    x0 = W / 2 - total_w / 2
-    img.paste(m, (int(x0), 58), m)
-    draw.text((x0 + m.width + 14, 66), text, font=f, fill=color)
+def brand_header(img, draw):
+    """Monogramme + wordmark serif, discret, aligné sur la marge gauche."""
+    m = moon_icon(17, GOLD)
+    img.paste(m, (MARGIN, MARGIN - 46), m)
+    f = font(F_SERIF, 22)
+    draw.text((MARGIN + 28, MARGIN - 50), "Velune", font=f, fill=BURGUNDY)
 
 
-def shadow_for(xy, radius, blur=28, opacity=60, offset=(0, 16)):
-    sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    sd = ImageDraw.Draw(sh)
-    x0, y0, x1, y1 = xy
-    sd.rounded_rectangle(
-        [x0 + offset[0], y0 + offset[1], x1 + offset[0], y1 + offset[1]],
-        radius=radius, fill=(50, 24, 24, opacity),
-    )
-    return sh.filter(ImageFilter.GaussianBlur(blur))
+def footer_mark(img, draw, index=None):
+    """Filet de pied + micro-label. Le « page-number detail » de brandkit."""
+    y = H - MARGIN + 26
+    rule(draw, MARGIN, y, W - MARGIN, STONE, 1)
+    f = font(F_MONO, 15)
+    draw.text((MARGIN, y + 16), "VELUNE", font=f, fill=MUTED)
+    if index:
+        w = draw.textlength(index, font=f)
+        draw.text((W - MARGIN - w, y + 16), index, font=f, fill=MUTED)
 
 
-def card(img, xy, radius=44, fill=WHITE, shadow=True):
-    if shadow:
-        sh = shadow_for(xy, radius)
-        img.paste(Image.alpha_composite(img.convert("RGBA"), sh).convert("RGB"), (0, 0))
-    d = ImageDraw.Draw(img)
-    d.rounded_rectangle(xy, radius=radius, fill=fill)
-    return img
-
-
-def footer_prompt(img, draw, text):
-    f = font(F_ITAL, 34)
-    lines = wrap_to_width(draw, text, f, W - 220)
-    y = H - 130 - (len(lines) - 1) * 46
-    draw_multiline_centered(img, draw, lines, f, y, BURGUNDY, line_gap=10)
-
-
-def base_canvas():
-    img = gradient_bg()
-    img = add_vignette(img)
+def base_canvas(index=None):
+    img = paper_ground()
     draw = ImageDraw.Draw(img)
     brand_header(img, draw)
+    footer_mark(img, draw, index)
     return img, draw
