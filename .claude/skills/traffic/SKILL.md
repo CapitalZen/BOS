@@ -169,3 +169,7 @@ Si résistance (« pas prêt ») → réduire au plus petit incrément publiable
 - **Ne JAMAIS produire du contenu avant d'avoir défini l'audience et le pont vers l'offre** — sinon bruit et démotivation.
 - **Ne JAMAIS envoyer l'entrepreneur « apprendre » tout seul** (cours, YouTube) — BOS enseigne en construisant dans la session.
 - **Ne JAMAIS laisser « je suis pas prêt » gagner** — première pièce / pub / action dans cette session (ou micro-version irréfutable).
+
+---
+
+**Dernière revue :** 2026-08-01

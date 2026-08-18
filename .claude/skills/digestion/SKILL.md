@@ -218,3 +218,7 @@ Pour chaque plateforme : instructions de post/recherche, nombre de candidats cib
 - **Ne JAMAIS accuser la personne avant d'auditer le process.** Trois échecs d'affilée = soupçonner le système, pas les gens.
 - **Ne JAMAIS scaler l'acquisition sur un produit sous 4/5 de satisfaction.** Boucle qualité d'abord.
 - **Ne JAMAIS embaucher des exécutants avant d'avoir un manager** quand le scale l'exige. Voir l'ordre de recrutement recommandé.
+
+---
+
+**Dernière revue :** 2026-08-17

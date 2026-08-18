@@ -215,3 +215,7 @@ Ne pas finir sur le plan seul : « On commence par [Étape #1] ? » → transiti
 - **Ne JAMAIS laisser un cycle sans action confrontation marché.** « Ton plan est propre mais rien ne confronte le marché — on ajoute quoi ? »
 - **Ne JAMAIS ignorer le syndrome de l'objet brillant (priorités qui changent sans lien au bottleneck).** Nommer le pattern.
 - **Ne JAMAIS finir sur le plan.** Toujours lancer la première action immédiatement.
+
+---
+
+**Dernière revue :** 2026-08-01

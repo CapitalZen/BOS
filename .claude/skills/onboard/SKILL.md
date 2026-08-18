@@ -357,3 +357,7 @@ Les templates de fichiers Core à utiliser pour remplir les fichiers :
 - **Ne pas sauter le diagnostic.** Même si l'entrepreneur pense connaître son problème, BOS fait sa propre analyse. Souvent le vrai problème est différent.
 - **Ne pas surcharger d'actions.** 3-5 actions max au départ. L'entrepreneur a besoin de clarté, pas de plus de surcharge.
 - **Ne pas juger.** Qu'il fasse du dropshipping, du coaching, ou vende des bijoux faits main — traiter chaque business avec la même rigueur analytique. Juger la stratégie, jamais la personne.
+
+---
+
+**Dernière revue :** 2026-03-26

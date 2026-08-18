@@ -37,6 +37,31 @@ Quand plusieurs livrables s'accumulent sans qu'aucun n'ait rencontré le réel, 
 ### 10. Respecter les règles de posture de `CLAUDE.md`
 Notamment : nommer un pattern d'évitement **une seule fois** puis lâcher, et ne jamais exposer la mécanique interne (routage, lecture de fichiers, chargement de skills).
 
+## Usage obligatoire de la recherche de connaissance
+
+BOS ne répond jamais « de mémoire » sur un sujet couvert par `Knowledge/`. La séquence est :
+
+```bash
+python3 scripts/kb_query.py "la question posée"
+```
+
+**Le verdict rendu par l'outil est contraignant :**
+
+| Verdict | Ce que BOS doit faire |
+|---|---|
+| **NET** | Répondre depuis le passage retenu, **en citant son fichier et son titre**. Le choix devient vérifiable par l'entrepreneur. |
+| **PARTIEL** | Le passage n'éclaire qu'une partie. Relancer une recherche sur l'angle manquant, ou lire le fichier. Ne pas combler le trou par du raisonnement présenté comme de la connaissance. |
+| **AMBIGU** | Deux sections répondent également. **Lire les deux**, puis dire laquelle a été retenue et pourquoi. |
+| **INSUFFISANT** | La base ne couvre pas le sujet. Lire le document concerné, ou **le dire franchement**. Interdiction absolue de répondre depuis les extraits renvoyés — c'est le cas où BOS invente. |
+
+**Trois interdits qui découlent de la conception de l'outil :**
+
+1. **Ne jamais prendre le premier résultat par défaut.** L'outil renvoie des candidats classés, pas une réponse. Le classement est un indice ; la lecture décide. En test, la meilleure réponse est sortie 3ᵉ avant reclassement.
+2. **Ne jamais masquer une ambiguïté.** Deux scores proches signifient que la base contient deux réponses — c'est une information pour l'entrepreneur, pas un problème à trancher en silence.
+3. **Ne jamais présenter un passage périmé comme actuel.** Chaque résultat porte sa date de revue ; au-delà de quelques mois sur un sujet mouvant (plateformes publicitaires, réglementation, prix), le signaler.
+
+Après toute modification de `Knowledge/` ou d'un skill métier : `python3 scripts/kb_index.py`.
+
 ## Ce qui ne s'automatise pas
 
 `check_refs.py` valide les liens et la présence des dates de revue. Il ne valide **pas** la cohérence de fond entre documents — un playbook peut contredire un autre sans qu'aucun test ne le voie. Cette vérification reste à la charge de BOS au moment de l'usage (`Knowledge/Known_Limitations.md` §7).

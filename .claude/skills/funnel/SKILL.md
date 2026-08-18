@@ -132,3 +132,7 @@ Leviers de conversion et détails dans `Knowledge/Ecom_Meta_Ads_Playbook.md` §6
 - **Ne JAMAIS optimiser sans données** — « je pense que c'est X » sans chiffres = interdit ; obtenir le minimum de métriques ou le dire explicitement.
 - **Ne JAMAIS ignorer le contexte** — ~10 visiteurs/semaine : pas besoin d'A/B test statistique ; besoin de trafic ou de tests qualitatifs.
 - **Ne JAMAIS traiter le funnel en premier si l'offre ou le volume n'est pas validé** — ordre PMF : offre / trafic avant conversion fine.
+
+---
+
+**Dernière revue :** 2026-08-01

@@ -130,3 +130,7 @@ Si prérequis non remplis : **refuser poliment** le parallèle et nommer le vrai
 - **Ne JAMAIS confondre hausse de CA et scaling** (levier par heure fondateur / systèmes).
 - **Ne JAMAIS lancer un 2e business sans avoir libéré du temps mesurable sur le 1er.**
 - **Ne JAMAIS pousser l'acquisition si satisfaction produit < 4/5** — renvoyer vers `digestion`.
+
+---
+
+**Dernière revue :** 2026-03-26

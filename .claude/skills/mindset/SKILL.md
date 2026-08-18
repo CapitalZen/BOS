@@ -159,3 +159,7 @@ Deux recadrages à garder sous la main :
 - **Ne JAMAIS** laisser le responsabilité externe passer sans challenge — avec respect.
 - **Ne JAMAIS** traiter uniquement le symptôme (ex. « fais plus d'outreach ») quand le vrai problème est la **peur**.
 - **Ne JAMAIS** exposer le routing interne à l'utilisateur.
+
+---
+
+**Dernière revue :** 2026-08-01

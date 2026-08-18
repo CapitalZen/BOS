@@ -13,7 +13,8 @@
 | Un chiffre entre dans la base | Vérifier le tier dans `Knowledge/Source_Tiers.md`, écrire la source et le dénominateur |
 | Une source nouvelle apporte une méthode | Le playbook `Knowledge/` concerné — **pas un nouveau fichier** si un existant couvre le domaine |
 | Un skill est créé ou renommé | Le routage dans `CLAUDE.md` (deux endroits : liste courte §routing + section `.claude/skills/`) + `Knowledge/INDEX.md` |
-| Un document `Knowledge/` est créé | `Knowledge/INDEX.md` + le sommaire des Knowledge dans `CLAUDE.md` |
+| Un document `Knowledge/` est créé | `Knowledge/INDEX.md` + le sommaire dans `CLAUDE.md` + **rebuild de l'index** |
+| Un document `Knowledge/` ou un skill métier est modifié | **`python3 scripts/kb_index.py`** — sinon la recherche renvoie l'ancienne version |
 | Une limite de BOS est découverte | `Knowledge/Known_Limitations.md` |
 | Un livrable est produit | `Output/` avec date dans le nom + mention dans `Core/Actions.md` ou `Journal.md` |
 | Une piste est écartée | **Le motif, pas seulement la conclusion** — sinon la question revient dans trois mois |
@@ -29,6 +30,7 @@
 
 ```bash
 python3 scripts/check_refs.py    # références croisées + skills fantômes + fraîcheur
+python3 scripts/kb_index.py      # reconstruit l'index de recherche
 ```
 
 À lancer après toute session qui a créé ou renommé des fichiers.

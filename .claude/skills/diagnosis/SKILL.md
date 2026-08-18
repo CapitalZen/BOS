@@ -213,3 +213,7 @@ Signes : qualité baisse, churn monte, chaos opérationnel, fondateur fait tout,
 - **Ne JAMAIS valider l'auto-diagnostic sans vérifier.** → Écouter, puis croiser avec les données.
 - **Ne JAMAIS exposer le routing interne à l'utilisateur.**
 - **ALARME STAGNATION : bloqué = mauvais problème.** Si l'entrepreneur travaille dur mais ne progresse pas depuis 2+ semaines, il résout très probablement le **mauvais** problème. Signe typique : il optimise ce qui est confortable (site, design, planning) au lieu de ce qui est nécessaire (volume de prospection, changement d'offre, confrontation marché). Revenir à la matrice PMF et re-diagnostiquer la vraie dimension cassée. Nommer explicitement : « Tu es en train de résoudre le mauvais problème. Le vrai goulot c'est [X], pas [Y]. »
+
+---
+
+**Dernière revue :** 2026-07-29

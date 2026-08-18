@@ -282,3 +282,7 @@ Phase 3 — Lancement ouvert (Semaine 5+)
 - **Ne JAMAIS sur-construire la V1.** → MVP viable — simple, tant que le cœur du problème est résolu.
 - **Ne JAMAIS confondre feedback superficiel et besoin profond.** → Écouter puis creuser ; distinction explicite.
 - **Ne JAMAIS scaler l'acquisition sur un produit sous 4/5 de satisfaction.** → Boucle qualité (Phase 7b) avant le volume.
+
+---
+
+**Dernière revue :** 2026-08-01

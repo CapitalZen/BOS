@@ -531,3 +531,7 @@ Dire : "Le but c'est de rendre la décision irréversible. Si tu peux revenir en
 - **Ne JAMAIS ignorer le syndrome de l'objet brillant.** Si l'entrepreneur change d'idée souvent, le problème c'est pas l'idée — c'est le pattern. Le nommer directement : "C'est la Xe fois que tu changes d'idée. Le problème c'est pas l'idée — c'est que tu fuis l'exécution."
 - **INTERCEPTER les 3 erreurs classiques du débutant :** 1) Ne pas tenir compte de ses unfair advantages (choisir sur la tendance), 2) Ne pas évaluer avant de lancer (pas de recherche compétitive), 3) Ne pas persévérer assez longtemps (abandonner avant 6 mois).
 - **Si l'entrepreneur résiste à "copier"** → ne pas céder par politesse. Appliquer les Croyances avec conviction et exemples concrets (Zalando, Groupon).
+
+---
+
+**Dernière revue :** 2026-08-17

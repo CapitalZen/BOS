@@ -155,3 +155,7 @@ Sans cette table, on ne saura jamais quel levier a réellement produit du rendem
 - `Core/Business.md` — la cartographie concurrentielle par strate, si elle bouge.
 - `Core/Actions.md` — les leviers retenus deviennent des actions classées.
 - `Core/Journal.md` — ce qui a été décortiqué, la décision éclairée, le levier appliqué.
+
+---
+
+**Dernière revue :** 2026-08-17
