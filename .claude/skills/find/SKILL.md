@@ -156,6 +156,14 @@ Dire : "Tu préfères un truc qui a 80% de chances de marcher mais qui plafonne 
 
 Le **comportement de contournement** est le signal le plus fiable, et le plus facile à observer : quelqu'un qui a bricolé une solution de fortune, développé une routine d'évitement, ou acheté plusieurs fois un produit qui ne marche pas a **déjà prouvé** que la douleur vaut un effort. Un énervement sans contournement est une préférence, pas un problème.
 
+**Deux tests complémentaires avant la grille :**
+
+**1. Vitamine ou antidouleur ?** Une vitamine est agréable mais reportable — on l'achète quand tout va bien, on l'abandonne dès que le budget se resserre. Un antidouleur soulage quelque chose d'urgent et de récurrent : on le rachète même quand ça va mal. **Les vitamines meurent au premier trimestre creux.** Le test : *si cette personne devait couper une dépense ce mois-ci, celle-ci sauterait-elle en premier ?* Si oui, c'est une vitamine.
+
+**2. Contre quoi le client compare-t-il réellement ? (Jobs to be Done, Clayton Christensen)** Le client n'achète pas un produit, il « embauche » quelque chose pour faire un travail précis dans sa vie. **L'erreur classique est de se croire en concurrence avec les produits de sa catégorie.** Cas fondateur : McDonald's cherchait à améliorer ses milkshakes ; l'analyse a montré que les acheteurs du matin les « embauchaient » pour rendre un long trajet supportable *et* tenir jusqu'au déjeuner — d'une seule main, sans miettes. Les concurrents réels n'étaient donc pas les autres milkshakes, mais **la banane, le donut et le bagel**.
+
+Conséquence opérationnelle : identifier le *job* avant le produit change la liste des concurrents, le prix de référence et l'argument. Question à poser : *« Qu'est-ce que cette personne utilisait juste avant, et que fait-elle si notre solution n'existe pas ? »* La réponse est le vrai concurrent — c'est souvent « rien », « un tableur » ou « demander à quelqu'un ».
+
 Grille de qualification, à passer sur chaque piste avant les 3 filtres :
 
 | # | Validation | Ce qu'on cherche |

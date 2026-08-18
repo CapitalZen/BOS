@@ -95,6 +95,20 @@ Une fois la recherche externe faite, on ne cherche pas à copier ce qui marche m
 
 ## Étape 2 — Interroger visiteurs et clients
 
+### Les règles d'entretien — d'après *The Mom Test* (Rob Fitzpatrick)
+
+**Le problème que ces règles résolvent :** tout le monde ment poliment. Présenter son idée à quelqu'un produit des encouragements, pas de l'information — même sa propre mère dirait que c'est une bonne idée. D'où le nom : un bon entretien est celui dont **même sa mère ne pourrait pas fausser le résultat**.
+
+| Règle | Pourquoi |
+|---|---|
+| **Parler de leur vie, jamais de son idée** | Dès que l'idée est sur la table, l'interlocuteur juge l'idée au lieu de raconter sa réalité |
+| **Demander des faits passés, jamais des intentions futures** | « Est-ce que tu achèterais ça ? » ne vaut rien. « La dernière fois que ça t'est arrivé, tu as fait quoi exactement ? » vaut tout |
+| **Chiffrer le coût réel** | « Combien de temps ça t'a pris ? Combien ça t'a coûté ? » — un coût nommé prouve que la douleur est réelle |
+| **Chercher le contournement** | S'il a bricolé un tableur, payé une solution partielle ou passé des heures dessus, la douleur est prouvée. Sinon c'est une préférence |
+| **Écouter plus que parler** | Le silence fait parler ; l'enthousiasme fait taire |
+
+**Le signal qui invalide un entretien :** l'interlocuteur est enthousiaste mais ne peut citer **aucun épisode précis** où le problème l'a touché. Un compliment n'est pas une donnée — le marché vote avec son argent et son temps, pas avec des encouragements.
+
 Deux populations, deux enseignements : les **visiteurs** révèlent motivations, douleurs et inquiétudes ; les **clients** révèlent ce qui les a convaincus et le résultat qu'ils cherchaient.
 
 **Les 10 questions (formulaire simple) :**
