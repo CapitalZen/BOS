@@ -25,22 +25,45 @@ Le contournement est obligatoire : sans lui, la douleur n'est pas prouvée (`.cl
 
 ---
 
-## Étape 2 — Prouver la demande (TOI, dans le navigateur — gratuit)
+## Étape 2 — Prouver la demande (sur TON poste)
 
-**Google Trends n'est pas accessible depuis mon environnement** (l'hôte répond, aucun endpoint ne sert de données sans authentification ; l'API officielle est en alpha sur liste d'attente depuis juillet 2025 et quasiment personne n'y entre). Donc tu l'exécutes, exactement comme pour les verbatims Trustpilot — et ça avait très bien marché.
+**Google Trends est inaccessible depuis l'environnement de BOS, définitivement.** `trends.google.com` renvoie **403 au niveau du CONNECT** : le proxy refuse d'ouvrir le tunnel avant même le handshake TLS. C'est un blocage de politique réseau, pas une détection de robot.
 
-### Le protocole, pour chaque hypothèse
+**Conséquence importante pour le choix de l'outil :** un navigateur furtif n'y change rien. La furtivité (empreinte TLS, cookies, résolution de Turnstile) opère *à l'intérieur* d'une connexion établie — elle ne peut pas en ouvrir une que la politique refuse. Aucun outil ne contournera ça depuis ici.
 
-Sur [trends.google.fr](https://trends.google.fr) — gratuit, sans compte :
+### La bonne solution : `trends-surfer`, sur ta machine
 
-1. **Réglages fixes :** France · **12 derniers mois** · Recherche sur le Web.
-2. **Saisir le terme du problème**, pas le nom d'un produit. « révision FIMO » et non « QCM ».
-3. **Relever trois choses :**
-   - **La courbe** — plate, montante, descendante, ou saisonnière (des pics réguliers = fenêtre de vente prévisible).
-   - **« Requêtes associées » → onglet "En hausse"** — c'est là que se trouvent les vrais mots des gens, et les problèmes qu'on n'avait pas devinés.
-   - **« Sujets associés »** — élargit vers les problèmes voisins.
-4. **Comparer** l'hypothèse à un terme témoin dont tu sais qu'il a du volume, pour situer l'échelle. Google Trends ne donne que du **relatif** — jamais un volume absolu. Sans comparaison, un « 100 » ne veut rien dire.
-5. **Copier-coller le tableau des requêtes associées** et me l'envoyer.
+[`pi-infected/trends-surfer`](https://github.com/pi-infected/trends-surfer) est un **plugin Claude Code** qui interroge Google Trends en langage naturel via une session Chrome furtive. Il remplace intégralement le protocole manuel : plus de copier-coller de tableaux, tu poses la question et les données arrivent dans la conversation.
+
+**Ce qu'il renvoie :** intérêt dans le temps · requêtes et sujets associés (dont les « en hausse ») · intérêt par région · tendances du moment. Exactement ce que demande cette étape.
+
+**Signes que l'outil est sérieusement fait :**
+- Il réimplémente les endpoints modernes plutôt que d'utiliser `pytrends`, **archivé en avril 2025** et bloqué par Google à cause de l'empreinte TLS de Python.
+- Il impose un **délai aléatoire de 30 à 90 secondes entre deux requêtes, non contournable**, persisté sur disque. C'est une contrainte volontaire pour respecter les limites de Google — un outil qui ne l'aurait pas serait un outil qui te fait bannir.
+- Il documente honnêtement les pièges (le 429 de Google sur les widgets, le fait que `/trends/explore` consomme le budget avant même ta requête).
+
+### Installation
+
+Le README contient une section **écrite explicitement pour qu'un agent IA la suive**. Le plus simple : donner l'URL du dépôt à ton Claude Code local et lui demander d'installer — il a les instructions pas à pas.
+
+Manuellement, dans l'ordre :
+
+1. `uv --version` — si absent : `python -m pip install --user uv`
+2. `uv run patchright install chrome` depuis le dossier cloné — **c'est l'étape qu'on rate**, elle ne se fait pas toute seule au démarrage du serveur
+3. `/plugin marketplace add <chemin-absolu-du-dossier>` puis `/plugin install trends_surfer@trends-surfer-local` puis `/reload-plugins`
+4. Vérifier avec l'outil `trends_health` → attendre `chrome_available: true`
+
+### Le flux de travail qui en découle
+
+BOS tourne ici, le plugin tourne chez toi. Donc : **tu poses les questions Trends à ton Claude Code local, tu me colles les résultats.** C'est le même schéma que les verbatims Trustpilot, qui a bien fonctionné — sauf que là, la collecte est automatisée au lieu d'être manuelle.
+
+### Ce qu'il faut demander, pour chaque hypothèse
+
+France · **12 derniers mois** · le terme du *problème*, pas d'un produit.
+
+1. L'**intérêt dans le temps** — plate, montante, descendante, ou saisonnière (des pics réguliers = fenêtre de vente prévisible).
+2. Les **requêtes associées en hausse** — c'est là que sont les vrais mots des gens, et les problèmes qu'on n'avait pas devinés.
+3. Une **comparaison avec un terme témoin** dont on sait qu'il a du volume. Google Trends ne donne que du **relatif** — un « 100 » seul ne veut rien dire.
 
 ### Ce qui invalide une hypothèse, immédiatement
 
@@ -51,9 +74,7 @@ Sur [trends.google.fr](https://trends.google.fr) — gratuit, sans compte :
 | Aucune requête associée en hausse | Sujet mort ou trop étroit pour Trends |
 | Pic unique lié à une actualité | Effet de mode, pas un problème → écarter |
 
-**Un « pas de données suffisantes » de Google Trends n'est pas un échec :** ça veut dire que le terme est trop rare pour l'outil. Élargir d'un cran et recommencer.
-
----
+**Un « pas assez de données » n'est pas un échec** — ça veut dire que le terme est trop rare pour l'outil. Élargir d'un cran et recommencer.
 
 ## Étape 3 — Vérifier que quelqu'un paie déjà (BOS)
 

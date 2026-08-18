@@ -88,4 +88,16 @@
 
 ---
 
+## 8. Google Trends inaccessible — et aucun outil ne le contourne depuis ici
+
+**Ce qui est touché.** Toute validation de demande par volume de recherche : le cœur de l'étape 2 du moteur « premier euro ».
+
+**Cause.** `trends.google.com` renvoie **403 au niveau du CONNECT** — le proxy refuse d'ouvrir le tunnel avant tout handshake TLS. L'API officielle Google Trends existe mais est en **alpha sur liste d'attente depuis juillet 2025**, et les retours convergent : quasiment personne n'y entre.
+
+**Signe observable.** Un outil de contournement par navigateur furtif (`pi-infected/trends-surfer`, testé le 18/08/2026) échouera exactement de la même façon. **La furtivité résout la détection de robot, pas le blocage réseau** : empreinte TLS, cookies et résolution de Turnstile opèrent *à l'intérieur* d'une connexion établie. Distinction à retenir pour tout futur outil proposé sur ce type de blocage.
+
+**Correction.** Exécuter l'outil sur une machine sans proxy — `trends-surfer` est un plugin Claude Code fait pour ça, et il remplace avantageusement toute collecte manuelle. Les résultats se collent ensuite dans BOS, comme pour les verbatims Trustpilot.
+
+---
+
 **Dernière revue :** 2026-08-17

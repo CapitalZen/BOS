@@ -9,7 +9,8 @@
 
 | # | Action | Qui | Coût | Temps |
 |---|--------|-----|------|-------|
-| 1 | **Valider la demande sur Google Trends** — protocole complet dans `Output/Moteur_Premier_Euro_2026-08-18.md` étape 2. France, 12 mois, relever la courbe + les requêtes associées « en hausse » | Toi | 0 € | 15 min |
+| 1a | **Installer `trends-surfer` sur ton Claude Code local** — plugin Google Trends en langage naturel. Le README a une section écrite pour qu'un agent IA la suive : donne-lui l'URL du dépôt. Piège à ne pas rater : `uv run patchright install chrome` | Toi (ou ton Claude local) | 0 € | ~20 min |
+| 1b | **Valider la demande** — France, 12 mois, intérêt dans le temps + requêtes associées « en hausse », sur les termes du problème. Me coller les résultats | Toi | 0 € | 15 min |
 | 2 | **Créer le statut micro-entrepreneur** — gratuit, en ligne, zéro cotisation tant que zéro CA. Pas bloquant pour la 1ʳᵉ vente, indispensable ensuite | Toi | 0 € | 15 min |
 | 3 | Chercher les offres payantes existantes sur la piste validée + lire leurs avis négatifs | **BOS** | 0 € | — |
 | 4 | Produire la plus petite chose vendable | **BOS** | 0 € | — |
