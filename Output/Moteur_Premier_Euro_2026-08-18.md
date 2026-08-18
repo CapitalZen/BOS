@@ -65,6 +65,19 @@ France · **12 derniers mois** · le terme du *problème*, pas d'un produit.
 2. Les **requêtes associées en hausse** — c'est là que sont les vrais mots des gens, et les problèmes qu'on n'avait pas devinés.
 3. Une **comparaison avec un terme témoin** dont on sait qu'il a du volume. Google Trends ne donne que du **relatif** — un « 100 » seul ne veut rien dire.
 
+### Deux horizons, deux questions différentes — les faire tous les deux
+
+C'est une précision qui change la lecture, et elle manquait à la première version de ce document :
+
+| Fenêtre | Ce qu'elle répond |
+|---|---|
+| **12 derniers mois** | *La demande est-elle vivante maintenant ?* Détecte l'effondrement récent et les requêtes associées actuelles. |
+| **5 dernières années** | *Le problème est-il permanent ou passager ?* C'est le test **evergreen** : une courbe plate ou légèrement montante sur 5 ans = problème structurel. Des pics uniquement en décembre ou en juillet = saisonnier. Une bosse unique = mode morte. |
+
+**Les deux sont nécessaires.** Un problème evergreen dont la demande s'est effondrée cette année est mort ; un problème en forte hausse sur 12 mois mais absent des 4 années précédentes est une mode. On ne garde que ce qui passe les deux.
+
+**Pourquoi l'evergreen compte particulièrement ici :** l'objectif est un revenu qui se répète, pas un coup. Un problème saisonnier impose de retrouver un nouveau produit chaque trimestre — c'est le contraire de la charge opérationnelle marginale nulle qu'exige le critère 3.
+
 ### Ce qui invalide une hypothèse, immédiatement
 
 | Signal | Verdict |
@@ -75,6 +88,16 @@ France · **12 derniers mois** · le terme du *problème*, pas d'un produit.
 | Pic unique lié à une actualité | Effet de mode, pas un problème → écarter |
 
 **Un « pas assez de données » n'est pas un échec** — ça veut dire que le terme est trop rare pour l'outil. Élargir d'un cran et recommencer.
+
+### ⚠️ Le piège des listes de « niches evergreen »
+
+Les catégories evergreen classiques qui circulent — compléments alimentaires, sérums, coussins lombaires, organisateurs de câbles, accessoires pour animaux, semelles — sont **toutes des produits physiques**. Elles échouent aux critères 1, 2 et 3 : stock à acheter, expédition, retours, douane. C'est exactement la configuration de Velune, actuellement en réserve **parce qu'elle est bloquée sur la trésorerie**.
+
+**Ce qu'il faut retenir de l'evergreen, en revanche, est parfaitement transposable :** un problème permanent + une livraison numérique = des ventes qui se répètent à coût marginal nul. C'est le croisement à viser.
+
+**Deux réserves supplémentaires sur ces listes :**
+- Les outils cités pour les valider (Helium 10, Jungle Scout) coûtent 40-100 $/mois. Hors budget, et non nécessaires : Google Trends sur 5 ans répond à la même question.
+- Les **compléments alimentaires** sont une catégorie réglementée — les allégations santé sont encadrées. À écarter tant qu'il n'y a pas de raison forte d'y aller.
 
 ## Étape 3 — Vérifier que quelqu'un paie déjà (BOS)
 
