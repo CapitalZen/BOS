@@ -1,61 +1,48 @@
 # Actions
 
-**Semaine du :** 13/08/2026
-**Focus :** Retour sur Velune. Priorités données par la cartographie de chaîne de valeur (`Core/Business.md`) : court-circuiter les intermédiaires en amont (1688 direct), et construire le maillon distribution qu'on possède (organique). Activité intégration IA en réserve, rien de perdu.
+**Semaine du :** 18/08/2026
+**Focus :** Reset. Objectif unique — **les 5 premiers euros**, sur un problème dont la demande est prouvée par des données de recherche. Velune et l'intégration IA en réserve, intégralement conservées.
 
 ---
 
-## Maintenant (par priorité)
+## Maintenant
 
-| # | Action | Pourquoi | Qui | Statut |
-|---|--------|----------|-----|--------|
-| 1 | **Envoyer les RFQ 1688 déjà rédigées** (`Output/Sourcing_Soutien_Gorge_Sans_Armature_2026-08-04.md`) — shortlist et message prêts, rien à écrire | Seul maillon amont actionnable dès maintenant : ~20-30 % de marge récupérée en court-circuitant Alibaba/agent, à coût zéro | Toi (envoi), **BOS** a déjà tout rédigé | À faire maintenant |
-| 2 | **Publier J2** (avant/après) — visuel **et légende** prêts dans `Output/Velune_Content_System/Bio_et_Legendes.md`, à copier-coller tel quel | Construction du maillon distribution : la seule part de la chaîne possédable à capital nul | Toi (2 min, plus rien à rédiger) | À faire maintenant |
-| 3 | Publier J3 (le savais-tu) le lendemain — légende également écrite | Cadence — c'est la régularité qui construit l'audience, pas le volume ponctuel | Toi (2 min) | À venir |
-| 4 | Répondre aux commentaires sous J1/J2 au fil de l'eau | Collecte de vocabulaire client réel (alimente le copy de la boutique plus tard) | Toi, **BOS** aide à formuler | En continu |
-| 5 | Immersion territoire (vocabulaire, frustrations réelles de l'audience) | Amorcée le 04/08, à reprendre — alimente les prochains visuels et le copy boutique | **BOS** | Reprise |
-| 6 | Monter la boutique Shopify | À déclencher quand il y a de la demande à convertir, pas avant (`Core/Business.md`, séquence de financement) | **BOS** construit | Plus tard |
-| 7 | Commander un échantillon (15-40 €) | Nécessaire pour filmer du contenu produit réel — reste conditionné au budget (entrée en poste) | Toi | Bloqué (budget) |
+| # | Action | Qui | Coût | Temps |
+|---|--------|-----|------|-------|
+| 1 | **Valider la demande sur Google Trends** — protocole complet dans `Output/Moteur_Premier_Euro_2026-08-18.md` étape 2. France, 12 mois, relever la courbe + les requêtes associées « en hausse » | Toi | 0 € | 15 min |
+| 2 | **Créer le statut micro-entrepreneur** — gratuit, en ligne, zéro cotisation tant que zéro CA. Pas bloquant pour la 1ʳᵉ vente, indispensable ensuite | Toi | 0 € | 15 min |
+| 3 | Chercher les offres payantes existantes sur la piste validée + lire leurs avis négatifs | **BOS** | 0 € | — |
+| 4 | Produire la plus petite chose vendable | **BOS** | 0 € | — |
+| 5 | Mettre en vente et encaisser 5 € | Toi | 0 € | — |
+
+**Répartition :** sur ce plan, BOS fait 2 étapes sur 5 entièrement, et prépare les 3 autres. Ce qui te reste est irréductiblement humain : cliquer, publier, encaisser.
 
 ---
 
-## En réserve — Intégration IA / cabinets dentaires (rien n'est perdu)
+## En réserve — rien n'est perdu
 
-| Élément | État au moment de la mise en réserve |
+| Projet | État conservé |
 |---|---|
-| Secteur dentaire recherché et sourcé | 2 angles validés (relance devis, patients inactifs), angles disqualifiés documentés |
-| 5 cabinets identifiés nominativement | Rue de la Station, avec adresses et 2 téléphones directs — `Core/Business.md` |
-| Démo interactive | `Output/Demo_Suivi_Patient_Dentaire_2026-08-07.html`, construite et publiée en Artifact |
-| Positionnement et pitch | `Output/Positionnement_2026-08-13.md` — bio générique + pitch secteur |
-| Méthodologie | `Knowledge/AI_Integration_Playbook.md`, prête à l'usage |
-| Journal des missions | `Core/Journal_Missions_IA.md`, vide, prêt |
-| Secteurs de réserve | Auto-écoles, opticiens (peu ciblés par la concurrence IA) |
+| **Velune** (e-commerce sans armature) | Comptes actifs, J1 publié, **J2/J3 prêts avec visuels et légendes**, sourcing 1688 avec RFQ rédigées, planche d'identité, message mining complet (IFOP + 358 avis Trustpilot analysés), cartographie concurrentielle. Bloqué sur la trésorerie, donc sur l'entrée en poste — pas sur une erreur. |
+| **Intégration IA / cabinets dentaires** | Secteur recherché, 5 cabinets identifiés nominativement, démo interactive publiée, positionnement et pitch rédigés, playbook méthodologique |
 
-**Condition de reprise :** immédiate, sans repartir de zéro, si Velune ne convertit pas ou en complément plus tard.
-
----
-
-## Écarté le 13/08/2026
-
-| Piste | Raison |
-|---|---|
-| Étiquettes autocollantes personnalisées (enfants, école/crèche) | **Motif structurel, pas concurrentiel :** chaque unité est imprimée à la commande (prénom de l'enfant) — ni stock ni dropshipping possibles. Les trois voies de production sont fermées à ce stade : matériel d'impression (capital indisponible), partenaire POD (les acteurs français du secteur sont les concurrents), personnalisation en Chine (3-4 semaines, contre une fenêtre de rentrée à ~2 semaines). *Justification corrigée le 13/08 — la saturation du marché avait été invoquée à tort comme preuve à charge ; c'est une preuve de demande. Règle ajoutée dans `CLAUDE.md`.* |
+**Condition de reprise :** immédiate pour les deux, sans repartir de zéro.
 
 ---
 
 ## Actions terminées
 
-| # | Action | Résultat | Date |
-|---|--------|----------|------|
-| — | Choix de direction | E-commerce retenu — fin de la phase d'hésitation | 29/07/2026 |
-| — | Choix du territoire | Mode & accessoires féminins à utilité — niche large, entrée organique | 29/07/2026 |
-| — | Système de contenu livré | Grille de formats, 20 hooks, calendrier semaine 1 | 29/07/2026 |
-| — | Trésorerie chiffrée + profil complété | Trésorerie quasi nulle jusqu'à l'entrée en poste ; objectif et contraintes clarifiés | 01/08/2026 |
-| — | Recherche produit — phase demande | Shortlist de 3 archétypes scorés — `Output/Recherche_Produit_Shortlist_2026-07-29.md` | 29/07/2026 |
-| — | Construction de la base de connaissance BOS | Dizaines de sources installées et câblées dans les skills (`Knowledge/`) | 29/07 → 04/08/2026 |
-| — | Programme complet écrit (0 → bascule payante → scaling → équipe) | `Output/Programme_Ecom_2026-08-04.md` | 04/08/2026 |
-| — | Vérification concurrence + choix du produit | Sous-vêtement sans armature/sans couture retenu ; accessoire coiffure éliminé (marché verrouillé) | 04/08/2026 |
-| — | **Premier post publié — J1 (débat)** | En ligne sur Instagram ET TikTok (`velune.fwi`), blocage perfectionnisme dépassé | 06/08/2026 |
-| — | Détour intégration IA (7 jours) | Secteur dentaire recherché, démo construite, positionnement rédigé — tout conservé en réserve | 07 → 13/08/2026 |
-| — | Skills de qualité visuelle installés | 13 skills `taste-skill` — s'appliquent à tout livrable visuel, Velune compris | 13/08/2026 |
-| — | Cartographie de la chaîne de valeur | Maillon par maillon, sourcé — donne l'ordre de priorité de la reprise Velune | 13/08/2026 |
+| Action | Résultat | Date |
+|--------|----------|------|
+| Choix de direction, territoire, système de contenu | E-commerce, mode féminine à utilité, 20 hooks + calendrier | 29/07 |
+| Trésorerie et profil clarifiés | Budget zéro jusqu'à l'entrée en poste — contrainte réelle identifiée | 01/08 |
+| Recherche produit + concurrence | Sous-vêtement sans armature retenu, accessoire coiffure éliminé | 04/08 |
+| Sourcing documenté | 1688, 0,99-3,27 $/unité, RFQ rédigées | 04/08 |
+| **Premier post publié (J1)** | En ligne sur Instagram et TikTok — blocage perfectionnisme dépassé | 06/08 |
+| Détour intégration IA (7 jours) | Dentaire recherché, démo construite — conservé en réserve | 07→13/08 |
+| Cartographie de chaîne de valeur | Maillon par maillon, sourcé | 13/08 |
+| Légendes J2 et J3 écrites | Correction d'une erreur : elles étaient annoncées prêtes sans l'être | 17/08 |
+| Visuels J1-J3 + planche d'identité refaits | Standard éditorial, rendu déterministe | 17/08 |
+| **Message mining du marché** | IFOP (3 018 femmes) + 358 avis Trustpilot réels analysés, 5 corrections de données affiliées | 17/08 |
+| Upgrade de BOS | Skill `teardown`, tiering de sources, registre de limites, index de navigation, protocole de maintenance, recherche de connaissance avec garanties anti-arbitraire | 17/08 |
+| **Reset et moteur « premier euro »** | 6 critères de sélection, protocole Google Trends, 3 gisements d'hypothèses | 18/08 |

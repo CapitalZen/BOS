@@ -1,6 +1,50 @@
 # Business
 
-**Stade (mis à jour le 13/08/2026) :** **retour à Velune (e-commerce, sous-vêtement sans armature) comme direction active.** L'activité d'intégration IA passe en réserve : tout le travail est conservé (secteur dentaire recherché, cabinets identifiés, démo construite, positionnement rédigé) et reprenable à tout moment — voir la section dédiée plus bas. Piste des étiquettes autocollantes personnalisées évaluée le 13/08 puis écartée — **pour un motif structurel, pas concurrentiel** : chaque unité est imprimée à la commande (au prénom de l'enfant), donc impossible à acheter en stock ou à dropshipper. Il faudrait soit du matériel d'impression (capital indisponible), soit un partenaire POD (les acteurs français du secteur *sont* les concurrents), soit un aller-retour de personnalisation en Chine (3-4 semaines, incompatible avec un pic d'achat de rentrée à ~2 semaines). Justification initiale corrigée le 13/08 : la saturation du marché avait été invoquée à tort comme motif d'élimination (voir `CLAUDE.md`, règle ajoutée).
+**Stade (mis à jour le 18/08/2026) — RESET.** Nouvelle direction : **atteindre le premier euro réel, le plus vite possible, sur un problème dont la demande est prouvée par des données de recherche.** Objectif immédiat : **5 €**. Puis décider, sur données et non par avance, s'il faut empiler une seconde activité ou faire grossir la première.
+
+**Rien n'est supprimé.** Velune (e-commerce sans armature) et l'activité d'intégration IA passent toutes deux en réserve, intégralement documentées plus bas — recherche marché, verbatims Trustpilot, visuels, légendes, sourcing 1688, planche d'identité, positionnement dentaire, démo. Tout reste repris­able sans repartir de zéro.
+
+**Pourquoi ce reset est justifié, et ce n'est pas un abandon de plus :** Velune est bloqué sur un prérequis que l'entrepreneur ne contrôle pas — la trésorerie, elle-même conditionnée par l'entrée en poste. Le travail accompli reste valable, mais il ne peut pas produire d'euro avant cette date. Le reset ne change pas de projet par lassitude : il cherche un chemin vers le premier euro **qui ne dépend d'aucune date extérieure**.
+
+## Direction actuelle — du problème prouvé au premier euro (depuis le 18/08/2026)
+
+### L'objectif, énoncé honnêtement
+
+| Palier | Ce que ça prouve |
+|---|---|
+| **5 €** | Qu'un inconnu peut payer pour quelque chose qu'il a produit. **C'est la marche la plus dure de tout le parcours.** |
+| 10 €, 50 €, 200 € | Que ce n'était pas un accident, et que ça se répète |
+| ~1 SMIC cumulé | L'horizon — atteint par empilement **ou** par croissance de la première activité, selon ce que les données diront |
+
+**Le point à ne pas se raconter :** 0 € → 5 € n'est pas « 1/280ᵉ du chemin vers un SMIC ». C'est la majorité de la difficulté. Tout ce qui vient après relève d'une classe de problème différente et mieux connue : faire grossir quelque chose de prouvé. Traiter les 5 € comme une simple étape 1 sur 10 conduirait à les sous-investir.
+
+### La réserve sur l'empilement — à trancher plus tard, pas maintenant
+
+Le modèle « une activité à 5 €, une autre à 10 €, etc. » contredit deux principes de `CLAUDE.md` : *une chose à la fois*, et *le simple scale, le complexe casse*. Il n'est pas faux pour autant — mais il n'est valable **que si chaque unité a une charge opérationnelle marginale quasi nulle** une fois lancée.
+
+- **Empile bien :** produit numérique, contenu monétisé, brique automatisée, actif qui tourne sans intervention.
+- **N'empile pas :** tout ce qui a des commandes, des retours, du SAV, du stock. Deux boutiques e-commerce, ce n'est pas deux fois plus de revenu, c'est deux fois plus d'opérations pour un entrepreneur qui a 50 minutes par jour.
+
+**Décision reportée, volontairement :** on ne pré-engage pas un portefeuille. Après le premier euro, les données diront s'il vaut mieux répéter ou approfondir.
+
+### Les 6 critères qu'une piste doit satisfaire
+
+Une piste qui échoue à un seul critère est écartée, avec le motif écrit.
+
+| # | Critère | Pourquoi il est éliminatoire ici |
+|---|---|---|
+| 1 | **Zéro euro d'avance** | Trésorerie nulle jusqu'à l'entrée en poste. Pas de stock, pas de pub, pas d'abonnement outil. |
+| 2 | **Livraison instantanée ou service rendu par lui** | Pas d'expédition, pas de retours, pas de douane, pas de taxe à l'import. |
+| 3 | **Charge opérationnelle marginale quasi nulle** | C'est le critère qui rend l'empilement possible — ou impossible. |
+| 4 | **L'IA fait le gros de la production** | C'est son avantage réel (`CLAUDE.md` — l'IA comme unfair advantage). Une piste où BOS ne peut pas produire est une piste où il sera seul. |
+| 5 | **Demande prouvée par des données de recherche** | Volume réel sur 12 mois, pas une intuition. Et quelqu'un paie déjà pour une solution voisine. |
+| 6 | **Vérifiable et honnête** | Aucune promesse qu'il ne peut pas tenir. C'est ce qui a tué Leishape, et c'est dans `Knowledge/Source_Tiers.md` et le filtre de transférabilité du skill `teardown`. |
+
+### Prérequis administratif — à régler avant les ventes répétées
+
+**Aucun statut juridique n'apparaît dans les fichiers.** Pour encaisser une activité commerciale de façon répétée en France, le statut **micro-entrepreneur** est nécessaire. Il est **gratuit**, se crée en ligne en une quinzaine de minutes, et **ne coûte rien tant qu'il n'y a pas de chiffre d'affaires** (les cotisations sont un pourcentage du CA encaissé, donc zéro si zéro).
+
+Ce n'est pas un blocage pour la toute première vente, mais c'est un prérequis dès que ça se répète — et le découvrir trop tard est un classique. À faire pendant que la première piste se construit, pas après.
 
 ## Chaîne de valeur et stratégie d'intégration (13/08/2026)
 
