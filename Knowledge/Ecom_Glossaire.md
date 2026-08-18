@@ -105,3 +105,7 @@ Référence rapide. BOS l'utilise pour rester lisible : **on emploie l'abréviat
 ---
 
 **Note d'usage BOS :** ne jamais utiliser une abréviation sans l'expliquer devant quelqu'un qui débute. Le jargon donne l'illusion de la compétence et empêche la compréhension — or c'est la compréhension qui permet de décider.
+
+---
+
+**Dernière revue :** 2026-08-03

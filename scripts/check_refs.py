@@ -45,10 +45,23 @@ def main():
                for p in glob.glob(".claude/skills/*/SKILL.md")}
     ghosts = routed - on_disk
 
-    print(f"{len(refs)} références de fichiers · {len(routed)} skills routés dans CLAUDE.md")
+    # Fraîcheur : documents Knowledge/ sans ligne "Dernière revue"
+    undated = []
+    for f in glob.glob("Knowledge/*.md"):
+        if "Dernière revue" not in open(f, encoding="utf8").read():
+            undated.append(f)
+
+    print(f"{len(refs)} références · {len(routed)} skills routés · "
+          f"{len(glob.glob('Knowledge/*.md'))} documents Knowledge")
+
+    if undated:
+        print(f"\n{len(undated)} document(s) sans date de revue :")
+        for f in sorted(undated):
+            print(f"   {f}")
 
     if not missing and not ghosts:
-        print("OK — aucune référence cassée, aucun skill fantôme.")
+        if not undated:
+            print("OK — références intègres, skills cohérents, documents datés.")
         return 0
 
     for k, v in sorted(missing.items()):

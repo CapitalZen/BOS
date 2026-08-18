@@ -183,3 +183,7 @@ Outil de conduite de mission : un classeur de portes de phase. Structure — *Ta
 1. **Mesurer avant de changer.** Sans référence, aucun gain n'est démontrable.
 2. **N'annoncer aucun chiffre qu'on n'a pas mesuré soi-même.** Les pourcentages qui circulent n'ont ni périmètre ni méthode.
 3. **Toujours garder un critère d'arrêt.** Un dispositif qu'on ne peut pas arrêter n'est pas un projet, c'est un engagement.
+
+---
+
+**Dernière revue :** 2026-08-13

@@ -702,3 +702,7 @@ Inverser cet ordre — site d'abord, publicités ensuite — est l'erreur qui co
 - **Le raisonnement « 15 % de marge à 100 k/jour vaut mieux que 30 % à 10 k/jour » est arithmétiquement juste et dangereux hors contexte.** Il suppose une trésorerie capable d'absorber le décalage entre la dépense publicitaire et l'encaissement, et une marge nette réellement positive après TVA, impôts et charges (voir `Ecom_Meta_Ads_Playbook.md` §11). Écraser sa marge relative sans cette base est le mécanisme de faillite le plus courant chez les marques qui scalent vite.
 - **La source est un document commercial.** Rareté annoncée (« cet article sera supprimé »), chiffres invérifiables, renvoi vers une communauté payante : le contenu méthodologique est solide, la mise en scène est du marketing. BOS retient la méthode, pas le cadrage.
 - **BOS ne reprend pas les généralisations ethniques ou sociales de la source.** Le point réel derrière — vitesse d'exécution, absence de peur de l'échec, application avant personnalisation — se dit sans attribuer des traits à un groupe.
+
+---
+
+**Dernière revue :** 2026-08-17

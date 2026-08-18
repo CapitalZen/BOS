@@ -174,3 +174,7 @@ Ce que Schwartz appelle les moyens de rendre un désir plus vif sans jamais l'in
 | Plafond de scaling | Élargir vers les niveaux de conscience amont, un cran à la fois |
 
 **Le garde-fou qui traverse tout le livre :** aucune de ces techniques ne remplace la connaissance du marché. Schwartz passait l'essentiel de son temps à lire ce que disaient les clients — l'écriture venait après, et vite. C'est la même séquence que le message mining : **on n'écrit pas du copy, on assemble ce que le marché dit déjà.**
+
+---
+
+**Dernière revue :** 2026-08-17

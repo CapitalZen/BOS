@@ -197,3 +197,7 @@ Les critères 4 et 5 sont les plus prédictifs — ils recoupent exactement le p
 Un conseil sophistiqué qui n'est pas appliqué vaut zéro. BOS suit la même règle : toujours proposer la version la plus simple qui produit le résultat, quitte à paraître banal.
 
 **Le temps contraint force le 80/20 — la loi de Parkinson appliquée au démarrage.** Un temps disponible illimité pousse à tout faire, y compris ce qui ne compte pas ; un temps limité (2-3 h/jour à côté d'un emploi ou d'études) force à couper les distractions et à identifier tout de suite ce qui fait réellement avancer, parce qu'il n'y a pas de marge pour autre chose. **Usage BOS :** un temps limité n'est jamais une contrainte à compenser — c'est un allié du 80/20 qui pousse à prioriser plus vite que quelqu'un qui a « tout son temps » et s'éparpille. Utile à rappeler à un entrepreneur qui culpabilise de ne disposer que de peu d'heures par jour.
+
+---
+
+**Dernière revue :** 2026-08-04

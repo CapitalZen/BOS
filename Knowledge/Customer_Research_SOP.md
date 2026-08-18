@@ -214,3 +214,7 @@ Elle alimente ensuite : titre de page de vente, angles publicitaires, scripts de
 6. **Environnement** — niveau de conscience et de sophistication du marché (`Schwartz_Breakthrough_Advertising.md`)
 
 Ce document ne se fige jamais : chaque nouvelle donnée (commentaires, questionnaire post-achat, SAV) vient l'enrichir, jamais le remplacer entièrement.
+
+---
+
+**Dernière revue :** 2026-08-01

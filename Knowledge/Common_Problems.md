@@ -132,3 +132,7 @@ Toujours privilégier : un marché porteur, un modèle qui a fait ses preuves, l
 ## #30 — Pas de motivation profonde
 **Signaux :** Business "parce que c'est à la mode", pas de why profond. Abandonne quand c'est dur. "Je veux gagner de l'argent" mais sans conviction.
 **Solutions :** Exercice des "5 pourquoi" : pourquoi tu veux ce business → pourquoi → pourquoi → jusqu'à la raison profonde. Si pas de motivation profonde, peut-être que c'est pas le bon business pour cette personne. La motivation doit survivre aux jours difficiles. Trouver ce qui le met en colère dans le monde — c'est souvent la clé.
+
+---
+
+**Dernière revue :** 2026-03-26

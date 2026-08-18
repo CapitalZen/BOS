@@ -261,3 +261,7 @@ Le corps de la méthode est solide et applicable tel quel. Trois points mériten
 - **Les H4 ne sont pas « un signal négatif pour Google ».** Google n'a jamais documenté de pénalité liée à la profondeur de titres. Le conseil reste bon comme **règle de lisibilité** — une structure à quatre niveaux signale généralement un plan mal découpé — mais le présenter comme une règle d'algorithme est faux.
 - **Le balisage FAQPage ne produit plus de rich results dans la majorité des cas.** Depuis 2023, Google réserve l'affichage des FAQ enrichies dans la SERP à un ensemble restreint de sites institutionnels et de santé. Garder la section FAQ — elle sert la pertinence sémantique, l'expérience de lecture et les PAA — mais ne pas vendre à l'entrepreneur des questions affichées dans la SERP.
 - **Un article par jour n'est un objectif valable que si la qualité tient.** Publier 300 articles faibles construit un site que Google traite comme un site faible. La cadence est un multiplicateur de la méthode, pas un substitut : si BOS et l'entrepreneur ne peuvent pas tenir un article par jour au niveau décrit en étapes 4-6, mieux vaut 3 par semaine bien faits. Sortir cette nuance quand un entrepreneur s'engage sur la cadence — c'est le point exact où il va s'épuiser ou saborder le résultat.
+
+---
+
+**Dernière revue :** 2026-08-06

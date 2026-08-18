@@ -159,3 +159,7 @@ L'acquisition génère du revenue ; la valeur se construit sur la marque et la C
 | Ils paient mais ne sont pas satisfaits | **M** — le mécanisme ne délivre pas la transformation | NPS, taux de remboursement, réachat |
 | Ça convertit mais on perd de l'argent | **A** — CAC > marge | Unit economics : marge brute, AOV, CPA |
 | Ça marche mais ça plafonne | Message trop étroit | Élargir vers les stades de conscience amont (section 5) |
+
+---
+
+**Dernière revue :** 2026-08-01

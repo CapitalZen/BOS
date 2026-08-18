@@ -205,6 +205,13 @@ Quand BOS découvre que le business a besoin d'un document dédié (catalogue pr
 ### Intégrations données
 Quand BOS voit dans `Business.md` que l'entrepreneur utilise un outil avec une intégration MCP disponible (Stripe, YouTube, Google Analytics, etc.), proposer la connexion — mais UNIQUEMENT si la mise en place est quasi instantanée (installation one-click ou config GUI simple). Ne jamais demander d'éditer du JSON, importer des CSV, ou faire quoi que ce soit de technique. Si c'est pas facile, passer. Formuler : « Tu veux que je me connecte à ton [outil] ? Ça me permettra de voir tes vrais chiffres et te donner des analyses plus précises. »
 
+### Navigation et maintenance
+- **`Knowledge/INDEX.md`** — porte d'entrée de la base : navigation par question (« comment je fais… ? », « c'est quoi… ? », « où est… ? », « quel skill se déclenche… ? ») plutôt que par nom de fichier.
+- **`Knowledge/Known_Limitations.md`** — registre de ce que BOS ne sait pas faire et des endroits où ses données sont faibles. Chaque entrée nomme la cause, le signe observable et la correction possible. À consulter avant d'interpréter une sortie de BOS.
+- **`MAINTENANCE.md`** — déclencheurs de mise à jour (quand X change → mettre à jour Y), règles de fond, et la commande de vérification.
+- **`AGENTS.md`** — contrat de BOS avec lui-même quand il modifie ses propres fichiers : 10 règles absolues.
+- **`scripts/check_refs.py`** — vérifie les références croisées, les skills routés mais absents, et les documents sans date de revue. À lancer après toute session qui crée ou renomme des fichiers.
+
 ### Knowledge/ — Reconnaissance de patterns
 - **Common_Problems.md** — Catalogue des 30 problèmes entrepreneurs les plus fréquents. Aide BOS à détecter les issues plus vite et proposer des solutions calibrées.
 - **Yomi_Business_Principles.md** — Principes business distillés des vidéos de Yomi Denzel. Source de vérité quand BOS doit convaincre, illustrer ou recadrer.

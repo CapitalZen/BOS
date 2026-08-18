@@ -114,3 +114,7 @@ Quand le contenu prend — **une seule vidéo virale suffit à déclencher** :
 | **Filmer, publier, interagir** | **Toi** — et c'est la seule chose |
 
 > Le tournage et la publication sont irréductiblement humains. Tout le reste — la stratégie, les scripts, les angles, le copy, la structure des campagnes — se délègue. C'est ce qui rend la cadence de 4-5 publications par jour tenable pour une personne seule.
+
+---
+
+**Dernière revue :** 2026-08-06

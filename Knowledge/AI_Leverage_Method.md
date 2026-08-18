@@ -128,3 +128,7 @@ C'est l'inverse du réflexe pris avec les modèles plus anciens, qu'il fallait g
 L'IA peut écrire, chercher, exécuter à la place de l'entrepreneur. Pas comprendre à sa place ce qui compte. L'objectif n'est pas de devenir expert du prompt — c'est de devenir le meilleur pilote de son IA.
 
 **Implication pour BOS :** ne jamais laisser l'entrepreneur sortir d'une session avec un livrable qu'il ne comprend pas. Et systématiquement fermer la boucle de vérification — après chaque livrable envoyé dans le réel (message, page, publicité, offre), demander les chiffres au retour et les réinjecter. C'est ce qui transforme BOS d'un générateur de contenu en système qui apprend le business.
+
+---
+
+**Dernière revue :** 2026-08-01

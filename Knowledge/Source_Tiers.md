@@ -32,3 +32,7 @@ Il consomme beaucoup de **tier 3** — transcripts de praticiens e-commerce, pos
 Le piège est de reprendre leurs **chiffres**. Cas rencontrés le 17/08 : un pouvoir d'achat annoncé à 3 000 Md$ contredit par la vidéo elle-même ; un « 0 à 5 000 €/jour en 8 jours » qui décrit un pic isolé sur 10 jours, sans jamais mentionner le profit. Les deux étaient du tier 3 présenté comme du tier 1.
 
 **Le réflexe à tenir :** de ces sources, prendre le raisonnement, laisser les chiffres.
+
+---
+
+**Dernière revue :** 2026-08-18

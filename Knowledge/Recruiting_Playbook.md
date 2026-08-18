@@ -256,3 +256,7 @@ Au début, personne ne connaît la boîte et on va chercher les bons profils un 
 **Une exception utile en amont :** la partie 1 (documenter publiquement ce qu'on construit) sert aussi l'acquisition et la crédibilité, bien avant le premier recrutement. Un fondateur qui documente son aventure construit en même temps son audience, sa preuve sociale et son futur vivier — c'est un des rares efforts qui paie sur trois tableaux à la fois.
 
 **Ce que BOS fait sur un recrutement :** scorecard, annonce, liste de canaux et messages d'approche directe, questions de filtrage, grille d'entretien orientée preuves, sujet du test adapté au rôle, matrice d'évaluation, plan d'onboarding 30/60/90. L'entrepreneur passe les entretiens et décide.
+
+---
+
+**Dernière revue :** 2026-08-04

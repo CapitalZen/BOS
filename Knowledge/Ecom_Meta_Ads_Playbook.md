@@ -2356,3 +2356,7 @@ Le corps de la méthode est solide. Les points ci-dessous sont faux, illégaux o
 
 - **Les estimations de CA à partir du nombre d'ads sont des heuristiques**, pas des données. Un volume d'ads élevé indique qu'une boutique investit et croît — pas un chiffre d'affaires précis. Utiliser le signal pour trancher entre produits, jamais pour bâtir un business plan.
 - **Les repères chiffrés de la source** (« premiers 5 000 € de profit en moins de 2 mois », « 3 à 5 boutiques à 500 000 € collectifs ») viennent d'un guide qui promeut une communauté payante : ce sont des cas de réussite, pas des moyennes. À ne jamais reprendre comme prévision quand BOS construit un plan — le seul horizon honnête, c'est celui qu'on mesure sur les tests de l'entrepreneur.
+
+---
+
+**Dernière revue :** 2026-08-17

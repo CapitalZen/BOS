@@ -130,3 +130,7 @@ Ne pas construire l'usine avant d'avoir le produit. L'ordre réaliste :
 6. **Les pipelines de génération** — en dernier, quand le volume le justifie et qu'on sait déjà ce qui convertit.
 
 **Les étapes 1 et 2 ne coûtent rien et sont les plus rentables. Les autres attendent qu'il y ait un business à automatiser.**
+
+---
+
+**Dernière revue :** 2026-08-02
