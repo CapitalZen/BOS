@@ -160,11 +160,15 @@ Une liste d'outils vieillit en quelques mois ; ces critères non.
 
 Pour un solo, ça règle en plus l'objection « vous êtes tout seul ». La réponse honnête n'est pas de paraître nombreux, c'est de montrer que **le travail est fait par un système**, et que ce système est précisément ce qu'on vend.
 
-> **La ligne à ne pas franchir : donner des prénoms humains à des agents sur une page « équipe ».** Un visiteur qui lit « Juliette, CSM » et « Peter, développeur » sur une page équipe comprend qu'il y a des personnes. Même si un post de lancement précise ailleurs qu'il n'y a qu'un humain, **la page elle-même crée l'impression**, et c'est la page que le prospect voit.
+> **La ligne n'est pas le prénom — c'est la divulgation, et elle doit être sur la page.** Nommer un agent « Juliette » n'est pas trompeur en soi ; ce qui tromperait, c'est qu'un visiteur puisse croire à une équipe humaine. Le test est simple : **un visiteur qui ne lit que la page, sans le post de lancement, comprend-il en trois secondes que ce sont des IA ?**
 >
-> En France, l'article L121-2 du code de la consommation vise les pratiques commerciales trompeuses, y compris celles qui créent une impression fausse sur **la nature, la qualité ou l'importance du professionnel**. La taille affichée d'une équipe en fait partie.
+> **Exemple observé qui passe le test** (Kirako, 18/08/2026) : le titre porte la divulgation (« One ~~person~~ human company », avec la rature), des compteurs annoncent « 1 humain · 8 agents IA en poste · 0 recrutement en cours », et **chaque carte porte un badge nommant la technologie** — Humain, Agent Hermes, n8n, Grok Bot. La divulgation est répétée à trois niveaux et constitue la thèse même de la page. C'est un cas de transparence bien exécutée, pas de dissimulation.
 >
-> **La version qui garde toute la force sans le risque :** présenter les agents **par fonction**, pas par prénom — « traitement des demandes entrantes », « relance des devis », « veille » — et dire clairement qu'ils sont automatisés. On perd l'effet d'annonce, on gagne la seule chose qui compte dans ce métier : un prospect qui n'aura pas l'impression d'avoir été manœuvré quand il comprendra. **Sur un marché saturé de promesses gonflées, la transparence est elle-même le différenciateur.**
+> **Ce qui basculerait du mauvais côté :** des prénoms et des portraits **sans** badge ni compteur, la mention réservée à un post externe, ou une page conçue pour laisser planer le doute. En France, l'article L121-2 du code de la consommation vise les pratiques qui créent une impression fausse sur **la nature ou l'importance du professionnel** — la taille affichée d'une équipe en fait partie.
+>
+> **Réserve résiduelle, mineure :** des portraits générés restent le seul élément qui ne porte pas sa divulgation en lui-même. Sur la page complète, les badges la portent ; hors contexte (capture partagée de la seule grille), l'ambiguïté revient. À garder en tête pour ce qui sera repris ailleurs.
+>
+> **La leçon de méthode, pour BOS autant que pour l'entrepreneur :** cette règle avait d'abord été écrite comme une interdiction des prénoms, à partir d'une description textuelle de la page. La capture réelle l'a corrigée. **Ne jamais qualifier un artefact qu'on n'a pas vu.**
 
 ## 9. Modes d'échec (ils se répètent)
 
