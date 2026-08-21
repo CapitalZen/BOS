@@ -154,6 +154,18 @@ Une liste d'outils vieillit en quelques mois ; ces critères non.
 - **Maturité** — depuis quand l'éditeur existe, qui le finance. Une part significative des outils IA de 2024 n'existe plus. Exemple concret à surveiller : Hermes Agent et OpenClaw (cités en section 6) sont réels et fonctionnels, mais sortis/renommés en 2026 — aucun historique de continuité éprouvé. Les mentionner à un client, oui ; les recommander sans réserve sur ce critère précis, non
 - **Conformité** — l'éditeur documente-t-il sa position AI Act et fournit-il de quoi remplir vos obligations ?
 
+## 8 bis. Sa propre installation comme preuve — et la ligne à ne pas franchir
+
+**Le mécanisme de crédibilité le plus fort quand on vend de l'intégration IA : faire tourner le système sur soi-même, et le montrer.** Un prestataire qui automatise ses propres opérations et ouvre le capot n'a plus besoin d'argumenter — la démonstration a déjà eu lieu. C'est bien plus solide qu'une étude de cas, parce que le prospect voit un système vivant plutôt qu'un résultat raconté.
+
+Pour un solo, ça règle en plus l'objection « vous êtes tout seul ». La réponse honnête n'est pas de paraître nombreux, c'est de montrer que **le travail est fait par un système**, et que ce système est précisément ce qu'on vend.
+
+> **La ligne à ne pas franchir : donner des prénoms humains à des agents sur une page « équipe ».** Un visiteur qui lit « Juliette, CSM » et « Peter, développeur » sur une page équipe comprend qu'il y a des personnes. Même si un post de lancement précise ailleurs qu'il n'y a qu'un humain, **la page elle-même crée l'impression**, et c'est la page que le prospect voit.
+>
+> En France, l'article L121-2 du code de la consommation vise les pratiques commerciales trompeuses, y compris celles qui créent une impression fausse sur **la nature, la qualité ou l'importance du professionnel**. La taille affichée d'une équipe en fait partie.
+>
+> **La version qui garde toute la force sans le risque :** présenter les agents **par fonction**, pas par prénom — « traitement des demandes entrantes », « relance des devis », « veille » — et dire clairement qu'ils sont automatisés. On perd l'effet d'annonce, on gagne la seule chose qui compte dans ce métier : un prospect qui n'aura pas l'impression d'avoir été manœuvré quand il comprendra. **Sur un marché saturé de promesses gonflées, la transparence est elle-même le différenciateur.**
+
 ## 9. Modes d'échec (ils se répètent)
 
 1. Commencer par le projet le plus visible — presque toujours le plus difficile ; l'échec initial ferme le budget durablement
